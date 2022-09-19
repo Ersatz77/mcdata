@@ -1,0 +1,63 @@
+name: Update
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check_for_updates:
+    runs-on: ubuntu-latest
+    outputs:
+      id: ${{ steps.check.outputs.id }}
+    steps:
+      - id: check
+        name: Check for Minecraft updates
+        uses: ByMartrixX/minecraft-update-check-action@v0
+        with:
+          version-manifest-url: 'https://piston-meta.mojang.com/mc/game/version_manifest_v2.json'
+
+  update:
+    runs-on: ubuntu-latest
+    needs: check_for_updates
+    if: ${{ steps.check.outputs.id != '' }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Setup Git
+        uses: fregante/setup-git-user@v1
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: pip install mcgen
+
+      - name: Setup Java
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Purge previous output
+        run: |
+          rm -r ./generated
+          rm -r ./processed
+
+      - name: Run mcgen
+        run: python -m mcgen --rawpath ./temp/raw --outpath ./processed --log INFO
+
+      - name: Cleanup repo
+        run: |
+          cp -r ./temp/raw/generated ./generated
+          cp ./processed/VERSION.txt .
+
+      - name: Push tag
+        run: |
+          version=$(< VERSION.txt)
+
+          git add .
+          git commit -m $version
+          git tag -a $version -m $version
+          git push --follow-tags
