@@ -2206,7 +2206,10 @@
               "children": {
                 "effect": {
                   "executable": true,
-                  "parser": "minecraft:mob_effect",
+                  "parser": "minecraft:resource",
+                  "properties": {
+                    "registry": "minecraft:mob_effect"
+                  },
                   "type": "argument"
                 }
               },
@@ -2257,7 +2260,10 @@
                     }
                   },
                   "executable": true,
-                  "parser": "minecraft:mob_effect",
+                  "parser": "minecraft:resource",
+                  "properties": {
+                    "registry": "minecraft:mob_effect"
+                  },
                   "type": "argument"
                 }
               },
@@ -2290,7 +2296,10 @@
                 }
               },
               "executable": true,
-              "parser": "minecraft:item_enchantment",
+              "parser": "minecraft:resource",
+              "properties": {
+                "registry": "minecraft:enchantment"
+              },
               "type": "argument"
             }
           },
@@ -4775,7 +4784,7 @@
           "children": {
             "structure": {
               "executable": true,
-              "parser": "minecraft:resource_or_tag",
+              "parser": "minecraft:resource_or_tag_key",
               "properties": {
                 "registry": "minecraft:worldgen/structure"
               },
@@ -5613,7 +5622,7 @@
                 }
               },
               "executable": true,
-              "parser": "minecraft:resource",
+              "parser": "minecraft:resource_key",
               "properties": {
                 "registry": "minecraft:worldgen/configured_feature"
               },
@@ -5649,7 +5658,7 @@
                   "type": "argument"
                 }
               },
-              "parser": "minecraft:resource",
+              "parser": "minecraft:resource_key",
               "properties": {
                 "registry": "minecraft:worldgen/template_pool"
               },
@@ -5669,7 +5678,7 @@
                 }
               },
               "executable": true,
-              "parser": "minecraft:resource",
+              "parser": "minecraft:resource_key",
               "properties": {
                 "registry": "minecraft:worldgen/structure"
               },
@@ -7062,7 +7071,10 @@
             }
           },
           "executable": true,
-          "parser": "minecraft:entity_summon",
+          "parser": "minecraft:resource",
+          "properties": {
+            "registry": "minecraft:entity_type"
+          },
           "type": "argument"
         }
       },

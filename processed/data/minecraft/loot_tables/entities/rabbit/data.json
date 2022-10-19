@@ -36,11 +36,7 @@
           "functions": [
             {
               "add": false,
-              "count": {
-                "max": 1.0,
-                "min": 0.0,
-                "type": "minecraft:uniform"
-              },
+              "count": 1.0,
               "function": "minecraft:set_count"
             },
             {

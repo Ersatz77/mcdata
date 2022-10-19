@@ -65,6 +65,7 @@ minecraft:infiniburn_end
 minecraft:infiniburn_nether
 minecraft:infiniburn_overworld
 minecraft:inside_step_sound_blocks
+minecraft:invalid_spawn_inside
 minecraft:iron_ores
 minecraft:jungle_logs
 minecraft:lapis_ores
@@ -126,6 +127,7 @@ minecraft:stone_bricks
 minecraft:stone_ore_replaceables
 minecraft:stone_pressure_plates
 minecraft:strider_warm_blocks
+minecraft:stripped_logs
 minecraft:tall_flowers
 minecraft:terracotta
 minecraft:trapdoors

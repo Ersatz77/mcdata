@@ -9,12 +9,6 @@
       ],
       "entries": [
         {
-          "functions": [
-            {
-              "function": "minecraft:copy_name",
-              "source": "block_entity"
-            }
-          ],
           "name": "minecraft:grindstone",
           "type": "minecraft:item"
         }
