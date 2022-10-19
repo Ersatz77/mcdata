@@ -7,7 +7,7 @@ jobs:
   check_for_updates:
     runs-on: ubuntu-latest
     outputs:
-      id: ${{ steps.check_for_updates.outputs.id }}
+      id: ${{ steps.check.outputs.id }}
     steps:
       - id: check
         name: Check for Minecraft updates
