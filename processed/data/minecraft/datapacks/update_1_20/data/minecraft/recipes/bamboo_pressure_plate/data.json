@@ -1,0 +1,16 @@
+{
+  "category": "redstone",
+  "group": "wooden_pressure_plate",
+  "key": {
+    "#": {
+      "item": "minecraft:bamboo_planks"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "minecraft:bamboo_pressure_plate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

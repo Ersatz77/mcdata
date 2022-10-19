@@ -4,6 +4,7 @@ minecraft:acacia_chest_boat
 minecraft:acacia_door
 minecraft:acacia_fence
 minecraft:acacia_fence_gate
+minecraft:acacia_hanging_sign
 minecraft:acacia_leaves
 minecraft:acacia_log
 minecraft:acacia_planks
@@ -37,6 +38,22 @@ minecraft:azalea_leaves
 minecraft:azure_bluet
 minecraft:baked_potato
 minecraft:bamboo
+minecraft:bamboo_button
+minecraft:bamboo_chest_raft
+minecraft:bamboo_door
+minecraft:bamboo_fence
+minecraft:bamboo_fence_gate
+minecraft:bamboo_hanging_sign
+minecraft:bamboo_mosaic
+minecraft:bamboo_mosaic_slab
+minecraft:bamboo_mosaic_stairs
+minecraft:bamboo_planks
+minecraft:bamboo_pressure_plate
+minecraft:bamboo_raft
+minecraft:bamboo_sign
+minecraft:bamboo_slab
+minecraft:bamboo_stairs
+minecraft:bamboo_trapdoor
 minecraft:barrel
 minecraft:barrier
 minecraft:basalt
@@ -58,6 +75,7 @@ minecraft:birch_chest_boat
 minecraft:birch_door
 minecraft:birch_fence
 minecraft:birch_fence_gate
+minecraft:birch_hanging_sign
 minecraft:birch_leaves
 minecraft:birch_log
 minecraft:birch_planks
@@ -145,6 +163,7 @@ minecraft:bundle
 minecraft:cactus
 minecraft:cake
 minecraft:calcite
+minecraft:camel_spawn_egg
 minecraft:campfire
 minecraft:candle
 minecraft:carrot
@@ -166,6 +185,7 @@ minecraft:chest_minecart
 minecraft:chicken
 minecraft:chicken_spawn_egg
 minecraft:chipped_anvil
+minecraft:chiseled_bookshelf
 minecraft:chiseled_deepslate
 minecraft:chiseled_nether_bricks
 minecraft:chiseled_polished_blackstone
@@ -229,6 +249,7 @@ minecraft:crimson_door
 minecraft:crimson_fence
 minecraft:crimson_fence_gate
 minecraft:crimson_fungus
+minecraft:crimson_hanging_sign
 minecraft:crimson_hyphae
 minecraft:crimson_nylium
 minecraft:crimson_planks
@@ -269,6 +290,7 @@ minecraft:dark_oak_chest_boat
 minecraft:dark_oak_door
 minecraft:dark_oak_fence
 minecraft:dark_oak_fence_gate
+minecraft:dark_oak_hanging_sign
 minecraft:dark_oak_leaves
 minecraft:dark_oak_log
 minecraft:dark_oak_planks
@@ -523,6 +545,7 @@ minecraft:jungle_chest_boat
 minecraft:jungle_door
 minecraft:jungle_fence
 minecraft:jungle_fence_gate
+minecraft:jungle_hanging_sign
 minecraft:jungle_leaves
 minecraft:jungle_log
 minecraft:jungle_planks
@@ -623,6 +646,7 @@ minecraft:mangrove_chest_boat
 minecraft:mangrove_door
 minecraft:mangrove_fence
 minecraft:mangrove_fence_gate
+minecraft:mangrove_hanging_sign
 minecraft:mangrove_leaves
 minecraft:mangrove_log
 minecraft:mangrove_planks
@@ -713,6 +737,7 @@ minecraft:oak_chest_boat
 minecraft:oak_door
 minecraft:oak_fence
 minecraft:oak_fence_gate
+minecraft:oak_hanging_sign
 minecraft:oak_leaves
 minecraft:oak_log
 minecraft:oak_planks
@@ -973,6 +998,7 @@ minecraft:spruce_chest_boat
 minecraft:spruce_door
 minecraft:spruce_fence
 minecraft:spruce_fence_gate
+minecraft:spruce_hanging_sign
 minecraft:spruce_leaves
 minecraft:spruce_log
 minecraft:spruce_planks
@@ -1069,6 +1095,7 @@ minecraft:warped_fence
 minecraft:warped_fence_gate
 minecraft:warped_fungus
 minecraft:warped_fungus_on_a_stick
+minecraft:warped_hanging_sign
 minecraft:warped_hyphae
 minecraft:warped_nylium
 minecraft:warped_planks

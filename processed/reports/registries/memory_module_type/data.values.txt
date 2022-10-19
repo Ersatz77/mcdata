@@ -14,6 +14,7 @@ minecraft:disable_walk_to_admire_item
 minecraft:disturbance_location
 minecraft:doors_to_close
 minecraft:dummy
+minecraft:gaze_cooldown_ticks
 minecraft:golem_detected_recently
 minecraft:has_hunting_cooldown
 minecraft:heard_bell_time

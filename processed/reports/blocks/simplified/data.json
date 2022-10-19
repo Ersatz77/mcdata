@@ -115,6 +115,41 @@
       ]
     }
   },
+  "minecraft:acacia_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:acacia_leaves": {
     "default": {
       "distance": "7",
@@ -283,6 +318,24 @@
       "powered": [
         "true",
         "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:acacia_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
       ],
       "waterlogged": [
         "true",
@@ -568,9 +621,374 @@
       ]
     }
   },
+  "minecraft:bamboo_button": {
+    "default": {
+      "face": "wall",
+      "facing": "north",
+      "powered": "false"
+    },
+    "properties": {
+      "face": [
+        "floor",
+        "wall",
+        "ceiling"
+      ],
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_door": {
+    "default": {
+      "facing": "north",
+      "half": "lower",
+      "hinge": "left",
+      "open": "false",
+      "powered": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "upper",
+        "lower"
+      ],
+      "hinge": [
+        "left",
+        "right"
+      ],
+      "open": [
+        "true",
+        "false"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_fence": {
+    "default": {
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "waterlogged": "false",
+      "west": "false"
+    },
+    "properties": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_fence_gate": {
+    "default": {
+      "facing": "north",
+      "in_wall": "false",
+      "open": "false",
+      "powered": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "in_wall": [
+        "true",
+        "false"
+      ],
+      "open": [
+        "true",
+        "false"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_mosaic": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:bamboo_mosaic_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_mosaic_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_planks": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:bamboo_pressure_plate": {
+    "default": {
+      "powered": "false"
+    },
+    "properties": {
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:bamboo_sapling": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:bamboo_sign": {
+    "default": {
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_trapdoor": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "open": "false",
+      "powered": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "open": [
+        "true",
+        "false"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:bamboo_wall_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:barrel": {
     "default": {
@@ -857,6 +1275,41 @@
       ]
     }
   },
+  "minecraft:birch_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:birch_leaves": {
     "default": {
       "distance": "7",
@@ -1025,6 +1478,24 @@
       "powered": [
         "true",
         "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:birch_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
       ],
       "waterlogged": [
         "true",
@@ -2260,6 +2731,39 @@
       ]
     }
   },
+  "minecraft:chiseled_bookshelf": {
+    "default": {
+      "books_stored": "0",
+      "facing": "north",
+      "last_interaction_book_slot": "0"
+    },
+    "properties": {
+      "books_stored": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "last_interaction_book_slot": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    }
+  },
   "minecraft:chiseled_deepslate": {
     "default": {},
     "properties": {}
@@ -2828,6 +3332,41 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:crimson_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:crimson_hyphae": {
     "default": {
       "axis": "y"
@@ -2979,6 +3518,24 @@
       "powered": [
         "true",
         "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:crimson_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
       ],
       "waterlogged": [
         "true",
@@ -3413,6 +3970,41 @@
       ]
     }
   },
+  "minecraft:dark_oak_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:dark_oak_leaves": {
     "default": {
       "distance": "7",
@@ -3581,6 +4173,24 @@
       "powered": [
         "true",
         "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:dark_oak_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
       ],
       "waterlogged": [
         "true",
@@ -5796,6 +6406,41 @@
       ]
     }
   },
+  "minecraft:jungle_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:jungle_leaves": {
     "default": {
       "distance": "7",
@@ -5964,6 +6609,24 @@
       "powered": [
         "true",
         "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:jungle_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
       ],
       "waterlogged": [
         "true",
@@ -7137,6 +7800,41 @@
       ]
     }
   },
+  "minecraft:mangrove_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:mangrove_leaves": {
     "default": {
       "distance": "7",
@@ -7334,6 +8032,24 @@
       "powered": [
         "true",
         "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:mangrove_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
       ],
       "waterlogged": [
         "true",
@@ -8124,6 +8840,41 @@
       ]
     }
   },
+  "minecraft:oak_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:oak_leaves": {
     "default": {
       "distance": "7",
@@ -8292,6 +9043,24 @@
       "powered": [
         "true",
         "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:oak_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
       ],
       "waterlogged": [
         "true",
@@ -11523,6 +12292,41 @@
       ]
     }
   },
+  "minecraft:spruce_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:spruce_leaves": {
     "default": {
       "distance": "7",
@@ -11691,6 +12495,24 @@
       "powered": [
         "true",
         "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:spruce_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
       ],
       "waterlogged": [
         "true",
@@ -12666,6 +13488,41 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:warped_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:warped_hyphae": {
     "default": {
       "axis": "y"
@@ -12817,6 +13674,24 @@
       "powered": [
         "true",
         "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:warped_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
       ],
       "waterlogged": [
         "true",

@@ -1,5 +1,6 @@
 minecraft:axolotl_attackables
 minecraft:axolotl_temptations
+minecraft:camel_temptations
 minecraft:dummy
 minecraft:frog_attackables
 minecraft:frog_temptations
