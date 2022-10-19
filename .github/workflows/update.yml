@@ -2,6 +2,12 @@ name: Update
 
 on:
   workflow_dispatch:
+    inputs:
+      skip_update_check:
+        description: 'Skip update check'
+        required: true
+        default: true
+        type: boolean
 
 jobs:
   check_for_updates:
