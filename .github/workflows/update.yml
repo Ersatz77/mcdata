@@ -67,4 +67,4 @@ jobs:
           git add .
           git commit -m $version
           git tag -a $version -m $version
-        #  git push --follow-tags
+          git push --follow-tags
