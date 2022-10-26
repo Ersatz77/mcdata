@@ -1,10 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
   "category": "misc",
   "group": "hanging_sign",
   "key": {
     "#": {
-      "item": "minecraft:stripped_acacia_log"
+      "item": "minecraft:stripped_birch_log"
     },
     "X": {
       "item": "minecraft:chain"
@@ -17,6 +16,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:acacia_hanging_sign"
-  }
+    "item": "minecraft:birch_hanging_sign"
+  },
+  "type": "minecraft:crafting_shaped"
 }
