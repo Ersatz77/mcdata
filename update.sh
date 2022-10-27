@@ -15,7 +15,7 @@ rm -r ./processed
 
 version="${1:-snapshot}"
 echo "Invoking mcgen with version: $version"
-python -m mcgen --rawpath ./temp/raw --outpath ./processed --log INFO --version "$version"
+python -m mcgen --rawpath ./temp/raw --outpath ./processed --log INFO --version "$version" --processors mcgen.processors.write_version_file mcgen.processors.convert_json_files mcgen.processors.simplify_blocks mcgen.processors.split_registries mcgen.processors.summarize_data mcgen.processors.create_all_tags_data_pack
 
 echo "Copying generated data..."
 cp -r ./temp/raw/generated ./generated
