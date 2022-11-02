@@ -4008,6 +4008,17 @@
           "executable": true,
           "type": "literal"
         },
+        "blockExplosionDropDecay": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "commandBlockOutput": {
           "children": {
             "value": {
@@ -4239,7 +4250,29 @@
           "executable": true,
           "type": "literal"
         },
+        "globalSoundEvents": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "keepInventory": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "lavaSourceConversion": {
           "children": {
             "value": {
               "executable": true,
@@ -4277,6 +4310,17 @@
             "value": {
               "executable": true,
               "parser": "brigadier:integer",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "mobExplosionDropDecay": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
               "type": "argument"
             }
           },
@@ -4360,6 +4404,17 @@
           "executable": true,
           "type": "literal"
         },
+        "snowAccumulationHeight": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:integer",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "spawnRadius": {
           "children": {
             "value": {
@@ -4382,7 +4437,29 @@
           "executable": true,
           "type": "literal"
         },
+        "tntExplosionDropDecay": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "universalAnger": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "waterSourceConversion": {
           "children": {
             "value": {
               "executable": true,

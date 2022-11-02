@@ -88,7 +88,6 @@ minecraft:needs_diamond_tool
 minecraft:needs_iron_tool
 minecraft:needs_stone_tool
 minecraft:nether_carver_replaceables
-minecraft:non_flammable_wood
 minecraft:nylium
 minecraft:oak_logs
 minecraft:occludes_vibration_signals

@@ -390,6 +390,7 @@ minecraft:end_stone_brick_stairs
 minecraft:end_stone_brick_wall
 minecraft:end_stone_bricks
 minecraft:ender_chest
+minecraft:ender_dragon_spawn_egg
 minecraft:ender_eye
 minecraft:ender_pearl
 minecraft:enderman_spawn_egg
@@ -524,6 +525,7 @@ minecraft:iron_block
 minecraft:iron_boots
 minecraft:iron_chestplate
 minecraft:iron_door
+minecraft:iron_golem_spawn_egg
 minecraft:iron_helmet
 minecraft:iron_hoe
 minecraft:iron_horse_armor
@@ -979,6 +981,7 @@ minecraft:smooth_stone
 minecraft:smooth_stone_slab
 minecraft:snow
 minecraft:snow_block
+minecraft:snow_golem_spawn_egg
 minecraft:snowball
 minecraft:soul_campfire
 minecraft:soul_lantern
@@ -1150,6 +1153,7 @@ minecraft:witch_spawn_egg
 minecraft:wither_rose
 minecraft:wither_skeleton_skull
 minecraft:wither_skeleton_spawn_egg
+minecraft:wither_spawn_egg
 minecraft:wolf_spawn_egg
 minecraft:wooden_axe
 minecraft:wooden_hoe

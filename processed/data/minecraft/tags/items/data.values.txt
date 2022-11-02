@@ -24,6 +24,7 @@ minecraft:diamond_ores
 minecraft:dirt
 minecraft:doors
 minecraft:emerald_ores
+minecraft:fence_gates
 minecraft:fences
 minecraft:fishes
 minecraft:flowers
