@@ -29,6 +29,7 @@ minecraft:blocks/azalea
 minecraft:blocks/azalea_leaves
 minecraft:blocks/azure_bluet
 minecraft:blocks/bamboo
+minecraft:blocks/bamboo_block
 minecraft:blocks/bamboo_button
 minecraft:blocks/bamboo_door
 minecraft:blocks/bamboo_fence
@@ -781,6 +782,7 @@ minecraft:blocks/stone_stairs
 minecraft:blocks/stonecutter
 minecraft:blocks/stripped_acacia_log
 minecraft:blocks/stripped_acacia_wood
+minecraft:blocks/stripped_bamboo_block
 minecraft:blocks/stripped_birch_log
 minecraft:blocks/stripped_birch_wood
 minecraft:blocks/stripped_crimson_hyphae

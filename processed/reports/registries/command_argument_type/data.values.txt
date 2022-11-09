@@ -17,6 +17,7 @@ minecraft:entity_anchor
 minecraft:float_range
 minecraft:function
 minecraft:game_profile
+minecraft:gamemode
 minecraft:int_range
 minecraft:item_predicate
 minecraft:item_slot

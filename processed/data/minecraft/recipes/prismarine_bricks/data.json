@@ -1,17 +1,36 @@
 {
   "category": "building",
-  "key": {
-    "S": {
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
       "item": "minecraft:prismarine_shard"
     }
-  },
-  "pattern": [
-    "SSS",
-    "SSS",
-    "SSS"
   ],
   "result": {
     "item": "minecraft:prismarine_bricks"
   },
-  "type": "minecraft:crafting_shaped"
+  "type": "minecraft:crafting_shapeless"
 }

@@ -621,6 +621,18 @@
       ]
     }
   },
+  "minecraft:bamboo_block": {
+    "default": {
+      "axis": "y"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  },
   "minecraft:bamboo_button": {
     "default": {
       "face": "wall",
@@ -12775,6 +12787,18 @@
     }
   },
   "minecraft:stripped_acacia_wood": {
+    "default": {
+      "axis": "y"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  },
+  "minecraft:stripped_bamboo_block": {
     "default": {
       "axis": "y"
     },

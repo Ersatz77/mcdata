@@ -43,7 +43,6 @@ minecraft:mangrove_logs
 minecraft:music_discs
 minecraft:non_flammable_wood
 minecraft:oak_logs
-minecraft:overworld_natural_logs
 minecraft:piglin_food
 minecraft:piglin_loved
 minecraft:piglin_repellents

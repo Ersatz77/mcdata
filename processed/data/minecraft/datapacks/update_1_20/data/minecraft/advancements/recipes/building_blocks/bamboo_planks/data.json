@@ -1,12 +1,10 @@
 {
   "criteria": {
-    "has_bamboo": {
+    "has_logs": {
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:bamboo"
-            ]
+            "tag": "minecraft:bamboo_blocks"
           }
         ]
       },
@@ -22,7 +20,7 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_bamboo",
+      "has_logs",
       "has_the_recipe"
     ]
   ],
