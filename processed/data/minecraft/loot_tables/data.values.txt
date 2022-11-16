@@ -560,6 +560,7 @@ minecraft:blocks/packed_mud
 minecraft:blocks/pearlescent_froglight
 minecraft:blocks/peony
 minecraft:blocks/petrified_oak_slab
+minecraft:blocks/piglin_head
 minecraft:blocks/pink_banner
 minecraft:blocks/pink_bed
 minecraft:blocks/pink_candle

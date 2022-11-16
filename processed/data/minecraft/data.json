@@ -1743,6 +1743,7 @@
     "minecraft:blocks/pearlescent_froglight",
     "minecraft:blocks/peony",
     "minecraft:blocks/petrified_oak_slab",
+    "minecraft:blocks/piglin_head",
     "minecraft:blocks/pink_banner",
     "minecraft:blocks/pink_bed",
     "minecraft:blocks/pink_candle",
@@ -3329,6 +3330,7 @@
   "tags": {
     "blocks": [
       "minecraft:acacia_logs",
+      "minecraft:all_signs",
       "minecraft:ancient_city_replaceable",
       "minecraft:animals_spawnable_on",
       "minecraft:anvil",
@@ -3456,7 +3458,6 @@
       "minecraft:stone_ore_replaceables",
       "minecraft:stone_pressure_plates",
       "minecraft:strider_warm_blocks",
-      "minecraft:stripped_logs",
       "minecraft:tall_flowers",
       "minecraft:terracotta",
       "minecraft:trapdoors",
@@ -3569,7 +3570,6 @@
       "minecraft:stone_bricks",
       "minecraft:stone_crafting_materials",
       "minecraft:stone_tool_materials",
-      "minecraft:stripped_logs",
       "minecraft:tall_flowers",
       "minecraft:terracotta",
       "minecraft:trapdoors",

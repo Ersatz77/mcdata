@@ -1,6 +1,7 @@
 {
   "values": [
     "minecraft:acacia_logs",
+    "minecraft:all_signs",
     "minecraft:ancient_city_replaceable",
     "minecraft:animals_spawnable_on",
     "minecraft:anvil",
@@ -128,7 +129,6 @@
     "minecraft:stone_ore_replaceables",
     "minecraft:stone_pressure_plates",
     "minecraft:strider_warm_blocks",
-    "minecraft:stripped_logs",
     "minecraft:tall_flowers",
     "minecraft:terracotta",
     "minecraft:trapdoors",

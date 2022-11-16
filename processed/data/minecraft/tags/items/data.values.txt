@@ -60,7 +60,6 @@ minecraft:stairs
 minecraft:stone_bricks
 minecraft:stone_crafting_materials
 minecraft:stone_tool_materials
-minecraft:stripped_logs
 minecraft:tall_flowers
 minecraft:terracotta
 minecraft:trapdoors

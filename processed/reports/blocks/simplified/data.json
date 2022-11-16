@@ -2745,20 +2745,16 @@
   },
   "minecraft:chiseled_bookshelf": {
     "default": {
-      "books_stored": "0",
       "facing": "north",
-      "last_interaction_book_slot": "0"
+      "last_interaction_book_slot": "0",
+      "slot_0_occupied": "false",
+      "slot_1_occupied": "false",
+      "slot_2_occupied": "false",
+      "slot_3_occupied": "false",
+      "slot_4_occupied": "false",
+      "slot_5_occupied": "false"
     },
     "properties": {
-      "books_stored": [
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
       "facing": [
         "north",
         "south",
@@ -2773,6 +2769,30 @@
         "4",
         "5",
         "6"
+      ],
+      "slot_0_occupied": [
+        "true",
+        "false"
+      ],
+      "slot_1_occupied": [
+        "true",
+        "false"
+      ],
+      "slot_2_occupied": [
+        "true",
+        "false"
+      ],
+      "slot_3_occupied": [
+        "true",
+        "false"
+      ],
+      "slot_4_occupied": [
+        "true",
+        "false"
+      ],
+      "slot_5_occupied": [
+        "true",
+        "false"
       ]
     }
   },
@@ -8701,7 +8721,13 @@
         "didgeridoo",
         "bit",
         "banjo",
-        "pling"
+        "pling",
+        "zombie",
+        "skeleton",
+        "creeper",
+        "dragon",
+        "wither_skeleton",
+        "piglin"
       ],
       "note": [
         "0",
@@ -9433,6 +9459,44 @@
       "waterlogged": [
         "true",
         "false"
+      ]
+    }
+  },
+  "minecraft:piglin_head": {
+    "default": {
+      "rotation": "0"
+    },
+    "properties": {
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    }
+  },
+  "minecraft:piglin_wall_head": {
+    "default": {
+      "facing": "north"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
       ]
     }
   },

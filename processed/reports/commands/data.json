@@ -2396,6 +2396,28 @@
         },
         "if": {
           "children": {
+            "biome": {
+              "children": {
+                "pos": {
+                  "children": {
+                    "biome": {
+                      "executable": true,
+                      "parser": "minecraft:resource_or_tag",
+                      "properties": {
+                        "registry": "minecraft:worldgen/biome"
+                      },
+                      "redirect": [
+                        "execute"
+                      ],
+                      "type": "argument"
+                    }
+                  },
+                  "parser": "minecraft:block_pos",
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
+            },
             "block": {
               "children": {
                 "pos": {
@@ -3412,6 +3434,28 @@
         },
         "unless": {
           "children": {
+            "biome": {
+              "children": {
+                "pos": {
+                  "children": {
+                    "biome": {
+                      "executable": true,
+                      "parser": "minecraft:resource_or_tag",
+                      "properties": {
+                        "registry": "minecraft:worldgen/biome"
+                      },
+                      "redirect": [
+                        "execute"
+                      ],
+                      "type": "argument"
+                    }
+                  },
+                  "parser": "minecraft:block_pos",
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
+            },
             "block": {
               "children": {
                 "pos": {
@@ -3842,6 +3886,31 @@
                   },
                   "executable": true,
                   "parser": "minecraft:block_state",
+                  "type": "argument"
+                }
+              },
+              "parser": "minecraft:block_pos",
+              "type": "argument"
+            }
+          },
+          "parser": "minecraft:block_pos",
+          "type": "argument"
+        }
+      },
+      "type": "literal"
+    },
+    "fillbiome": {
+      "children": {
+        "from": {
+          "children": {
+            "to": {
+              "children": {
+                "biome": {
+                  "executable": true,
+                  "parser": "minecraft:resource",
+                  "properties": {
+                    "registry": "minecraft:worldgen/biome"
+                  },
                   "type": "argument"
                 }
               },
