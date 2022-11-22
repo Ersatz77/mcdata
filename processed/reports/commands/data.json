@@ -3906,6 +3906,21 @@
             "to": {
               "children": {
                 "biome": {
+                  "children": {
+                    "replace": {
+                      "children": {
+                        "filter": {
+                          "executable": true,
+                          "parser": "minecraft:resource_or_tag",
+                          "properties": {
+                            "registry": "minecraft:worldgen/biome"
+                          },
+                          "type": "argument"
+                        }
+                      },
+                      "type": "literal"
+                    }
+                  },
                   "executable": true,
                   "parser": "minecraft:resource",
                   "properties": {
