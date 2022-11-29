@@ -400,6 +400,12 @@ minecraft:block.note_block.flute
 minecraft:block.note_block.guitar
 minecraft:block.note_block.harp
 minecraft:block.note_block.hat
+minecraft:block.note_block.imitate.creeper
+minecraft:block.note_block.imitate.ender_dragon
+minecraft:block.note_block.imitate.piglin
+minecraft:block.note_block.imitate.skeleton
+minecraft:block.note_block.imitate.wither_skeleton
+minecraft:block.note_block.imitate.zombie
 minecraft:block.note_block.iron_xylophone
 minecraft:block.note_block.pling
 minecraft:block.note_block.snare
