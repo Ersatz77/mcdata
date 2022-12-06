@@ -78,10 +78,10 @@ minecraft:lush_ground_replaceable
 minecraft:mangrove_logs
 minecraft:mangrove_logs_can_grow_through
 minecraft:mangrove_roots_can_grow_through
-minecraft:mineable/axe
-minecraft:mineable/hoe
-minecraft:mineable/pickaxe
-minecraft:mineable/shovel
+minecraft:mineable\axe
+minecraft:mineable\hoe
+minecraft:mineable\pickaxe
+minecraft:mineable\shovel
 minecraft:mooshrooms_spawnable_on
 minecraft:moss_replaceable
 minecraft:mushroom_grow_block
