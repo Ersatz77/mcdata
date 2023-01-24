@@ -5175,6 +5175,9 @@
       "minecraft:coarse_dirt": {
         "protocol_id": 16
       },
+      "minecraft:coast_armor_trim_smithing_template": {
+        "protocol_id": 1189
+      },
       "minecraft:cobbled_deepslate": {
         "protocol_id": 9
       },
@@ -5679,6 +5682,9 @@
       "minecraft:drowned_spawn_egg": {
         "protocol_id": 954
       },
+      "minecraft:dune_armor_trim_smithing_template": {
+        "protocol_id": 1188
+      },
       "minecraft:echo_shard": {
         "protocol_id": 1185
       },
@@ -5768,6 +5774,9 @@
       },
       "minecraft:exposed_cut_copper_stairs": {
         "protocol_id": 83
+      },
+      "minecraft:eye_armor_trim_smithing_template": {
+        "protocol_id": 1192
       },
       "minecraft:farmland": {
         "protocol_id": 265
@@ -6759,6 +6768,9 @@
       "minecraft:netherite_sword": {
         "protocol_id": 777
       },
+      "minecraft:netherite_upgrade_smithing_template": {
+        "protocol_id": 1186
+      },
       "minecraft:netherrack": {
         "protocol_id": 288
       },
@@ -7347,6 +7359,9 @@
       "minecraft:respawn_anchor": {
         "protocol_id": 1158
       },
+      "minecraft:rib_armor_trim_smithing_template": {
+        "protocol_id": 1196
+      },
       "minecraft:rooted_dirt": {
         "protocol_id": 18
       },
@@ -7412,6 +7427,9 @@
       },
       "minecraft:seagrass": {
         "protocol_id": 169
+      },
+      "minecraft:sentry_armor_trim_smithing_template": {
+        "protocol_id": 1187
       },
       "minecraft:shears": {
         "protocol_id": 915
@@ -7506,6 +7524,9 @@
       "minecraft:smooth_stone_slab": {
         "protocol_id": 230
       },
+      "minecraft:snout_armor_trim_smithing_template": {
+        "protocol_id": 1195
+      },
       "minecraft:snow": {
         "protocol_id": 269
       },
@@ -7544,6 +7565,9 @@
       },
       "minecraft:spider_spawn_egg": {
         "protocol_id": 994
+      },
+      "minecraft:spire_armor_trim_smithing_template": {
+        "protocol_id": 1197
       },
       "minecraft:splash_potion": {
         "protocol_id": 1082
@@ -7764,6 +7788,9 @@
       "minecraft:terracotta": {
         "protocol_id": 424
       },
+      "minecraft:tide_armor_trim_smithing_template": {
+        "protocol_id": 1194
+      },
       "minecraft:tinted_glass": {
         "protocol_id": 158
       },
@@ -7830,6 +7857,9 @@
       "minecraft:verdant_froglight": {
         "protocol_id": 1182
       },
+      "minecraft:vex_armor_trim_smithing_template": {
+        "protocol_id": 1193
+      },
       "minecraft:vex_spawn_egg": {
         "protocol_id": 1002
       },
@@ -7844,6 +7874,9 @@
       },
       "minecraft:wandering_trader_spawn_egg": {
         "protocol_id": 1005
+      },
+      "minecraft:ward_armor_trim_smithing_template": {
+        "protocol_id": 1191
       },
       "minecraft:warden_spawn_egg": {
         "protocol_id": 1006
@@ -8018,6 +8051,9 @@
       },
       "minecraft:white_wool": {
         "protocol_id": 171
+      },
+      "minecraft:wild_armor_trim_smithing_template": {
+        "protocol_id": 1190
       },
       "minecraft:witch_spawn_egg": {
         "protocol_id": 1007
@@ -8622,7 +8658,7 @@
         "protocol_id": 10
       },
       "minecraft:cartography_table": {
-        "protocol_id": 22
+        "protocol_id": 23
       },
       "minecraft:crafting": {
         "protocol_id": 11
@@ -8663,6 +8699,9 @@
       "minecraft:lectern": {
         "protocol_id": 16
       },
+      "minecraft:legacy_smithing": {
+        "protocol_id": 20
+      },
       "minecraft:loom": {
         "protocol_id": 17
       },
@@ -8673,13 +8712,13 @@
         "protocol_id": 19
       },
       "minecraft:smithing": {
-        "protocol_id": 20
-      },
-      "minecraft:smoker": {
         "protocol_id": 21
       },
+      "minecraft:smoker": {
+        "protocol_id": 22
+      },
       "minecraft:stonecutter": {
-        "protocol_id": 23
+        "protocol_id": 24
       }
     },
     "protocol_id": 16
@@ -9451,6 +9490,12 @@
       },
       "minecraft:smithing": {
         "protocol_id": 20
+      },
+      "minecraft:smithing_transform": {
+        "protocol_id": 21
+      },
+      "minecraft:smithing_trim": {
+        "protocol_id": 22
       },
       "minecraft:smoking": {
         "protocol_id": 17
