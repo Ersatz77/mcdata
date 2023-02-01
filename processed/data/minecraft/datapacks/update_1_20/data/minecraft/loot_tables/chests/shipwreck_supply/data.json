@@ -306,9 +306,16 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 8
+          "weight": 5
         },
         {
+          "functions": [
+            {
+              "add": false,
+              "count": 2.0,
+              "function": "minecraft:set_count"
+            }
+          ],
           "name": "minecraft:coast_armor_trim_smithing_template",
           "type": "minecraft:item"
         }

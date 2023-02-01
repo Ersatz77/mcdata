@@ -181,7 +181,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 20
+          "weight": 9
         },
         {
           "name": "minecraft:eye_armor_trim_smithing_template",

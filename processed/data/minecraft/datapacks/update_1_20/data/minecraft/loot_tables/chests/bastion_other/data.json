@@ -520,7 +520,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 20
+          "weight": 11
         },
         {
           "name": "minecraft:snout_armor_trim_smithing_template",
@@ -534,7 +534,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 30
+          "weight": 9
         },
         {
           "name": "minecraft:netherite_upgrade_smithing_template",

@@ -4266,6 +4266,28 @@
               "children": {
                 "effect": {
                   "children": {
+                    "infinite": {
+                      "children": {
+                        "amplifier": {
+                          "children": {
+                            "hideParticles": {
+                              "executable": true,
+                              "parser": "brigadier:bool",
+                              "type": "argument"
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:integer",
+                          "properties": {
+                            "max": 255,
+                            "min": 0
+                          },
+                          "type": "argument"
+                        }
+                      },
+                      "executable": true,
+                      "type": "literal"
+                    },
                     "seconds": {
                       "children": {
                         "amplifier": {

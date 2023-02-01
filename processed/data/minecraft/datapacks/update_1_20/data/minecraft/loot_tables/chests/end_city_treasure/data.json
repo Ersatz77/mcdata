@@ -336,7 +336,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 20
+          "weight": 14
         },
         {
           "name": "minecraft:spire_armor_trim_smithing_template",
