@@ -6,6 +6,7 @@ minecraft:axolotl
 minecraft:bat
 minecraft:bee
 minecraft:blaze
+minecraft:block_display
 minecraft:boat
 minecraft:camel
 minecraft:cat
@@ -53,6 +54,7 @@ minecraft:husk
 minecraft:illusioner
 minecraft:iron_golem
 minecraft:item
+minecraft:item_display
 minecraft:item_frame
 minecraft:leash_knot
 minecraft:lightning_bolt
@@ -96,6 +98,7 @@ minecraft:squid
 minecraft:stray
 minecraft:strider
 minecraft:tadpole
+minecraft:text_display
 minecraft:tnt
 minecraft:tnt_minecart
 minecraft:trader_llama

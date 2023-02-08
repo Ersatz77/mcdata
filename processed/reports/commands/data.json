@@ -884,6 +884,81 @@
       },
       "type": "literal"
     },
+    "damage": {
+      "children": {
+        "target": {
+          "children": {
+            "amount": {
+              "children": {
+                "damageType": {
+                  "children": {
+                    "at": {
+                      "children": {
+                        "location": {
+                          "executable": true,
+                          "parser": "minecraft:vec3",
+                          "type": "argument"
+                        }
+                      },
+                      "type": "literal"
+                    },
+                    "by": {
+                      "children": {
+                        "entity": {
+                          "children": {
+                            "from": {
+                              "children": {
+                                "cause": {
+                                  "executable": true,
+                                  "parser": "minecraft:entity",
+                                  "properties": {
+                                    "amount": "single",
+                                    "type": "entities"
+                                  },
+                                  "type": "argument"
+                                }
+                              },
+                              "type": "literal"
+                            }
+                          },
+                          "executable": true,
+                          "parser": "minecraft:entity",
+                          "properties": {
+                            "amount": "single",
+                            "type": "entities"
+                          },
+                          "type": "argument"
+                        }
+                      },
+                      "type": "literal"
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:resource",
+                  "properties": {
+                    "registry": "minecraft:damage_type"
+                  },
+                  "type": "argument"
+                }
+              },
+              "executable": true,
+              "parser": "brigadier:float",
+              "properties": {
+                "min": 0.0
+              },
+              "type": "argument"
+            }
+          },
+          "parser": "minecraft:entity",
+          "properties": {
+            "amount": "single",
+            "type": "entities"
+          },
+          "type": "argument"
+        }
+      },
+      "type": "literal"
+    },
     "data": {
       "children": {
         "get": {
@@ -4641,6 +4716,7 @@
             "loaded": {
               "children": {
                 "pos": {
+                  "executable": true,
                   "parser": "minecraft:block_pos",
                   "redirect": [
                     "execute"
@@ -5578,6 +5654,21 @@
           },
           "type": "literal"
         },
+        "summon": {
+          "children": {
+            "entity": {
+              "parser": "minecraft:resource",
+              "properties": {
+                "registry": "minecraft:entity_type"
+              },
+              "redirect": [
+                "execute"
+              ],
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
         "unless": {
           "children": {
             "biome": {
@@ -5757,6 +5848,7 @@
             "loaded": {
               "children": {
                 "pos": {
+                  "executable": true,
                   "parser": "minecraft:block_pos",
                   "redirect": [
                     "execute"
@@ -6374,6 +6466,17 @@
           "type": "literal"
         },
         "doTraderSpawning": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "doVinesSpread": {
           "children": {
             "value": {
               "executable": true,

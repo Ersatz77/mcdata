@@ -7,7 +7,12 @@
             "direct_entity": {
               "type": "#minecraft:arrows"
             },
-            "is_projectile": true
+            "tags": [
+              {
+                "expected": true,
+                "id": "minecraft:is_projectile"
+              }
+            ]
           }
         }
       },

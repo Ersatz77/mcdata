@@ -5,7 +5,12 @@
         "damage": {
           "blocked": true,
           "type": {
-            "is_projectile": true
+            "tags": [
+              {
+                "expected": true,
+                "id": "minecraft:is_projectile"
+              }
+            ]
           }
         }
       },
