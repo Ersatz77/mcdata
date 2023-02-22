@@ -14,5 +14,6 @@
     "count": 3,
     "item": "minecraft:stripped_jungle_wood"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

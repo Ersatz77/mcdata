@@ -17,5 +17,6 @@
     "count": 16,
     "item": "minecraft:rail"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

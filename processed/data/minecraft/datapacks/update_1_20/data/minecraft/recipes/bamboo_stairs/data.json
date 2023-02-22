@@ -15,5 +15,6 @@
     "count": 4,
     "item": "minecraft:bamboo_stairs"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

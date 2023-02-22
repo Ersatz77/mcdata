@@ -114,6 +114,7 @@ minecraft:signs
 minecraft:slabs
 minecraft:small_dripleaf_placeable
 minecraft:small_flowers
+minecraft:smelts_to_glass
 minecraft:snaps_goat_horn
 minecraft:snow
 minecraft:snow_layer_can_survive_on

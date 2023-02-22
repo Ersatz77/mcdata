@@ -18,5 +18,6 @@
     "count": 8,
     "item": "minecraft:light_blue_stained_glass"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

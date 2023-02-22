@@ -14,5 +14,6 @@
     "count": 2,
     "item": "minecraft:mangrove_trapdoor"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

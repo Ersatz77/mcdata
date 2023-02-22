@@ -14,5 +14,6 @@
     "count": 16,
     "item": "minecraft:cyan_stained_glass_pane"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

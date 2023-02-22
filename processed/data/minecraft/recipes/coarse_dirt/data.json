@@ -16,5 +16,6 @@
     "count": 4,
     "item": "minecraft:coarse_dirt"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

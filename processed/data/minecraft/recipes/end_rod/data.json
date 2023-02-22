@@ -16,5 +16,6 @@
     "count": 4,
     "item": "minecraft:end_rod"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

@@ -14,5 +14,6 @@
     "count": 4,
     "item": "minecraft:smooth_red_sandstone_stairs"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

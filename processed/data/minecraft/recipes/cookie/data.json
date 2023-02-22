@@ -15,5 +15,6 @@
     "count": 8,
     "item": "minecraft:cookie"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

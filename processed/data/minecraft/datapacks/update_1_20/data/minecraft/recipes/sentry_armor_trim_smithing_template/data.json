@@ -20,5 +20,6 @@
     "count": 2,
     "item": "minecraft:sentry_armor_trim_smithing_template"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

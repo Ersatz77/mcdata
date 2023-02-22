@@ -155,6 +155,7 @@ minecraft:brown_stained_glass
 minecraft:brown_stained_glass_pane
 minecraft:brown_terracotta
 minecraft:brown_wool
+minecraft:brush
 minecraft:bubble_coral
 minecraft:bubble_coral_block
 minecraft:bubble_coral_fan
@@ -181,6 +182,23 @@ minecraft:chainmail_chestplate
 minecraft:chainmail_helmet
 minecraft:chainmail_leggings
 minecraft:charcoal
+minecraft:cherry_boat
+minecraft:cherry_button
+minecraft:cherry_chest_boat
+minecraft:cherry_door
+minecraft:cherry_fence
+minecraft:cherry_fence_gate
+minecraft:cherry_hanging_sign
+minecraft:cherry_leaves
+minecraft:cherry_log
+minecraft:cherry_planks
+minecraft:cherry_pressure_plate
+minecraft:cherry_sapling
+minecraft:cherry_sign
+minecraft:cherry_slab
+minecraft:cherry_stairs
+minecraft:cherry_trapdoor
+minecraft:cherry_wood
 minecraft:chest
 minecraft:chest_minecart
 minecraft:chicken
@@ -324,6 +342,7 @@ minecraft:dead_tube_coral
 minecraft:dead_tube_coral_block
 minecraft:dead_tube_coral_fan
 minecraft:debug_stick
+minecraft:decorated_pot
 minecraft:deepslate
 minecraft:deepslate_brick_slab
 minecraft:deepslate_brick_stairs
@@ -803,6 +822,7 @@ minecraft:pink_concrete
 minecraft:pink_concrete_powder
 minecraft:pink_dye
 minecraft:pink_glazed_terracotta
+minecraft:pink_petals
 minecraft:pink_shulker_box
 minecraft:pink_stained_glass
 minecraft:pink_stained_glass_pane
@@ -844,6 +864,10 @@ minecraft:poppy
 minecraft:porkchop
 minecraft:potato
 minecraft:potion
+minecraft:pottery_shard_archer
+minecraft:pottery_shard_arms_up
+minecraft:pottery_shard_prize
+minecraft:pottery_shard_skull
 minecraft:powder_snow_bucket
 minecraft:powered_rail
 minecraft:prismarine
@@ -987,6 +1011,7 @@ minecraft:smooth_sandstone_slab
 minecraft:smooth_sandstone_stairs
 minecraft:smooth_stone
 minecraft:smooth_stone_slab
+minecraft:sniffer_spawn_egg
 minecraft:snout_armor_trim_smithing_template
 minecraft:snow
 minecraft:snow_block
@@ -1049,6 +1074,8 @@ minecraft:stripped_acacia_wood
 minecraft:stripped_bamboo_block
 minecraft:stripped_birch_log
 minecraft:stripped_birch_wood
+minecraft:stripped_cherry_log
+minecraft:stripped_cherry_wood
 minecraft:stripped_crimson_hyphae
 minecraft:stripped_crimson_stem
 minecraft:stripped_dark_oak_log
@@ -1068,6 +1095,7 @@ minecraft:structure_void
 minecraft:sugar
 minecraft:sugar_cane
 minecraft:sunflower
+minecraft:suspicious_sand
 minecraft:suspicious_stew
 minecraft:sweet_berries
 minecraft:tadpole_bucket
@@ -1081,6 +1109,8 @@ minecraft:tipped_arrow
 minecraft:tnt
 minecraft:tnt_minecart
 minecraft:torch
+minecraft:torchflower
+minecraft:torchflower_seeds
 minecraft:totem_of_undying
 minecraft:trader_llama_spawn_egg
 minecraft:trapped_chest

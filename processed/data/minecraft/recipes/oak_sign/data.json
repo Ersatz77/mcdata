@@ -18,5 +18,6 @@
     "count": 3,
     "item": "minecraft:oak_sign"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

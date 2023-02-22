@@ -1,0 +1,6 @@
+minecraft:decorated_pot_base
+minecraft:decorated_pot_side
+minecraft:pottery_pattern_archer
+minecraft:pottery_pattern_arms_up
+minecraft:pottery_pattern_prize
+minecraft:pottery_pattern_skull

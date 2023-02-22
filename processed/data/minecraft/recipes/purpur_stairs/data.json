@@ -19,5 +19,6 @@
     "count": 4,
     "item": "minecraft:purpur_stairs"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

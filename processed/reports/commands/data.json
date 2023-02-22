@@ -4968,6 +4968,18 @@
               },
               "type": "literal"
             },
+            "over": {
+              "children": {
+                "heightmap": {
+                  "parser": "minecraft:heightmap",
+                  "redirect": [
+                    "execute"
+                  ],
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
+            },
             "pos": {
               "parser": "minecraft:vec3",
               "redirect": [

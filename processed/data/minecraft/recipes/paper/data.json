@@ -12,5 +12,6 @@
     "count": 3,
     "item": "minecraft:paper"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

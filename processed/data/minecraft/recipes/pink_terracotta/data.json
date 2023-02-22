@@ -18,5 +18,6 @@
     "count": 8,
     "item": "minecraft:pink_terracotta"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

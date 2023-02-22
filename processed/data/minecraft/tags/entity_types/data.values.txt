@@ -2,6 +2,7 @@ minecraft:arrows
 minecraft:axolotl_always_hostiles
 minecraft:axolotl_hunt_targets
 minecraft:beehive_inhabitors
+minecraft:fall_damage_immune
 minecraft:freeze_hurts_extra_types
 minecraft:freeze_immune_entity_types
 minecraft:frog_food

@@ -52,6 +52,7 @@ minecraft:hopper_minecart
 minecraft:horse
 minecraft:husk
 minecraft:illusioner
+minecraft:interaction
 minecraft:iron_golem
 minecraft:item
 minecraft:item_display
@@ -89,6 +90,7 @@ minecraft:skeleton
 minecraft:skeleton_horse
 minecraft:slime
 minecraft:small_fireball
+minecraft:sniffer
 minecraft:snow_golem
 minecraft:snowball
 minecraft:spawner_minecart

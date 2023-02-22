@@ -14,5 +14,6 @@
     "count": 3,
     "item": "minecraft:iron_door"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

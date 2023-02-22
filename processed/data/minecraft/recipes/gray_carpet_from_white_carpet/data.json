@@ -18,5 +18,6 @@
     "count": 8,
     "item": "minecraft:gray_carpet"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

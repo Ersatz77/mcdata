@@ -1,6 +1,7 @@
 minecraft:acacia_foliage_placer
 minecraft:blob_foliage_placer
 minecraft:bush_foliage_placer
+minecraft:cherry_foliage_placer
 minecraft:dark_oak_foliage_placer
 minecraft:fancy_foliage_placer
 minecraft:jungle_foliage_placer

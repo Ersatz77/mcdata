@@ -17,5 +17,6 @@
     "count": 3,
     "item": "minecraft:acacia_fence"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

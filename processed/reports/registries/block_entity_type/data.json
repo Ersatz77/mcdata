@@ -15,6 +15,7 @@
     "minecraft:comparator",
     "minecraft:conduit",
     "minecraft:daylight_detector",
+    "minecraft:decorated_pot",
     "minecraft:dispenser",
     "minecraft:dropper",
     "minecraft:enchanting_table",
@@ -37,6 +38,7 @@
     "minecraft:skull",
     "minecraft:smoker",
     "minecraft:structure_block",
+    "minecraft:suspicious_sand",
     "minecraft:trapped_chest"
   ]
 }

@@ -18,5 +18,6 @@
     "count": 8,
     "item": "minecraft:brown_stained_glass_pane"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

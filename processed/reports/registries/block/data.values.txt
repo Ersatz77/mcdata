@@ -161,6 +161,23 @@ minecraft:cave_vines
 minecraft:cave_vines_plant
 minecraft:chain
 minecraft:chain_command_block
+minecraft:cherry_button
+minecraft:cherry_door
+minecraft:cherry_fence
+minecraft:cherry_fence_gate
+minecraft:cherry_hanging_sign
+minecraft:cherry_leaves
+minecraft:cherry_log
+minecraft:cherry_planks
+minecraft:cherry_pressure_plate
+minecraft:cherry_sapling
+minecraft:cherry_sign
+minecraft:cherry_slab
+minecraft:cherry_stairs
+minecraft:cherry_trapdoor
+minecraft:cherry_wall_hanging_sign
+minecraft:cherry_wall_sign
+minecraft:cherry_wood
 minecraft:chest
 minecraft:chipped_anvil
 minecraft:chiseled_bookshelf
@@ -286,6 +303,7 @@ minecraft:dead_tube_coral
 minecraft:dead_tube_coral_block
 minecraft:dead_tube_coral_fan
 minecraft:dead_tube_coral_wall_fan
+minecraft:decorated_pot
 minecraft:deepslate
 minecraft:deepslate_brick_slab
 minecraft:deepslate_brick_stairs
@@ -622,6 +640,7 @@ minecraft:pink_carpet
 minecraft:pink_concrete
 minecraft:pink_concrete_powder
 minecraft:pink_glazed_terracotta
+minecraft:pink_petals
 minecraft:pink_shulker_box
 minecraft:pink_stained_glass
 minecraft:pink_stained_glass_pane
@@ -670,6 +689,7 @@ minecraft:potted_birch_sapling
 minecraft:potted_blue_orchid
 minecraft:potted_brown_mushroom
 minecraft:potted_cactus
+minecraft:potted_cherry_sapling
 minecraft:potted_cornflower
 minecraft:potted_crimson_fungus
 minecraft:potted_crimson_roots
@@ -689,6 +709,7 @@ minecraft:potted_poppy
 minecraft:potted_red_mushroom
 minecraft:potted_red_tulip
 minecraft:potted_spruce_sapling
+minecraft:potted_torchflower
 minecraft:potted_warped_fungus
 minecraft:potted_warped_roots
 minecraft:potted_white_tulip
@@ -850,6 +871,8 @@ minecraft:stripped_acacia_wood
 minecraft:stripped_bamboo_block
 minecraft:stripped_birch_log
 minecraft:stripped_birch_wood
+minecraft:stripped_cherry_log
+minecraft:stripped_cherry_wood
 minecraft:stripped_crimson_hyphae
 minecraft:stripped_crimson_stem
 minecraft:stripped_dark_oak_log
@@ -868,6 +891,7 @@ minecraft:structure_block
 minecraft:structure_void
 minecraft:sugar_cane
 minecraft:sunflower
+minecraft:suspicious_sand
 minecraft:sweet_berry_bush
 minecraft:tall_grass
 minecraft:tall_seagrass
@@ -876,6 +900,8 @@ minecraft:terracotta
 minecraft:tinted_glass
 minecraft:tnt
 minecraft:torch
+minecraft:torchflower
+minecraft:torchflower_crop
 minecraft:trapped_chest
 minecraft:tripwire
 minecraft:tripwire_hook

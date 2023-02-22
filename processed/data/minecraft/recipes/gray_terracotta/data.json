@@ -18,5 +18,6 @@
     "count": 8,
     "item": "minecraft:gray_terracotta"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

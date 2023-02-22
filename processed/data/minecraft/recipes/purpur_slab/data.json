@@ -17,5 +17,6 @@
     "count": 6,
     "item": "minecraft:purpur_slab"
   },
+  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

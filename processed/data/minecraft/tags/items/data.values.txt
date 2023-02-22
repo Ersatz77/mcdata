@@ -1,6 +1,7 @@
 minecraft:acacia_logs
 minecraft:anvil
 minecraft:arrows
+minecraft:axes
 minecraft:axolotl_tempt_items
 minecraft:banners
 minecraft:beacon_payment_items
@@ -32,6 +33,7 @@ minecraft:flowers
 minecraft:fox_food
 minecraft:freeze_immune_wearables
 minecraft:gold_ores
+minecraft:hoes
 minecraft:ignored_by_piglin_babies
 minecraft:iron_ores
 minecraft:jungle_logs
@@ -44,6 +46,7 @@ minecraft:mangrove_logs
 minecraft:music_discs
 minecraft:non_flammable_wood
 minecraft:oak_logs
+minecraft:pickaxes
 minecraft:piglin_food
 minecraft:piglin_loved
 minecraft:piglin_repellents
@@ -52,17 +55,21 @@ minecraft:rails
 minecraft:redstone_ores
 minecraft:sand
 minecraft:saplings
+minecraft:shovels
 minecraft:signs
 minecraft:slabs
 minecraft:small_flowers
+minecraft:smelts_to_glass
 minecraft:soul_fire_base_blocks
 minecraft:spruce_logs
 minecraft:stairs
 minecraft:stone_bricks
 minecraft:stone_crafting_materials
 minecraft:stone_tool_materials
+minecraft:swords
 minecraft:tall_flowers
 minecraft:terracotta
+minecraft:tools
 minecraft:trapdoors
 minecraft:walls
 minecraft:warped_stems
