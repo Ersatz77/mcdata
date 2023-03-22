@@ -404,6 +404,25 @@
         "min": 5.0,
         "type": "minecraft:uniform"
       }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 75
+        },
+        {
+          "name": "minecraft:ward_armor_trim_smithing_template",
+          "type": "minecraft:item",
+          "weight": 4
+        },
+        {
+          "name": "minecraft:silence_armor_trim_smithing_template",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
     }
   ],
   "type": "minecraft:chest"

@@ -346,6 +346,30 @@
         "min": 3.0,
         "type": "minecraft:uniform"
       }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 11
+        },
+        {
+          "name": "minecraft:snout_armor_trim_smithing_template",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "minecraft:netherite_upgrade_smithing_template",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
     }
   ],
   "type": "minecraft:chest"

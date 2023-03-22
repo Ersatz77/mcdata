@@ -17,7 +17,6 @@ minecraft:crafting_special_shulkerboxcoloring
 minecraft:crafting_special_suspiciousstew
 minecraft:crafting_special_tippedarrow
 minecraft:smelting
-minecraft:smithing
 minecraft:smithing_transform
 minecraft:smithing_trim
 minecraft:smoking

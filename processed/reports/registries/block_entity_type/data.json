@@ -8,6 +8,8 @@
     "minecraft:bell",
     "minecraft:blast_furnace",
     "minecraft:brewing_stand",
+    "minecraft:brushable_block",
+    "minecraft:calibrated_sculk_sensor",
     "minecraft:campfire",
     "minecraft:chest",
     "minecraft:chiseled_bookshelf",
@@ -38,7 +40,6 @@
     "minecraft:skull",
     "minecraft:smoker",
     "minecraft:structure_block",
-    "minecraft:suspicious_sand",
     "minecraft:trapped_chest"
   ]
 }

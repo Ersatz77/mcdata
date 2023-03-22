@@ -8,5 +8,8 @@
   "result": {
     "item": "minecraft:netherite_boots"
   },
-  "type": "minecraft:smithing"
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "type": "minecraft:smithing_transform"
 }

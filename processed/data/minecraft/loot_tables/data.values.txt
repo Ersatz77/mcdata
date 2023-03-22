@@ -1,3 +1,8 @@
+minecraft:archaeology/desert_pyramid
+minecraft:archaeology/desert_well
+minecraft:archaeology/ocean_ruin_cold
+minecraft:archaeology/ocean_ruin_warm
+minecraft:archaeology/trail_ruins
 minecraft:blocks/acacia_button
 minecraft:blocks/acacia_door
 minecraft:blocks/acacia_fence
@@ -134,6 +139,7 @@ minecraft:blocks/budding_amethyst
 minecraft:blocks/cactus
 minecraft:blocks/cake
 minecraft:blocks/calcite
+minecraft:blocks/calibrated_sculk_sensor
 minecraft:blocks/campfire
 minecraft:blocks/candle
 minecraft:blocks/candle_cake
@@ -593,6 +599,8 @@ minecraft:blocks/pink_terracotta
 minecraft:blocks/pink_tulip
 minecraft:blocks/pink_wool
 minecraft:blocks/piston
+minecraft:blocks/pitcher_crop
+minecraft:blocks/pitcher_plant
 minecraft:blocks/player_head
 minecraft:blocks/podzol
 minecraft:blocks/pointed_dripstone
@@ -763,6 +771,7 @@ minecraft:blocks/smooth_sandstone_slab
 minecraft:blocks/smooth_sandstone_stairs
 minecraft:blocks/smooth_stone
 minecraft:blocks/smooth_stone_slab
+minecraft:blocks/sniffer_egg
 minecraft:blocks/snow
 minecraft:blocks/snow_block
 minecraft:blocks/soul_campfire
@@ -823,6 +832,7 @@ minecraft:blocks/stripped_warped_hyphae
 minecraft:blocks/stripped_warped_stem
 minecraft:blocks/sugar_cane
 minecraft:blocks/sunflower
+minecraft:blocks/suspicious_gravel
 minecraft:blocks/suspicious_sand
 minecraft:blocks/sweet_berry_bush
 minecraft:blocks/tall_grass

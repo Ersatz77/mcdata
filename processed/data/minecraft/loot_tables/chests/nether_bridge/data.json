@@ -124,6 +124,20 @@
         "min": 2.0,
         "type": "minecraft:uniform"
       }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 14
+        },
+        {
+          "name": "minecraft:rib_armor_trim_smithing_template",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
     }
   ],
   "type": "minecraft:chest"

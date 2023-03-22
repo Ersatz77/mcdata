@@ -2514,6 +2514,49 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:calibrated_sculk_sensor": {
+    "default": {
+      "facing": "north",
+      "power": "0",
+      "sculk_sensor_phase": "inactive",
+      "waterlogged": "true"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "power": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "sculk_sensor_phase": [
+        "inactive",
+        "active",
+        "cooldown"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:campfire": {
     "default": {
       "facing": "north",
@@ -4932,10 +4975,15 @@
   },
   "minecraft:decorated_pot": {
     "default": {
+      "cracked": "false",
       "facing": "north",
       "waterlogged": "false"
     },
     "properties": {
+      "cracked": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -10130,6 +10178,36 @@
       ]
     }
   },
+  "minecraft:pitcher_crop": {
+    "default": {
+      "age": "0",
+      "half": "lower"
+    },
+    "properties": {
+      "age": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "half": [
+        "upper",
+        "lower"
+      ]
+    }
+  },
+  "minecraft:pitcher_plant": {
+    "default": {
+      "half": "lower"
+    },
+    "properties": {
+      "half": [
+        "upper",
+        "lower"
+      ]
+    }
+  },
   "minecraft:player_head": {
     "default": {
       "rotation": "0"
@@ -12557,6 +12635,18 @@
       ]
     }
   },
+  "minecraft:sniffer_egg": {
+    "default": {
+      "age": "0"
+    },
+    "properties": {
+      "age": [
+        "0",
+        "1",
+        "2"
+      ]
+    }
+  },
   "minecraft:snow": {
     "default": {
       "layers": "1"
@@ -13551,6 +13641,19 @@
       "half": [
         "upper",
         "lower"
+      ]
+    }
+  },
+  "minecraft:suspicious_gravel": {
+    "default": {
+      "dusted": "0"
+    },
+    "properties": {
+      "dusted": [
+        "0",
+        "1",
+        "2",
+        "3"
       ]
     }
   },

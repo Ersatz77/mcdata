@@ -2,6 +2,7 @@ minecraft:blackstone_replace
 minecraft:block_age
 minecraft:block_ignore
 minecraft:block_rot
+minecraft:capped
 minecraft:gravity
 minecraft:jigsaw_replacement
 minecraft:lava_submerged_block

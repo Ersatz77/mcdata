@@ -149,6 +149,7 @@ minecraft:budding_amethyst
 minecraft:cactus
 minecraft:cake
 minecraft:calcite
+minecraft:calibrated_sculk_sensor
 minecraft:campfire
 minecraft:candle
 minecraft:candle_cake
@@ -650,6 +651,8 @@ minecraft:pink_wall_banner
 minecraft:pink_wool
 minecraft:piston
 minecraft:piston_head
+minecraft:pitcher_crop
+minecraft:pitcher_plant
 minecraft:player_head
 minecraft:player_wall_head
 minecraft:podzol
@@ -826,6 +829,7 @@ minecraft:smooth_sandstone_slab
 minecraft:smooth_sandstone_stairs
 minecraft:smooth_stone
 minecraft:smooth_stone_slab
+minecraft:sniffer_egg
 minecraft:snow
 minecraft:snow_block
 minecraft:soul_campfire
@@ -891,6 +895,7 @@ minecraft:structure_block
 minecraft:structure_void
 minecraft:sugar_cane
 minecraft:sunflower
+minecraft:suspicious_gravel
 minecraft:suspicious_sand
 minecraft:sweet_berry_bush
 minecraft:tall_grass
