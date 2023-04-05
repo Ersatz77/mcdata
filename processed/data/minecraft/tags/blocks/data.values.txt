@@ -49,6 +49,8 @@ minecraft:dragon_immune
 minecraft:dragon_transparent
 minecraft:dripstone_replaceable_blocks
 minecraft:emerald_ores
+minecraft:enchantment_power_provider
+minecraft:enchantment_power_transmitter
 minecraft:enderman_holdable
 minecraft:fall_damage_resetting
 minecraft:features_cannot_replace
@@ -109,7 +111,8 @@ minecraft:prevent_mob_spawning_inside
 minecraft:rabbits_spawnable_on
 minecraft:rails
 minecraft:redstone_ores
-minecraft:replaceable_plants
+minecraft:replaceable
+minecraft:replaceable_by_trees
 minecraft:sand
 minecraft:saplings
 minecraft:sculk_replaceable
@@ -135,6 +138,7 @@ minecraft:stone_bricks
 minecraft:stone_ore_replaceables
 minecraft:stone_pressure_plates
 minecraft:strider_warm_blocks
+minecraft:sword_efficient
 minecraft:tall_flowers
 minecraft:terracotta
 minecraft:trail_ruins_replaceable

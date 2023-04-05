@@ -2548,8 +2548,7 @@
       ],
       "sculk_sensor_phase": [
         "inactive",
-        "active",
-        "cooldown"
+        "active"
       ],
       "waterlogged": [
         "true",
@@ -12231,8 +12230,7 @@
       ],
       "sculk_sensor_phase": [
         "inactive",
-        "active",
-        "cooldown"
+        "active"
       ],
       "waterlogged": [
         "true",
@@ -12637,10 +12635,10 @@
   },
   "minecraft:sniffer_egg": {
     "default": {
-      "age": "0"
+      "hatch": "0"
     },
     "properties": {
-      "age": [
+      "hatch": [
         "0",
         "1",
         "2"
