@@ -27,12 +27,12 @@ minecraft:andesite
 minecraft:andesite_slab
 minecraft:andesite_stairs
 minecraft:andesite_wall
-minecraft:angler_pottery_shard
+minecraft:angler_pottery_sherd
 minecraft:anvil
 minecraft:apple
-minecraft:archer_pottery_shard
+minecraft:archer_pottery_sherd
 minecraft:armor_stand
-minecraft:arms_up_pottery_shard
+minecraft:arms_up_pottery_sherd
 minecraft:arrow
 minecraft:axolotl_bucket
 minecraft:axolotl_spawn_egg
@@ -107,7 +107,7 @@ minecraft:blackstone
 minecraft:blackstone_slab
 minecraft:blackstone_stairs
 minecraft:blackstone_wall
-minecraft:blade_pottery_shard
+minecraft:blade_pottery_sherd
 minecraft:blast_furnace
 minecraft:blaze_powder
 minecraft:blaze_rod
@@ -138,7 +138,7 @@ minecraft:brain_coral
 minecraft:brain_coral_block
 minecraft:brain_coral_fan
 minecraft:bread
-minecraft:brewer_pottery_shard
+minecraft:brewer_pottery_sherd
 minecraft:brewing_stand
 minecraft:brick
 minecraft:brick_slab
@@ -167,7 +167,7 @@ minecraft:bubble_coral_fan
 minecraft:bucket
 minecraft:budding_amethyst
 minecraft:bundle
-minecraft:burn_pottery_shard
+minecraft:burn_pottery_sherd
 minecraft:cactus
 minecraft:cake
 minecraft:calcite
@@ -311,7 +311,7 @@ minecraft:cyan_terracotta
 minecraft:cyan_wool
 minecraft:damaged_anvil
 minecraft:dandelion
-minecraft:danger_pottery_shard
+minecraft:danger_pottery_sherd
 minecraft:dark_oak_boat
 minecraft:dark_oak_button
 minecraft:dark_oak_chest_boat
@@ -427,7 +427,7 @@ minecraft:enderman_spawn_egg
 minecraft:endermite_spawn_egg
 minecraft:evoker_spawn_egg
 minecraft:experience_bottle
-minecraft:explorer_pottery_shard
+minecraft:explorer_pottery_sherd
 minecraft:exposed_copper
 minecraft:exposed_cut_copper
 minecraft:exposed_cut_copper_slab
@@ -453,7 +453,7 @@ minecraft:flower_pot
 minecraft:flowering_azalea
 minecraft:flowering_azalea_leaves
 minecraft:fox_spawn_egg
-minecraft:friend_pottery_shard
+minecraft:friend_pottery_sherd
 minecraft:frog_spawn_egg
 minecraft:frogspawn
 minecraft:furnace
@@ -530,8 +530,8 @@ minecraft:gunpowder
 minecraft:hanging_roots
 minecraft:hay_block
 minecraft:heart_of_the_sea
-minecraft:heart_pottery_shard
-minecraft:heartbreak_pottery_shard
+minecraft:heart_pottery_sherd
+minecraft:heartbreak_pottery_sherd
 minecraft:heavy_weighted_pressure_plate
 minecraft:hoglin_spawn_egg
 minecraft:honey_block
@@ -545,7 +545,7 @@ minecraft:horn_coral_block
 minecraft:horn_coral_fan
 minecraft:horse_spawn_egg
 minecraft:host_armor_trim_smithing_template
-minecraft:howl_pottery_shard
+minecraft:howl_pottery_sherd
 minecraft:husk_spawn_egg
 minecraft:ice
 minecraft:infested_chiseled_stone_bricks
@@ -704,7 +704,7 @@ minecraft:melon_seeds
 minecraft:melon_slice
 minecraft:milk_bucket
 minecraft:minecart
-minecraft:miner_pottery_shard
+minecraft:miner_pottery_sherd
 minecraft:mojang_banner_pattern
 minecraft:mooshroom_spawn_egg
 minecraft:moss_block
@@ -717,7 +717,7 @@ minecraft:mossy_stone_brick_slab
 minecraft:mossy_stone_brick_stairs
 minecraft:mossy_stone_brick_wall
 minecraft:mossy_stone_bricks
-minecraft:mourner_pottery_shard
+minecraft:mourner_pottery_sherd
 minecraft:mud
 minecraft:mud_brick_slab
 minecraft:mud_brick_stairs
@@ -849,7 +849,7 @@ minecraft:piston
 minecraft:pitcher_plant
 minecraft:pitcher_pod
 minecraft:player_head
-minecraft:plenty_pottery_shard
+minecraft:plenty_pottery_sherd
 minecraft:podzol
 minecraft:pointed_dripstone
 minecraft:poisonous_potato
@@ -894,7 +894,7 @@ minecraft:prismarine_shard
 minecraft:prismarine_slab
 minecraft:prismarine_stairs
 minecraft:prismarine_wall
-minecraft:prize_pottery_shard
+minecraft:prize_pottery_sherd
 minecraft:pufferfish
 minecraft:pufferfish_bucket
 minecraft:pufferfish_spawn_egg
@@ -998,10 +998,10 @@ minecraft:sea_pickle
 minecraft:seagrass
 minecraft:sentry_armor_trim_smithing_template
 minecraft:shaper_armor_trim_smithing_template
-minecraft:sheaf_pottery_shard
+minecraft:sheaf_pottery_sherd
 minecraft:shears
 minecraft:sheep_spawn_egg
-minecraft:shelter_pottery_shard
+minecraft:shelter_pottery_sherd
 minecraft:shield
 minecraft:shroomlight
 minecraft:shulker_box
@@ -1013,7 +1013,7 @@ minecraft:skeleton_horse_spawn_egg
 minecraft:skeleton_skull
 minecraft:skeleton_spawn_egg
 minecraft:skull_banner_pattern
-minecraft:skull_pottery_shard
+minecraft:skull_pottery_sherd
 minecraft:slime_ball
 minecraft:slime_block
 minecraft:slime_spawn_egg
@@ -1035,7 +1035,7 @@ minecraft:smooth_stone
 minecraft:smooth_stone_slab
 minecraft:sniffer_egg
 minecraft:sniffer_spawn_egg
-minecraft:snort_pottery_shard
+minecraft:snort_pottery_sherd
 minecraft:snout_armor_trim_smithing_template
 minecraft:snow
 minecraft:snow_block

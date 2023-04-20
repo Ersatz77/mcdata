@@ -4,15 +4,15 @@
       "bonus_rolls": 0.0,
       "entries": [
         {
-          "name": "minecraft:angler_pottery_shard",
+          "name": "minecraft:angler_pottery_sherd",
           "type": "minecraft:item"
         },
         {
-          "name": "minecraft:shelter_pottery_shard",
+          "name": "minecraft:shelter_pottery_sherd",
           "type": "minecraft:item"
         },
         {
-          "name": "minecraft:snort_pottery_shard",
+          "name": "minecraft:snort_pottery_sherd",
           "type": "minecraft:item"
         },
         {

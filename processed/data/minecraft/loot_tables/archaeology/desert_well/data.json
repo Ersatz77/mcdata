@@ -4,12 +4,12 @@
       "bonus_rolls": 0.0,
       "entries": [
         {
-          "name": "minecraft:arms_up_pottery_shard",
+          "name": "minecraft:arms_up_pottery_sherd",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "name": "minecraft:brewer_pottery_shard",
+          "name": "minecraft:brewer_pottery_sherd",
           "type": "minecraft:item",
           "weight": 2
         },

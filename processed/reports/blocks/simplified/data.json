@@ -2548,7 +2548,8 @@
       ],
       "sculk_sensor_phase": [
         "inactive",
-        "active"
+        "active",
+        "cooldown"
       ],
       "waterlogged": [
         "true",
@@ -12230,7 +12231,8 @@
       ],
       "sculk_sensor_phase": [
         "inactive",
-        "active"
+        "active",
+        "cooldown"
       ],
       "waterlogged": [
         "true",

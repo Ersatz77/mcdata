@@ -566,8 +566,9 @@ minecraft:block.small_dripleaf.place
 minecraft:block.small_dripleaf.step
 minecraft:block.smithing_table.use
 minecraft:block.smoker.smoke
-minecraft:block.sniffer.egg_crack
-minecraft:block.sniffer.egg_hatch
+minecraft:block.sniffer_egg.crack
+minecraft:block.sniffer_egg.hatch
+minecraft:block.sniffer_egg.plop
 minecraft:block.snow.break
 minecraft:block.snow.fall
 minecraft:block.snow.hit
