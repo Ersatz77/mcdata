@@ -1089,6 +1089,7 @@
     "minecraft:gameplay/hero_of_the_village/shepherd_gift",
     "minecraft:gameplay/hero_of_the_village/toolsmith_gift",
     "minecraft:gameplay/hero_of_the_village/weaponsmith_gift",
-    "minecraft:gameplay/piglin_bartering"
+    "minecraft:gameplay/piglin_bartering",
+    "minecraft:gameplay/sniffer_digging"
   ]
 }

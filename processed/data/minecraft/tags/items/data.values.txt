@@ -26,6 +26,7 @@ minecraft:creeper_igniters
 minecraft:crimson_stems
 minecraft:dampens_vibrations
 minecraft:dark_oak_logs
+minecraft:decorated_pot_ingredients
 minecraft:decorated_pot_sherds
 minecraft:diamond_ores
 minecraft:dirt

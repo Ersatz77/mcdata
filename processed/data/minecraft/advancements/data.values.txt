@@ -2,6 +2,7 @@ minecraft:adventure/adventuring_time
 minecraft:adventure/arbalistic
 minecraft:adventure/avoid_vibration
 minecraft:adventure/bullseye
+minecraft:adventure/craft_decorated_pot_using_only_sherds
 minecraft:adventure/fall_from_world_height
 minecraft:adventure/hero_of_the_village
 minecraft:adventure/honey_block_slide
@@ -12,6 +13,7 @@ minecraft:adventure/lightning_rod_with_villager_no_fire
 minecraft:adventure/ol_betsy
 minecraft:adventure/play_jukebox_in_meadows
 minecraft:adventure/root
+minecraft:adventure/salvage_sherd
 minecraft:adventure/shoot_arrow
 minecraft:adventure/sleep_in_bed
 minecraft:adventure/sniper_duel
@@ -23,6 +25,8 @@ minecraft:adventure/throw_trident
 minecraft:adventure/totem_of_undying
 minecraft:adventure/trade
 minecraft:adventure/trade_at_world_height
+minecraft:adventure/trim_with_all_exclusive_armor_patterns
+minecraft:adventure/trim_with_any_armor_pattern
 minecraft:adventure/two_birds_one_arrow
 minecraft:adventure/very_very_frightening
 minecraft:adventure/voluntary_exile
@@ -44,12 +48,15 @@ minecraft:husbandry/balanced_diet
 minecraft:husbandry/bred_all_animals
 minecraft:husbandry/breed_an_animal
 minecraft:husbandry/complete_catalogue
+minecraft:husbandry/feed_snifflet
 minecraft:husbandry/fishy_business
 minecraft:husbandry/froglights
 minecraft:husbandry/kill_axolotl_target
 minecraft:husbandry/leash_all_frog_variants
 minecraft:husbandry/make_a_sign_glow
 minecraft:husbandry/obtain_netherite_hoe
+minecraft:husbandry/obtain_sniffer_egg
+minecraft:husbandry/plant_any_sniffer_seed
 minecraft:husbandry/plant_seed
 minecraft:husbandry/ride_a_boat_with_a_goat
 minecraft:husbandry/root
