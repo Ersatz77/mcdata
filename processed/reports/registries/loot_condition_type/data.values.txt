@@ -1,4 +1,5 @@
-minecraft:alternative
+minecraft:all_of
+minecraft:any_of
 minecraft:block_state_property
 minecraft:damage_source_properties
 minecraft:entity_properties

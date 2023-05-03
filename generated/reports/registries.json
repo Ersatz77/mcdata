@@ -8604,56 +8604,59 @@
   },
   "minecraft:loot_condition_type": {
     "entries": {
-      "minecraft:alternative": {
+      "minecraft:all_of": {
+        "protocol_id": 2
+      },
+      "minecraft:any_of": {
         "protocol_id": 1
       },
       "minecraft:block_state_property": {
-        "protocol_id": 7
+        "protocol_id": 8
       },
       "minecraft:damage_source_properties": {
-        "protocol_id": 11
+        "protocol_id": 12
       },
       "minecraft:entity_properties": {
-        "protocol_id": 4
+        "protocol_id": 5
       },
       "minecraft:entity_scores": {
-        "protocol_id": 6
+        "protocol_id": 7
       },
       "minecraft:inverted": {
         "protocol_id": 0
       },
       "minecraft:killed_by_player": {
-        "protocol_id": 5
+        "protocol_id": 6
       },
       "minecraft:location_check": {
-        "protocol_id": 12
+        "protocol_id": 13
       },
       "minecraft:match_tool": {
-        "protocol_id": 8
-      },
-      "minecraft:random_chance": {
-        "protocol_id": 2
-      },
-      "minecraft:random_chance_with_looting": {
-        "protocol_id": 3
-      },
-      "minecraft:reference": {
-        "protocol_id": 14
-      },
-      "minecraft:survives_explosion": {
-        "protocol_id": 10
-      },
-      "minecraft:table_bonus": {
         "protocol_id": 9
       },
-      "minecraft:time_check": {
+      "minecraft:random_chance": {
+        "protocol_id": 3
+      },
+      "minecraft:random_chance_with_looting": {
+        "protocol_id": 4
+      },
+      "minecraft:reference": {
         "protocol_id": 15
       },
-      "minecraft:value_check": {
+      "minecraft:survives_explosion": {
+        "protocol_id": 11
+      },
+      "minecraft:table_bonus": {
+        "protocol_id": 10
+      },
+      "minecraft:time_check": {
         "protocol_id": 16
       },
+      "minecraft:value_check": {
+        "protocol_id": 17
+      },
       "minecraft:weather_check": {
-        "protocol_id": 13
+        "protocol_id": 14
       }
     },
     "protocol_id": 33

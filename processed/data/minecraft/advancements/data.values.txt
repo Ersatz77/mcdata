@@ -12,6 +12,7 @@ minecraft:adventure/kill_mob_near_sculk_catalyst
 minecraft:adventure/lightning_rod_with_villager_no_fire
 minecraft:adventure/ol_betsy
 minecraft:adventure/play_jukebox_in_meadows
+minecraft:adventure/read_power_of_chiseled_bookshelf
 minecraft:adventure/root
 minecraft:adventure/salvage_sherd
 minecraft:adventure/shoot_arrow
