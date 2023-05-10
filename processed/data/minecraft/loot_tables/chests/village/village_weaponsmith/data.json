@@ -170,5 +170,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:chests/village/village_weaponsmith",
   "type": "minecraft:chest"
 }

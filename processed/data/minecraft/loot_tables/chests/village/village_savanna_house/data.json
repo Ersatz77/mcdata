@@ -123,5 +123,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:chests/village/village_savanna_house",
   "type": "minecraft:chest"
 }

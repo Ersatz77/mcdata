@@ -1,0 +1,16 @@
+{
+  "category": "building",
+  "group": "magenta_wool",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_dye"
+    },
+    {
+      "item": "minecraft:cyan_wool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magenta_wool"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

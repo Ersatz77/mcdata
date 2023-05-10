@@ -173,5 +173,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:entities/witch",
   "type": "minecraft:entity"
 }

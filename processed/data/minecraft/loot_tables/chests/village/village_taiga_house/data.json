@@ -156,5 +156,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:chests/village/village_taiga_house",
   "type": "minecraft:chest"
 }

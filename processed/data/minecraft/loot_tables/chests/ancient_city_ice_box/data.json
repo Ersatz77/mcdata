@@ -109,5 +109,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:chests/ancient_city_ice_box",
   "type": "minecraft:chest"
 }

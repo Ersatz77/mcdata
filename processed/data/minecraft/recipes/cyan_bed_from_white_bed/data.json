@@ -1,12 +1,12 @@
 {
-  "category": "misc",
-  "group": "dyed_bed",
+  "category": "building",
+  "group": "cyan_bed",
   "ingredients": [
     {
-      "item": "minecraft:white_bed"
+      "item": "minecraft:cyan_dye"
     },
     {
-      "item": "minecraft:cyan_dye"
+      "item": "minecraft:white_bed"
     }
   ],
   "result": {

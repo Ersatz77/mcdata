@@ -1,12 +1,12 @@
 {
-  "category": "misc",
-  "group": "dyed_bed",
+  "category": "building",
+  "group": "yellow_bed",
   "ingredients": [
     {
-      "item": "minecraft:white_bed"
+      "item": "minecraft:yellow_dye"
     },
     {
-      "item": "minecraft:yellow_dye"
+      "item": "minecraft:white_bed"
     }
   ],
   "result": {

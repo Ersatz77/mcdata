@@ -1,0 +1,16 @@
+{
+  "category": "building",
+  "group": "yellow_wool",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "item": "minecraft:lime_wool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:yellow_wool"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

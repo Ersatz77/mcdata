@@ -104,5 +104,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:chests/village/village_temple",
   "type": "minecraft:chest"
 }

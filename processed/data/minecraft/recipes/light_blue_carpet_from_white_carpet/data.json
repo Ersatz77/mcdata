@@ -1,23 +1,16 @@
 {
-  "category": "misc",
-  "group": "carpet",
-  "key": {
-    "#": {
-      "item": "minecraft:white_carpet"
-    },
-    "$": {
+  "category": "building",
+  "group": "light_blue_carpet",
+  "ingredients": [
+    {
       "item": "minecraft:light_blue_dye"
+    },
+    {
+      "item": "minecraft:white_carpet"
     }
-  },
-  "pattern": [
-    "###",
-    "#$#",
-    "###"
   ],
   "result": {
-    "count": 8,
     "item": "minecraft:light_blue_carpet"
   },
-  "show_notification": true,
-  "type": "minecraft:crafting_shaped"
+  "type": "minecraft:crafting_shapeless"
 }

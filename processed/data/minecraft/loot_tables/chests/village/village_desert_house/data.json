@@ -102,5 +102,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:chests/village/village_desert_house",
   "type": "minecraft:chest"
 }

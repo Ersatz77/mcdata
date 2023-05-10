@@ -95,5 +95,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:chests/village/village_fletcher",
   "type": "minecraft:chest"
 }

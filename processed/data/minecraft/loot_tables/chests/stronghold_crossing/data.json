@@ -122,5 +122,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:chests/stronghold_crossing",
   "type": "minecraft:chest"
 }

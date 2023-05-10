@@ -80,5 +80,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:chests/village/village_cartographer",
   "type": "minecraft:chest"
 }

@@ -68,5 +68,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:chests/village/village_mason",
   "type": "minecraft:chest"
 }

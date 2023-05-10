@@ -108,5 +108,6 @@
       }
     }
   ],
+  "random_sequence": "minecraft:chests/village/village_fisher",
   "type": "minecraft:chest"
 }

@@ -1,0 +1,16 @@
+{
+  "category": "building",
+  "group": "cyan_wool",
+  "ingredients": [
+    {
+      "item": "minecraft:cyan_dye"
+    },
+    {
+      "item": "minecraft:light_blue_wool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cyan_wool"
+  },
+  "type": "minecraft:crafting_shapeless"
+}
