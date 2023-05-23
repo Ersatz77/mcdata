@@ -1,6 +1,6 @@
 {
   "category": "building",
-  "group": "light_blue_bed",
+  "group": "bed",
   "ingredients": [
     {
       "item": "minecraft:light_blue_dye"

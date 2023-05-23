@@ -1,6 +1,6 @@
 {
   "category": "building",
-  "group": "cyan_bed",
+  "group": "bed",
   "ingredients": [
     {
       "item": "minecraft:cyan_dye"

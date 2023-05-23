@@ -1,6 +1,6 @@
 {
   "category": "building",
-  "group": "magenta_bed",
+  "group": "bed",
   "ingredients": [
     {
       "item": "minecraft:magenta_dye"

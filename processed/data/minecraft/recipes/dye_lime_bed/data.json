@@ -1,6 +1,6 @@
 {
   "category": "building",
-  "group": "lime_bed",
+  "group": "bed",
   "ingredients": [
     {
       "item": "minecraft:lime_dye"

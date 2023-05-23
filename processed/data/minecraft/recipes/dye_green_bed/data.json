@@ -1,6 +1,6 @@
 {
   "category": "building",
-  "group": "green_bed",
+  "group": "bed",
   "ingredients": [
     {
       "item": "minecraft:green_dye"
