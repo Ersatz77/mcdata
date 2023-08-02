@@ -1,6 +1,6 @@
 {
   "category": "redstone",
-  "group": "wooden_custom_fence_gate",
+  "group": "wooden_fence_gate",
   "key": {
     "#": {
       "item": "minecraft:stick"

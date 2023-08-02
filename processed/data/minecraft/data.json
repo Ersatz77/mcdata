@@ -3564,6 +3564,7 @@
       "minecraft:big_dripleaf_placeable",
       "minecraft:birch_logs",
       "minecraft:buttons",
+      "minecraft:camel_sand_step_sound_blocks",
       "minecraft:campfires",
       "minecraft:candle_cakes",
       "minecraft:candles",
@@ -3575,6 +3576,7 @@
       "minecraft:coal_ores",
       "minecraft:combination_step_sound_blocks",
       "minecraft:completes_find_tree_tutorial",
+      "minecraft:concrete_powder",
       "minecraft:convertable_to_mud",
       "minecraft:copper_ores",
       "minecraft:coral_blocks",
@@ -3725,6 +3727,7 @@
       "minecraft:freeze_immune_entity_types",
       "minecraft:frog_food",
       "minecraft:impact_projectiles",
+      "minecraft:non_controlling_rider",
       "minecraft:powder_snow_walkable_mobs",
       "minecraft:raiders",
       "minecraft:skeletons"

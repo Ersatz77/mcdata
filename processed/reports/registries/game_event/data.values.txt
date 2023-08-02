@@ -12,14 +12,13 @@ minecraft:container_open
 minecraft:drink
 minecraft:eat
 minecraft:elytra_glide
+minecraft:entity_action
 minecraft:entity_damage
 minecraft:entity_die
 minecraft:entity_dismount
 minecraft:entity_interact
 minecraft:entity_mount
 minecraft:entity_place
-minecraft:entity_roar
-minecraft:entity_shake
 minecraft:equip
 minecraft:explode
 minecraft:flap

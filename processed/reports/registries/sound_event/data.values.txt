@@ -584,6 +584,7 @@ minecraft:block.soul_soil.fall
 minecraft:block.soul_soil.hit
 minecraft:block.soul_soil.place
 minecraft:block.soul_soil.step
+minecraft:block.sponge.absorb
 minecraft:block.spore_blossom.break
 minecraft:block.spore_blossom.fall
 minecraft:block.spore_blossom.hit

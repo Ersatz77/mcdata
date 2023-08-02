@@ -1023,8 +1023,15 @@
     }
   },
   "minecraft:barrier": {
-    "default": {},
-    "properties": {}
+    "default": {
+      "waterlogged": "false"
+    },
+    "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:basalt": {
     "default": {

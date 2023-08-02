@@ -9,6 +9,7 @@
     "minecraft:generic.follow_range",
     "minecraft:generic.knockback_resistance",
     "minecraft:generic.luck",
+    "minecraft:generic.max_absorption",
     "minecraft:generic.max_health",
     "minecraft:generic.movement_speed",
     "minecraft:horse.jump_strength",
