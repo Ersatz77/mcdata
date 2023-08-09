@@ -1,7 +1,6 @@
 {
   "criteria": {
     "kill_mob_near_sculk_catalyst": {
-      "conditions": {},
       "trigger": "minecraft:kill_mob_near_sculk_catalyst"
     }
   },

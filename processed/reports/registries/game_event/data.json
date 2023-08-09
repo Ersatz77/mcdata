@@ -58,6 +58,7 @@
     "minecraft:splash",
     "minecraft:step",
     "minecraft:swim",
-    "minecraft:teleport"
+    "minecraft:teleport",
+    "minecraft:unequip"
   ]
 }

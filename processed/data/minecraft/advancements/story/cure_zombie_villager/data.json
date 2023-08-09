@@ -1,7 +1,6 @@
 {
   "criteria": {
     "cured_zombie": {
-      "conditions": {},
       "trigger": "minecraft:cured_zombie_villager"
     }
   },

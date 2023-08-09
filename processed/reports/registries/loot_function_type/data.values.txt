@@ -11,6 +11,7 @@ minecraft:furnace_smelt
 minecraft:limit_count
 minecraft:looting_enchant
 minecraft:reference
+minecraft:sequence
 minecraft:set_attributes
 minecraft:set_banner_pattern
 minecraft:set_contents

@@ -1,7 +1,6 @@
 {
   "criteria": {
     "bred": {
-      "conditions": {},
       "trigger": "minecraft:bred_animals"
     }
   },
