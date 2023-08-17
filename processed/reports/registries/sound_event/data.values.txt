@@ -585,6 +585,11 @@ minecraft:block.soul_soil.hit
 minecraft:block.soul_soil.place
 minecraft:block.soul_soil.step
 minecraft:block.sponge.absorb
+minecraft:block.sponge.break
+minecraft:block.sponge.fall
+minecraft:block.sponge.hit
+minecraft:block.sponge.place
+minecraft:block.sponge.step
 minecraft:block.spore_blossom.break
 minecraft:block.spore_blossom.fall
 minecraft:block.spore_blossom.hit
@@ -647,6 +652,11 @@ minecraft:block.wet_grass.fall
 minecraft:block.wet_grass.hit
 minecraft:block.wet_grass.place
 minecraft:block.wet_grass.step
+minecraft:block.wet_sponge.break
+minecraft:block.wet_sponge.fall
+minecraft:block.wet_sponge.hit
+minecraft:block.wet_sponge.place
+minecraft:block.wet_sponge.step
 minecraft:block.wood.break
 minecraft:block.wood.fall
 minecraft:block.wood.hit
