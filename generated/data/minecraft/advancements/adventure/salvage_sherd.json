@@ -66,11 +66,11 @@
   },
   "requirements": [
     [
-      "desert_pyramid",
-      "desert_well",
-      "ocean_ruin_cold",
       "ocean_ruin_warm",
+      "desert_pyramid",
+      "ocean_ruin_cold",
       "trail_ruins_rare",
+      "desert_well",
       "trail_ruins_common"
     ],
     [

@@ -32,9 +32,9 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
+      "has_the_recipe",
       "has_stick",
-      "has_coal",
-      "has_the_recipe"
+      "has_coal"
     ]
   ],
   "rewards": {

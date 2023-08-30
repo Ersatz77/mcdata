@@ -13,8 +13,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "unlock_right_away",
-      "has_the_recipe"
+      "has_the_recipe",
+      "unlock_right_away"
     ]
   ],
   "rewards": {

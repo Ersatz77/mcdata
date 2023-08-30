@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_shulker_shell",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_shulker_shell"
     ]
   ],
   "rewards": {

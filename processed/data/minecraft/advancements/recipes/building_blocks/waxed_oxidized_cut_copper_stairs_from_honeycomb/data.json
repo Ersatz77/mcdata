@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_oxidized_cut_copper_stairs",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_oxidized_cut_copper_stairs"
     ]
   ],
   "rewards": {

@@ -20,8 +20,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_log",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_log"
     ]
   ],
   "rewards": {

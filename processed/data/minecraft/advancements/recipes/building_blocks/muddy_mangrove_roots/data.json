@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_mangrove_roots",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_mangrove_roots"
     ]
   ],
   "rewards": {

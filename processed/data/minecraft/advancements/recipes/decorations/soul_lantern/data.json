@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_soul_torch",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_soul_torch"
     ]
   ],
   "rewards": {

@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_cut_copper_slab",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_cut_copper_slab"
     ]
   ],
   "rewards": {

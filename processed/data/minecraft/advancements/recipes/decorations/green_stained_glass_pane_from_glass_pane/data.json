@@ -34,9 +34,9 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
+      "has_the_recipe",
       "has_glass_pane",
-      "has_green_dye",
-      "has_the_recipe"
+      "has_green_dye"
     ]
   ],
   "rewards": {

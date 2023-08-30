@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_iron_nugget",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_iron_nugget"
     ]
   ],
   "rewards": {

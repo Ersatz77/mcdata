@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_nether_wart",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_nether_wart"
     ]
   ],
   "rewards": {

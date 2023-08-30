@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_deepslate_iron_ore",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_deepslate_iron_ore"
     ]
   ],
   "rewards": {

@@ -3622,9 +3622,14 @@
   },
   "minecraft:creeper_head": {
     "default": {
+      "powered": "false",
       "rotation": "0"
     },
     "properties": {
+      "powered": [
+        "true",
+        "false"
+      ],
       "rotation": [
         "0",
         "1",
@@ -3647,7 +3652,8 @@
   },
   "minecraft:creeper_wall_head": {
     "default": {
-      "facing": "north"
+      "facing": "north",
+      "powered": "false"
     },
     "properties": {
       "facing": [
@@ -3655,6 +3661,10 @@
         "south",
         "west",
         "east"
+      ],
+      "powered": [
+        "true",
+        "false"
       ]
     }
   },
@@ -5397,9 +5407,14 @@
   },
   "minecraft:dragon_head": {
     "default": {
+      "powered": "false",
       "rotation": "0"
     },
     "properties": {
+      "powered": [
+        "true",
+        "false"
+      ],
       "rotation": [
         "0",
         "1",
@@ -5422,7 +5437,8 @@
   },
   "minecraft:dragon_wall_head": {
     "default": {
-      "facing": "north"
+      "facing": "north",
+      "powered": "false"
     },
     "properties": {
       "facing": [
@@ -5430,6 +5446,10 @@
         "south",
         "west",
         "east"
+      ],
+      "powered": [
+        "true",
+        "false"
       ]
     }
   },
@@ -9902,9 +9922,14 @@
   },
   "minecraft:piglin_head": {
     "default": {
+      "powered": "false",
       "rotation": "0"
     },
     "properties": {
+      "powered": [
+        "true",
+        "false"
+      ],
       "rotation": [
         "0",
         "1",
@@ -9927,7 +9952,8 @@
   },
   "minecraft:piglin_wall_head": {
     "default": {
-      "facing": "north"
+      "facing": "north",
+      "powered": "false"
     },
     "properties": {
       "facing": [
@@ -9935,6 +9961,10 @@
         "south",
         "west",
         "east"
+      ],
+      "powered": [
+        "true",
+        "false"
       ]
     }
   },
@@ -10217,9 +10247,14 @@
   },
   "minecraft:player_head": {
     "default": {
+      "powered": "false",
       "rotation": "0"
     },
     "properties": {
+      "powered": [
+        "true",
+        "false"
+      ],
       "rotation": [
         "0",
         "1",
@@ -10242,7 +10277,8 @@
   },
   "minecraft:player_wall_head": {
     "default": {
-      "facing": "north"
+      "facing": "north",
+      "powered": "false"
     },
     "properties": {
       "facing": [
@@ -10250,6 +10286,10 @@
         "south",
         "west",
         "east"
+      ],
+      "powered": [
+        "true",
+        "false"
       ]
     }
   },
@@ -12356,9 +12396,14 @@
   },
   "minecraft:skeleton_skull": {
     "default": {
+      "powered": "false",
       "rotation": "0"
     },
     "properties": {
+      "powered": [
+        "true",
+        "false"
+      ],
       "rotation": [
         "0",
         "1",
@@ -12381,7 +12426,8 @@
   },
   "minecraft:skeleton_wall_skull": {
     "default": {
-      "facing": "north"
+      "facing": "north",
+      "powered": "false"
     },
     "properties": {
       "facing": [
@@ -12389,6 +12435,10 @@
         "south",
         "west",
         "east"
+      ],
+      "powered": [
+        "true",
+        "false"
       ]
     }
   },
@@ -14947,9 +14997,14 @@
   },
   "minecraft:wither_skeleton_skull": {
     "default": {
+      "powered": "false",
       "rotation": "0"
     },
     "properties": {
+      "powered": [
+        "true",
+        "false"
+      ],
       "rotation": [
         "0",
         "1",
@@ -14972,7 +15027,8 @@
   },
   "minecraft:wither_skeleton_wall_skull": {
     "default": {
-      "facing": "north"
+      "facing": "north",
+      "powered": "false"
     },
     "properties": {
       "facing": [
@@ -14980,6 +15036,10 @@
         "south",
         "west",
         "east"
+      ],
+      "powered": [
+        "true",
+        "false"
       ]
     }
   },
@@ -15163,9 +15223,14 @@
   },
   "minecraft:zombie_head": {
     "default": {
+      "powered": "false",
       "rotation": "0"
     },
     "properties": {
+      "powered": [
+        "true",
+        "false"
+      ],
       "rotation": [
         "0",
         "1",
@@ -15188,7 +15253,8 @@
   },
   "minecraft:zombie_wall_head": {
     "default": {
-      "facing": "north"
+      "facing": "north",
+      "powered": "false"
     },
     "properties": {
       "facing": [
@@ -15196,6 +15262,10 @@
         "south",
         "west",
         "east"
+      ],
+      "powered": [
+        "true",
+        "false"
       ]
     }
   }

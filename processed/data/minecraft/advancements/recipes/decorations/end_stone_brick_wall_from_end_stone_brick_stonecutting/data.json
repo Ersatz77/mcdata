@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_end_stone_brick",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_end_stone_brick"
     ]
   ],
   "rewards": {

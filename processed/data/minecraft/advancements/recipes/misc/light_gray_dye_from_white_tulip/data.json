@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_white_tulip",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_white_tulip"
     ]
   ],
   "rewards": {

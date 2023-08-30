@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_cobbled_deepslate_slab",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_cobbled_deepslate_slab"
     ]
   ],
   "rewards": {

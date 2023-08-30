@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_mossy_stone_bricks",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_mossy_stone_bricks"
     ]
   ],
   "rewards": {

@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_white_terracotta",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_white_terracotta"
     ]
   ],
   "rewards": {

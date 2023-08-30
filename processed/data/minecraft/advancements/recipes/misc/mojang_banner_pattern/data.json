@@ -22,8 +22,8 @@
   "parent": "minecraft:recipes/root",
   "requirements": [
     [
-      "has_enchanted_golden_apple",
-      "has_the_recipe"
+      "has_the_recipe",
+      "has_enchanted_golden_apple"
     ]
   ],
   "rewards": {
