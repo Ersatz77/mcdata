@@ -4443,19 +4443,6 @@
               },
               "type": "literal"
             },
-            "function": {
-              "children": {
-                "function": {
-                  "executable": true,
-                  "parser": "minecraft:function",
-                  "redirect": [
-                    "execute"
-                  ],
-                  "type": "argument"
-                }
-              },
-              "type": "literal"
-            },
             "loaded": {
               "children": {
                 "pos": {
@@ -5600,19 +5587,6 @@
               },
               "type": "literal"
             },
-            "function": {
-              "children": {
-                "function": {
-                  "executable": true,
-                  "parser": "minecraft:function",
-                  "redirect": [
-                    "execute"
-                  ],
-                  "type": "argument"
-                }
-              },
-              "type": "literal"
-            },
             "loaded": {
               "children": {
                 "pos": {
@@ -6345,6 +6319,17 @@
           "type": "literal"
         },
         "drowningDamage": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "enderPearlsVanishOnDeath": {
           "children": {
             "value": {
               "executable": true,
@@ -8689,9 +8674,6 @@
     },
     "return": {
       "children": {
-        "run": {
-          "type": "literal"
-        },
         "value": {
           "executable": true,
           "parser": "brigadier:integer",
