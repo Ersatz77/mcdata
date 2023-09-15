@@ -288,5 +288,5 @@
     }
   ],
   "random_sequence": "minecraft:chests/desert_pyramid",
-  "type": "minecraft:entity"
+  "type": "minecraft:chest"
 }

@@ -194,5 +194,5 @@
     }
   ],
   "random_sequence": "minecraft:chests/jungle_temple",
-  "type": "minecraft:entity"
+  "type": "minecraft:chest"
 }
