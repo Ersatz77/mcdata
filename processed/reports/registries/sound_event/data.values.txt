@@ -213,6 +213,8 @@ minecraft:block.crop.break
 minecraft:block.decorated_pot.break
 minecraft:block.decorated_pot.fall
 minecraft:block.decorated_pot.hit
+minecraft:block.decorated_pot.insert
+minecraft:block.decorated_pot.insert_fail
 minecraft:block.decorated_pot.place
 minecraft:block.decorated_pot.shatter
 minecraft:block.decorated_pot.step
@@ -303,6 +305,7 @@ minecraft:block.hanging_sign.fall
 minecraft:block.hanging_sign.hit
 minecraft:block.hanging_sign.place
 minecraft:block.hanging_sign.step
+minecraft:block.hanging_sign.waxed_interact_fail
 minecraft:block.honey_block.break
 minecraft:block.honey_block.fall
 minecraft:block.honey_block.hit

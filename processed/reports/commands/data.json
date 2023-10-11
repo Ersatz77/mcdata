@@ -4443,6 +4443,18 @@
               },
               "type": "literal"
             },
+            "function": {
+              "children": {
+                "name": {
+                  "parser": "minecraft:function",
+                  "redirect": [
+                    "execute"
+                  ],
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
+            },
             "loaded": {
               "children": {
                 "pos": {
@@ -5587,6 +5599,18 @@
               },
               "type": "literal"
             },
+            "function": {
+              "children": {
+                "name": {
+                  "parser": "minecraft:function",
+                  "redirect": [
+                    "execute"
+                  ],
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
+            },
             "loaded": {
               "children": {
                 "pos": {
@@ -6429,6 +6453,17 @@
           "type": "literal"
         },
         "maxCommandChainLength": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:integer",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "maxCommandForkCount": {
           "children": {
             "value": {
               "executable": true,
@@ -8674,6 +8709,9 @@
     },
     "return": {
       "children": {
+        "run": {
+          "type": "literal"
+        },
         "value": {
           "executable": true,
           "parser": "brigadier:integer",

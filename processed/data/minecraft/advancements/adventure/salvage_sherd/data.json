@@ -66,12 +66,12 @@
   "parent": "minecraft:adventure/root",
   "requirements": [
     [
-      "ocean_ruin_warm",
       "desert_pyramid",
       "ocean_ruin_cold",
       "trail_ruins_rare",
       "desert_well",
-      "trail_ruins_common"
+      "trail_ruins_common",
+      "ocean_ruin_warm"
     ],
     [
       "has_sherd"

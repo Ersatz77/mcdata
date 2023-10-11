@@ -25,6 +25,7 @@ minecraft:dripping_obsidian_tear
 minecraft:dripping_water
 minecraft:dust
 minecraft:dust_color_transition
+minecraft:dust_plume
 minecraft:effect
 minecraft:egg_crack
 minecraft:elder_guardian
