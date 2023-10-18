@@ -217,6 +217,7 @@ minecraft:cracked_deepslate_tiles
 minecraft:cracked_nether_bricks
 minecraft:cracked_polished_blackstone_bricks
 minecraft:cracked_stone_bricks
+minecraft:crafter
 minecraft:crafting_table
 minecraft:creeper_head
 minecraft:creeper_wall_head

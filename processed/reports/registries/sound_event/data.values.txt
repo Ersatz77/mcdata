@@ -209,6 +209,8 @@ minecraft:block.coral_block.fall
 minecraft:block.coral_block.hit
 minecraft:block.coral_block.place
 minecraft:block.coral_block.step
+minecraft:block.crafter.craft
+minecraft:block.crafter.fail
 minecraft:block.crop.break
 minecraft:block.decorated_pot.break
 minecraft:block.decorated_pot.fall

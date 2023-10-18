@@ -6518,11 +6518,44 @@
           "executable": true,
           "type": "literal"
         },
+        "playersNetherPortalCreativeDelay": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:integer",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "playersNetherPortalDefaultDelay": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:integer",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "playersSleepingPercentage": {
           "children": {
             "value": {
               "executable": true,
               "parser": "brigadier:integer",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "projectilesCanBreakBlocks": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
               "type": "argument"
             }
           },

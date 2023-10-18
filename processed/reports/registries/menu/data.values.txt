@@ -3,6 +3,7 @@ minecraft:beacon
 minecraft:blast_furnace
 minecraft:brewing_stand
 minecraft:cartography_table
+minecraft:crafter_3x3
 minecraft:crafting
 minecraft:enchantment
 minecraft:furnace

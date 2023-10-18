@@ -57,6 +57,7 @@ minecraft:coral
 minecraft:coral_fan
 minecraft:coral_plant
 minecraft:coral_wall_fan
+minecraft:crafter
 minecraft:crafting_table
 minecraft:crop
 minecraft:crying_obsidian
