@@ -53,6 +53,7 @@ minecraft:comparator
 minecraft:composter
 minecraft:concrete_powder
 minecraft:conduit
+minecraft:copper_bulb_block
 minecraft:coral
 minecraft:coral_fan
 minecraft:coral_plant
@@ -89,7 +90,6 @@ minecraft:frogspawn
 minecraft:frosted_ice
 minecraft:fungus
 minecraft:furnace
-minecraft:glass
 minecraft:glazed_terracotta
 minecraft:glow_lichen
 minecraft:grass
@@ -203,6 +203,7 @@ minecraft:tinted_glass
 minecraft:tnt
 minecraft:torch
 minecraft:torchflower_crop
+minecraft:transparent
 minecraft:trapdoor
 minecraft:trapped_chest
 minecraft:trip_wire_hook
@@ -218,9 +219,13 @@ minecraft:wall_sign
 minecraft:wall_skull
 minecraft:wall_torch
 minecraft:waterlily
+minecraft:weathering_copper_bulb
+minecraft:weathering_copper_door
 minecraft:weathering_copper_full
+minecraft:weathering_copper_grate
 minecraft:weathering_copper_slab
 minecraft:weathering_copper_stair
+minecraft:weathering_copper_trap_door
 minecraft:web
 minecraft:weeping_vines
 minecraft:weeping_vines_plant

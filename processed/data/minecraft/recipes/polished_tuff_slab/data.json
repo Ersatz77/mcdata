@@ -1,0 +1,17 @@
+{
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:polished_tuff"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "minecraft:polished_tuff_slab"
+  },
+  "show_notification": true,
+  "type": "minecraft:crafting_shaped"
+}

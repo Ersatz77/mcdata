@@ -9902,6 +9902,71 @@
       },
       "type": "literal"
     },
+    "tick": {
+      "children": {
+        "freeze": {
+          "executable": true,
+          "type": "literal"
+        },
+        "query": {
+          "executable": true,
+          "type": "literal"
+        },
+        "rate": {
+          "children": {
+            "rate": {
+              "executable": true,
+              "parser": "brigadier:float",
+              "properties": {
+                "max": 10000.0,
+                "min": 1.0
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
+        "sprint": {
+          "children": {
+            "stop": {
+              "executable": true,
+              "type": "literal"
+            },
+            "time": {
+              "executable": true,
+              "parser": "minecraft:time",
+              "properties": {
+                "min": 1
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
+        "step": {
+          "children": {
+            "stop": {
+              "executable": true,
+              "type": "literal"
+            },
+            "time": {
+              "executable": true,
+              "parser": "minecraft:time",
+              "properties": {
+                "min": 1
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
+        "unfreeze": {
+          "executable": true,
+          "type": "literal"
+        }
+      },
+      "type": "literal"
+    },
     "time": {
       "children": {
         "add": {
