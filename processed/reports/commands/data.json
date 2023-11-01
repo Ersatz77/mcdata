@@ -8742,6 +8742,10 @@
     },
     "return": {
       "children": {
+        "fail": {
+          "executable": true,
+          "type": "literal"
+        },
         "run": {
           "type": "literal"
         },
@@ -9958,6 +9962,7 @@
               "type": "argument"
             }
           },
+          "executable": true,
           "type": "literal"
         },
         "unfreeze": {
