@@ -51,6 +51,9 @@ minecraft:flame
 minecraft:flash
 minecraft:glow
 minecraft:glow_squid_ink
+minecraft:gust
+minecraft:gust_dust
+minecraft:gust_emitter
 minecraft:happy_villager
 minecraft:heart
 minecraft:instant_effect
@@ -87,6 +90,7 @@ minecraft:spore_blossom_air
 minecraft:squid_ink
 minecraft:sweep_attack
 minecraft:totem_of_undying
+minecraft:trial_spawner_detection
 minecraft:underwater
 minecraft:vibration
 minecraft:warped_spore

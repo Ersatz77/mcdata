@@ -1,5 +1,6 @@
 minecraft:axolotl_attackables
 minecraft:axolotl_temptations
+minecraft:breeze_attack_entity_sensor
 minecraft:camel_temptations
 minecraft:dummy
 minecraft:frog_attackables

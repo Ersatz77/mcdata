@@ -20,6 +20,5 @@
     "count": 2,
     "item": "minecraft:netherite_upgrade_smithing_template"
   },
-  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

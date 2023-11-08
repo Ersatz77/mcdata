@@ -8,6 +8,7 @@ minecraft:bee
 minecraft:blaze
 minecraft:block_display
 minecraft:boat
+minecraft:breeze
 minecraft:camel
 minecraft:cat
 minecraft:cave_spider
@@ -112,6 +113,7 @@ minecraft:villager
 minecraft:vindicator
 minecraft:wandering_trader
 minecraft:warden
+minecraft:wind_charge
 minecraft:witch
 minecraft:wither
 minecraft:wither_skeleton

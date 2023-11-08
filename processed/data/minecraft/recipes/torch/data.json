@@ -21,6 +21,5 @@
     "count": 4,
     "item": "minecraft:torch"
   },
-  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

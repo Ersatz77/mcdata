@@ -13,6 +13,5 @@
     "count": 3,
     "item": "minecraft:glass_bottle"
   },
-  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }

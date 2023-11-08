@@ -138,6 +138,7 @@ minecraft:brain_coral
 minecraft:brain_coral_block
 minecraft:brain_coral_fan
 minecraft:bread
+minecraft:breeze_spawn_egg
 minecraft:brewer_pottery_sherd
 minecraft:brewing_stand
 minecraft:brick
@@ -1162,6 +1163,8 @@ minecraft:torchflower_seeds
 minecraft:totem_of_undying
 minecraft:trader_llama_spawn_egg
 minecraft:trapped_chest
+minecraft:trial_key
+minecraft:trial_spawner
 minecraft:trident
 minecraft:tripwire_hook
 minecraft:tropical_fish

@@ -11,6 +11,5 @@
   "result": {
     "item": "minecraft:bread"
   },
-  "show_notification": true,
   "type": "minecraft:crafting_shaped"
 }
