@@ -3650,8 +3650,15 @@
     }
   },
   "minecraft:copper_grate": {
-    "default": {},
-    "properties": {}
+    "default": {
+      "waterlogged": "false"
+    },
+    "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:copper_ore": {
     "default": {},
@@ -5835,8 +5842,15 @@
     }
   },
   "minecraft:exposed_copper_grate": {
-    "default": {},
-    "properties": {}
+    "default": {
+      "waterlogged": "false"
+    },
+    "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:exposed_copper_trapdoor": {
     "default": {
@@ -10093,8 +10107,15 @@
     }
   },
   "minecraft:oxidized_copper_grate": {
-    "default": {},
-    "properties": {}
+    "default": {
+      "waterlogged": "false"
+    },
+    "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:oxidized_copper_trapdoor": {
     "default": {
@@ -15123,8 +15144,15 @@
     }
   },
   "minecraft:waxed_copper_grate": {
-    "default": {},
-    "properties": {}
+    "default": {
+      "waterlogged": "false"
+    },
+    "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:waxed_copper_trapdoor": {
     "default": {
@@ -15269,8 +15297,15 @@
     }
   },
   "minecraft:waxed_exposed_copper_grate": {
-    "default": {},
-    "properties": {}
+    "default": {
+      "waterlogged": "false"
+    },
+    "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:waxed_exposed_copper_trapdoor": {
     "default": {
@@ -15415,8 +15450,15 @@
     }
   },
   "minecraft:waxed_oxidized_copper_grate": {
-    "default": {},
-    "properties": {}
+    "default": {
+      "waterlogged": "false"
+    },
+    "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:waxed_oxidized_copper_trapdoor": {
     "default": {
@@ -15561,8 +15603,15 @@
     }
   },
   "minecraft:waxed_weathered_copper_grate": {
-    "default": {},
-    "properties": {}
+    "default": {
+      "waterlogged": "false"
+    },
+    "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:waxed_weathered_copper_trapdoor": {
     "default": {
@@ -15707,8 +15756,15 @@
     }
   },
   "minecraft:weathered_copper_grate": {
-    "default": {},
-    "properties": {}
+    "default": {
+      "waterlogged": "false"
+    },
+    "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:weathered_copper_trapdoor": {
     "default": {

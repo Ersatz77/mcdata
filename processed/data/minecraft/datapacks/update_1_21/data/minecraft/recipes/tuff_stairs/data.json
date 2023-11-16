@@ -1,0 +1,18 @@
+{
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:tuff"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:tuff_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

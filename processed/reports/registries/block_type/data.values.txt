@@ -220,6 +220,7 @@ minecraft:wall_sign
 minecraft:wall_skull
 minecraft:wall_torch
 minecraft:waterlily
+minecraft:waterlogged_transparent
 minecraft:weathering_copper_bulb
 minecraft:weathering_copper_door
 minecraft:weathering_copper_full

@@ -39,6 +39,7 @@ minecraft:resource_or_tag_key
 minecraft:rotation
 minecraft:score_holder
 minecraft:scoreboard_slot
+minecraft:style
 minecraft:swizzle
 minecraft:team
 minecraft:template_mirror

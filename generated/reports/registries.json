@@ -4280,53 +4280,56 @@
       "minecraft:waterlily": {
         "protocol_id": 221
       },
-      "minecraft:weathering_copper_bulb": {
+      "minecraft:waterlogged_transparent": {
         "protocol_id": 222
       },
-      "minecraft:weathering_copper_door": {
+      "minecraft:weathering_copper_bulb": {
         "protocol_id": 223
       },
-      "minecraft:weathering_copper_full": {
+      "minecraft:weathering_copper_door": {
         "protocol_id": 224
       },
-      "minecraft:weathering_copper_grate": {
+      "minecraft:weathering_copper_full": {
         "protocol_id": 225
       },
-      "minecraft:weathering_copper_slab": {
+      "minecraft:weathering_copper_grate": {
         "protocol_id": 226
       },
-      "minecraft:weathering_copper_stair": {
+      "minecraft:weathering_copper_slab": {
         "protocol_id": 227
       },
-      "minecraft:weathering_copper_trap_door": {
+      "minecraft:weathering_copper_stair": {
         "protocol_id": 228
       },
-      "minecraft:web": {
+      "minecraft:weathering_copper_trap_door": {
         "protocol_id": 229
       },
-      "minecraft:weeping_vines": {
-        "protocol_id": 231
-      },
-      "minecraft:weeping_vines_plant": {
+      "minecraft:web": {
         "protocol_id": 230
       },
-      "minecraft:weighted_pressure_plate": {
+      "minecraft:weeping_vines": {
         "protocol_id": 232
       },
-      "minecraft:wet_sponge": {
+      "minecraft:weeping_vines_plant": {
+        "protocol_id": 231
+      },
+      "minecraft:weighted_pressure_plate": {
         "protocol_id": 233
       },
-      "minecraft:wither_rose": {
+      "minecraft:wet_sponge": {
         "protocol_id": 234
       },
-      "minecraft:wither_skull": {
+      "minecraft:wither_rose": {
         "protocol_id": 235
       },
-      "minecraft:wither_wall_skull": {
+      "minecraft:wither_skull": {
         "protocol_id": 236
       },
-      "minecraft:wool_carpet": {
+      "minecraft:wither_wall_skull": {
         "protocol_id": 237
+      },
+      "minecraft:wool_carpet": {
+        "protocol_id": 238
       }
     },
     "protocol_id": 58
@@ -4432,7 +4435,7 @@
         "protocol_id": 5
       },
       "minecraft:angle": {
-        "protocol_id": 26
+        "protocol_id": 27
       },
       "minecraft:block_pos": {
         "protocol_id": 8
@@ -4453,106 +4456,109 @@
         "protocol_id": 17
       },
       "minecraft:dimension": {
-        "protocol_id": 38
+        "protocol_id": 39
       },
       "minecraft:entity": {
         "protocol_id": 6
       },
       "minecraft:entity_anchor": {
-        "protocol_id": 35
+        "protocol_id": 36
       },
       "minecraft:float_range": {
-        "protocol_id": 37
+        "protocol_id": 38
       },
       "minecraft:function": {
-        "protocol_id": 34
+        "protocol_id": 35
       },
       "minecraft:game_profile": {
         "protocol_id": 7
       },
       "minecraft:gamemode": {
-        "protocol_id": 39
+        "protocol_id": 40
       },
       "minecraft:heightmap": {
-        "protocol_id": 47
+        "protocol_id": 48
       },
       "minecraft:int_range": {
-        "protocol_id": 36
+        "protocol_id": 37
       },
       "minecraft:item_predicate": {
         "protocol_id": 15
       },
       "minecraft:item_slot": {
-        "protocol_id": 32
+        "protocol_id": 33
       },
       "minecraft:item_stack": {
         "protocol_id": 14
       },
       "minecraft:message": {
-        "protocol_id": 18
-      },
-      "minecraft:nbt_compound_tag": {
         "protocol_id": 19
       },
-      "minecraft:nbt_path": {
-        "protocol_id": 21
-      },
-      "minecraft:nbt_tag": {
+      "minecraft:nbt_compound_tag": {
         "protocol_id": 20
       },
-      "minecraft:objective": {
+      "minecraft:nbt_path": {
         "protocol_id": 22
       },
-      "minecraft:objective_criteria": {
+      "minecraft:nbt_tag": {
+        "protocol_id": 21
+      },
+      "minecraft:objective": {
         "protocol_id": 23
       },
-      "minecraft:operation": {
+      "minecraft:objective_criteria": {
         "protocol_id": 24
       },
-      "minecraft:particle": {
+      "minecraft:operation": {
         "protocol_id": 25
       },
-      "minecraft:resource": {
-        "protocol_id": 43
+      "minecraft:particle": {
+        "protocol_id": 26
       },
-      "minecraft:resource_key": {
+      "minecraft:resource": {
         "protocol_id": 44
       },
-      "minecraft:resource_location": {
-        "protocol_id": 33
-      },
-      "minecraft:resource_or_tag": {
-        "protocol_id": 41
-      },
-      "minecraft:resource_or_tag_key": {
-        "protocol_id": 42
-      },
-      "minecraft:rotation": {
-        "protocol_id": 27
-      },
-      "minecraft:score_holder": {
-        "protocol_id": 29
-      },
-      "minecraft:scoreboard_slot": {
-        "protocol_id": 28
-      },
-      "minecraft:swizzle": {
-        "protocol_id": 30
-      },
-      "minecraft:team": {
-        "protocol_id": 31
-      },
-      "minecraft:template_mirror": {
+      "minecraft:resource_key": {
         "protocol_id": 45
       },
-      "minecraft:template_rotation": {
+      "minecraft:resource_location": {
+        "protocol_id": 34
+      },
+      "minecraft:resource_or_tag": {
+        "protocol_id": 42
+      },
+      "minecraft:resource_or_tag_key": {
+        "protocol_id": 43
+      },
+      "minecraft:rotation": {
+        "protocol_id": 28
+      },
+      "minecraft:score_holder": {
+        "protocol_id": 30
+      },
+      "minecraft:scoreboard_slot": {
+        "protocol_id": 29
+      },
+      "minecraft:style": {
+        "protocol_id": 18
+      },
+      "minecraft:swizzle": {
+        "protocol_id": 31
+      },
+      "minecraft:team": {
+        "protocol_id": 32
+      },
+      "minecraft:template_mirror": {
         "protocol_id": 46
       },
+      "minecraft:template_rotation": {
+        "protocol_id": 47
+      },
       "minecraft:time": {
-        "protocol_id": 40
+        "protocol_id": 41
       },
       "minecraft:uuid": {
-        "protocol_id": 48
+        "protocol_id": 49
       },
       "minecraft:vec2": {
         "protocol_id": 11
@@ -10386,6 +10392,20 @@
       }
     },
     "protocol_id": 3
+  },
+  "minecraft:number_format_type": {
+    "entries": {
+      "minecraft:blank": {
+        "protocol_id": 0
+      },
+      "minecraft:fixed": {
+        "protocol_id": 2
+      },
+      "minecraft:result": {
+        "protocol_id": 1
+      }
+    },
+    "protocol_id": 69
   },
   "minecraft:painting_variant": {
     "default": "minecraft:kebab",

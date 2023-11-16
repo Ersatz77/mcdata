@@ -1,0 +1,17 @@
+{
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:exposed_copper"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:exposed_copper_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}
