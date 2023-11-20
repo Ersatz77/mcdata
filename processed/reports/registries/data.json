@@ -1445,9 +1445,6 @@
       "minecraft:granite_wall": {
         "protocol_id": 763
       },
-      "minecraft:grass": {
-        "protocol_id": 123
-      },
       "minecraft:grass_block": {
         "protocol_id": 8
       },
@@ -2755,6 +2752,9 @@
       },
       "minecraft:seagrass": {
         "protocol_id": 126
+      },
+      "minecraft:short_grass": {
+        "protocol_id": 123
       },
       "minecraft:shroomlight": {
         "protocol_id": 804
@@ -7272,9 +7272,6 @@
       "minecraft:granite_wall": {
         "protocol_id": 402
       },
-      "minecraft:grass": {
-        "protocol_id": 194
-      },
       "minecraft:grass_block": {
         "protocol_id": 27
       },
@@ -8825,6 +8822,9 @@
       },
       "minecraft:shield": {
         "protocol_id": 1155
+      },
+      "minecraft:short_grass": {
+        "protocol_id": 194
       },
       "minecraft:shroomlight": {
         "protocol_id": 1208

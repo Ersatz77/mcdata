@@ -45,7 +45,7 @@
                 "Name": "minecraft:oxeye_daisy"
               },
               {
-                "Name": "minecraft:grass"
+                "Name": "minecraft:short_grass"
               }
             ],
             "type": "minecraft:dual_noise_provider",

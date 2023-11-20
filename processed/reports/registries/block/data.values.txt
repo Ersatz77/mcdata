@@ -393,7 +393,6 @@ minecraft:granite
 minecraft:granite_slab
 minecraft:granite_stairs
 minecraft:granite_wall
-minecraft:grass
 minecraft:grass_block
 minecraft:gravel
 minecraft:gray_banner
@@ -830,6 +829,7 @@ minecraft:sculk_vein
 minecraft:sea_lantern
 minecraft:sea_pickle
 minecraft:seagrass
+minecraft:short_grass
 minecraft:shroomlight
 minecraft:shulker_box
 minecraft:skeleton_skull

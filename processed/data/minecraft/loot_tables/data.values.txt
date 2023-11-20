@@ -363,7 +363,6 @@ minecraft:blocks/granite
 minecraft:blocks/granite_slab
 minecraft:blocks/granite_stairs
 minecraft:blocks/granite_wall
-minecraft:blocks/grass
 minecraft:blocks/grass_block
 minecraft:blocks/gravel
 minecraft:blocks/gray_banner
@@ -774,6 +773,7 @@ minecraft:blocks/sculk_vein
 minecraft:blocks/sea_lantern
 minecraft:blocks/sea_pickle
 minecraft:blocks/seagrass
+minecraft:blocks/short_grass
 minecraft:blocks/shroomlight
 minecraft:blocks/shulker_box
 minecraft:blocks/skeleton_skull

@@ -2,7 +2,7 @@
   "config": {
     "to_place": {
       "state": {
-        "Name": "minecraft:grass"
+        "Name": "minecraft:short_grass"
       },
       "type": "minecraft:simple_state_provider"
     }

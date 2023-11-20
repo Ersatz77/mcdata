@@ -6309,10 +6309,6 @@
       ]
     }
   },
-  "minecraft:grass": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:grass_block": {
     "default": {
       "snowy": "false"
@@ -12794,6 +12790,10 @@
     }
   },
   "minecraft:seagrass": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:short_grass": {
     "default": {},
     "properties": {}
   },
