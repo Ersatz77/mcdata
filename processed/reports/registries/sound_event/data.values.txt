@@ -725,6 +725,16 @@ minecraft:entity.allay.hurt
 minecraft:entity.allay.item_given
 minecraft:entity.allay.item_taken
 minecraft:entity.allay.item_thrown
+minecraft:entity.armadillo.ambient
+minecraft:entity.armadillo.brush
+minecraft:entity.armadillo.death
+minecraft:entity.armadillo.eat
+minecraft:entity.armadillo.hurt
+minecraft:entity.armadillo.land
+minecraft:entity.armadillo.roll
+minecraft:entity.armadillo.scute_drop
+minecraft:entity.armadillo.step
+minecraft:entity.armadillo.unroll
 minecraft:entity.armor_stand.break
 minecraft:entity.armor_stand.fall
 minecraft:entity.armor_stand.hit
@@ -757,7 +767,9 @@ minecraft:entity.blaze.hurt
 minecraft:entity.blaze.shoot
 minecraft:entity.boat.paddle_land
 minecraft:entity.boat.paddle_water
+minecraft:entity.breeze.charge
 minecraft:entity.breeze.death
+minecraft:entity.breeze.deflect
 minecraft:entity.breeze.hurt
 minecraft:entity.breeze.idle_air
 minecraft:entity.breeze.idle_ground
@@ -766,6 +778,7 @@ minecraft:entity.breeze.jump
 minecraft:entity.breeze.land
 minecraft:entity.breeze.shoot
 minecraft:entity.breeze.slide
+minecraft:entity.breeze.whirl
 minecraft:entity.camel.ambient
 minecraft:entity.camel.dash
 minecraft:entity.camel.dash_ready
@@ -1405,6 +1418,8 @@ minecraft:item.armor.equip_iron
 minecraft:item.armor.equip_leather
 minecraft:item.armor.equip_netherite
 minecraft:item.armor.equip_turtle
+minecraft:item.armor.equip_wolf
+minecraft:item.armor.unequip_wolf
 minecraft:item.axe.scrape
 minecraft:item.axe.strip
 minecraft:item.axe.wax_off

@@ -1,3 +1,5 @@
+minecraft:armadillo_scare_detected
+minecraft:armadillo_temptations
 minecraft:axolotl_attackables
 minecraft:axolotl_temptations
 minecraft:breeze_attack_entity_sensor

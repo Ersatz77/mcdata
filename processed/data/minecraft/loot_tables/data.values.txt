@@ -1037,6 +1037,7 @@ minecraft:dispensers/trial_chambers/chamber
 minecraft:dispensers/trial_chambers/corridor
 minecraft:dispensers/trial_chambers/water
 minecraft:entities/allay
+minecraft:entities/armadillo
 minecraft:entities/armor_stand
 minecraft:entities/axolotl
 minecraft:entities/bat

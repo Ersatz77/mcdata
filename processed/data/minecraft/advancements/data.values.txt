@@ -649,6 +649,7 @@ minecraft:recipes/combat/shield
 minecraft:recipes/combat/spectral_arrow
 minecraft:recipes/combat/stone_sword
 minecraft:recipes/combat/turtle_helmet
+minecraft:recipes/combat/wolf_armor
 minecraft:recipes/combat/wooden_sword
 minecraft:recipes/decorations/acacia_fence
 minecraft:recipes/decorations/acacia_hanging_sign

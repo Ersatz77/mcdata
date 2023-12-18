@@ -9,6 +9,7 @@ minecraft:breed_target
 minecraft:breeze_jump_cooldown
 minecraft:breeze_jump_inhaling
 minecraft:breeze_jump_target
+minecraft:breeze_leaving_water
 minecraft:breeze_shoot
 minecraft:breeze_shoot_charging
 minecraft:breeze_shoot_cooldown
@@ -16,6 +17,7 @@ minecraft:breeze_shoot_recover
 minecraft:cant_reach_walk_target_since
 minecraft:celebrate_location
 minecraft:dancing
+minecraft:danger_detected_recently
 minecraft:dig_cooldown
 minecraft:disable_walk_to_admire_item
 minecraft:disturbance_location

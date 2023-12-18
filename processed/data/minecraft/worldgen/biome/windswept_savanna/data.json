@@ -132,6 +132,12 @@
         "minCount": 1,
         "type": "minecraft:donkey",
         "weight": 1
+      },
+      {
+        "maxCount": 3,
+        "minCount": 2,
+        "type": "minecraft:armadillo",
+        "weight": 10
       }
     ],
     "misc": [],
