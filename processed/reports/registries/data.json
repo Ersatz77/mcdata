@@ -99,12 +99,6 @@
       "minecraft:generic.attack_speed": {
         "protocol_id": 4
       },
-      "minecraft:generic.block_interaction_range": {
-        "protocol_id": 5
-      },
-      "minecraft:generic.entity_interaction_range": {
-        "protocol_id": 6
-      },
       "minecraft:generic.flying_speed": {
         "protocol_id": 7
       },
@@ -134,6 +128,12 @@
       },
       "minecraft:horse.jump_strength": {
         "protocol_id": 9
+      },
+      "minecraft:player.block_interaction_range": {
+        "protocol_id": 5
+      },
+      "minecraft:player.entity_interaction_range": {
+        "protocol_id": 6
       },
       "minecraft:zombie.spawn_reinforcements": {
         "protocol_id": 16
@@ -5033,7 +5033,7 @@
       "minecraft:soul_speed": {
         "protocol_id": 11
       },
-      "minecraft:sweeping": {
+      "minecraft:sweeping_edge": {
         "protocol_id": 19
       },
       "minecraft:swift_sneak": {
@@ -16009,10 +16009,13 @@
   "minecraft:trigger_type": {
     "entries": {
       "minecraft:allay_drop_item_on_block": {
-        "protocol_id": 49
+        "protocol_id": 51
+      },
+      "minecraft:any_block_use": {
+        "protocol_id": 40
       },
       "minecraft:avoid_vibration": {
-        "protocol_id": 50
+        "protocol_id": 52
       },
       "minecraft:bee_nest_destroyed": {
         "protocol_id": 36
@@ -16038,6 +16041,9 @@
       "minecraft:cured_zombie_villager": {
         "protocol_id": 17
       },
+      "minecraft:default_block_use": {
+        "protocol_id": 39
+      },
       "minecraft:effects_changed": {
         "protocol_id": 26
       },
@@ -16054,7 +16060,7 @@
         "protocol_id": 2
       },
       "minecraft:fall_from_height": {
-        "protocol_id": 46
+        "protocol_id": 48
       },
       "minecraft:filled_bucket": {
         "protocol_id": 9
@@ -16078,7 +16084,7 @@
         "protocol_id": 38
       },
       "minecraft:kill_mob_near_sculk_catalyst": {
-        "protocol_id": 48
+        "protocol_id": 50
       },
       "minecraft:killed_by_crossbow": {
         "protocol_id": 32
@@ -16087,7 +16093,7 @@
         "protocol_id": 20
       },
       "minecraft:lightning_strike": {
-        "protocol_id": 44
+        "protocol_id": 46
       },
       "minecraft:location": {
         "protocol_id": 15
@@ -16099,25 +16105,25 @@
         "protocol_id": 24
       },
       "minecraft:player_generates_container_loot": {
-        "protocol_id": 39
+        "protocol_id": 41
       },
       "minecraft:player_hurt_entity": {
         "protocol_id": 6
       },
       "minecraft:player_interacted_with_entity": {
-        "protocol_id": 42
+        "protocol_id": 44
       },
       "minecraft:player_killed_entity": {
         "protocol_id": 1
       },
       "minecraft:recipe_crafted": {
-        "protocol_id": 51
+        "protocol_id": 53
       },
       "minecraft:recipe_unlocked": {
         "protocol_id": 5
       },
       "minecraft:ride_entity_in_lava": {
-        "protocol_id": 47
+        "protocol_id": 49
       },
       "minecraft:shot_crossbow": {
         "protocol_id": 31
@@ -16129,7 +16135,7 @@
         "protocol_id": 35
       },
       "minecraft:started_riding": {
-        "protocol_id": 43
+        "protocol_id": 45
       },
       "minecraft:summoned_entity": {
         "protocol_id": 13
@@ -16141,10 +16147,10 @@
         "protocol_id": 37
       },
       "minecraft:thrown_item_picked_up_by_entity": {
-        "protocol_id": 40
+        "protocol_id": 42
       },
       "minecraft:thrown_item_picked_up_by_player": {
-        "protocol_id": 41
+        "protocol_id": 43
       },
       "minecraft:tick": {
         "protocol_id": 22
@@ -16156,7 +16162,7 @@
         "protocol_id": 27
       },
       "minecraft:using_item": {
-        "protocol_id": 45
+        "protocol_id": 47
       },
       "minecraft:villager_trade": {
         "protocol_id": 18

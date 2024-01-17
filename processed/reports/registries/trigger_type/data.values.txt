@@ -1,4 +1,5 @@
 minecraft:allay_drop_item_on_block
+minecraft:any_block_use
 minecraft:avoid_vibration
 minecraft:bee_nest_destroyed
 minecraft:bred_animals
@@ -8,6 +9,7 @@ minecraft:channeled_lightning
 minecraft:construct_beacon
 minecraft:consume_item
 minecraft:cured_zombie_villager
+minecraft:default_block_use
 minecraft:effects_changed
 minecraft:enchanted_item
 minecraft:enter_block

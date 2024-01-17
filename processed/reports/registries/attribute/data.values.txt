@@ -3,8 +3,6 @@ minecraft:generic.armor_toughness
 minecraft:generic.attack_damage
 minecraft:generic.attack_knockback
 minecraft:generic.attack_speed
-minecraft:generic.block_interaction_range
-minecraft:generic.entity_interaction_range
 minecraft:generic.flying_speed
 minecraft:generic.follow_range
 minecraft:generic.knockback_resistance
@@ -15,4 +13,6 @@ minecraft:generic.movement_speed
 minecraft:generic.scale
 minecraft:generic.step_height
 minecraft:horse.jump_strength
+minecraft:player.block_interaction_range
+minecraft:player.entity_interaction_range
 minecraft:zombie.spawn_reinforcements
