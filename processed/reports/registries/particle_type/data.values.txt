@@ -52,7 +52,6 @@ minecraft:flash
 minecraft:glow
 minecraft:glow_squid_ink
 minecraft:gust
-minecraft:gust_dust
 minecraft:gust_emitter
 minecraft:happy_villager
 minecraft:heart

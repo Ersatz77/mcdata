@@ -10697,9 +10697,6 @@
       "minecraft:gust": {
         "protocol_id": 24
       },
-      "minecraft:gust_dust": {
-        "protocol_id": 99
-      },
       "minecraft:gust_emitter": {
         "protocol_id": 25
       },
@@ -10812,7 +10809,7 @@
         "protocol_id": 59
       },
       "minecraft:trial_spawner_detection": {
-        "protocol_id": 100
+        "protocol_id": 99
       },
       "minecraft:underwater": {
         "protocol_id": 60
