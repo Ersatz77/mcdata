@@ -10263,6 +10263,41 @@
       ],
       "type": "literal"
     },
+    "transfer": {
+      "children": {
+        "hostname": {
+          "children": {
+            "port": {
+              "children": {
+                "players": {
+                  "executable": true,
+                  "parser": "minecraft:entity",
+                  "properties": {
+                    "amount": "multiple",
+                    "type": "players"
+                  },
+                  "type": "argument"
+                }
+              },
+              "executable": true,
+              "parser": "brigadier:integer",
+              "properties": {
+                "max": 65535,
+                "min": 1
+              },
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "parser": "brigadier:string",
+          "properties": {
+            "type": "phrase"
+          },
+          "type": "argument"
+        }
+      },
+      "type": "literal"
+    },
     "trigger": {
       "children": {
         "objective": {

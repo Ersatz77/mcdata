@@ -730,6 +730,7 @@ minecraft:entity.armadillo.brush
 minecraft:entity.armadillo.death
 minecraft:entity.armadillo.eat
 minecraft:entity.armadillo.hurt
+minecraft:entity.armadillo.hurt_reduced
 minecraft:entity.armadillo.land
 minecraft:entity.armadillo.roll
 minecraft:entity.armadillo.scute_drop
