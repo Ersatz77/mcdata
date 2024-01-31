@@ -32,6 +32,7 @@ minecraft:decorated_pot_sherds
 minecraft:diamond_ores
 minecraft:dirt
 minecraft:doors
+minecraft:dyeable
 minecraft:emerald_ores
 minecraft:enchantable/armor
 minecraft:enchantable/bow

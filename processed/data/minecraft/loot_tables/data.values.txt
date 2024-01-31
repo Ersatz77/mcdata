@@ -885,6 +885,7 @@ minecraft:blocks/tuff_wall
 minecraft:blocks/turtle_egg
 minecraft:blocks/twisting_vines
 minecraft:blocks/twisting_vines_plant
+minecraft:blocks/vault
 minecraft:blocks/verdant_froglight
 minecraft:blocks/vine
 minecraft:blocks/warped_button

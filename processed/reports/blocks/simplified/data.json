@@ -14636,6 +14636,26 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:vault": {
+    "default": {
+      "facing": "north",
+      "vault_state": "inactive"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "vault_state": [
+        "inactive",
+        "active",
+        "unlocking",
+        "ejecting"
+      ]
+    }
+  },
   "minecraft:verdant_froglight": {
     "default": {
       "axis": "y"

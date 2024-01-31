@@ -41,3 +41,4 @@ minecraft:smoker
 minecraft:structure_block
 minecraft:trapped_chest
 minecraft:trial_spawner
+minecraft:vault

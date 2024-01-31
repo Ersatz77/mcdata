@@ -91,6 +91,7 @@ minecraft:sweep_attack
 minecraft:totem_of_undying
 minecraft:trial_spawner_detection
 minecraft:underwater
+minecraft:vault_connection
 minecraft:vibration
 minecraft:warped_spore
 minecraft:wax_off
