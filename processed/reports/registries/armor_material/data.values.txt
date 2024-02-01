@@ -1,5 +1,5 @@
 minecraft:armadillo
-minecraft:chain
+minecraft:chainmail
 minecraft:diamond
 minecraft:gold
 minecraft:iron
