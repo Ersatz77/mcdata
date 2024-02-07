@@ -4084,7 +4084,7 @@
                           "executable": true,
                           "parser": "brigadier:integer",
                           "properties": {
-                            "max": 127,
+                            "max": 255,
                             "min": 0
                           },
                           "type": "argument"
@@ -4106,7 +4106,7 @@
                           "executable": true,
                           "parser": "brigadier:integer",
                           "properties": {
-                            "max": 127,
+                            "max": 255,
                             "min": 0
                           },
                           "type": "argument"

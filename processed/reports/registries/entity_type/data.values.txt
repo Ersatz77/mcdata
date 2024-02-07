@@ -10,6 +10,7 @@ minecraft:blaze
 minecraft:block_display
 minecraft:boat
 minecraft:breeze
+minecraft:breeze_wind_charge
 minecraft:camel
 minecraft:cat
 minecraft:cave_spider

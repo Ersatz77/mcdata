@@ -8,6 +8,7 @@ minecraft:armadillo_spawnable_on
 minecraft:axolotls_spawnable_on
 minecraft:azalea_grows_on
 minecraft:azalea_root_replaceable
+minecraft:badlands_terracotta
 minecraft:bamboo_blocks
 minecraft:bamboo_plantable_on
 minecraft:banners

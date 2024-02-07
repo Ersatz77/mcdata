@@ -1281,6 +1281,7 @@ minecraft:white_terracotta
 minecraft:white_tulip
 minecraft:white_wool
 minecraft:wild_armor_trim_smithing_template
+minecraft:wind_charge
 minecraft:witch_spawn_egg
 minecraft:wither_rose
 minecraft:wither_skeleton_skull

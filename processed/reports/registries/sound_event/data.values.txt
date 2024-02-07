@@ -745,10 +745,12 @@ minecraft:entity.armadillo.eat
 minecraft:entity.armadillo.hurt
 minecraft:entity.armadillo.hurt_reduced
 minecraft:entity.armadillo.land
+minecraft:entity.armadillo.peek
 minecraft:entity.armadillo.roll
 minecraft:entity.armadillo.scute_drop
 minecraft:entity.armadillo.step
-minecraft:entity.armadillo.unroll
+minecraft:entity.armadillo.unroll_finish
+minecraft:entity.armadillo.unroll_start
 minecraft:entity.armor_stand.break
 minecraft:entity.armor_stand.fall
 minecraft:entity.armor_stand.hit
@@ -793,6 +795,7 @@ minecraft:entity.breeze.land
 minecraft:entity.breeze.shoot
 minecraft:entity.breeze.slide
 minecraft:entity.breeze.whirl
+minecraft:entity.breeze.wind_burst
 minecraft:entity.camel.ambient
 minecraft:entity.camel.dash
 minecraft:entity.camel.dash_ready
@@ -937,7 +940,6 @@ minecraft:entity.generic.hurt
 minecraft:entity.generic.small_fall
 minecraft:entity.generic.splash
 minecraft:entity.generic.swim
-minecraft:entity.generic.wind_burst
 minecraft:entity.ghast.ambient
 minecraft:entity.ghast.death
 minecraft:entity.ghast.hurt
@@ -1367,6 +1369,8 @@ minecraft:entity.warden.sonic_boom
 minecraft:entity.warden.sonic_charge
 minecraft:entity.warden.step
 minecraft:entity.warden.tendril_clicks
+minecraft:entity.wind_charge.throw
+minecraft:entity.wind_charge.wind_burst
 minecraft:entity.witch.ambient
 minecraft:entity.witch.celebrate
 minecraft:entity.witch.death
