@@ -1044,6 +1044,7 @@ minecraft:entities/axolotl
 minecraft:entities/bat
 minecraft:entities/bee
 minecraft:entities/blaze
+minecraft:entities/bogged
 minecraft:entities/breeze
 minecraft:entities/camel
 minecraft:entities/cat
@@ -1154,6 +1155,7 @@ minecraft:gameplay/hero_of_the_village/mason_gift
 minecraft:gameplay/hero_of_the_village/shepherd_gift
 minecraft:gameplay/hero_of_the_village/toolsmith_gift
 minecraft:gameplay/hero_of_the_village/weaponsmith_gift
+minecraft:gameplay/panda_sneeze
 minecraft:gameplay/piglin_bartering
 minecraft:gameplay/sniffer_digging
 minecraft:pots/trial_chambers/corridor

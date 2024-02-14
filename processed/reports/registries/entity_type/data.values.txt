@@ -9,6 +9,7 @@ minecraft:bee
 minecraft:blaze
 minecraft:block_display
 minecraft:boat
+minecraft:bogged
 minecraft:breeze
 minecraft:breeze_wind_charge
 minecraft:camel

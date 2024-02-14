@@ -18,6 +18,14 @@
                 "type": "minecraft:uniform"
               },
               "function": "minecraft:set_count"
+            },
+            {
+              "count": {
+                "max": 1.0,
+                "min": 0.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:looting_enchant"
             }
           ],
           "name": "minecraft:wind_charge",

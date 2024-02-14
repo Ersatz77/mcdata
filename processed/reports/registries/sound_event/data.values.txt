@@ -783,6 +783,10 @@ minecraft:entity.blaze.hurt
 minecraft:entity.blaze.shoot
 minecraft:entity.boat.paddle_land
 minecraft:entity.boat.paddle_water
+minecraft:entity.bogged.ambient
+minecraft:entity.bogged.death
+minecraft:entity.bogged.hurt
+minecraft:entity.bogged.step
 minecraft:entity.breeze.charge
 minecraft:entity.breeze.death
 minecraft:entity.breeze.deflect
@@ -1091,6 +1095,7 @@ minecraft:entity.parrot.eat
 minecraft:entity.parrot.fly
 minecraft:entity.parrot.hurt
 minecraft:entity.parrot.imitate.blaze
+minecraft:entity.parrot.imitate.bogged
 minecraft:entity.parrot.imitate.breeze
 minecraft:entity.parrot.imitate.creeper
 minecraft:entity.parrot.imitate.drowned
