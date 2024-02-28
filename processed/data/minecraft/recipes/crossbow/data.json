@@ -20,7 +20,7 @@
     " # "
   ],
   "result": {
-    "item": "minecraft:crossbow"
+    "id": "minecraft:crossbow"
   },
   "type": "minecraft:crafting_shaped"
 }

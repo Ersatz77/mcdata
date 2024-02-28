@@ -16,7 +16,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:decorated_pot_sherds"
+            "items": "#minecraft:decorated_pot_sherds"
           }
         ]
       },
@@ -52,8 +52,7 @@
       "translate": "advancements.adventure.salvage_sherd.description"
     },
     "icon": {
-      "item": "minecraft:brush",
-      "nbt": "{Damage:0}"
+      "id": "minecraft:brush"
     },
     "title": {
       "translate": "advancements.adventure.salvage_sherd.title"

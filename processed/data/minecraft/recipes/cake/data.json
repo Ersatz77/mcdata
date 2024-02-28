@@ -20,7 +20,7 @@
     "CCC"
   ],
   "result": {
-    "item": "minecraft:cake"
+    "id": "minecraft:cake"
   },
   "type": "minecraft:crafting_shaped"
 }

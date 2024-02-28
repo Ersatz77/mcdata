@@ -7,7 +7,7 @@
   ],
   "result": {
     "count": 9,
-    "item": "minecraft:coal"
+    "id": "minecraft:coal"
   },
   "type": "minecraft:crafting_shapeless"
 }

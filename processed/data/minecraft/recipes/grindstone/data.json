@@ -16,7 +16,7 @@
     "# #"
   ],
   "result": {
-    "item": "minecraft:grindstone"
+    "id": "minecraft:grindstone"
   },
   "type": "minecraft:crafting_shaped"
 }

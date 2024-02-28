@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:polished_diorite_stairs"
+    "id": "minecraft:polished_diorite_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

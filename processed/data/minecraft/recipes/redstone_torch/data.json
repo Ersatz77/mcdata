@@ -13,7 +13,7 @@
     "#"
   ],
   "result": {
-    "item": "minecraft:redstone_torch"
+    "id": "minecraft:redstone_torch"
   },
   "type": "minecraft:crafting_shaped"
 }

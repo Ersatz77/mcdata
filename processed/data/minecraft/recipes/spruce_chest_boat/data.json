@@ -10,7 +10,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:spruce_chest_boat"
+    "id": "minecraft:spruce_chest_boat"
   },
   "type": "minecraft:crafting_shapeless"
 }

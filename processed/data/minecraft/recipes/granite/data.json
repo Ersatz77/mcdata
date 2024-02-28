@@ -9,7 +9,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:granite"
+    "id": "minecraft:granite"
   },
   "type": "minecraft:crafting_shapeless"
 }

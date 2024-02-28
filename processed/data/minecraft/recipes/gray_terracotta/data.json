@@ -16,7 +16,7 @@
   ],
   "result": {
     "count": 8,
-    "item": "minecraft:gray_terracotta"
+    "id": "minecraft:gray_terracotta"
   },
   "type": "minecraft:crafting_shaped"
 }

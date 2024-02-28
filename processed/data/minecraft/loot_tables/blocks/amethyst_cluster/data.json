@@ -31,7 +31,7 @@
                     {
                       "condition": "minecraft:match_tool",
                       "predicate": {
-                        "tag": "minecraft:cluster_max_harvestables"
+                        "items": "#minecraft:cluster_max_harvestables"
                       }
                     }
                   ],

@@ -14,7 +14,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:item_frame"
+    "id": "minecraft:item_frame"
   },
   "type": "minecraft:crafting_shaped"
 }

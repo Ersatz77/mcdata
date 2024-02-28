@@ -14,7 +14,7 @@
     "#W#"
   ],
   "result": {
-    "item": "minecraft:birch_fence_gate"
+    "id": "minecraft:birch_fence_gate"
   },
   "type": "minecraft:crafting_shaped"
 }

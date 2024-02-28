@@ -8,7 +8,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:jungle_planks"
+    "id": "minecraft:jungle_planks"
   },
   "type": "minecraft:crafting_shapeless"
 }

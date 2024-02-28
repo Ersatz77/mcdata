@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 3,
-    "item": "minecraft:white_carpet"
+    "id": "minecraft:white_carpet"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -14,7 +14,7 @@
     "#"
   ],
   "result": {
-    "item": "minecraft:wooden_sword"
+    "id": "minecraft:wooden_sword"
   },
   "type": "minecraft:crafting_shaped"
 }

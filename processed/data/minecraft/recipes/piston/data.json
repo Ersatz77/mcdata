@@ -20,7 +20,7 @@
     "#R#"
   ],
   "result": {
-    "item": "minecraft:piston"
+    "id": "minecraft:piston"
   },
   "type": "minecraft:crafting_shaped"
 }

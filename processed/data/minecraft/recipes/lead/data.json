@@ -15,7 +15,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:lead"
+    "id": "minecraft:lead"
   },
   "type": "minecraft:crafting_shaped"
 }

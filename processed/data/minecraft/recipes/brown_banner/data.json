@@ -15,7 +15,7 @@
     " | "
   ],
   "result": {
-    "item": "minecraft:brown_banner"
+    "id": "minecraft:brown_banner"
   },
   "type": "minecraft:crafting_shaped"
 }

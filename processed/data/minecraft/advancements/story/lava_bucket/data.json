@@ -4,9 +4,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:lava_bucket"
-            ]
+            "items": "minecraft:lava_bucket"
           }
         ]
       },
@@ -18,7 +16,7 @@
       "translate": "advancements.story.lava_bucket.description"
     },
     "icon": {
-      "item": "minecraft:lava_bucket"
+      "id": "minecraft:lava_bucket"
     },
     "title": {
       "translate": "advancements.story.lava_bucket.title"

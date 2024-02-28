@@ -14,7 +14,7 @@
     "#"
   ],
   "result": {
-    "item": "minecraft:wooden_shovel"
+    "id": "minecraft:wooden_shovel"
   },
   "type": "minecraft:crafting_shaped"
 }

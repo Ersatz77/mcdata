@@ -17,7 +17,7 @@
     "LLL"
   ],
   "result": {
-    "item": "minecraft:soul_campfire"
+    "id": "minecraft:soul_campfire"
   },
   "type": "minecraft:crafting_shaped"
 }

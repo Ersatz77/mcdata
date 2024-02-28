@@ -11,7 +11,7 @@
     "#"
   ],
   "result": {
-    "item": "minecraft:lightning_rod"
+    "id": "minecraft:lightning_rod"
   },
   "type": "minecraft:crafting_shaped"
 }

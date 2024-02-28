@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:polished_basalt"
+    "id": "minecraft:polished_basalt"
   },
   "type": "minecraft:crafting_shaped"
 }

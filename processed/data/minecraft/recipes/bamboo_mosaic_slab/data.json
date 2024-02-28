@@ -10,7 +10,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:bamboo_mosaic_slab"
+    "id": "minecraft:bamboo_mosaic_slab"
   },
   "type": "minecraft:crafting_shaped"
 }

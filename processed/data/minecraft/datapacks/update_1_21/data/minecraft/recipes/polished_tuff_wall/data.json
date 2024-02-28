@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:polished_tuff_wall"
+    "id": "minecraft:polished_tuff_wall"
   },
   "type": "minecraft:crafting_shaped"
 }

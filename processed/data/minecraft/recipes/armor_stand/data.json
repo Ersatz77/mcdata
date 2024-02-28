@@ -14,7 +14,7 @@
     "/_/"
   ],
   "result": {
-    "item": "minecraft:armor_stand"
+    "id": "minecraft:armor_stand"
   },
   "type": "minecraft:crafting_shaped"
 }

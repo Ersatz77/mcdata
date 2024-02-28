@@ -9,7 +9,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:muddy_mangrove_roots"
+    "id": "minecraft:muddy_mangrove_roots"
   },
   "type": "minecraft:crafting_shapeless"
 }

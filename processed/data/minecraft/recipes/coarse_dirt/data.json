@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:coarse_dirt"
+    "id": "minecraft:coarse_dirt"
   },
   "type": "minecraft:crafting_shaped"
 }

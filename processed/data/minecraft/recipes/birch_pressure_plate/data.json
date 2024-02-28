@@ -10,7 +10,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:birch_pressure_plate"
+    "id": "minecraft:birch_pressure_plate"
   },
   "type": "minecraft:crafting_shaped"
 }

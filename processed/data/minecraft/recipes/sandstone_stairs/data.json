@@ -20,7 +20,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:sandstone_stairs"
+    "id": "minecraft:sandstone_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

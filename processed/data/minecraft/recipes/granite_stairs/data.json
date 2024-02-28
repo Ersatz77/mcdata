@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:granite_stairs"
+    "id": "minecraft:granite_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

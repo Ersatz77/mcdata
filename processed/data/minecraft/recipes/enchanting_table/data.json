@@ -17,7 +17,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:enchanting_table"
+    "id": "minecraft:enchanting_table"
   },
   "type": "minecraft:crafting_shaped"
 }

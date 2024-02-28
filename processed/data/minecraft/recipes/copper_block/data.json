@@ -11,7 +11,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:copper_block"
+    "id": "minecraft:copper_block"
   },
   "type": "minecraft:crafting_shaped"
 }

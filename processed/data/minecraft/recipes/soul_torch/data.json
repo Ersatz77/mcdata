@@ -23,7 +23,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:soul_torch"
+    "id": "minecraft:soul_torch"
   },
   "type": "minecraft:crafting_shaped"
 }

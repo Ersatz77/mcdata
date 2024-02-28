@@ -14,7 +14,7 @@
     "N"
   ],
   "result": {
-    "item": "minecraft:chain"
+    "id": "minecraft:chain"
   },
   "type": "minecraft:crafting_shaped"
 }

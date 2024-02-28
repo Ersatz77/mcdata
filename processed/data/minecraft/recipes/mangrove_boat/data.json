@@ -11,7 +11,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:mangrove_boat"
+    "id": "minecraft:mangrove_boat"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:quartz_bricks"
+    "id": "minecraft:quartz_bricks"
   },
   "type": "minecraft:crafting_shaped"
 }

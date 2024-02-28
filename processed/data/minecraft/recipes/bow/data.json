@@ -14,7 +14,7 @@
     " #X"
   ],
   "result": {
-    "item": "minecraft:bow"
+    "id": "minecraft:bow"
   },
   "type": "minecraft:crafting_shaped"
 }

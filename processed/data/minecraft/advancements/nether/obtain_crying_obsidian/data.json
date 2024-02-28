@@ -4,9 +4,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:crying_obsidian"
-            ]
+            "items": "minecraft:crying_obsidian"
           }
         ]
       },
@@ -18,7 +16,7 @@
       "translate": "advancements.nether.obtain_crying_obsidian.description"
     },
     "icon": {
-      "item": "minecraft:crying_obsidian"
+      "id": "minecraft:crying_obsidian"
     },
     "title": {
       "translate": "advancements.nether.obtain_crying_obsidian.title"

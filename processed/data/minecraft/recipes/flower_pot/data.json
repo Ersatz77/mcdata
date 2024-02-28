@@ -10,7 +10,7 @@
     " # "
   ],
   "result": {
-    "item": "minecraft:flower_pot"
+    "id": "minecraft:flower_pot"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -17,7 +17,7 @@
     "OOO"
   ],
   "result": {
-    "item": "minecraft:beacon"
+    "id": "minecraft:beacon"
   },
   "type": "minecraft:crafting_shaped"
 }

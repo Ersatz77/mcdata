@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:diorite"
+    "id": "minecraft:diorite"
   },
   "type": "minecraft:crafting_shaped"
 }

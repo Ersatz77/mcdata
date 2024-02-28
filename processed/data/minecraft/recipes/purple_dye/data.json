@@ -10,7 +10,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:purple_dye"
+    "id": "minecraft:purple_dye"
   },
   "type": "minecraft:crafting_shapeless"
 }

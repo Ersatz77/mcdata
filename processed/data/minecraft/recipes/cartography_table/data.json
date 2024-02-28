@@ -14,7 +14,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:cartography_table"
+    "id": "minecraft:cartography_table"
   },
   "type": "minecraft:crafting_shaped"
 }

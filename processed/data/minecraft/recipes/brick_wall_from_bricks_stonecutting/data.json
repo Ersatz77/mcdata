@@ -1,8 +1,9 @@
 {
-  "count": 1,
   "ingredient": {
     "item": "minecraft:bricks"
   },
-  "result": "minecraft:brick_wall",
+  "result": {
+    "id": "minecraft:brick_wall"
+  },
   "type": "minecraft:stonecutting"
 }

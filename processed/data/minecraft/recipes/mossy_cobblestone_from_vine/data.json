@@ -10,7 +10,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:mossy_cobblestone"
+    "id": "minecraft:mossy_cobblestone"
   },
   "type": "minecraft:crafting_shapeless"
 }

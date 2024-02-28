@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:mossy_cobblestone_stairs"
+    "id": "minecraft:mossy_cobblestone_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:blackstone_wall"
+    "id": "minecraft:blackstone_wall"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:mangrove_slab"
+    "id": "minecraft:mangrove_slab"
   },
   "type": "minecraft:crafting_shaped"
 }

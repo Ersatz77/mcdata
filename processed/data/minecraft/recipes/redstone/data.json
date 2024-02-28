@@ -7,7 +7,7 @@
   ],
   "result": {
     "count": 9,
-    "item": "minecraft:redstone"
+    "id": "minecraft:redstone"
   },
   "type": "minecraft:crafting_shapeless"
 }

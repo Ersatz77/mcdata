@@ -15,7 +15,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:sandstone_slab"
+    "id": "minecraft:sandstone_slab"
   },
   "type": "minecraft:crafting_shaped"
 }

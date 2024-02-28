@@ -10,7 +10,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:crafting_table"
+    "id": "minecraft:crafting_table"
   },
   "show_notification": false,
   "type": "minecraft:crafting_shaped"

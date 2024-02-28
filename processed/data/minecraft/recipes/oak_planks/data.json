@@ -8,7 +8,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:oak_planks"
+    "id": "minecraft:oak_planks"
   },
   "type": "minecraft:crafting_shapeless"
 }

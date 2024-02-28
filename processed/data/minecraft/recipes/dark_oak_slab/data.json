@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:dark_oak_slab"
+    "id": "minecraft:dark_oak_slab"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -196,15 +196,15 @@
                               "children": {
                                 "value": {
                                   "children": {
-                                    "add": {
+                                    "add_multiplied_base": {
                                       "executable": true,
                                       "type": "literal"
                                     },
-                                    "multiply": {
+                                    "add_multiplied_total": {
                                       "executable": true,
                                       "type": "literal"
                                     },
-                                    "multiply_base": {
+                                    "add_value": {
                                       "executable": true,
                                       "type": "literal"
                                     }
@@ -8088,6 +8088,7 @@
                   "type": "argument"
                 }
               },
+              "executable": true,
               "type": "literal"
             },
             "block": {
@@ -8141,6 +8142,7 @@
                   "type": "argument"
                 }
               },
+              "executable": true,
               "type": "literal"
             },
             "hostile": {
@@ -8194,6 +8196,7 @@
                   "type": "argument"
                 }
               },
+              "executable": true,
               "type": "literal"
             },
             "master": {
@@ -8247,6 +8250,7 @@
                   "type": "argument"
                 }
               },
+              "executable": true,
               "type": "literal"
             },
             "music": {
@@ -8300,6 +8304,7 @@
                   "type": "argument"
                 }
               },
+              "executable": true,
               "type": "literal"
             },
             "neutral": {
@@ -8353,6 +8358,7 @@
                   "type": "argument"
                 }
               },
+              "executable": true,
               "type": "literal"
             },
             "player": {
@@ -8406,6 +8412,7 @@
                   "type": "argument"
                 }
               },
+              "executable": true,
               "type": "literal"
             },
             "record": {
@@ -8459,6 +8466,7 @@
                   "type": "argument"
                 }
               },
+              "executable": true,
               "type": "literal"
             },
             "voice": {
@@ -8512,6 +8520,7 @@
                   "type": "argument"
                 }
               },
+              "executable": true,
               "type": "literal"
             },
             "weather": {
@@ -8565,9 +8574,11 @@
                   "type": "argument"
                 }
               },
+              "executable": true,
               "type": "literal"
             }
           },
+          "executable": true,
           "parser": "minecraft:resource_location",
           "type": "argument"
         }

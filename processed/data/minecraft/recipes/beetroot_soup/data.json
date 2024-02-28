@@ -24,7 +24,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:beetroot_soup"
+    "id": "minecraft:beetroot_soup"
   },
   "type": "minecraft:crafting_shapeless"
 }

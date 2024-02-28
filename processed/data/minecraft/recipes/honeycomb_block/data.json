@@ -10,7 +10,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:honeycomb_block"
+    "id": "minecraft:honeycomb_block"
   },
   "type": "minecraft:crafting_shaped"
 }

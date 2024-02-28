@@ -13,7 +13,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:loom"
+    "id": "minecraft:loom"
   },
   "type": "minecraft:crafting_shaped"
 }

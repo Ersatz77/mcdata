@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:cherry_trapdoor"
+    "id": "minecraft:cherry_trapdoor"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -14,7 +14,7 @@
     " X "
   ],
   "result": {
-    "item": "minecraft:spyglass"
+    "id": "minecraft:spyglass"
   },
   "type": "minecraft:crafting_shaped"
 }

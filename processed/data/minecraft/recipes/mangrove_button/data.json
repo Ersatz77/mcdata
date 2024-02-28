@@ -7,7 +7,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:mangrove_button"
+    "id": "minecraft:mangrove_button"
   },
   "type": "minecraft:crafting_shapeless"
 }

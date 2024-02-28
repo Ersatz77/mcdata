@@ -16,7 +16,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:dark_oak_hanging_sign"
+    "id": "minecraft:dark_oak_hanging_sign"
   },
   "type": "minecraft:crafting_shaped"
 }

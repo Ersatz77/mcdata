@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 16,
-    "item": "minecraft:glass_pane"
+    "id": "minecraft:glass_pane"
   },
   "type": "minecraft:crafting_shaped"
 }

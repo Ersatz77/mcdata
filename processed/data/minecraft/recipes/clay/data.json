@@ -10,7 +10,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:clay"
+    "id": "minecraft:clay"
   },
   "type": "minecraft:crafting_shaped"
 }

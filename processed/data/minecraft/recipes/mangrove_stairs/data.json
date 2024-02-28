@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:mangrove_stairs"
+    "id": "minecraft:mangrove_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

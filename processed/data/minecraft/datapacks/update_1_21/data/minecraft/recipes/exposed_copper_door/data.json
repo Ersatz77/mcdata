@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 3,
-    "item": "minecraft:exposed_copper_door"
+    "id": "minecraft:exposed_copper_door"
   },
   "type": "minecraft:crafting_shaped"
 }

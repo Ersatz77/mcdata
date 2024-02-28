@@ -7,7 +7,7 @@
   ],
   "result": {
     "count": 9,
-    "item": "minecraft:emerald"
+    "id": "minecraft:emerald"
   },
   "type": "minecraft:crafting_shapeless"
 }

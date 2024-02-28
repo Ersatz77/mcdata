@@ -20,7 +20,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:quartz_stairs"
+    "id": "minecraft:quartz_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

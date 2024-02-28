@@ -15,7 +15,7 @@
     " | "
   ],
   "result": {
-    "item": "minecraft:red_banner"
+    "id": "minecraft:red_banner"
   },
   "type": "minecraft:crafting_shaped"
 }

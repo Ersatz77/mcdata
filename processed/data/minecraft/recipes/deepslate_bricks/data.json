@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:deepslate_bricks"
+    "id": "minecraft:deepslate_bricks"
   },
   "type": "minecraft:crafting_shaped"
 }

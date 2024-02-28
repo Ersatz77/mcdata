@@ -14,7 +14,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:jukebox"
+    "id": "minecraft:jukebox"
   },
   "type": "minecraft:crafting_shaped"
 }

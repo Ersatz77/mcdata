@@ -7,7 +7,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:crimson_button"
+    "id": "minecraft:crimson_button"
   },
   "type": "minecraft:crafting_shapeless"
 }

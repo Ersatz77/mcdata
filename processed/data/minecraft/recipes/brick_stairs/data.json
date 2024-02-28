@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:brick_stairs"
+    "id": "minecraft:brick_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

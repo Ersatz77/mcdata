@@ -11,7 +11,7 @@
     "#"
   ],
   "result": {
-    "item": "minecraft:stick"
+    "id": "minecraft:stick"
   },
   "type": "minecraft:crafting_shaped"
 }

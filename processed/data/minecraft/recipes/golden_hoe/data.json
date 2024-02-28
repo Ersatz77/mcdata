@@ -14,7 +14,7 @@
     " #"
   ],
   "result": {
-    "item": "minecraft:golden_hoe"
+    "id": "minecraft:golden_hoe"
   },
   "type": "minecraft:crafting_shaped"
 }

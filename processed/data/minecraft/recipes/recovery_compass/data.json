@@ -14,7 +14,7 @@
     "SSS"
   ],
   "result": {
-    "item": "minecraft:recovery_compass"
+    "id": "minecraft:recovery_compass"
   },
   "type": "minecraft:crafting_shaped"
 }

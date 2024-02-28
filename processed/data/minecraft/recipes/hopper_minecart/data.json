@@ -9,7 +9,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:hopper_minecart"
+    "id": "minecraft:hopper_minecart"
   },
   "type": "minecraft:crafting_shapeless"
 }

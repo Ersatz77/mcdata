@@ -54,7 +54,7 @@
     ]
   ],
   "result": {
-    "item": "minecraft:pink_carpet"
+    "id": "minecraft:pink_carpet"
   },
   "type": "minecraft:crafting_shapeless"
 }

@@ -14,7 +14,7 @@
     "#W#"
   ],
   "result": {
-    "item": "minecraft:acacia_fence_gate"
+    "id": "minecraft:acacia_fence_gate"
   },
   "type": "minecraft:crafting_shaped"
 }

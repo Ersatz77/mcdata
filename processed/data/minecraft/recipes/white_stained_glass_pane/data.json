@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 16,
-    "item": "minecraft:white_stained_glass_pane"
+    "id": "minecraft:white_stained_glass_pane"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -10,7 +10,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:wooden_slabs"
+            "items": "#minecraft:wooden_slabs"
           }
         ]
       },

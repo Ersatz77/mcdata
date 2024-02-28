@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 3,
-    "item": "minecraft:gray_carpet"
+    "id": "minecraft:gray_carpet"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -15,7 +15,7 @@
   ],
   "result": {
     "count": 16,
-    "item": "minecraft:rail"
+    "id": "minecraft:rail"
   },
   "type": "minecraft:crafting_shaped"
 }

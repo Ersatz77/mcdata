@@ -14,7 +14,7 @@
     " R "
   ],
   "result": {
-    "item": "minecraft:target"
+    "id": "minecraft:target"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -6,7 +6,10 @@
         {
           "functions": [
             {
-              "function": "minecraft:copy_name",
+              "components": [
+                "minecraft:custom_name"
+              ],
+              "function": "minecraft:copy_components",
               "source": "block_entity"
             }
           ],

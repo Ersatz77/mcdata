@@ -10,7 +10,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:wool"
+            "items": "#minecraft:wool"
           }
         ]
       },

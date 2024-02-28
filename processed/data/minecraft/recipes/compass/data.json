@@ -14,7 +14,7 @@
     " # "
   ],
   "result": {
-    "item": "minecraft:compass"
+    "id": "minecraft:compass"
   },
   "type": "minecraft:crafting_shaped"
 }

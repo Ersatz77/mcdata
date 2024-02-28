@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:dark_prismarine_stairs"
+    "id": "minecraft:dark_prismarine_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

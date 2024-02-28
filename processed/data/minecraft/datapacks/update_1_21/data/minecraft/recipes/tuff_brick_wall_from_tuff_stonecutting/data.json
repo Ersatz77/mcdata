@@ -1,8 +1,9 @@
 {
-  "count": 1,
   "ingredient": {
     "item": "minecraft:tuff"
   },
-  "result": "minecraft:tuff_brick_wall",
+  "result": {
+    "id": "minecraft:tuff_brick_wall"
+  },
   "type": "minecraft:stonecutting"
 }

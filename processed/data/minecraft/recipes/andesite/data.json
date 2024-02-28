@@ -10,7 +10,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:andesite"
+    "id": "minecraft:andesite"
   },
   "type": "minecraft:crafting_shapeless"
 }

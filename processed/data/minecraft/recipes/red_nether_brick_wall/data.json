@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:red_nether_brick_wall"
+    "id": "minecraft:red_nether_brick_wall"
   },
   "type": "minecraft:crafting_shaped"
 }

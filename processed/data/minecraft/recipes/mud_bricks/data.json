@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:mud_bricks"
+    "id": "minecraft:mud_bricks"
   },
   "type": "minecraft:crafting_shaped"
 }

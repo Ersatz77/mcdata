@@ -4,9 +4,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:iron_boots"
-            ]
+            "items": "minecraft:iron_boots"
           }
         ]
       },
@@ -16,9 +14,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:iron_chestplate"
-            ]
+            "items": "minecraft:iron_chestplate"
           }
         ]
       },
@@ -28,9 +24,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:iron_helmet"
-            ]
+            "items": "minecraft:iron_helmet"
           }
         ]
       },
@@ -40,9 +34,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:iron_leggings"
-            ]
+            "items": "minecraft:iron_leggings"
           }
         ]
       },
@@ -54,8 +46,7 @@
       "translate": "advancements.story.obtain_armor.description"
     },
     "icon": {
-      "item": "minecraft:iron_chestplate",
-      "nbt": "{Damage:0}"
+      "id": "minecraft:iron_chestplate"
     },
     "title": {
       "translate": "advancements.story.obtain_armor.title"

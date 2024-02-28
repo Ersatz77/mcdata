@@ -14,7 +14,7 @@
     " #"
   ],
   "result": {
-    "item": "minecraft:diamond_hoe"
+    "id": "minecraft:diamond_hoe"
   },
   "type": "minecraft:crafting_shaped"
 }

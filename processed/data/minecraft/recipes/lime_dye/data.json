@@ -10,7 +10,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:lime_dye"
+    "id": "minecraft:lime_dye"
   },
   "type": "minecraft:crafting_shapeless"
 }

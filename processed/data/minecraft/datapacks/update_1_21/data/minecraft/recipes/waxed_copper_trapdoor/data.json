@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:waxed_copper_trapdoor"
+    "id": "minecraft:waxed_copper_trapdoor"
   },
   "type": "minecraft:crafting_shaped"
 }

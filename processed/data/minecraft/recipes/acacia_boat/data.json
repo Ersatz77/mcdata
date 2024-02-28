@@ -11,7 +11,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:acacia_boat"
+    "id": "minecraft:acacia_boat"
   },
   "type": "minecraft:crafting_shaped"
 }

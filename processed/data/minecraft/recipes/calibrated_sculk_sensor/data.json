@@ -13,7 +13,7 @@
     "#X#"
   ],
   "result": {
-    "item": "minecraft:calibrated_sculk_sensor"
+    "id": "minecraft:calibrated_sculk_sensor"
   },
   "type": "minecraft:crafting_shaped"
 }

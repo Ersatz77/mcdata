@@ -10,7 +10,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:black_candle"
+    "id": "minecraft:black_candle"
   },
   "type": "minecraft:crafting_shapeless"
 }

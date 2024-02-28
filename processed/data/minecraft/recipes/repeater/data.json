@@ -16,7 +16,7 @@
     "III"
   ],
   "result": {
-    "item": "minecraft:repeater"
+    "id": "minecraft:repeater"
   },
   "type": "minecraft:crafting_shaped"
 }

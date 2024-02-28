@@ -54,7 +54,7 @@
     ]
   ],
   "result": {
-    "item": "minecraft:green_wool"
+    "id": "minecraft:green_wool"
   },
   "type": "minecraft:crafting_shapeless"
 }

@@ -10,7 +10,7 @@
     "#"
   ],
   "result": {
-    "item": "minecraft:chiseled_tuff"
+    "id": "minecraft:chiseled_tuff"
   },
   "type": "minecraft:crafting_shaped"
 }

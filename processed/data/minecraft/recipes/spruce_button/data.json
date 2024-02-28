@@ -7,7 +7,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:spruce_button"
+    "id": "minecraft:spruce_button"
   },
   "type": "minecraft:crafting_shapeless"
 }

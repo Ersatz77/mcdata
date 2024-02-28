@@ -26,7 +26,7 @@
     },
     "frame": "challenge",
     "icon": {
-      "item": "minecraft:target"
+      "id": "minecraft:target"
     },
     "title": {
       "translate": "advancements.adventure.bullseye.title"

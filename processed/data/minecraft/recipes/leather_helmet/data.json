@@ -10,7 +10,7 @@
     "X X"
   ],
   "result": {
-    "item": "minecraft:leather_helmet"
+    "id": "minecraft:leather_helmet"
   },
   "type": "minecraft:crafting_shaped"
 }

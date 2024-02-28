@@ -10,7 +10,7 @@
     "#"
   ],
   "result": {
-    "item": "minecraft:chiseled_red_sandstone"
+    "id": "minecraft:chiseled_red_sandstone"
   },
   "type": "minecraft:crafting_shaped"
 }

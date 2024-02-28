@@ -4,9 +4,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:deepslate_iron_ore"
-            ]
+            "items": "minecraft:deepslate_iron_ore"
           }
         ]
       },

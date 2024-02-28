@@ -14,7 +14,7 @@
     "#W#"
   ],
   "result": {
-    "item": "minecraft:dark_oak_fence_gate"
+    "id": "minecraft:dark_oak_fence_gate"
   },
   "type": "minecraft:crafting_shaped"
 }

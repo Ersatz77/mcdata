@@ -15,7 +15,7 @@
   ],
   "result": {
     "count": 3,
-    "item": "minecraft:jungle_fence"
+    "id": "minecraft:jungle_fence"
   },
   "type": "minecraft:crafting_shaped"
 }

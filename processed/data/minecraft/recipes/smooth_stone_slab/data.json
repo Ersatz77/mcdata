@@ -10,7 +10,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:smooth_stone_slab"
+    "id": "minecraft:smooth_stone_slab"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -7,7 +7,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:bamboo_button"
+    "id": "minecraft:bamboo_button"
   },
   "type": "minecraft:crafting_shapeless"
 }

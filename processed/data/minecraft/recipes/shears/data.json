@@ -10,7 +10,7 @@
     "# "
   ],
   "result": {
-    "item": "minecraft:shears"
+    "id": "minecraft:shears"
   },
   "type": "minecraft:crafting_shaped"
 }

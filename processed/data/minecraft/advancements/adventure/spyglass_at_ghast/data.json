@@ -3,9 +3,7 @@
     "spyglass_at_ghast": {
       "conditions": {
         "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
+          "items": "minecraft:spyglass"
         },
         "player": [
           {
@@ -30,7 +28,7 @@
       "translate": "advancements.adventure.spyglass_at_ghast.description"
     },
     "icon": {
-      "item": "minecraft:spyglass"
+      "id": "minecraft:spyglass"
     },
     "title": {
       "translate": "advancements.adventure.spyglass_at_ghast.title"

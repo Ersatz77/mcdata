@@ -11,7 +11,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:cauldron"
+    "id": "minecraft:cauldron"
   },
   "type": "minecraft:crafting_shaped"
 }

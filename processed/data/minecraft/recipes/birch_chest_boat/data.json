@@ -10,7 +10,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:birch_chest_boat"
+    "id": "minecraft:birch_chest_boat"
   },
   "type": "minecraft:crafting_shapeless"
 }

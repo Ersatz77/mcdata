@@ -10,7 +10,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:snow_block"
+    "id": "minecraft:snow_block"
   },
   "type": "minecraft:crafting_shaped"
 }

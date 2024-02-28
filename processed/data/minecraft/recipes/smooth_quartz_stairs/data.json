@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:smooth_quartz_stairs"
+    "id": "minecraft:smooth_quartz_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

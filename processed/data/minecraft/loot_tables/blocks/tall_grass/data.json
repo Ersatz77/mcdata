@@ -15,9 +15,7 @@
           "offsetY": 1,
           "predicate": {
             "block": {
-              "blocks": [
-                "minecraft:tall_grass"
-              ],
+              "blocks": "minecraft:tall_grass",
               "state": {
                 "half": "upper"
               }
@@ -33,9 +31,7 @@
                 {
                   "condition": "minecraft:match_tool",
                   "predicate": {
-                    "items": [
-                      "minecraft:shears"
-                    ]
+                    "items": "minecraft:shears"
                   }
                 }
               ],
@@ -83,9 +79,7 @@
           "offsetY": -1,
           "predicate": {
             "block": {
-              "blocks": [
-                "minecraft:tall_grass"
-              ],
+              "blocks": "minecraft:tall_grass",
               "state": {
                 "half": "lower"
               }
@@ -101,9 +95,7 @@
                 {
                   "condition": "minecraft:match_tool",
                   "predicate": {
-                    "items": [
-                      "minecraft:shears"
-                    ]
+                    "items": "minecraft:shears"
                   }
                 }
               ],

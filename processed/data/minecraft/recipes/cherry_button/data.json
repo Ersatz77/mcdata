@@ -7,7 +7,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:cherry_button"
+    "id": "minecraft:cherry_button"
   },
   "type": "minecraft:crafting_shapeless"
 }

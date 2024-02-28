@@ -13,7 +13,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:brewing_stand"
+    "id": "minecraft:brewing_stand"
   },
   "type": "minecraft:crafting_shaped"
 }

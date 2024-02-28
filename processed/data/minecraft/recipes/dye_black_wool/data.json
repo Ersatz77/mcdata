@@ -54,7 +54,7 @@
     ]
   ],
   "result": {
-    "item": "minecraft:black_wool"
+    "id": "minecraft:black_wool"
   },
   "type": "minecraft:crafting_shapeless"
 }

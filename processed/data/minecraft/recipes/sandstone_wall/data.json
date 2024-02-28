@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:sandstone_wall"
+    "id": "minecraft:sandstone_wall"
   },
   "type": "minecraft:crafting_shaped"
 }

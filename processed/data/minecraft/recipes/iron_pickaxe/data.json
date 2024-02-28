@@ -14,7 +14,7 @@
     " # "
   ],
   "result": {
-    "item": "minecraft:iron_pickaxe"
+    "id": "minecraft:iron_pickaxe"
   },
   "type": "minecraft:crafting_shaped"
 }

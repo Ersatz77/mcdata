@@ -10,7 +10,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:waxed_weathered_copper_bulb"
+    "id": "minecraft:waxed_weathered_copper_bulb"
   },
   "type": "minecraft:crafting_shapeless"
 }

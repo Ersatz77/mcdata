@@ -30,7 +30,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:prismarine_bricks"
+    "id": "minecraft:prismarine_bricks"
   },
   "type": "minecraft:crafting_shapeless"
 }

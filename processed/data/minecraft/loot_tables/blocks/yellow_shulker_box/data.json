@@ -6,39 +6,14 @@
         {
           "functions": [
             {
-              "function": "minecraft:copy_name",
-              "source": "block_entity"
-            },
-            {
-              "function": "minecraft:copy_nbt",
-              "ops": [
-                {
-                  "op": "replace",
-                  "source": "Lock",
-                  "target": "BlockEntityTag.Lock"
-                },
-                {
-                  "op": "replace",
-                  "source": "LootTable",
-                  "target": "BlockEntityTag.LootTable"
-                },
-                {
-                  "op": "replace",
-                  "source": "LootTableSeed",
-                  "target": "BlockEntityTag.LootTableSeed"
-                }
+              "components": [
+                "minecraft:custom_name",
+                "minecraft:container",
+                "minecraft:lock",
+                "minecraft:container_loot"
               ],
+              "function": "minecraft:copy_components",
               "source": "block_entity"
-            },
-            {
-              "entries": [
-                {
-                  "name": "minecraft:contents",
-                  "type": "minecraft:dynamic"
-                }
-              ],
-              "function": "minecraft:set_contents",
-              "type": "minecraft:shulker_box"
             }
           ],
           "name": "minecraft:yellow_shulker_box",

@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:oak_stairs"
+    "id": "minecraft:oak_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

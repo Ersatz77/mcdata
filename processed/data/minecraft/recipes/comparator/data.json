@@ -17,7 +17,7 @@
     "III"
   ],
   "result": {
-    "item": "minecraft:comparator"
+    "id": "minecraft:comparator"
   },
   "type": "minecraft:crafting_shaped"
 }

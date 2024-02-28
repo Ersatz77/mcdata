@@ -2435,6 +2435,7 @@
     "minecraft:gameplay/piglin_bartering",
     "minecraft:gameplay/sniffer_digging",
     "minecraft:pots/trial_chambers/corridor",
+    "minecraft:shearing/bogged",
     "minecraft:spawners/trial_chamber/consumables",
     "minecraft:spawners/trial_chamber/key"
   ],

@@ -10,7 +10,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:nether_bricks"
+    "id": "minecraft:nether_bricks"
   },
   "type": "minecraft:crafting_shaped"
 }

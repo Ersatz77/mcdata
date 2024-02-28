@@ -12,7 +12,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:mushroom_stew"
+    "id": "minecraft:mushroom_stew"
   },
   "type": "minecraft:crafting_shapeless"
 }

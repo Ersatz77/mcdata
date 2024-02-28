@@ -18,7 +18,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:waxed_oxidized_copper_bulb"
+    "id": "minecraft:waxed_oxidized_copper_bulb"
   },
   "type": "minecraft:crafting_shaped"
 }

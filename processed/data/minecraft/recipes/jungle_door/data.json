@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 3,
-    "item": "minecraft:jungle_door"
+    "id": "minecraft:jungle_door"
   },
   "type": "minecraft:crafting_shaped"
 }

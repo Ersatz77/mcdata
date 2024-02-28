@@ -10,7 +10,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:prismarine"
+    "id": "minecraft:prismarine"
   },
   "type": "minecraft:crafting_shaped"
 }

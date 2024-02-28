@@ -54,7 +54,7 @@
     ]
   ],
   "result": {
-    "item": "minecraft:cyan_wool"
+    "id": "minecraft:cyan_wool"
   },
   "type": "minecraft:crafting_shapeless"
 }

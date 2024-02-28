@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:andesite_stairs"
+    "id": "minecraft:andesite_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

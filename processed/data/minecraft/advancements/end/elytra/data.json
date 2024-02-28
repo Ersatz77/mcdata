@@ -4,9 +4,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:elytra"
-            ]
+            "items": "minecraft:elytra"
           }
         ]
       },
@@ -19,8 +17,7 @@
     },
     "frame": "goal",
     "icon": {
-      "item": "minecraft:elytra",
-      "nbt": "{Damage:0}"
+      "id": "minecraft:elytra"
     },
     "title": {
       "translate": "advancements.end.elytra.title"

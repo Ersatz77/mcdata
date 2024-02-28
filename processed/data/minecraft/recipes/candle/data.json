@@ -13,7 +13,7 @@
     "H"
   ],
   "result": {
-    "item": "minecraft:candle"
+    "id": "minecraft:candle"
   },
   "type": "minecraft:crafting_shaped"
 }

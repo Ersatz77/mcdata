@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:crimson_stairs"
+    "id": "minecraft:crimson_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

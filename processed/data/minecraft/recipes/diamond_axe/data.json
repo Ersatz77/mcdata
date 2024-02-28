@@ -14,7 +14,7 @@
     " #"
   ],
   "result": {
-    "item": "minecraft:diamond_axe"
+    "id": "minecraft:diamond_axe"
   },
   "type": "minecraft:crafting_shaped"
 }

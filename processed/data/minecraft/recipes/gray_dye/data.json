@@ -10,7 +10,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:gray_dye"
+    "id": "minecraft:gray_dye"
   },
   "type": "minecraft:crafting_shapeless"
 }

@@ -1,8 +1,9 @@
 {
-  "count": 1,
   "ingredient": {
     "item": "minecraft:end_stone"
   },
-  "result": "minecraft:end_stone_bricks",
+  "result": {
+    "id": "minecraft:end_stone_bricks"
+  },
   "type": "minecraft:stonecutting"
 }

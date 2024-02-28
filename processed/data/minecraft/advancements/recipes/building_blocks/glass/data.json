@@ -4,7 +4,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:smelts_to_glass"
+            "items": "#minecraft:smelts_to_glass"
           }
         ]
       },

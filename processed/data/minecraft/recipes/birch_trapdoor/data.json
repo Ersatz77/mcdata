@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:birch_trapdoor"
+    "id": "minecraft:birch_trapdoor"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -7,7 +7,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:brown_dye"
+    "id": "minecraft:brown_dye"
   },
   "type": "minecraft:crafting_shapeless"
 }

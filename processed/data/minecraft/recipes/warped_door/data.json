@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 3,
-    "item": "minecraft:warped_door"
+    "id": "minecraft:warped_door"
   },
   "type": "minecraft:crafting_shaped"
 }

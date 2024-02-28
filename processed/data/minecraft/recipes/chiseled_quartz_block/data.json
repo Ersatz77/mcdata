@@ -10,7 +10,7 @@
     "#"
   ],
   "result": {
-    "item": "minecraft:chiseled_quartz_block"
+    "id": "minecraft:chiseled_quartz_block"
   },
   "type": "minecraft:crafting_shaped"
 }

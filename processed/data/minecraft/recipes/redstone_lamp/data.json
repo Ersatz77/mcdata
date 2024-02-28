@@ -14,7 +14,7 @@
     " R "
   ],
   "result": {
-    "item": "minecraft:redstone_lamp"
+    "id": "minecraft:redstone_lamp"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -7,7 +7,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:warped_button"
+    "id": "minecraft:warped_button"
   },
   "type": "minecraft:crafting_shapeless"
 }

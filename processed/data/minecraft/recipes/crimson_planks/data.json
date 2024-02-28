@@ -8,7 +8,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:crimson_planks"
+    "id": "minecraft:crimson_planks"
   },
   "type": "minecraft:crafting_shapeless"
 }

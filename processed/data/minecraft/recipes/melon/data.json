@@ -30,7 +30,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:melon"
+    "id": "minecraft:melon"
   },
   "type": "minecraft:crafting_shapeless"
 }

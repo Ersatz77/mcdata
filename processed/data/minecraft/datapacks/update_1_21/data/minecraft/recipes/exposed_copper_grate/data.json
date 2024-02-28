@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:exposed_copper_grate"
+    "id": "minecraft:exposed_copper_grate"
   },
   "type": "minecraft:crafting_shaped"
 }

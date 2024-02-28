@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:bamboo_stairs"
+    "id": "minecraft:bamboo_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

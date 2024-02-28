@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:exposed_cut_copper_stairs"
+    "id": "minecraft:exposed_cut_copper_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

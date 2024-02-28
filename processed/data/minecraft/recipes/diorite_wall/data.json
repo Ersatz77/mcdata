@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:diorite_wall"
+    "id": "minecraft:diorite_wall"
   },
   "type": "minecraft:crafting_shaped"
 }

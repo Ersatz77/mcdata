@@ -127,8 +127,8 @@
               "function": "minecraft:furnace_smelt"
             }
           ],
-          "name": "minecraft:gameplay/fishing/fish",
-          "type": "minecraft:loot_table"
+          "type": "minecraft:loot_table",
+          "value": "minecraft:gameplay/fishing/fish"
         }
       ],
       "rolls": 1.0

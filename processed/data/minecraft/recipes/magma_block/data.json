@@ -10,7 +10,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:magma_block"
+    "id": "minecraft:magma_block"
   },
   "type": "minecraft:crafting_shaped"
 }

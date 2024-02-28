@@ -16,7 +16,7 @@
   ],
   "result": {
     "count": 8,
-    "item": "minecraft:light_gray_stained_glass"
+    "id": "minecraft:light_gray_stained_glass"
   },
   "type": "minecraft:crafting_shaped"
 }

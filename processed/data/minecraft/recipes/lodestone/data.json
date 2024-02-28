@@ -14,7 +14,7 @@
     "SSS"
   ],
   "result": {
-    "item": "minecraft:lodestone"
+    "id": "minecraft:lodestone"
   },
   "type": "minecraft:crafting_shaped"
 }

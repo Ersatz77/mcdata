@@ -30,7 +30,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:packed_ice"
+    "id": "minecraft:packed_ice"
   },
   "type": "minecraft:crafting_shapeless"
 }

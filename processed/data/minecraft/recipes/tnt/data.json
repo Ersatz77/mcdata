@@ -19,7 +19,7 @@
     "X#X"
   ],
   "result": {
-    "item": "minecraft:tnt"
+    "id": "minecraft:tnt"
   },
   "type": "minecraft:crafting_shaped"
 }

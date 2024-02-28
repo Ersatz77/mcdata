@@ -16,7 +16,7 @@
   ],
   "result": {
     "count": 8,
-    "item": "minecraft:pink_stained_glass"
+    "id": "minecraft:pink_stained_glass"
   },
   "type": "minecraft:crafting_shaped"
 }

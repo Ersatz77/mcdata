@@ -708,6 +708,7 @@ minecraft:block.wet_grass.hit
 minecraft:block.wet_grass.place
 minecraft:block.wet_grass.step
 minecraft:block.wet_sponge.break
+minecraft:block.wet_sponge.dries
 minecraft:block.wet_sponge.fall
 minecraft:block.wet_sponge.hit
 minecraft:block.wet_sponge.place
@@ -786,6 +787,7 @@ minecraft:entity.boat.paddle_water
 minecraft:entity.bogged.ambient
 minecraft:entity.bogged.death
 minecraft:entity.bogged.hurt
+minecraft:entity.bogged.shear
 minecraft:entity.bogged.step
 minecraft:entity.breeze.charge
 minecraft:entity.breeze.death
@@ -853,6 +855,7 @@ minecraft:entity.donkey.chest
 minecraft:entity.donkey.death
 minecraft:entity.donkey.eat
 minecraft:entity.donkey.hurt
+minecraft:entity.donkey.jump
 minecraft:entity.dragon_fireball.explode
 minecraft:entity.drowned.ambient
 minecraft:entity.drowned.ambient_water
@@ -1073,6 +1076,7 @@ minecraft:entity.mule.chest
 minecraft:entity.mule.death
 minecraft:entity.mule.eat
 minecraft:entity.mule.hurt
+minecraft:entity.mule.jump
 minecraft:entity.ocelot.ambient
 minecraft:entity.ocelot.death
 minecraft:entity.ocelot.hurt
@@ -1516,6 +1520,10 @@ minecraft:item.trident.riptide_2
 minecraft:item.trident.riptide_3
 minecraft:item.trident.throw
 minecraft:item.trident.thunder
+minecraft:item.wolf_armor.break
+minecraft:item.wolf_armor.crack
+minecraft:item.wolf_armor.damage
+minecraft:item.wolf_armor.repair
 minecraft:music.creative
 minecraft:music.credits
 minecraft:music.dragon

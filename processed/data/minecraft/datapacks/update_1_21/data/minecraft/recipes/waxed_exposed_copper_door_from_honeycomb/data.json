@@ -10,7 +10,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:waxed_exposed_copper_door"
+    "id": "minecraft:waxed_exposed_copper_door"
   },
   "type": "minecraft:crafting_shapeless"
 }

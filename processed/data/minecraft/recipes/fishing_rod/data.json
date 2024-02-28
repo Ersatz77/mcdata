@@ -14,7 +14,7 @@
     "# X"
   ],
   "result": {
-    "item": "minecraft:fishing_rod"
+    "id": "minecraft:fishing_rod"
   },
   "type": "minecraft:crafting_shaped"
 }

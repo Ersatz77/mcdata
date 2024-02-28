@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:cherry_slab"
+    "id": "minecraft:cherry_slab"
   },
   "type": "minecraft:crafting_shaped"
 }

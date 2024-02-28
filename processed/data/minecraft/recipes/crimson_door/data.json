@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 3,
-    "item": "minecraft:crimson_door"
+    "id": "minecraft:crimson_door"
   },
   "type": "minecraft:crafting_shaped"
 }

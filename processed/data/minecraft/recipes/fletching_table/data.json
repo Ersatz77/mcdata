@@ -14,7 +14,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:fletching_table"
+    "id": "minecraft:fletching_table"
   },
   "type": "minecraft:crafting_shaped"
 }

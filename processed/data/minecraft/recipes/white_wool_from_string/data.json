@@ -10,7 +10,7 @@
     "##"
   ],
   "result": {
-    "item": "minecraft:white_wool"
+    "id": "minecraft:white_wool"
   },
   "type": "minecraft:crafting_shaped"
 }

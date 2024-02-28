@@ -11,7 +11,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:furnace"
+    "id": "minecraft:furnace"
   },
   "type": "minecraft:crafting_shaped"
 }

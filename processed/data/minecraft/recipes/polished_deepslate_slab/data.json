@@ -10,7 +10,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:polished_deepslate_slab"
+    "id": "minecraft:polished_deepslate_slab"
   },
   "type": "minecraft:crafting_shaped"
 }

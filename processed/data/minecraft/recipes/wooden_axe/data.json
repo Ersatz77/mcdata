@@ -14,7 +14,7 @@
     " #"
   ],
   "result": {
-    "item": "minecraft:wooden_axe"
+    "id": "minecraft:wooden_axe"
   },
   "type": "minecraft:crafting_shaped"
 }

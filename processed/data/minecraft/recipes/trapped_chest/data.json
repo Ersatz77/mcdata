@@ -9,7 +9,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:trapped_chest"
+    "id": "minecraft:trapped_chest"
   },
   "type": "minecraft:crafting_shapeless"
 }

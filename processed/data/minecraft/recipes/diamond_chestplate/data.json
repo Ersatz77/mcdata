@@ -11,7 +11,7 @@
     "XXX"
   ],
   "result": {
-    "item": "minecraft:diamond_chestplate"
+    "id": "minecraft:diamond_chestplate"
   },
   "type": "minecraft:crafting_shaped"
 }

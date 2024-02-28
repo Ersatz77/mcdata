@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:waxed_weathered_cut_copper_stairs"
+    "id": "minecraft:waxed_weathered_cut_copper_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

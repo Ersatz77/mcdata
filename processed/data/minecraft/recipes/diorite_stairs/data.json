@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:diorite_stairs"
+    "id": "minecraft:diorite_stairs"
   },
   "type": "minecraft:crafting_shaped"
 }

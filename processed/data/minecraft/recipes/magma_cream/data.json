@@ -9,7 +9,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:magma_cream"
+    "id": "minecraft:magma_cream"
   },
   "type": "minecraft:crafting_shapeless"
 }

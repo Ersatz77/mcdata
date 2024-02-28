@@ -10,7 +10,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:mud_brick_slab"
+    "id": "minecraft:mud_brick_slab"
   },
   "type": "minecraft:crafting_shaped"
 }

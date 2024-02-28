@@ -14,7 +14,7 @@
     "XXX"
   ],
   "result": {
-    "item": "minecraft:brown_bed"
+    "id": "minecraft:brown_bed"
   },
   "type": "minecraft:crafting_shaped"
 }

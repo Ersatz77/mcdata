@@ -13,7 +13,7 @@
     "B"
   ],
   "result": {
-    "item": "minecraft:jack_o_lantern"
+    "id": "minecraft:jack_o_lantern"
   },
   "type": "minecraft:crafting_shaped"
 }

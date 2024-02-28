@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:jungle_trapdoor"
+    "id": "minecraft:jungle_trapdoor"
   },
   "type": "minecraft:crafting_shaped"
 }

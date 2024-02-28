@@ -54,7 +54,7 @@
     ]
   ],
   "result": {
-    "item": "minecraft:magenta_wool"
+    "id": "minecraft:magenta_wool"
   },
   "type": "minecraft:crafting_shapeless"
 }

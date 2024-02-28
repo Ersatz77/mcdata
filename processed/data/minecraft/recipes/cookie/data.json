@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 8,
-    "item": "minecraft:cookie"
+    "id": "minecraft:cookie"
   },
   "type": "minecraft:crafting_shaped"
 }

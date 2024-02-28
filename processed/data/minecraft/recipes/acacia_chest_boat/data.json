@@ -10,7 +10,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:acacia_chest_boat"
+    "id": "minecraft:acacia_chest_boat"
   },
   "type": "minecraft:crafting_shapeless"
 }

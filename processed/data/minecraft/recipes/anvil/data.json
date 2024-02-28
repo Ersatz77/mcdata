@@ -14,7 +14,7 @@
     "iii"
   ],
   "result": {
-    "item": "minecraft:anvil"
+    "id": "minecraft:anvil"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -9,7 +9,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:packed_mud"
+    "id": "minecraft:packed_mud"
   },
   "type": "minecraft:crafting_shapeless"
 }

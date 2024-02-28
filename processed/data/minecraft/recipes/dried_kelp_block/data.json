@@ -11,7 +11,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:dried_kelp_block"
+    "id": "minecraft:dried_kelp_block"
   },
   "type": "minecraft:crafting_shaped"
 }

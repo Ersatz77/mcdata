@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 3,
-    "item": "minecraft:cherry_door"
+    "id": "minecraft:cherry_door"
   },
   "type": "minecraft:crafting_shaped"
 }

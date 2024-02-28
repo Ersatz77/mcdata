@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:polished_blackstone_bricks"
+    "id": "minecraft:polished_blackstone_bricks"
   },
   "type": "minecraft:crafting_shaped"
 }

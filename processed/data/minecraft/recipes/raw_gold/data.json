@@ -7,7 +7,7 @@
   ],
   "result": {
     "count": 9,
-    "item": "minecraft:raw_gold"
+    "id": "minecraft:raw_gold"
   },
   "type": "minecraft:crafting_shapeless"
 }

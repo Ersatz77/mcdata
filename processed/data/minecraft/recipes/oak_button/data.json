@@ -7,7 +7,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:oak_button"
+    "id": "minecraft:oak_button"
   },
   "type": "minecraft:crafting_shapeless"
 }

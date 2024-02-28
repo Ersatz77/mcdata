@@ -15,7 +15,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:tinted_glass"
+    "id": "minecraft:tinted_glass"
   },
   "type": "minecraft:crafting_shaped"
 }

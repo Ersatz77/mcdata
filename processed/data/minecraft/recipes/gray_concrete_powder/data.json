@@ -32,7 +32,7 @@
   ],
   "result": {
     "count": 8,
-    "item": "minecraft:gray_concrete_powder"
+    "id": "minecraft:gray_concrete_powder"
   },
   "type": "minecraft:crafting_shapeless"
 }

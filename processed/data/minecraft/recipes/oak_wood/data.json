@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 3,
-    "item": "minecraft:oak_wood"
+    "id": "minecraft:oak_wood"
   },
   "type": "minecraft:crafting_shaped"
 }

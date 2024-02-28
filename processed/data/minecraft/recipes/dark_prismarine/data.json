@@ -14,7 +14,7 @@
     "SSS"
   ],
   "result": {
-    "item": "minecraft:dark_prismarine"
+    "id": "minecraft:dark_prismarine"
   },
   "type": "minecraft:crafting_shaped"
 }

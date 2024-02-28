@@ -14,8 +14,8 @@
       "bonus_rolls": 0.0,
       "entries": [
         {
-          "name": "minecraft:entities/sheep",
-          "type": "minecraft:loot_table"
+          "type": "minecraft:loot_table",
+          "value": "minecraft:entities/sheep"
         }
       ],
       "rolls": 1.0

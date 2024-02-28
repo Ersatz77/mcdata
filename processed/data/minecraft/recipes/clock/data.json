@@ -14,7 +14,7 @@
     " # "
   ],
   "result": {
-    "item": "minecraft:clock"
+    "id": "minecraft:clock"
   },
   "type": "minecraft:crafting_shaped"
 }

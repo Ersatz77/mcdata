@@ -12,7 +12,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:writable_book"
+    "id": "minecraft:writable_book"
   },
   "type": "minecraft:crafting_shapeless"
 }

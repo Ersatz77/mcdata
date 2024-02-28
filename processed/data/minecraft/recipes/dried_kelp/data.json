@@ -7,7 +7,7 @@
   ],
   "result": {
     "count": 9,
-    "item": "minecraft:dried_kelp"
+    "id": "minecraft:dried_kelp"
   },
   "type": "minecraft:crafting_shapeless"
 }

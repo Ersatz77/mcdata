@@ -14,7 +14,7 @@
     "###"
   ],
   "result": {
-    "item": "minecraft:map"
+    "id": "minecraft:map"
   },
   "type": "minecraft:crafting_shaped"
 }

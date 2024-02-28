@@ -11,7 +11,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:cobblestone_wall"
+    "id": "minecraft:cobblestone_wall"
   },
   "type": "minecraft:crafting_shaped"
 }

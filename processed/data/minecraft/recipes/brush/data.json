@@ -17,7 +17,7 @@
     "I"
   ],
   "result": {
-    "item": "minecraft:brush"
+    "id": "minecraft:brush"
   },
   "type": "minecraft:crafting_shaped"
 }

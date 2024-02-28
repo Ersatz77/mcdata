@@ -12,7 +12,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:pumpkin_pie"
+    "id": "minecraft:pumpkin_pie"
   },
   "type": "minecraft:crafting_shapeless"
 }

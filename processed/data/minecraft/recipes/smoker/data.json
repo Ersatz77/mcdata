@@ -14,7 +14,7 @@
     " # "
   ],
   "result": {
-    "item": "minecraft:smoker"
+    "id": "minecraft:smoker"
   },
   "type": "minecraft:crafting_shaped"
 }

@@ -15,7 +15,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "minecraft:scaffolding"
+    "id": "minecraft:scaffolding"
   },
   "type": "minecraft:crafting_shaped"
 }
