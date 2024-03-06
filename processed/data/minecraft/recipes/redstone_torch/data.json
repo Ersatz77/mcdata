@@ -13,6 +13,7 @@
     "#"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:redstone_torch"
   },
   "type": "minecraft:crafting_shaped"

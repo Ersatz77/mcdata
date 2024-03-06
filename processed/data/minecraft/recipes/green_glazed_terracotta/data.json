@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:green_terracotta"
   },
-  "result": "minecraft:green_glazed_terracotta",
+  "result": {
+    "id": "minecraft:green_glazed_terracotta"
+  },
   "type": "minecraft:smelting"
 }

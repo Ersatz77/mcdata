@@ -3,6 +3,7 @@
     "item": "minecraft:cut_copper"
   },
   "result": {
+    "count": 1,
     "id": "minecraft:cut_copper_stairs"
   },
   "type": "minecraft:stonecutting"

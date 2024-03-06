@@ -10,6 +10,7 @@
     "X X"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:leather_boots"
   },
   "type": "minecraft:crafting_shaped"

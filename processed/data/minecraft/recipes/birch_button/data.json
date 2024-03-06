@@ -7,6 +7,7 @@
     }
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:birch_button"
   },
   "type": "minecraft:crafting_shapeless"

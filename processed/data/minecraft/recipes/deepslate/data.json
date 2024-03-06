@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:cobbled_deepslate"
   },
-  "result": "minecraft:deepslate",
+  "result": {
+    "id": "minecraft:deepslate"
+  },
   "type": "minecraft:smelting"
 }

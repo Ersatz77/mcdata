@@ -134,6 +134,12 @@
         "minCount": 4,
         "type": "minecraft:chicken",
         "weight": 10
+      },
+      {
+        "maxCount": 4,
+        "minCount": 2,
+        "type": "minecraft:wolf",
+        "weight": 8
       }
     ],
     "misc": [],

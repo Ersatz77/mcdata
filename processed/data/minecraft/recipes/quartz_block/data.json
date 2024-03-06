@@ -10,6 +10,7 @@
     "##"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:quartz_block"
   },
   "type": "minecraft:crafting_shaped"

@@ -15,6 +15,7 @@
     },
     "frame": "goal",
     "icon": {
+      "count": 1,
       "id": "minecraft:totem_of_undying"
     },
     "title": {

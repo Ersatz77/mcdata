@@ -42,6 +42,7 @@
     "frame": "challenge",
     "hidden": true,
     "icon": {
+      "count": 1,
       "id": "minecraft:bucket"
     },
     "title": {

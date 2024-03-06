@@ -13,6 +13,7 @@
     "H"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:candle"
   },
   "type": "minecraft:crafting_shaped"

@@ -54,6 +54,7 @@
     ]
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:orange_carpet"
   },
   "type": "minecraft:crafting_shapeless"

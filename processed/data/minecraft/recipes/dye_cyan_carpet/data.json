@@ -54,6 +54,7 @@
     ]
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:cyan_carpet"
   },
   "type": "minecraft:crafting_shapeless"

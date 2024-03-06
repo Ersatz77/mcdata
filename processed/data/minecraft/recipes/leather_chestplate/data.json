@@ -11,6 +11,7 @@
     "XXX"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:leather_chestplate"
   },
   "type": "minecraft:crafting_shaped"

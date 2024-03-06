@@ -64,6 +64,7 @@
       "translate": "advancements.husbandry.wax_on.description"
     },
     "icon": {
+      "count": 1,
       "id": "minecraft:honeycomb"
     },
     "title": {

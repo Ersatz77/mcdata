@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:nether_quartz_ore"
   },
-  "result": "minecraft:quartz",
+  "result": {
+    "id": "minecraft:quartz"
+  },
   "type": "minecraft:blasting"
 }

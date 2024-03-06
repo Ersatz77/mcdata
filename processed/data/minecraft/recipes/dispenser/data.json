@@ -17,6 +17,7 @@
     "#R#"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:dispenser"
   },
   "type": "minecraft:crafting_shaped"

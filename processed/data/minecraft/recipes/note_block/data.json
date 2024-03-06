@@ -14,6 +14,7 @@
     "###"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:note_block"
   },
   "type": "minecraft:crafting_shaped"

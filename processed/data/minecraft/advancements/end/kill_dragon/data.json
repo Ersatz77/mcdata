@@ -20,6 +20,7 @@
       "translate": "advancements.end.kill_dragon.description"
     },
     "icon": {
+      "count": 1,
       "id": "minecraft:dragon_head"
     },
     "title": {

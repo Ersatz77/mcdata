@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:clay_ball"
   },
-  "result": "minecraft:brick",
+  "result": {
+    "id": "minecraft:brick"
+  },
   "type": "minecraft:smelting"
 }

@@ -3,6 +3,7 @@
     "item": "minecraft:tuff"
   },
   "result": {
+    "count": 1,
     "id": "minecraft:tuff_stairs"
   },
   "type": "minecraft:stonecutting"

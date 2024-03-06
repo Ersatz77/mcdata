@@ -10,6 +10,7 @@
     }
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:waxed_cut_copper_stairs"
   },
   "type": "minecraft:crafting_shapeless"

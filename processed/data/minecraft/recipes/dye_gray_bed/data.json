@@ -54,6 +54,7 @@
     ]
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:gray_bed"
   },
   "type": "minecraft:crafting_shapeless"

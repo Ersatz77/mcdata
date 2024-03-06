@@ -6,6 +6,8 @@
   "ingredient": {
     "item": "minecraft:raw_gold"
   },
-  "result": "minecraft:gold_ingot",
+  "result": {
+    "id": "minecraft:gold_ingot"
+  },
   "type": "minecraft:smelting"
 }

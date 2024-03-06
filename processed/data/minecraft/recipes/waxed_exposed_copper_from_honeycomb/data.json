@@ -10,6 +10,7 @@
     }
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:waxed_exposed_copper"
   },
   "type": "minecraft:crafting_shapeless"

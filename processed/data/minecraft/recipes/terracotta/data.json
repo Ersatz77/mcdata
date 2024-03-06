@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:clay"
   },
-  "result": "minecraft:terracotta",
+  "result": {
+    "id": "minecraft:terracotta"
+  },
   "type": "minecraft:smelting"
 }

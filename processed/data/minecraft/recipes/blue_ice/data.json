@@ -30,6 +30,7 @@
     }
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:blue_ice"
   },
   "type": "minecraft:crafting_shapeless"

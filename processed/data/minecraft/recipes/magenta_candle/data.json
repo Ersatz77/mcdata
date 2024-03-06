@@ -10,6 +10,7 @@
     }
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:magenta_candle"
   },
   "type": "minecraft:crafting_shapeless"

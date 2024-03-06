@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:porkchop"
   },
-  "result": "minecraft:cooked_porkchop",
+  "result": {
+    "id": "minecraft:cooked_porkchop"
+  },
   "type": "minecraft:campfire_cooking"
 }

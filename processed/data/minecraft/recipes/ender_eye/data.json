@@ -9,6 +9,7 @@
     }
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:ender_eye"
   },
   "type": "minecraft:crafting_shapeless"

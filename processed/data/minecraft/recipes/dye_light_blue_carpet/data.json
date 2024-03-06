@@ -54,6 +54,7 @@
     ]
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:light_blue_carpet"
   },
   "type": "minecraft:crafting_shapeless"

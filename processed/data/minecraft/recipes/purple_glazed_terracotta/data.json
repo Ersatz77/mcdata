@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:purple_terracotta"
   },
-  "result": "minecraft:purple_glazed_terracotta",
+  "result": {
+    "id": "minecraft:purple_glazed_terracotta"
+  },
   "type": "minecraft:smelting"
 }

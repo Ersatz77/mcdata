@@ -10,6 +10,7 @@
     },
     "frame": "challenge",
     "icon": {
+      "count": 1,
       "id": "minecraft:sculk_catalyst"
     },
     "title": {

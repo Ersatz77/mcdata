@@ -29,6 +29,7 @@
     },
     "hidden": true,
     "icon": {
+      "count": 1,
       "id": "minecraft:pitcher_pod"
     },
     "title": {

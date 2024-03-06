@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:cobblestone"
   },
-  "result": "minecraft:stone",
+  "result": {
+    "id": "minecraft:stone"
+  },
   "type": "minecraft:smelting"
 }

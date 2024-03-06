@@ -3,6 +3,7 @@
     "item": "minecraft:prismarine"
   },
   "result": {
+    "count": 1,
     "id": "minecraft:prismarine_stairs"
   },
   "type": "minecraft:stonecutting"

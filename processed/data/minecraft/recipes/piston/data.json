@@ -20,6 +20,7 @@
     "#R#"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:piston"
   },
   "type": "minecraft:crafting_shaped"

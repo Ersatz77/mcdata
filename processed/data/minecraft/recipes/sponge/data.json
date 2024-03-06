@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:wet_sponge"
   },
-  "result": "minecraft:sponge",
+  "result": {
+    "id": "minecraft:sponge"
+  },
   "type": "minecraft:smelting"
 }

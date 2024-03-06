@@ -17,6 +17,7 @@
     "###"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:observer"
   },
   "type": "minecraft:crafting_shaped"

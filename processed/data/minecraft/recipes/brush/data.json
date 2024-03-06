@@ -17,6 +17,7 @@
     "I"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:brush"
   },
   "type": "minecraft:crafting_shaped"

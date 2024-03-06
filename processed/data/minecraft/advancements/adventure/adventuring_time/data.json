@@ -855,6 +855,7 @@
     },
     "frame": "challenge",
     "icon": {
+      "count": 1,
       "id": "minecraft:diamond_boots"
     },
     "title": {

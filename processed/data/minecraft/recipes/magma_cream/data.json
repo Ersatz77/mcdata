@@ -9,6 +9,7 @@
     }
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:magma_cream"
   },
   "type": "minecraft:crafting_shapeless"

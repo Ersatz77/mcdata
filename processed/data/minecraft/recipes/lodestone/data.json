@@ -14,6 +14,7 @@
     "SSS"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:lodestone"
   },
   "type": "minecraft:crafting_shaped"

@@ -10,6 +10,7 @@
     "##"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:oak_pressure_plate"
   },
   "type": "minecraft:crafting_shaped"

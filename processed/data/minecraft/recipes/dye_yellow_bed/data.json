@@ -54,6 +54,7 @@
     ]
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:yellow_bed"
   },
   "type": "minecraft:crafting_shapeless"

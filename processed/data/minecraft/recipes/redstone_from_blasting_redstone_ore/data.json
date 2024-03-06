@@ -6,6 +6,8 @@
   "ingredient": {
     "item": "minecraft:redstone_ore"
   },
-  "result": "minecraft:redstone",
+  "result": {
+    "id": "minecraft:redstone"
+  },
   "type": "minecraft:blasting"
 }

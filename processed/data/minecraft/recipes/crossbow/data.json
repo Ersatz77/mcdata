@@ -20,6 +20,7 @@
     " # "
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:crossbow"
   },
   "type": "minecraft:crafting_shaped"

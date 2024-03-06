@@ -54,6 +54,7 @@
     ]
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:yellow_carpet"
   },
   "type": "minecraft:crafting_shapeless"

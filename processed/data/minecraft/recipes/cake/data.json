@@ -20,6 +20,7 @@
     "CCC"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:cake"
   },
   "type": "minecraft:crafting_shaped"

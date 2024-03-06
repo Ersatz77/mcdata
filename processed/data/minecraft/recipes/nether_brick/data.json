@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:netherrack"
   },
-  "result": "minecraft:nether_brick",
+  "result": {
+    "id": "minecraft:nether_brick"
+  },
   "type": "minecraft:smelting"
 }

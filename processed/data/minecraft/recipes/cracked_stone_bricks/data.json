@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:stone_bricks"
   },
-  "result": "minecraft:cracked_stone_bricks",
+  "result": {
+    "id": "minecraft:cracked_stone_bricks"
+  },
   "type": "minecraft:smelting"
 }

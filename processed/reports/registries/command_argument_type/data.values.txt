@@ -22,6 +22,7 @@ minecraft:heightmap
 minecraft:int_range
 minecraft:item_predicate
 minecraft:item_slot
+minecraft:item_slots
 minecraft:item_stack
 minecraft:message
 minecraft:nbt_compound_tag

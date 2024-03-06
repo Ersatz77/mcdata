@@ -14,6 +14,7 @@
     "SCS"
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:sea_lantern"
   },
   "type": "minecraft:crafting_shaped"

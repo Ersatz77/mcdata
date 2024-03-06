@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:ancient_debris"
   },
-  "result": "minecraft:netherite_scrap",
+  "result": {
+    "id": "minecraft:netherite_scrap"
+  },
   "type": "minecraft:blasting"
 }

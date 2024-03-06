@@ -10,6 +10,7 @@
     }
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:pink_candle"
   },
   "type": "minecraft:crafting_shapeless"

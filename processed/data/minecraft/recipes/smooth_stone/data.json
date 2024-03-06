@@ -5,6 +5,8 @@
   "ingredient": {
     "item": "minecraft:stone"
   },
-  "result": "minecraft:smooth_stone",
+  "result": {
+    "id": "minecraft:smooth_stone"
+  },
   "type": "minecraft:smelting"
 }

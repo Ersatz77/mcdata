@@ -27,7 +27,7 @@ minecraft:hide_additional_tooltip
 minecraft:instrument
 minecraft:intangible_projectile
 minecraft:lock
-minecraft:lodestone_target
+minecraft:lodestone_tracker
 minecraft:lore
 minecraft:map_color
 minecraft:map_decorations

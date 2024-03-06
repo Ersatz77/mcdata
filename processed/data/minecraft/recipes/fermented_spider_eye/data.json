@@ -12,6 +12,7 @@
     }
   ],
   "result": {
+    "count": 1,
     "id": "minecraft:fermented_spider_eye"
   },
   "type": "minecraft:crafting_shapeless"

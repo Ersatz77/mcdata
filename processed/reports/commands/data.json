@@ -4455,6 +4455,65 @@
               },
               "type": "literal"
             },
+            "items": {
+              "children": {
+                "block": {
+                  "children": {
+                    "pos": {
+                      "children": {
+                        "slots": {
+                          "children": {
+                            "item_predicate": {
+                              "executable": true,
+                              "parser": "minecraft:item_predicate",
+                              "redirect": [
+                                "execute"
+                              ],
+                              "type": "argument"
+                            }
+                          },
+                          "parser": "minecraft:item_slots",
+                          "type": "argument"
+                        }
+                      },
+                      "parser": "minecraft:block_pos",
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
+                },
+                "entity": {
+                  "children": {
+                    "entities": {
+                      "children": {
+                        "slots": {
+                          "children": {
+                            "item_predicate": {
+                              "executable": true,
+                              "parser": "minecraft:item_predicate",
+                              "redirect": [
+                                "execute"
+                              ],
+                              "type": "argument"
+                            }
+                          },
+                          "parser": "minecraft:item_slots",
+                          "type": "argument"
+                        }
+                      },
+                      "parser": "minecraft:entity",
+                      "properties": {
+                        "amount": "multiple",
+                        "type": "entities"
+                      },
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
+                }
+              },
+              "type": "literal"
+            },
             "loaded": {
               "children": {
                 "pos": {
@@ -5607,6 +5666,65 @@
                     "execute"
                   ],
                   "type": "argument"
+                }
+              },
+              "type": "literal"
+            },
+            "items": {
+              "children": {
+                "block": {
+                  "children": {
+                    "pos": {
+                      "children": {
+                        "slots": {
+                          "children": {
+                            "item_predicate": {
+                              "executable": true,
+                              "parser": "minecraft:item_predicate",
+                              "redirect": [
+                                "execute"
+                              ],
+                              "type": "argument"
+                            }
+                          },
+                          "parser": "minecraft:item_slots",
+                          "type": "argument"
+                        }
+                      },
+                      "parser": "minecraft:block_pos",
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
+                },
+                "entity": {
+                  "children": {
+                    "entities": {
+                      "children": {
+                        "slots": {
+                          "children": {
+                            "item_predicate": {
+                              "executable": true,
+                              "parser": "minecraft:item_predicate",
+                              "redirect": [
+                                "execute"
+                              ],
+                              "type": "argument"
+                            }
+                          },
+                          "parser": "minecraft:item_slots",
+                          "type": "argument"
+                        }
+                      },
+                      "parser": "minecraft:entity",
+                      "properties": {
+                        "amount": "multiple",
+                        "type": "entities"
+                      },
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
                 }
               },
               "type": "literal"

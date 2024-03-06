@@ -6,6 +6,8 @@
   "ingredient": {
     "item": "minecraft:iron_ore"
   },
-  "result": "minecraft:iron_ingot",
+  "result": {
+    "id": "minecraft:iron_ingot"
+  },
   "type": "minecraft:blasting"
 }

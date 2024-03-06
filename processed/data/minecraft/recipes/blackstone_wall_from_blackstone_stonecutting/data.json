@@ -3,6 +3,7 @@
     "item": "minecraft:blackstone"
   },
   "result": {
+    "count": 1,
     "id": "minecraft:blackstone_wall"
   },
   "type": "minecraft:stonecutting"

@@ -6,6 +6,8 @@
   "ingredient": {
     "item": "minecraft:deepslate_diamond_ore"
   },
-  "result": "minecraft:diamond",
+  "result": {
+    "id": "minecraft:diamond"
+  },
   "type": "minecraft:smelting"
 }
