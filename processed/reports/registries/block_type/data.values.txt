@@ -97,6 +97,7 @@ minecraft:grindstone
 minecraft:half_transparent
 minecraft:hanging_roots
 minecraft:hay
+minecraft:heavy_core
 minecraft:honey
 minecraft:hopper
 minecraft:huge_mushroom

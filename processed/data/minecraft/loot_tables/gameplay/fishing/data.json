@@ -17,7 +17,7 @@
               "predicate": {
                 "type_specific": {
                   "in_open_water": true,
-                  "type": "fishing_hook"
+                  "type": "minecraft:fishing_hook"
                 }
               }
             }

@@ -9,7 +9,7 @@
           "predicate": {
             "type_specific": {
               "size": 1,
-              "type": "slime"
+              "type": "minecraft:slime"
             }
           }
         }

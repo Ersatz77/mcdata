@@ -1,0 +1,5 @@
+minecraft:custom_data
+minecraft:damage
+minecraft:enchantments
+minecraft:potion_contents
+minecraft:stored_enchantments

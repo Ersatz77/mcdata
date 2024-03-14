@@ -14,7 +14,7 @@
                 "looking_at": {
                   "type": "minecraft:ender_dragon"
                 },
-                "type": "player"
+                "type": "minecraft:player"
               }
             }
           }

@@ -1,0 +1,17 @@
+minecraft:axolotl
+minecraft:boat
+minecraft:cat
+minecraft:fishing_hook
+minecraft:fox
+minecraft:frog
+minecraft:horse
+minecraft:lightning
+minecraft:llama
+minecraft:mooshroom
+minecraft:painting
+minecraft:parrot
+minecraft:player
+minecraft:rabbit
+minecraft:slime
+minecraft:tropical_fish
+minecraft:villager

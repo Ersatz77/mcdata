@@ -3203,6 +3203,30 @@
       }
     ]
   },
+  "minecraft:bolt_armor_trim_smithing_template": {
+    "components": [
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      },
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      }
+    ]
+  },
   "minecraft:bone": {
     "components": [
       {
@@ -3448,6 +3472,30 @@
     ]
   },
   "minecraft:bread": {
+    "components": [
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      },
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      }
+    ]
+  },
+  "minecraft:breeze_rod": {
     "components": [
       {
         "type": "minecraft:lore",
@@ -11571,6 +11619,78 @@
       }
     ]
   },
+  "minecraft:flow_armor_trim_smithing_template": {
+    "components": [
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      },
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      }
+    ]
+  },
+  "minecraft:flow_banner_pattern": {
+    "components": [
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      },
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      }
+    ]
+  },
+  "minecraft:flow_pottery_sherd": {
+    "components": [
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      },
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      }
+    ]
+  },
   "minecraft:flower_banner_pattern": {
     "components": [
       {
@@ -13634,6 +13754,54 @@
       }
     ]
   },
+  "minecraft:guster_banner_pattern": {
+    "components": [
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      },
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      }
+    ]
+  },
+  "minecraft:guster_pottery_sherd": {
+    "components": [
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      },
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      }
+    ]
+  },
   "minecraft:hanging_roots": {
     "components": [
       {
@@ -13731,6 +13899,30 @@
     ]
   },
   "minecraft:heartbreak_pottery_sherd": {
+    "components": [
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      },
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      }
+    ]
+  },
+  "minecraft:heavy_core": {
     "components": [
       {
         "type": "minecraft:lore",
@@ -17118,6 +17310,34 @@
         "value": {
           "modifiers": []
         }
+      }
+    ]
+  },
+  "minecraft:mace": {
+    "components": [
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      },
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      },
+      {
+        "type": "minecraft:damage",
+        "value": 0
       }
     ]
   },
@@ -25341,6 +25561,30 @@
     ]
   },
   "minecraft:scaffolding": {
+    "components": [
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      },
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      }
+    ]
+  },
+  "minecraft:scrape_pottery_sherd": {
     "components": [
       {
         "type": "minecraft:lore",

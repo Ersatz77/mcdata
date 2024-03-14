@@ -14,7 +14,7 @@
                 "looking_at": {
                   "type": "minecraft:ghast"
                 },
-                "type": "player"
+                "type": "minecraft:player"
               }
             }
           }
