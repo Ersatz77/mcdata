@@ -32,3 +32,4 @@ minecraft:set_potion
 minecraft:set_stew_effect
 minecraft:set_writable_book_pages
 minecraft:set_written_book_pages
+minecraft:toggle_tooltips

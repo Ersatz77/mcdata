@@ -3,6 +3,7 @@
     "minecraft:binomial",
     "minecraft:constant",
     "minecraft:score",
+    "minecraft:storage",
     "minecraft:uniform"
   ]
 }

@@ -24,6 +24,9 @@ minecraft:item_predicate
 minecraft:item_slot
 minecraft:item_slots
 minecraft:item_stack
+minecraft:loot_modifier
+minecraft:loot_predicate
+minecraft:loot_table
 minecraft:message
 minecraft:nbt_compound_tag
 minecraft:nbt_path

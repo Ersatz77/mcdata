@@ -21,6 +21,7 @@ minecraft:powder_snow_walkable_mobs
 minecraft:raiders
 minecraft:sensitive_to_bane_of_arthropods
 minecraft:sensitive_to_impaling
+minecraft:sensitive_to_smite
 minecraft:skeletons
 minecraft:undead
 minecraft:wither_friends

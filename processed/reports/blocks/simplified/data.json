@@ -6724,22 +6724,12 @@
   },
   "minecraft:heavy_core": {
     "default": {
-      "orientation": "north_up"
+      "waterlogged": "false"
     },
     "properties": {
-      "orientation": [
-        "down_east",
-        "down_north",
-        "down_south",
-        "down_west",
-        "up_east",
-        "up_north",
-        "up_south",
-        "up_west",
-        "west_up",
-        "east_up",
-        "north_up",
-        "south_up"
+      "waterlogged": [
+        "true",
+        "false"
       ]
     }
   },

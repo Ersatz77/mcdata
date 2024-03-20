@@ -8,6 +8,7 @@ minecraft:changed_dimension
 minecraft:channeled_lightning
 minecraft:construct_beacon
 minecraft:consume_item
+minecraft:crafter_recipe_crafted
 minecraft:cured_zombie_villager
 minecraft:default_block_use
 minecraft:effects_changed
@@ -15,6 +16,7 @@ minecraft:enchanted_item
 minecraft:enter_block
 minecraft:entity_hurt_player
 minecraft:entity_killed_player
+minecraft:fall_after_explosion
 minecraft:fall_from_height
 minecraft:filled_bucket
 minecraft:fishing_rod_hooked
