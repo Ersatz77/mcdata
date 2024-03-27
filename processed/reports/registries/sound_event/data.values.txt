@@ -189,6 +189,11 @@ minecraft:block.chiseled_bookshelf.place
 minecraft:block.chiseled_bookshelf.step
 minecraft:block.chorus_flower.death
 minecraft:block.chorus_flower.grow
+minecraft:block.cobweb.break
+minecraft:block.cobweb.fall
+minecraft:block.cobweb.hit
+minecraft:block.cobweb.place
+minecraft:block.cobweb.step
 minecraft:block.comparator.click
 minecraft:block.composter.empty
 minecraft:block.composter.fill
@@ -653,8 +658,11 @@ minecraft:block.suspicious_sand.step
 minecraft:block.sweet_berry_bush.break
 minecraft:block.sweet_berry_bush.pick_berries
 minecraft:block.sweet_berry_bush.place
+minecraft:block.trial_spawner.about_to_spawn_item
 minecraft:block.trial_spawner.ambient
+minecraft:block.trial_spawner.ambient_charged
 minecraft:block.trial_spawner.break
+minecraft:block.trial_spawner.charge_activate
 minecraft:block.trial_spawner.close_shutter
 minecraft:block.trial_spawner.detect_player
 minecraft:block.trial_spawner.eject_item
@@ -662,6 +670,8 @@ minecraft:block.trial_spawner.fall
 minecraft:block.trial_spawner.hit
 minecraft:block.trial_spawner.open_shutter
 minecraft:block.trial_spawner.place
+minecraft:block.trial_spawner.spawn_item
+minecraft:block.trial_spawner.spawn_item_begin
 minecraft:block.trial_spawner.spawn_mob
 minecraft:block.trial_spawner.step
 minecraft:block.tripwire.attach
@@ -1439,6 +1449,9 @@ minecraft:entity.zombified_piglin.ambient
 minecraft:entity.zombified_piglin.angry
 minecraft:entity.zombified_piglin.death
 minecraft:entity.zombified_piglin.hurt
+minecraft:event.mob_effect.bad_omen
+minecraft:event.mob_effect.raid_omen
+minecraft:event.mob_effect.trial_omen
 minecraft:event.raid.horn
 minecraft:intentionally_empty
 minecraft:item.armor.equip_chain
@@ -1514,6 +1527,7 @@ minecraft:item.mace.smash_air
 minecraft:item.mace.smash_ground
 minecraft:item.mace.smash_ground_heavy
 minecraft:item.nether_wart.plant
+minecraft:item.ominous_bottle.dispose
 minecraft:item.shield.block
 minecraft:item.shield.break
 minecraft:item.shovel.flatten

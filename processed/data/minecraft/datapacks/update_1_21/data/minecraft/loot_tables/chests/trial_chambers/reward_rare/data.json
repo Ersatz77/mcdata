@@ -4,7 +4,18 @@
       "bonus_rolls": 0.0,
       "entries": [
         {
-          "name": "minecraft:emerald_block",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 4.0,
+                "min": 2.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:emerald",
           "type": "minecraft:item",
           "weight": 3
         },
@@ -21,38 +32,6 @@
             }
           ],
           "name": "minecraft:shield",
-          "type": "minecraft:item",
-          "weight": 3
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "max": 15.0,
-                "min": 5.0,
-                "type": "minecraft:uniform"
-              },
-              "treasure": true
-            }
-          ],
-          "name": "minecraft:iron_chestplate",
-          "type": "minecraft:item",
-          "weight": 3
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "max": 15.0,
-                "min": 5.0,
-                "type": "minecraft:uniform"
-              },
-              "treasure": true
-            }
-          ],
-          "name": "minecraft:iron_axe",
           "type": "minecraft:item",
           "weight": 3
         },
@@ -93,14 +72,14 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
-                "max": 15.0,
-                "min": 5.0,
+                "max": 10.0,
+                "min": 0.0,
                 "type": "minecraft:uniform"
               },
               "treasure": true
             }
           ],
-          "name": "minecraft:diamond_axe",
+          "name": "minecraft:iron_axe",
           "type": "minecraft:item",
           "weight": 2
         },
@@ -109,19 +88,30 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
-                "max": 15.0,
-                "min": 5.0,
+                "max": 10.0,
+                "min": 0.0,
                 "type": "minecraft:uniform"
               },
               "treasure": true
             }
           ],
-          "name": "minecraft:diamond_chestplate",
+          "name": "minecraft:iron_chestplate",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "name": "minecraft:golden_apple",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 2.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:golden_carrot",
           "type": "minecraft:item",
           "weight": 2
         },
@@ -159,6 +149,36 @@
           "name": "minecraft:book",
           "type": "minecraft:item",
           "weight": 2
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 5.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:diamond_chestplate",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "max": 15.0,
+                "min": 5.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": true
+            }
+          ],
+          "name": "minecraft:diamond_axe",
+          "type": "minecraft:item"
         }
       ],
       "rolls": 1.0

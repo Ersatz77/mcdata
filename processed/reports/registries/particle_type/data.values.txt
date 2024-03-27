@@ -24,6 +24,7 @@ minecraft:dripping_obsidian_tear
 minecraft:dripping_water
 minecraft:dust
 minecraft:dust_color_transition
+minecraft:dust_pillar
 minecraft:dust_plume
 minecraft:effect
 minecraft:egg_crack
@@ -55,8 +56,10 @@ minecraft:gust_emitter_large
 minecraft:gust_emitter_small
 minecraft:happy_villager
 minecraft:heart
+minecraft:infested
 minecraft:instant_effect
 minecraft:item
+minecraft:item_cobweb
 minecraft:item_slime
 minecraft:item_snowball
 minecraft:landing_honey
@@ -67,8 +70,10 @@ minecraft:lava
 minecraft:mycelium
 minecraft:nautilus
 minecraft:note
+minecraft:ominous_spawning
 minecraft:poof
 minecraft:portal
+minecraft:raid_omen
 minecraft:rain
 minecraft:reverse_portal
 minecraft:scrape
@@ -77,6 +82,7 @@ minecraft:sculk_charge_pop
 minecraft:sculk_soul
 minecraft:shriek
 minecraft:small_flame
+minecraft:small_gust
 minecraft:smoke
 minecraft:sneeze
 minecraft:snowflake
@@ -89,7 +95,9 @@ minecraft:spore_blossom_air
 minecraft:squid_ink
 minecraft:sweep_attack
 minecraft:totem_of_undying
+minecraft:trial_omen
 minecraft:trial_spawner_detection
+minecraft:trial_spawner_detection_ominous
 minecraft:underwater
 minecraft:vault_connection
 minecraft:vibration

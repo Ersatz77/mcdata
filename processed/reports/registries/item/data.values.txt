@@ -820,6 +820,8 @@ minecraft:observer
 minecraft:obsidian
 minecraft:ocelot_spawn_egg
 minecraft:ochre_froglight
+minecraft:ominous_bottle
+minecraft:ominous_trial_key
 minecraft:orange_banner
 minecraft:orange_bed
 minecraft:orange_candle

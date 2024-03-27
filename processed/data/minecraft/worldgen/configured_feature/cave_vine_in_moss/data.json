@@ -11,21 +11,17 @@
           "distribution": [
             {
               "data": {
-                "type": "minecraft:uniform",
-                "value": {
-                  "max_inclusive": 3,
-                  "min_inclusive": 0
-                }
+                "max_inclusive": 3,
+                "min_inclusive": 0,
+                "type": "minecraft:uniform"
               },
               "weight": 5
             },
             {
               "data": {
-                "type": "minecraft:uniform",
-                "value": {
-                  "max_inclusive": 7,
-                  "min_inclusive": 1
-                }
+                "max_inclusive": 7,
+                "min_inclusive": 1,
+                "type": "minecraft:uniform"
               },
               "weight": 1
             }
@@ -87,11 +83,9 @@
           },
           "type": "minecraft:randomized_int_state_provider",
           "values": {
-            "type": "minecraft:uniform",
-            "value": {
-              "max_inclusive": 25,
-              "min_inclusive": 23
-            }
+            "max_inclusive": 25,
+            "min_inclusive": 23,
+            "type": "minecraft:uniform"
           }
         }
       }

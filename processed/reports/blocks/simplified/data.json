@@ -14284,9 +14284,14 @@
   },
   "minecraft:trial_spawner": {
     "default": {
+      "ominous": "false",
       "trial_spawner_state": "inactive"
     },
     "properties": {
+      "ominous": [
+        "true",
+        "false"
+      ],
       "trial_spawner_state": [
         "inactive",
         "waiting_for_players",
@@ -14650,6 +14655,7 @@
   "minecraft:vault": {
     "default": {
       "facing": "north",
+      "ominous": "false",
       "vault_state": "inactive"
     },
     "properties": {
@@ -14658,6 +14664,10 @@
         "south",
         "west",
         "east"
+      ],
+      "ominous": [
+        "true",
+        "false"
       ],
       "vault_state": [
         "inactive",

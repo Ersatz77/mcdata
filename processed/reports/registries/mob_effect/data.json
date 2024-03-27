@@ -12,6 +12,7 @@
     "minecraft:health_boost",
     "minecraft:hero_of_the_village",
     "minecraft:hunger",
+    "minecraft:infested",
     "minecraft:instant_damage",
     "minecraft:instant_health",
     "minecraft:invisibility",
@@ -21,7 +22,9 @@
     "minecraft:mining_fatigue",
     "minecraft:nausea",
     "minecraft:night_vision",
+    "minecraft:oozing",
     "minecraft:poison",
+    "minecraft:raid_omen",
     "minecraft:regeneration",
     "minecraft:resistance",
     "minecraft:saturation",
@@ -29,9 +32,12 @@
     "minecraft:slowness",
     "minecraft:speed",
     "minecraft:strength",
+    "minecraft:trial_omen",
     "minecraft:unluck",
     "minecraft:water_breathing",
     "minecraft:weakness",
+    "minecraft:weaving",
+    "minecraft:wind_charged",
     "minecraft:wither"
   ]
 }

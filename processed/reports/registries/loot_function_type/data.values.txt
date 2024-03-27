@@ -28,6 +28,7 @@ minecraft:set_instrument
 minecraft:set_loot_table
 minecraft:set_lore
 minecraft:set_name
+minecraft:set_ominous_bottle_amplifier
 minecraft:set_potion
 minecraft:set_stew_effect
 minecraft:set_writable_book_pages

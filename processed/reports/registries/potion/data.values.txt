@@ -2,6 +2,7 @@ minecraft:awkward
 minecraft:fire_resistance
 minecraft:harming
 minecraft:healing
+minecraft:infested
 minecraft:invisibility
 minecraft:leaping
 minecraft:long_fire_resistance
@@ -20,6 +21,7 @@ minecraft:long_weakness
 minecraft:luck
 minecraft:mundane
 minecraft:night_vision
+minecraft:oozing
 minecraft:poison
 minecraft:regeneration
 minecraft:slow_falling
@@ -40,3 +42,5 @@ minecraft:turtle_master
 minecraft:water
 minecraft:water_breathing
 minecraft:weakness
+minecraft:weaving
+minecraft:wind_charged

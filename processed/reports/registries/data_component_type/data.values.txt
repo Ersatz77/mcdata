@@ -29,6 +29,7 @@ minecraft:hide_additional_tooltip
 minecraft:hide_tooltip
 minecraft:instrument
 minecraft:intangible_projectile
+minecraft:item_name
 minecraft:lock
 minecraft:lodestone_tracker
 minecraft:lore
@@ -39,6 +40,7 @@ minecraft:map_post_processing
 minecraft:max_damage
 minecraft:max_stack_size
 minecraft:note_block_sound
+minecraft:ominous_bottle_amplifier
 minecraft:pot_decorations
 minecraft:potion_contents
 minecraft:profile
