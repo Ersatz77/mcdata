@@ -22,9 +22,11 @@
     },
     "foliage_placer": {
       "crown_height": {
-        "max_inclusive": 7,
-        "min_inclusive": 3,
-        "type": "minecraft:uniform"
+        "type": "minecraft:uniform",
+        "value": {
+          "max_inclusive": 7,
+          "min_inclusive": 3
+        }
       },
       "offset": 0,
       "radius": 0,

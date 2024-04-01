@@ -17,6 +17,7 @@ minecraft:bed
 minecraft:beehive
 minecraft:beetroot
 minecraft:bell
+minecraft:big_brain
 minecraft:big_dripleaf
 minecraft:big_dripleaf_stem
 minecraft:blast_furnace
@@ -58,6 +59,7 @@ minecraft:coral
 minecraft:coral_fan
 minecraft:coral_plant
 minecraft:coral_wall_fan
+minecraft:corrupted_potato_peels
 minecraft:crafter
 minecraft:crafting_table
 minecraft:crop
@@ -72,6 +74,7 @@ minecraft:door
 minecraft:double_plant
 minecraft:dragon_egg
 minecraft:drop_experience
+minecraft:drop_experience_transparent
 minecraft:dropper
 minecraft:enchantment_table
 minecraft:end_gateway
@@ -84,6 +87,7 @@ minecraft:fence
 minecraft:fence_gate
 minecraft:fire
 minecraft:fletching_table
+minecraft:floatater
 minecraft:flower
 minecraft:flower_pot
 minecraft:frogspawn
@@ -137,6 +141,7 @@ minecraft:netherrack
 minecraft:note
 minecraft:nylium
 minecraft:observer
+minecraft:pedestal
 minecraft:piglinwallskull
 minecraft:pink_petals
 minecraft:piston_base
@@ -145,10 +150,20 @@ minecraft:pitcher_crop
 minecraft:player_head
 minecraft:player_wall_head
 minecraft:pointed_dripstone
+minecraft:poisonous_mashed_potato
+minecraft:poisonous_potato_cutter
+minecraft:poisonous_potato_zombie_head_block
+minecraft:poisonous_potato_zombie_head_hat
 minecraft:potato
+minecraft:potato_battery
+minecraft:potato_peels
+minecraft:potato_portal
+minecraft:potato_refinery
+minecraft:potato_sprouts
 minecraft:powder_snow
 minecraft:powered
 minecraft:powered_rail
+minecraft:powerful_potato
 minecraft:pressure_plate
 minecraft:pumpkin
 minecraft:rail
@@ -192,6 +207,7 @@ minecraft:stair
 minecraft:standing_sign
 minecraft:stem
 minecraft:stonecutter
+minecraft:strong_roots
 minecraft:structure
 minecraft:structure_void
 minecraft:sugar_cane
@@ -214,6 +230,7 @@ minecraft:turtle_egg
 minecraft:twisting_vines
 minecraft:twisting_vines_plant
 minecraft:vault
+minecraft:vicious_potato
 minecraft:vine
 minecraft:wall
 minecraft:wall_banner
@@ -223,6 +240,7 @@ minecraft:wall_skull
 minecraft:wall_torch
 minecraft:waterlily
 minecraft:waterlogged_transparent
+minecraft:weak_roots
 minecraft:weathering_copper_bulb
 minecraft:weathering_copper_door
 minecraft:weathering_copper_full

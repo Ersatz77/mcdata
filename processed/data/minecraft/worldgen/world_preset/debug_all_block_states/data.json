@@ -6,6 +6,17 @@
       },
       "type": "minecraft:overworld"
     },
+    "minecraft:potato": {
+      "generator": {
+        "biome_source": {
+          "preset": "minecraft:potato",
+          "type": "minecraft:multi_noise"
+        },
+        "settings": "minecraft:potato",
+        "type": "minecraft:noise"
+      },
+      "type": "minecraft:potato"
+    },
     "minecraft:the_end": {
       "generator": {
         "biome_source": {

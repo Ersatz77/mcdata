@@ -1,0 +1,18 @@
+{
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:purple_potato_peels"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PPP",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:purple_potato_peels_block"
+  },
+  "type": "minecraft:crafting_shaped"
+}

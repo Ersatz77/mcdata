@@ -75,9 +75,11 @@
                   "distribution": [
                     {
                       "data": {
-                        "max_inclusive": 4,
-                        "min_inclusive": 0,
-                        "type": "minecraft:uniform"
+                        "type": "minecraft:uniform",
+                        "value": {
+                          "max_inclusive": 4,
+                          "min_inclusive": 0
+                        }
                       },
                       "weight": 2
                     },
@@ -137,9 +139,11 @@
                   "distribution": [
                     {
                       "data": {
-                        "max_inclusive": 4,
-                        "min_inclusive": 0,
-                        "type": "minecraft:uniform"
+                        "type": "minecraft:uniform",
+                        "value": {
+                          "max_inclusive": 4,
+                          "min_inclusive": 0
+                        }
                       },
                       "weight": 2
                     },
@@ -199,9 +203,11 @@
                   "distribution": [
                     {
                       "data": {
-                        "max_inclusive": 4,
-                        "min_inclusive": 0,
-                        "type": "minecraft:uniform"
+                        "type": "minecraft:uniform",
+                        "value": {
+                          "max_inclusive": 4,
+                          "min_inclusive": 0
+                        }
                       },
                       "weight": 2
                     },
@@ -261,9 +267,11 @@
                   "distribution": [
                     {
                       "data": {
-                        "max_inclusive": 4,
-                        "min_inclusive": 0,
-                        "type": "minecraft:uniform"
+                        "type": "minecraft:uniform",
+                        "value": {
+                          "max_inclusive": 4,
+                          "min_inclusive": 0
+                        }
                       },
                       "weight": 2
                     },

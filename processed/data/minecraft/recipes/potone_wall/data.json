@@ -1,0 +1,17 @@
+{
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:potone"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:potone_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

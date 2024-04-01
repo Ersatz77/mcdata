@@ -16,9 +16,11 @@
       "type": "minecraft:random_offset",
       "xz_spread": 0,
       "y_spread": {
-        "max_inclusive": 9,
-        "min_inclusive": 3,
-        "type": "minecraft:uniform"
+        "type": "minecraft:uniform",
+        "value": {
+          "max_inclusive": 9,
+          "min_inclusive": 3
+        }
       }
     },
     {

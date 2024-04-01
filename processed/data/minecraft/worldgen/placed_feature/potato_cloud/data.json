@@ -1,0 +1,18 @@
+{
+  "feature": "minecraft:potato_cloud",
+  "placement": [
+    {
+      "chance": 10,
+      "type": "minecraft:rarity_filter"
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:cloud"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

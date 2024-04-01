@@ -1,0 +1,11 @@
+{
+  "config": {
+    "state_provider": {
+      "state": {
+        "Name": "minecraft:potato_fruit"
+      },
+      "type": "minecraft:simple_state_provider"
+    }
+  },
+  "type": "minecraft:block_pile"
+}

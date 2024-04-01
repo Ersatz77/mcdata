@@ -22,6 +22,7 @@ minecraft:fall_one_cm
 minecraft:fill_cauldron
 minecraft:fish_caught
 minecraft:fly_one_cm
+minecraft:get_peeled
 minecraft:horse_one_cm
 minecraft:inspect_dispenser
 minecraft:inspect_dropper
@@ -33,6 +34,7 @@ minecraft:interact_with_brewingstand
 minecraft:interact_with_campfire
 minecraft:interact_with_cartography_table
 minecraft:interact_with_crafting_table
+minecraft:interact_with_fletching
 minecraft:interact_with_furnace
 minecraft:interact_with_grindstone
 minecraft:interact_with_lectern
@@ -54,8 +56,10 @@ minecraft:play_record
 minecraft:play_time
 minecraft:player_kills
 minecraft:pot_flower
+minecraft:potato_quest_time
 minecraft:raid_trigger
 minecraft:raid_win
+minecraft:said_potato
 minecraft:sleep_in_bed
 minecraft:sneak_time
 minecraft:sprint_one_cm

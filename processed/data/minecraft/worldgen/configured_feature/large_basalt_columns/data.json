@@ -1,14 +1,24 @@
 {
   "config": {
     "height": {
-      "max_inclusive": 10,
-      "min_inclusive": 5,
-      "type": "minecraft:uniform"
+      "type": "minecraft:uniform",
+      "value": {
+        "max_inclusive": 10,
+        "min_inclusive": 5
+      }
     },
     "reach": {
-      "max_inclusive": 3,
-      "min_inclusive": 2,
-      "type": "minecraft:uniform"
+      "type": "minecraft:uniform",
+      "value": {
+        "max_inclusive": 3,
+        "min_inclusive": 2
+      }
+    },
+    "state": {
+      "Name": "minecraft:basalt",
+      "Properties": {
+        "axis": "y"
+      }
     }
   },
   "type": "minecraft:basalt_columns"

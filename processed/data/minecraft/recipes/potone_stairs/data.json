@@ -1,0 +1,18 @@
+{
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:potone"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:potone_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

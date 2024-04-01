@@ -11,25 +11,31 @@
           "distribution": [
             {
               "data": {
-                "max_inclusive": 19,
-                "min_inclusive": 0,
-                "type": "minecraft:uniform"
+                "type": "minecraft:uniform",
+                "value": {
+                  "max_inclusive": 19,
+                  "min_inclusive": 0
+                }
               },
               "weight": 2
             },
             {
               "data": {
-                "max_inclusive": 2,
-                "min_inclusive": 0,
-                "type": "minecraft:uniform"
+                "type": "minecraft:uniform",
+                "value": {
+                  "max_inclusive": 2,
+                  "min_inclusive": 0
+                }
               },
               "weight": 3
             },
             {
               "data": {
-                "max_inclusive": 6,
-                "min_inclusive": 0,
-                "type": "minecraft:uniform"
+                "type": "minecraft:uniform",
+                "value": {
+                  "max_inclusive": 6,
+                  "min_inclusive": 0
+                }
               },
               "weight": 10
             }
@@ -91,9 +97,11 @@
           },
           "type": "minecraft:randomized_int_state_provider",
           "values": {
-            "max_inclusive": 25,
-            "min_inclusive": 23,
-            "type": "minecraft:uniform"
+            "type": "minecraft:uniform",
+            "value": {
+              "max_inclusive": 25,
+              "min_inclusive": 23
+            }
           }
         }
       }

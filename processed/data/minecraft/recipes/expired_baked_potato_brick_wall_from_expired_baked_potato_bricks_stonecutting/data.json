@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:expired_baked_potato_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:expired_baked_potato_brick_wall"
+  },
+  "type": "minecraft:stonecutting"
+}

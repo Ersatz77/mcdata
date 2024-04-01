@@ -7,11 +7,15 @@
           "functions": [
             {
               "add": false,
-              "count": 1.0,
+              "count": {
+                "max": 6.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:cooked_chicken",
+          "name": "minecraft:emerald",
           "type": "minecraft:item",
           "weight": 3
         },
@@ -27,9 +31,8 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:bread",
-          "type": "minecraft:item",
-          "weight": 3
+          "name": "minecraft:golden_carrot",
+          "type": "minecraft:item"
         },
         {
           "functions": [
@@ -45,7 +48,34 @@
           ],
           "name": "minecraft:baked_potato",
           "type": "minecraft:item",
-          "weight": 2
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 10.0,
+                "min": 2.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:glow_berries",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:ender_pearl",
+          "type": "minecraft:item"
         },
         {
           "functions": [
@@ -71,25 +101,10 @@
             },
             {
               "function": "minecraft:set_potion",
-              "id": "minecraft:swiftness"
+              "id": "minecraft:strength"
             }
           ],
           "name": "minecraft:potion",
-          "type": "minecraft:item"
-        },
-        {
-          "functions": [
-            {
-              "add": false,
-              "count": {
-                "max": 4.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "minecraft:rotten_flesh",
           "type": "minecraft:item"
         }
       ],

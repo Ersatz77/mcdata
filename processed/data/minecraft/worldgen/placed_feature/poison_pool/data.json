@@ -1,0 +1,13 @@
+{
+  "feature": "minecraft:poison",
+  "placement": [
+    {
+      "count": 40,
+      "start_offset": 0,
+      "type": "minecraft:count_on_every_layer"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

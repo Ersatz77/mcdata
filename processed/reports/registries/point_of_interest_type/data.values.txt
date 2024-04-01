@@ -15,6 +15,8 @@ minecraft:lodestone
 minecraft:mason
 minecraft:meeting
 minecraft:nether_portal
+minecraft:pedestal
+minecraft:potato_portal
 minecraft:shepherd
 minecraft:toolsmith
 minecraft:weaponsmith

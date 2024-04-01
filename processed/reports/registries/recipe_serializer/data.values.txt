@@ -16,6 +16,8 @@ minecraft:crafting_special_shielddecoration
 minecraft:crafting_special_shulkerboxcoloring
 minecraft:crafting_special_suspiciousstew
 minecraft:crafting_special_tippedarrow
+minecraft:poisonous_potato_cutting
+minecraft:potato_refinement
 minecraft:smelting
 minecraft:smithing_transform
 minecraft:smithing_trim

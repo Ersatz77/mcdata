@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:taterstone"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:taterstone_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

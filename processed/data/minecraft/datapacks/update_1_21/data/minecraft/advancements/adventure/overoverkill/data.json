@@ -14,13 +14,7 @@
                 }
               },
               "type": "minecraft:player"
-            },
-            "tags": [
-              {
-                "expected": true,
-                "id": "minecraft:is_player_attack"
-              }
-            ]
+            }
           }
         }
       },

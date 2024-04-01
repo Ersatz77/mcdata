@@ -12,9 +12,11 @@
   "min_y": -64,
   "monster_spawn_block_light_limit": 0,
   "monster_spawn_light_level": {
-    "max_inclusive": 7,
-    "min_inclusive": 0,
-    "type": "minecraft:uniform"
+    "type": "minecraft:uniform",
+    "value": {
+      "max_inclusive": 7,
+      "min_inclusive": 0
+    }
   },
   "natural": true,
   "piglin_safe": false,

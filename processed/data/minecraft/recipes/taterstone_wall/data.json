@@ -1,0 +1,17 @@
+{
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:taterstone"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:taterstone_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

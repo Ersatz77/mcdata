@@ -1,5 +1,6 @@
 {
   "biomes": "#minecraft:has_structure/nether_fossil",
+  "density_checks": [],
   "height": {
     "max_inclusive": {
       "below_top": 2

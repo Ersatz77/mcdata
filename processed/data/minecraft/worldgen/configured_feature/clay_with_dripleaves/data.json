@@ -18,9 +18,11 @@
     },
     "vertical_range": 2,
     "xz_radius": {
-      "max_inclusive": 7,
-      "min_inclusive": 4,
-      "type": "minecraft:uniform"
+      "type": "minecraft:uniform",
+      "value": {
+        "max_inclusive": 7,
+        "min_inclusive": 4
+      }
     }
   },
   "type": "minecraft:vegetation_patch"

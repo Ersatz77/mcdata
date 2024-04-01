@@ -11,9 +11,11 @@
           "layers": [
             {
               "height": {
-                "max_inclusive": 3,
-                "min_inclusive": 1,
-                "type": "minecraft:biased_to_bottom"
+                "type": "minecraft:biased_to_bottom",
+                "value": {
+                  "max_inclusive": 3,
+                  "min_inclusive": 1
+                }
               },
               "provider": {
                 "state": {

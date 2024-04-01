@@ -2,6 +2,7 @@
   "config": {
     "decorators": [
       {
+        "fixed_height": true,
         "probability": 1.0,
         "type": "minecraft:beehive"
       }

@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "salt": 31415926,
+    "separation": 8,
+    "spacing": 28,
+    "type": "minecraft:random_spread"
+  },
+  "structures": [
+    {
+      "structure": "minecraft:ruined_portatol",
+      "weight": 1
+    }
+  ]
+}

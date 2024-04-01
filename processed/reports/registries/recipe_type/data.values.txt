@@ -1,6 +1,8 @@
 minecraft:blasting
 minecraft:campfire_cooking
 minecraft:crafting
+minecraft:poisonous_potato_cutting
+minecraft:potato_refinement
 minecraft:smelting
 minecraft:smithing
 minecraft:smoking

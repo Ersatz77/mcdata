@@ -9,6 +9,15 @@
       ],
       "entries": [
         {
+          "functions": [
+            {
+              "components": [
+                "minecraft:fletching"
+              ],
+              "function": "minecraft:copy_components",
+              "source": "block_entity"
+            }
+          ],
           "name": "minecraft:fletching_table",
           "type": "minecraft:item"
         }

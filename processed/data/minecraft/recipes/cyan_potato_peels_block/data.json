@@ -1,0 +1,18 @@
+{
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:cyan_potato_peels"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PPP",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:cyan_potato_peels_block"
+  },
+  "type": "minecraft:crafting_shaped"
+}

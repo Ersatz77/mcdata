@@ -31,29 +31,37 @@
     "replaceable": "#minecraft:overworld_carver_replaceables",
     "shape": {
       "distance_factor": {
-        "max_exclusive": 1.0,
-        "min_inclusive": 0.75,
-        "type": "minecraft:uniform"
+        "type": "minecraft:uniform",
+        "value": {
+          "max_exclusive": 1.0,
+          "min_inclusive": 0.75
+        }
       },
       "horizontal_radius_factor": {
-        "max_exclusive": 1.0,
-        "min_inclusive": 0.75,
-        "type": "minecraft:uniform"
+        "type": "minecraft:uniform",
+        "value": {
+          "max_exclusive": 1.0,
+          "min_inclusive": 0.75
+        }
       },
       "thickness": {
-        "max": 6.0,
-        "min": 0.0,
-        "plateau": 2.0,
-        "type": "minecraft:trapezoid"
+        "type": "minecraft:trapezoid",
+        "value": {
+          "max": 6.0,
+          "min": 0.0,
+          "plateau": 2.0
+        }
       },
       "vertical_radius_center_factor": 0.0,
       "vertical_radius_default_factor": 1.0,
       "width_smoothness": 3
     },
     "vertical_rotation": {
-      "max_exclusive": 0.125,
-      "min_inclusive": -0.125,
-      "type": "minecraft:uniform"
+      "type": "minecraft:uniform",
+      "value": {
+        "max_exclusive": 0.125,
+        "min_inclusive": -0.125
+      }
     },
     "y": {
       "max_inclusive": {

@@ -11,6 +11,7 @@
     },
     "valid_blocks": [
       "minecraft:stone",
+      "minecraft:potone",
       "minecraft:granite",
       "minecraft:diorite",
       "minecraft:andesite",
@@ -18,6 +19,7 @@
       "minecraft:tuff",
       "minecraft:calcite",
       "minecraft:dirt",
+      "minecraft:terredepomme",
       "minecraft:snow_block",
       "minecraft:powder_snow",
       "minecraft:packed_ice"

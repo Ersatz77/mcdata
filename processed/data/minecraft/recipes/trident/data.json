@@ -1,0 +1,21 @@
+{
+  "category": "equipment",
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "^": {
+      "item": "minecraft:dent"
+    }
+  },
+  "pattern": [
+    " ^^",
+    " /^",
+    "/  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:trident"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -2,9 +2,11 @@
   "config": {
     "half_height": 1,
     "radius": {
-      "max_inclusive": 3,
-      "min_inclusive": 2,
-      "type": "minecraft:uniform"
+      "type": "minecraft:uniform",
+      "value": {
+        "max_inclusive": 3,
+        "min_inclusive": 2
+      }
     },
     "state_provider": {
       "fallback": {
@@ -18,7 +20,8 @@
     "target": {
       "blocks": [
         "minecraft:dirt",
-        "minecraft:clay"
+        "minecraft:clay",
+        "minecraft:terredepomme"
       ],
       "type": "minecraft:matching_blocks"
     }
