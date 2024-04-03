@@ -1,7 +1,5 @@
 {
   "values": [
-    "minecraft:grass_block",
-    "minecraft:peelgrass_block",
-    "minecraft:corrupted_peelgrass_block"
+    "minecraft:grass_block"
   ]
 }

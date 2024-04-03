@@ -70,7 +70,6 @@ minecraft:frogs_spawnable_on
 minecraft:geode_invalid_blocks
 minecraft:goats_spawnable_on
 minecraft:gold_ores
-minecraft:grows_potatoes
 minecraft:guarded_by_piglins
 minecraft:hoglin_repellents
 minecraft:ice
@@ -101,7 +100,6 @@ minecraft:mangrove_roots_can_grow_through
 minecraft:mineable/axe
 minecraft:mineable/hoe
 minecraft:mineable/pickaxe
-minecraft:mineable/potone
 minecraft:mineable/shovel
 minecraft:mooshrooms_spawnable_on
 minecraft:moss_replaceable
@@ -118,10 +116,8 @@ minecraft:overworld_natural_logs
 minecraft:parrots_spawnable_on
 minecraft:piglin_repellents
 minecraft:planks
-minecraft:poisonous_potato_ores
 minecraft:polar_bears_spawnable_on_alternate
 minecraft:portals
-minecraft:potatostone_base
 minecraft:pressure_plates
 minecraft:prevent_mob_spawning_inside
 minecraft:rabbits_spawnable_on

@@ -33,7 +33,6 @@
     ],
     [
       "minecraft:amethyst_geode",
-      "minecraft:potato_geode",
       "minecraft:forest_rock"
     ],
     [
@@ -57,7 +56,6 @@
       "minecraft:ore_iron_upper",
       "minecraft:ore_iron_middle",
       "minecraft:ore_iron_small",
-      "minecraft:ore_poisonous_potato",
       "minecraft:ore_gold",
       "minecraft:ore_gold_lower",
       "minecraft:ore_redstone",
@@ -107,12 +105,6 @@
         "minCount": 8,
         "type": "minecraft:bat",
         "weight": 10
-      },
-      {
-        "maxCount": 16,
-        "minCount": 8,
-        "type": "minecraft:batato",
-        "weight": 13
       }
     ],
     "axolotls": [],
@@ -173,12 +165,6 @@
         "minCount": 4,
         "type": "minecraft:zombie",
         "weight": 100
-      },
-      {
-        "maxCount": 4,
-        "minCount": 1,
-        "type": "minecraft:poisonous_potato_zombie",
-        "weight": 25
       },
       {
         "maxCount": 1,

@@ -3,8 +3,7 @@
   "placement": [
     {
       "type": "minecraft:count_on_every_layer",
-      "count": 40,
-      "start_offset": 0
+      "count": 40
     },
     {
       "type": "minecraft:biome"

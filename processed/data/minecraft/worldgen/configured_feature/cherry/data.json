@@ -56,18 +56,14 @@
         "type": "minecraft:weighted_list"
       },
       "branch_end_offset_from_top": {
-        "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 0,
-          "min_inclusive": -1
-        }
+        "max_inclusive": 0,
+        "min_inclusive": -1,
+        "type": "minecraft:uniform"
       },
       "branch_horizontal_length": {
-        "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 4,
-          "min_inclusive": 2
-        }
+        "max_inclusive": 4,
+        "min_inclusive": 2,
+        "type": "minecraft:uniform"
       },
       "branch_start_offset_from_top": {
         "max_inclusive": -3,

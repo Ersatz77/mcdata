@@ -18,7 +18,6 @@ minecraft:acacia_wood
 minecraft:activator_rail
 minecraft:air
 minecraft:allium
-minecraft:amber_block
 minecraft:amethyst_block
 minecraft:amethyst_cluster
 minecraft:ancient_debris
@@ -32,10 +31,6 @@ minecraft:attached_pumpkin_stem
 minecraft:azalea
 minecraft:azalea_leaves
 minecraft:azure_bluet
-minecraft:baked_potato_brick_slab
-minecraft:baked_potato_brick_stairs
-minecraft:baked_potato_brick_wall
-minecraft:baked_potato_bricks
 minecraft:bamboo
 minecraft:bamboo_block
 minecraft:bamboo_button
@@ -64,7 +59,6 @@ minecraft:bee_nest
 minecraft:beehive
 minecraft:beetroots
 minecraft:bell
-minecraft:big_brain
 minecraft:big_dripleaf
 minecraft:big_dripleaf_stem
 minecraft:birch_button
@@ -92,7 +86,6 @@ minecraft:black_carpet
 minecraft:black_concrete
 minecraft:black_concrete_powder
 minecraft:black_glazed_terracotta
-minecraft:black_potato_peels_block
 minecraft:black_shulker_box
 minecraft:black_stained_glass
 minecraft:black_stained_glass_pane
@@ -114,7 +107,6 @@ minecraft:blue_concrete_powder
 minecraft:blue_glazed_terracotta
 minecraft:blue_ice
 minecraft:blue_orchid
-minecraft:blue_potato_peels_block
 minecraft:blue_shulker_box
 minecraft:blue_stained_glass
 minecraft:blue_stained_glass_pane
@@ -142,7 +134,6 @@ minecraft:brown_concrete_powder
 minecraft:brown_glazed_terracotta
 minecraft:brown_mushroom
 minecraft:brown_mushroom_block
-minecraft:brown_potato_peels_block
 minecraft:brown_shulker_box
 minecraft:brown_stained_glass
 minecraft:brown_stained_glass_pane
@@ -171,10 +162,6 @@ minecraft:cave_vines
 minecraft:cave_vines_plant
 minecraft:chain
 minecraft:chain_command_block
-minecraft:charred_baked_potato_brick_slab
-minecraft:charred_baked_potato_brick_stairs
-minecraft:charred_baked_potato_brick_wall
-minecraft:charred_baked_potato_bricks
 minecraft:cherry_button
 minecraft:cherry_door
 minecraft:cherry_fence
@@ -224,7 +211,6 @@ minecraft:cocoa
 minecraft:command_block
 minecraft:comparator
 minecraft:composter
-minecraft:compressed_poisonous_potato_block
 minecraft:conduit
 minecraft:copper_block
 minecraft:copper_bulb
@@ -233,8 +219,6 @@ minecraft:copper_grate
 minecraft:copper_ore
 minecraft:copper_trapdoor
 minecraft:cornflower
-minecraft:corrupted_peelgrass_block
-minecraft:corrupted_potato_peels_block
 minecraft:cracked_deepslate_bricks
 minecraft:cracked_deepslate_tiles
 minecraft:cracked_nether_bricks
@@ -278,7 +262,6 @@ minecraft:cyan_carpet
 minecraft:cyan_concrete
 minecraft:cyan_concrete_powder
 minecraft:cyan_glazed_terracotta
-minecraft:cyan_potato_peels_block
 minecraft:cyan_shulker_box
 minecraft:cyan_stained_glass
 minecraft:cyan_stained_glass_pane
@@ -342,7 +325,6 @@ minecraft:deepslate_emerald_ore
 minecraft:deepslate_gold_ore
 minecraft:deepslate_iron_ore
 minecraft:deepslate_lapis_ore
-minecraft:deepslate_poisonous_potato_ore
 minecraft:deepslate_redstone_ore
 minecraft:deepslate_tile_slab
 minecraft:deepslate_tile_stairs
@@ -358,7 +340,6 @@ minecraft:diorite_wall
 minecraft:dirt
 minecraft:dirt_path
 minecraft:dispenser
-minecraft:double_compressed_poisonous_potato_block
 minecraft:dragon_egg
 minecraft:dragon_head
 minecraft:dragon_wall_head
@@ -378,10 +359,6 @@ minecraft:end_stone_brick_stairs
 minecraft:end_stone_brick_wall
 minecraft:end_stone_bricks
 minecraft:ender_chest
-minecraft:expired_baked_potato_brick_slab
-minecraft:expired_baked_potato_brick_stairs
-minecraft:expired_baked_potato_brick_wall
-minecraft:expired_baked_potato_bricks
 minecraft:exposed_chiseled_copper
 minecraft:exposed_copper
 minecraft:exposed_copper_bulb
@@ -399,14 +376,11 @@ minecraft:fire_coral_block
 minecraft:fire_coral_fan
 minecraft:fire_coral_wall_fan
 minecraft:fletching_table
-minecraft:floatater
-minecraft:floatato
 minecraft:flower_pot
 minecraft:flowering_azalea
 minecraft:flowering_azalea_leaves
 minecraft:frogspawn
 minecraft:frosted_ice
-minecraft:frying_table
 minecraft:furnace
 minecraft:gilded_blackstone
 minecraft:glass
@@ -421,7 +395,6 @@ minecraft:granite_stairs
 minecraft:granite_wall
 minecraft:grass_block
 minecraft:gravel
-minecraft:gravtater
 minecraft:gray_banner
 minecraft:gray_bed
 minecraft:gray_candle
@@ -430,7 +403,6 @@ minecraft:gray_carpet
 minecraft:gray_concrete
 minecraft:gray_concrete_powder
 minecraft:gray_glazed_terracotta
-minecraft:gray_potato_peels_block
 minecraft:gray_shulker_box
 minecraft:gray_stained_glass
 minecraft:gray_stained_glass_pane
@@ -445,7 +417,6 @@ minecraft:green_carpet
 minecraft:green_concrete
 minecraft:green_concrete_powder
 minecraft:green_glazed_terracotta
-minecraft:green_potato_peels_block
 minecraft:green_shulker_box
 minecraft:green_stained_glass
 minecraft:green_stained_glass_pane
@@ -518,7 +489,6 @@ minecraft:light_blue_carpet
 minecraft:light_blue_concrete
 minecraft:light_blue_concrete_powder
 minecraft:light_blue_glazed_terracotta
-minecraft:light_blue_potato_peels_block
 minecraft:light_blue_shulker_box
 minecraft:light_blue_stained_glass
 minecraft:light_blue_stained_glass_pane
@@ -533,7 +503,6 @@ minecraft:light_gray_carpet
 minecraft:light_gray_concrete
 minecraft:light_gray_concrete_powder
 minecraft:light_gray_glazed_terracotta
-minecraft:light_gray_potato_peels_block
 minecraft:light_gray_shulker_box
 minecraft:light_gray_stained_glass
 minecraft:light_gray_stained_glass_pane
@@ -553,7 +522,6 @@ minecraft:lime_carpet
 minecraft:lime_concrete
 minecraft:lime_concrete_powder
 minecraft:lime_glazed_terracotta
-minecraft:lime_potato_peels_block
 minecraft:lime_shulker_box
 minecraft:lime_stained_glass
 minecraft:lime_stained_glass_pane
@@ -570,7 +538,6 @@ minecraft:magenta_carpet
 minecraft:magenta_concrete
 minecraft:magenta_concrete_powder
 minecraft:magenta_glazed_terracotta
-minecraft:magenta_potato_peels_block
 minecraft:magenta_shulker_box
 minecraft:magenta_stained_glass
 minecraft:magenta_stained_glass_pane
@@ -660,7 +627,6 @@ minecraft:orange_carpet
 minecraft:orange_concrete
 minecraft:orange_concrete_powder
 minecraft:orange_glazed_terracotta
-minecraft:orange_potato_peels_block
 minecraft:orange_shulker_box
 minecraft:orange_stained_glass
 minecraft:orange_stained_glass_pane
@@ -681,8 +647,6 @@ minecraft:oxidized_cut_copper_stairs
 minecraft:packed_ice
 minecraft:packed_mud
 minecraft:pearlescent_froglight
-minecraft:pedestal
-minecraft:peelgrass_block
 minecraft:peony
 minecraft:petrified_oak_slab
 minecraft:piglin_head
@@ -696,7 +660,6 @@ minecraft:pink_concrete
 minecraft:pink_concrete_powder
 minecraft:pink_glazed_terracotta
 minecraft:pink_petals
-minecraft:pink_potato_peels_block
 minecraft:pink_shulker_box
 minecraft:pink_stained_glass
 minecraft:pink_stained_glass_pane
@@ -712,14 +675,6 @@ minecraft:player_head
 minecraft:player_wall_head
 minecraft:podzol
 minecraft:pointed_dripstone
-minecraft:poison_farmland
-minecraft:poison_path
-minecraft:poisonous_mashed_potato
-minecraft:poisonous_potato_block
-minecraft:poisonous_potato_cutter
-minecraft:poisonous_potato_ore
-minecraft:poisonous_potato_zombie_head_block
-minecraft:poisonous_potato_zombie_head_hat
 minecraft:polished_andesite
 minecraft:polished_andesite_slab
 minecraft:polished_andesite_stairs
@@ -749,41 +704,7 @@ minecraft:polished_tuff_slab
 minecraft:polished_tuff_stairs
 minecraft:polished_tuff_wall
 minecraft:poppy
-minecraft:potato_battery
-minecraft:potato_bud
-minecraft:potato_button
-minecraft:potato_door
-minecraft:potato_fence
-minecraft:potato_fence_gate
-minecraft:potato_flower
-minecraft:potato_fruit
-minecraft:potato_hanging_sign
-minecraft:potato_leaves
-minecraft:potato_pedicule
-minecraft:potato_peels_block
-minecraft:potato_planks
-minecraft:potato_portal
-minecraft:potato_pressure_plate
-minecraft:potato_refinery
-minecraft:potato_sign
-minecraft:potato_slab
-minecraft:potato_sprouts
-minecraft:potato_stairs
-minecraft:potato_stem
-minecraft:potato_trapdoor
-minecraft:potato_wall_hanging_sign
-minecraft:potato_wall_sign
 minecraft:potatoes
-minecraft:potone
-minecraft:potone_copper_ore
-minecraft:potone_diamond_ore
-minecraft:potone_gold_ore
-minecraft:potone_iron_ore
-minecraft:potone_lapis_ore
-minecraft:potone_redstone_ore
-minecraft:potone_slab
-minecraft:potone_stairs
-minecraft:potone_wall
 minecraft:potted_acacia_sapling
 minecraft:potted_allium
 minecraft:potted_azalea_bush
@@ -810,7 +731,6 @@ minecraft:potted_orange_tulip
 minecraft:potted_oxeye_daisy
 minecraft:potted_pink_tulip
 minecraft:potted_poppy
-minecraft:potted_potato_flower
 minecraft:potted_red_mushroom
 minecraft:potted_red_tulip
 minecraft:potted_spruce_sapling
@@ -822,7 +742,6 @@ minecraft:potted_wither_rose
 minecraft:powder_snow
 minecraft:powder_snow_cauldron
 minecraft:powered_rail
-minecraft:powerful_potato
 minecraft:prismarine
 minecraft:prismarine_brick_slab
 minecraft:prismarine_brick_stairs
@@ -840,7 +759,6 @@ minecraft:purple_carpet
 minecraft:purple_concrete
 minecraft:purple_concrete_powder
 minecraft:purple_glazed_terracotta
-minecraft:purple_potato_peels_block
 minecraft:purple_shulker_box
 minecraft:purple_stained_glass
 minecraft:purple_stained_glass_pane
@@ -851,7 +769,6 @@ minecraft:purpur_block
 minecraft:purpur_pillar
 minecraft:purpur_slab
 minecraft:purpur_stairs
-minecraft:quadruple_compressed_poisonous_potato_block
 minecraft:quartz_block
 minecraft:quartz_bricks
 minecraft:quartz_pillar
@@ -875,7 +792,6 @@ minecraft:red_nether_brick_slab
 minecraft:red_nether_brick_stairs
 minecraft:red_nether_brick_wall
 minecraft:red_nether_bricks
-minecraft:red_potato_peels_block
 minecraft:red_sand
 minecraft:red_sandstone
 minecraft:red_sandstone_slab
@@ -897,7 +813,6 @@ minecraft:redstone_wire
 minecraft:reinforced_deepslate
 minecraft:repeater
 minecraft:repeating_command_block
-minecraft:resin_ore
 minecraft:respawn_anchor
 minecraft:rooted_dirt
 minecraft:rose_bush
@@ -999,7 +914,6 @@ minecraft:stripped_spruce_log
 minecraft:stripped_spruce_wood
 minecraft:stripped_warped_hyphae
 minecraft:stripped_warped_stem
-minecraft:strong_roots
 minecraft:structure_block
 minecraft:structure_void
 minecraft:sugar_cane
@@ -1010,12 +924,7 @@ minecraft:sweet_berry_bush
 minecraft:tall_grass
 minecraft:tall_seagrass
 minecraft:target
-minecraft:taterstone
-minecraft:taterstone_slab
-minecraft:taterstone_stairs
-minecraft:taterstone_wall
 minecraft:terracotta
-minecraft:terredepomme
 minecraft:tinted_glass
 minecraft:tnt
 minecraft:torch
@@ -1023,7 +932,6 @@ minecraft:torchflower
 minecraft:torchflower_crop
 minecraft:trapped_chest
 minecraft:trial_spawner
-minecraft:triple_compressed_poisonous_potato_block
 minecraft:tripwire
 minecraft:tripwire_hook
 minecraft:tube_coral
@@ -1043,7 +951,6 @@ minecraft:twisting_vines
 minecraft:twisting_vines_plant
 minecraft:vault
 minecraft:verdant_froglight
-minecraft:vicious_potato
 minecraft:vine
 minecraft:void_air
 minecraft:wall_torch
@@ -1104,7 +1011,6 @@ minecraft:waxed_weathered_copper_trapdoor
 minecraft:waxed_weathered_cut_copper
 minecraft:waxed_weathered_cut_copper_slab
 minecraft:waxed_weathered_cut_copper_stairs
-minecraft:weak_roots
 minecraft:weathered_chiseled_copper
 minecraft:weathered_copper
 minecraft:weathered_copper_bulb
@@ -1144,7 +1050,6 @@ minecraft:yellow_carpet
 minecraft:yellow_concrete
 minecraft:yellow_concrete_powder
 minecraft:yellow_glazed_terracotta
-minecraft:yellow_potato_peels_block
 minecraft:yellow_shulker_box
 minecraft:yellow_stained_glass
 minecraft:yellow_stained_glass_pane

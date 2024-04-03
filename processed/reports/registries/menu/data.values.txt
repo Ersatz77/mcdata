@@ -6,7 +6,6 @@ minecraft:cartography_table
 minecraft:crafter_3x3
 minecraft:crafting
 minecraft:enchantment
-minecraft:fletching
 minecraft:furnace
 minecraft:generic_3x3
 minecraft:generic_9x1
@@ -20,8 +19,6 @@ minecraft:hopper
 minecraft:lectern
 minecraft:loom
 minecraft:merchant
-minecraft:poisonous_potato_cutter
-minecraft:potato_refinery
 minecraft:shulker_box
 minecraft:smithing
 minecraft:smoker

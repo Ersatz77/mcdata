@@ -4,9 +4,9 @@
       "bonus_rolls": 0.0,
       "entries": [
         {
-          "name": "minecraft:enchanted_golden_apple",
+          "name": "minecraft:golden_apple",
           "type": "minecraft:item",
-          "weight": 3
+          "weight": 6
         },
         {
           "name": "minecraft:bolt_armor_trim_smithing_template",
@@ -14,20 +14,12 @@
           "weight": 3
         },
         {
-          "name": "minecraft:flow_armor_trim_smithing_template",
-          "type": "minecraft:item",
-          "weight": 3
-        },
-        {
-          "name": "minecraft:flow_banner_pattern",
-          "type": "minecraft:item"
-        },
-        {
           "name": "minecraft:guster_banner_pattern",
-          "type": "minecraft:item"
+          "type": "minecraft:item",
+          "weight": 2
         },
         {
-          "name": "minecraft:heavy_core",
+          "name": "minecraft:trident",
           "type": "minecraft:item"
         }
       ],

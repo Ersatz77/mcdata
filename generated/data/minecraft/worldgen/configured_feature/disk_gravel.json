@@ -4,10 +4,8 @@
     "half_height": 2,
     "radius": {
       "type": "minecraft:uniform",
-      "value": {
-        "max_inclusive": 5,
-        "min_inclusive": 2
-      }
+      "max_inclusive": 5,
+      "min_inclusive": 2
     },
     "state_provider": {
       "fallback": {
@@ -22,10 +20,7 @@
       "type": "minecraft:matching_blocks",
       "blocks": [
         "minecraft:dirt",
-        "minecraft:grass_block",
-        "minecraft:terredepomme",
-        "minecraft:peelgrass_block",
-        "minecraft:corrupted_peelgrass_block"
+        "minecraft:grass_block"
       ]
     }
   }

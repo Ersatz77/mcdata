@@ -3,7 +3,6 @@
     "#minecraft:animals_spawnable_on",
     "#minecraft:badlands_terracotta",
     "minecraft:red_sand",
-    "minecraft:coarse_dirt",
-    "minecraft:gravtater"
+    "minecraft:coarse_dirt"
   ]
 }

@@ -8,7 +8,6 @@
     "minecraft:entity_scores",
     "minecraft:inverted",
     "minecraft:killed_by_player",
-    "minecraft:killer_main_hand_tool",
     "minecraft:location_check",
     "minecraft:match_tool",
     "minecraft:random_chance",

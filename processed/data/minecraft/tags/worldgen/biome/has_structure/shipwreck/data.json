@@ -1,6 +1,5 @@
 {
   "values": [
-    "#minecraft:is_ocean",
-    "#minecraft:is_potato"
+    "#minecraft:is_ocean"
   ]
 }

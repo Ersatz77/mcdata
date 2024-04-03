@@ -52,11 +52,9 @@
     "trunk_placer": {
       "base_height": 4,
       "bend_length": {
-        "type": "minecraft:uniform",
-        "value": {
-          "max_inclusive": 2,
-          "min_inclusive": 1
-        }
+        "max_inclusive": 2,
+        "min_inclusive": 1,
+        "type": "minecraft:uniform"
       },
       "height_rand_a": 2,
       "height_rand_b": 0,

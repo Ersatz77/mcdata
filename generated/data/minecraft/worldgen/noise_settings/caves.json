@@ -1,6 +1,5 @@
 {
   "aquifers_enabled": false,
-  "bottom_generation_padding": 0,
   "default_block": {
     "Name": "minecraft:stone"
   },

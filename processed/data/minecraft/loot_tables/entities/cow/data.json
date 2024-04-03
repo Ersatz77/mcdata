@@ -71,39 +71,6 @@
         }
       ],
       "rolls": 1.0
-    },
-    {
-      "bonus_rolls": 0.0,
-      "entries": [
-        {
-          "conditions": [
-            {
-              "condition": "minecraft:all_of",
-              "terms": [
-                {
-                  "condition": "minecraft:entity_properties",
-                  "entity": "this",
-                  "predicate": {
-                    "type_specific": {
-                      "is_potato": true,
-                      "type": "minecraft:potato"
-                    }
-                  }
-                },
-                {
-                  "condition": "minecraft:killer_main_hand_tool",
-                  "value": {
-                    "items": "minecraft:potato_peeler"
-                  }
-                }
-              ]
-            }
-          ],
-          "name": "minecraft:brown_potato_peels",
-          "type": "minecraft:item"
-        }
-      ],
-      "rolls": 1.0
     }
   ],
   "random_sequence": "minecraft:entities/cow",

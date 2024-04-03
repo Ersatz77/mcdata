@@ -6,7 +6,6 @@
     "minecraft:zombified_piglin",
     "minecraft:zoglin",
     "minecraft:drowned",
-    "minecraft:husk",
-    "minecraft:poisonous_potato_zombie"
+    "minecraft:husk"
   ]
 }

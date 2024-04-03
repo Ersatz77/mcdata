@@ -1,8 +1,0 @@
-{
-  "feature": "minecraft:park_lane_surface",
-  "placement": [
-    {
-      "type": "minecraft:biome"
-    }
-  ]
-}

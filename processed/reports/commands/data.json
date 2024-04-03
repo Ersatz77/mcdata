@@ -6504,17 +6504,6 @@
           "executable": true,
           "type": "literal"
         },
-        "floataterSizeLimit": {
-          "children": {
-            "value": {
-              "executable": true,
-              "parser": "brigadier:integer",
-              "type": "argument"
-            }
-          },
-          "executable": true,
-          "type": "literal"
-        },
         "forgiveDeadPlayers": {
           "children": {
             "value": {
@@ -6637,17 +6626,6 @@
           "type": "literal"
         },
         "naturalRegeneration": {
-          "children": {
-            "value": {
-              "executable": true,
-              "parser": "brigadier:bool",
-              "type": "argument"
-            }
-          },
-          "executable": true,
-          "type": "literal"
-        },
-        "neverEatArmor": {
           "children": {
             "value": {
               "executable": true,
@@ -7000,7 +6978,7 @@
                                   "executable": true,
                                   "parser": "brigadier:integer",
                                   "properties": {
-                                    "max": 64,
+                                    "max": 99,
                                     "min": 1
                                   },
                                   "type": "argument"
@@ -7093,7 +7071,7 @@
                                   "executable": true,
                                   "parser": "brigadier:integer",
                                   "properties": {
-                                    "max": 64,
+                                    "max": 99,
                                     "min": 1
                                   },
                                   "type": "argument"

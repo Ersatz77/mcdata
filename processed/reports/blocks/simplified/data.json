@@ -406,10 +406,6 @@
     "default": {},
     "properties": {}
   },
-  "minecraft:amber_block": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:amethyst_block": {
     "default": {},
     "properties": {}
@@ -600,98 +596,6 @@
     }
   },
   "minecraft:azure_bluet": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:baked_potato_brick_slab": {
-    "default": {
-      "type": "bottom",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "type": [
-        "top",
-        "bottom",
-        "double"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:baked_potato_brick_stairs": {
-    "default": {
-      "facing": "north",
-      "half": "bottom",
-      "shape": "straight",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "half": [
-        "top",
-        "bottom"
-      ],
-      "shape": [
-        "straight",
-        "inner_left",
-        "inner_right",
-        "outer_left",
-        "outer_right"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:baked_potato_brick_wall": {
-    "default": {
-      "east": "none",
-      "north": "none",
-      "south": "none",
-      "up": "true",
-      "waterlogged": "false",
-      "west": "none"
-    },
-    "properties": {
-      "east": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "north": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "south": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "up": [
-        "true",
-        "false"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ],
-      "west": [
-        "none",
-        "low",
-        "tall"
-      ]
-    }
-  },
-  "minecraft:baked_potato_bricks": {
     "default": {},
     "properties": {}
   },
@@ -1231,19 +1135,6 @@
       ]
     }
   },
-  "minecraft:big_brain": {
-    "default": {
-      "facing": "north"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ]
-    }
-  },
   "minecraft:big_dripleaf": {
     "default": {
       "facing": "north",
@@ -1768,10 +1659,6 @@
       ]
     }
   },
-  "minecraft:black_potato_peels_block": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:black_shulker_box": {
     "default": {
       "facing": "up"
@@ -2065,10 +1952,6 @@
     "properties": {}
   },
   "minecraft:blue_orchid": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:blue_potato_peels_block": {
     "default": {},
     "properties": {}
   },
@@ -2462,10 +2345,6 @@
         "false"
       ]
     }
-  },
-  "minecraft:brown_potato_peels_block": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:brown_shulker_box": {
     "default": {
@@ -2876,98 +2755,6 @@
         "down"
       ]
     }
-  },
-  "minecraft:charred_baked_potato_brick_slab": {
-    "default": {
-      "type": "bottom",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "type": [
-        "top",
-        "bottom",
-        "double"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:charred_baked_potato_brick_stairs": {
-    "default": {
-      "facing": "north",
-      "half": "bottom",
-      "shape": "straight",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "half": [
-        "top",
-        "bottom"
-      ],
-      "shape": [
-        "straight",
-        "inner_left",
-        "inner_right",
-        "outer_left",
-        "outer_right"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:charred_baked_potato_brick_wall": {
-    "default": {
-      "east": "none",
-      "north": "none",
-      "south": "none",
-      "up": "true",
-      "waterlogged": "false",
-      "west": "none"
-    },
-    "properties": {
-      "east": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "north": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "south": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "up": [
-        "true",
-        "false"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ],
-      "west": [
-        "none",
-        "low",
-        "tall"
-      ]
-    }
-  },
-  "minecraft:charred_baked_potato_bricks": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:cherry_button": {
     "default": {
@@ -3798,10 +3585,6 @@
       ]
     }
   },
-  "minecraft:compressed_poisonous_potato_block": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:conduit": {
     "default": {
       "waterlogged": "true"
@@ -3915,21 +3698,6 @@
     }
   },
   "minecraft:cornflower": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:corrupted_peelgrass_block": {
-    "default": {
-      "snowy": "false"
-    },
-    "properties": {
-      "snowy": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:corrupted_potato_peels_block": {
     "default": {},
     "properties": {}
   },
@@ -4589,10 +4357,6 @@
         "east"
       ]
     }
-  },
-  "minecraft:cyan_potato_peels_block": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:cyan_shulker_box": {
     "default": {
@@ -5517,10 +5281,6 @@
     "default": {},
     "properties": {}
   },
-  "minecraft:deepslate_poisonous_potato_ore": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:deepslate_redstone_ore": {
     "default": {
       "lit": "false"
@@ -5777,10 +5537,6 @@
       ]
     }
   },
-  "minecraft:double_compressed_poisonous_potato_block": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:dragon_egg": {
     "default": {},
     "properties": {}
@@ -6027,98 +5783,6 @@
         "false"
       ]
     }
-  },
-  "minecraft:expired_baked_potato_brick_slab": {
-    "default": {
-      "type": "bottom",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "type": [
-        "top",
-        "bottom",
-        "double"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:expired_baked_potato_brick_stairs": {
-    "default": {
-      "facing": "north",
-      "half": "bottom",
-      "shape": "straight",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "half": [
-        "top",
-        "bottom"
-      ],
-      "shape": [
-        "straight",
-        "inner_left",
-        "inner_right",
-        "outer_left",
-        "outer_right"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:expired_baked_potato_brick_wall": {
-    "default": {
-      "east": "none",
-      "north": "none",
-      "south": "none",
-      "up": "true",
-      "waterlogged": "false",
-      "west": "none"
-    },
-    "properties": {
-      "east": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "north": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "south": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "up": [
-        "true",
-        "false"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ],
-      "west": [
-        "none",
-        "low",
-        "tall"
-      ]
-    }
-  },
-  "minecraft:expired_baked_potato_bricks": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:exposed_chiseled_copper": {
     "default": {},
@@ -6392,30 +6056,6 @@
     "default": {},
     "properties": {}
   },
-  "minecraft:floatater": {
-    "default": {
-      "facing": "north",
-      "triggered": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "east",
-        "south",
-        "west",
-        "up",
-        "down"
-      ],
-      "triggered": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:floatato": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:flower_pot": {
     "default": {},
     "properties": {}
@@ -6464,34 +6104,6 @@
         "1",
         "2",
         "3"
-      ]
-    }
-  },
-  "minecraft:frying_table": {
-    "default": {
-      "facing": "north",
-      "lit": "true",
-      "signal_fire": "false",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "lit": [
-        "true",
-        "false"
-      ],
-      "signal_fire": [
-        "true",
-        "false"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
       ]
     }
   },
@@ -6712,10 +6324,6 @@
     "default": {},
     "properties": {}
   },
-  "minecraft:gravtater": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:gray_banner": {
     "default": {
       "rotation": "0"
@@ -6822,10 +6430,6 @@
         "east"
       ]
     }
-  },
-  "minecraft:gray_potato_peels_block": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:gray_shulker_box": {
     "default": {
@@ -7004,10 +6608,6 @@
         "east"
       ]
     }
-  },
-  "minecraft:green_potato_peels_block": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:green_shulker_box": {
     "default": {
@@ -8118,10 +7718,6 @@
       ]
     }
   },
-  "minecraft:light_blue_potato_peels_block": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:light_blue_shulker_box": {
     "default": {
       "facing": "up"
@@ -8299,10 +7895,6 @@
         "east"
       ]
     }
-  },
-  "minecraft:light_gray_potato_peels_block": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:light_gray_shulker_box": {
     "default": {
@@ -8551,10 +8143,6 @@
       ]
     }
   },
-  "minecraft:lime_potato_peels_block": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:lime_shulker_box": {
     "default": {
       "facing": "up"
@@ -8749,10 +8337,6 @@
         "east"
       ]
     }
-  },
-  "minecraft:magenta_potato_peels_block": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:magenta_shulker_box": {
     "default": {
@@ -10393,10 +9977,6 @@
       ]
     }
   },
-  "minecraft:orange_potato_peels_block": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:orange_shulker_box": {
     "default": {
       "facing": "up"
@@ -10649,21 +10229,6 @@
       ]
     }
   },
-  "minecraft:pedestal": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:peelgrass_block": {
-    "default": {
-      "snowy": "false"
-    },
-    "properties": {
-      "snowy": [
-        "true",
-        "false"
-      ]
-    }
-  },
   "minecraft:peony": {
     "default": {
       "half": "lower"
@@ -10866,10 +10431,6 @@
         "4"
       ]
     }
-  },
-  "minecraft:pink_potato_peels_block": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:pink_shulker_box": {
     "default": {
@@ -11101,91 +10662,6 @@
       "waterlogged": [
         "true",
         "false"
-      ]
-    }
-  },
-  "minecraft:poison_farmland": {
-    "default": {
-      "moisture": "0"
-    },
-    "properties": {
-      "moisture": [
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ]
-    }
-  },
-  "minecraft:poison_path": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:poisonous_mashed_potato": {
-    "default": {
-      "layers": "1"
-    },
-    "properties": {
-      "layers": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8"
-      ]
-    }
-  },
-  "minecraft:poisonous_potato_block": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:poisonous_potato_cutter": {
-    "default": {
-      "facing": "north"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ]
-    }
-  },
-  "minecraft:poisonous_potato_ore": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:poisonous_potato_zombie_head_block": {
-    "default": {
-      "facing": "north"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ]
-    }
-  },
-  "minecraft:poisonous_potato_zombie_head_hat": {
-    "default": {
-      "facing": "north"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
       ]
     }
   },
@@ -11764,451 +11240,9 @@
     "default": {},
     "properties": {}
   },
-  "minecraft:potato_battery": {
-    "default": {
-      "inverted": "false"
-    },
-    "properties": {
-      "inverted": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_bud": {
-    "default": {
-      "thickness": "tip",
-      "vertical_direction": "up",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "thickness": [
-        "tip_merge",
-        "tip",
-        "frustum",
-        "middle",
-        "base"
-      ],
-      "vertical_direction": [
-        "up",
-        "down"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_button": {
-    "default": {
-      "face": "wall",
-      "facing": "north",
-      "powered": "false"
-    },
-    "properties": {
-      "face": [
-        "floor",
-        "wall",
-        "ceiling"
-      ],
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "powered": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_door": {
-    "default": {
-      "facing": "north",
-      "half": "lower",
-      "hinge": "left",
-      "open": "false",
-      "powered": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "half": [
-        "upper",
-        "lower"
-      ],
-      "hinge": [
-        "left",
-        "right"
-      ],
-      "open": [
-        "true",
-        "false"
-      ],
-      "powered": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_fence": {
-    "default": {
-      "east": "false",
-      "north": "false",
-      "south": "false",
-      "waterlogged": "false",
-      "west": "false"
-    },
-    "properties": {
-      "east": [
-        "true",
-        "false"
-      ],
-      "north": [
-        "true",
-        "false"
-      ],
-      "south": [
-        "true",
-        "false"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ],
-      "west": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_fence_gate": {
-    "default": {
-      "facing": "north",
-      "in_wall": "false",
-      "open": "false",
-      "powered": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "in_wall": [
-        "true",
-        "false"
-      ],
-      "open": [
-        "true",
-        "false"
-      ],
-      "powered": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_flower": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potato_fruit": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potato_hanging_sign": {
-    "default": {
-      "attached": "false",
-      "rotation": "0",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "attached": [
-        "true",
-        "false"
-      ],
-      "rotation": [
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_leaves": {
-    "default": {
-      "distance": "7",
-      "persistent": "false",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "distance": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "persistent": [
-        "true",
-        "false"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_pedicule": {
-    "default": {
-      "axis": "y",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "axis": [
-        "x",
-        "y",
-        "z"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_peels_block": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potato_planks": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potato_portal": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potato_pressure_plate": {
-    "default": {
-      "powered": "false"
-    },
-    "properties": {
-      "powered": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_refinery": {
-    "default": {
-      "facing": "north",
-      "lit": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "lit": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_sign": {
-    "default": {
-      "rotation": "0",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "rotation": [
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_slab": {
-    "default": {
-      "type": "bottom",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "type": [
-        "top",
-        "bottom",
-        "double"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_sprouts": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potato_stairs": {
-    "default": {
-      "facing": "north",
-      "half": "bottom",
-      "shape": "straight",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "half": [
-        "top",
-        "bottom"
-      ],
-      "shape": [
-        "straight",
-        "inner_left",
-        "inner_right",
-        "outer_left",
-        "outer_right"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_stem": {
-    "default": {
-      "axis": "y"
-    },
-    "properties": {
-      "axis": [
-        "x",
-        "y",
-        "z"
-      ]
-    }
-  },
-  "minecraft:potato_trapdoor": {
-    "default": {
-      "facing": "north",
-      "half": "bottom",
-      "open": "false",
-      "powered": "false",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "half": [
-        "top",
-        "bottom"
-      ],
-      "open": [
-        "true",
-        "false"
-      ],
-      "powered": [
-        "true",
-        "false"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_wall_hanging_sign": {
-    "default": {
-      "facing": "north",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potato_wall_sign": {
-    "default": {
-      "facing": "north",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
   "minecraft:potatoes": {
     "default": {
-      "age": "0",
-      "tater_boost": "0"
+      "age": "0"
     },
     "properties": {
       "age": [
@@ -12220,134 +11254,6 @@
         "5",
         "6",
         "7"
-      ],
-      "tater_boost": [
-        "0",
-        "1",
-        "2"
-      ]
-    }
-  },
-  "minecraft:potone": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potone_copper_ore": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potone_diamond_ore": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potone_gold_ore": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potone_iron_ore": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potone_lapis_ore": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:potone_redstone_ore": {
-    "default": {
-      "lit": "false"
-    },
-    "properties": {
-      "lit": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potone_slab": {
-    "default": {
-      "type": "bottom",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "type": [
-        "top",
-        "bottom",
-        "double"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potone_stairs": {
-    "default": {
-      "facing": "north",
-      "half": "bottom",
-      "shape": "straight",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "half": [
-        "top",
-        "bottom"
-      ],
-      "shape": [
-        "straight",
-        "inner_left",
-        "inner_right",
-        "outer_left",
-        "outer_right"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:potone_wall": {
-    "default": {
-      "east": "none",
-      "north": "none",
-      "south": "none",
-      "up": "true",
-      "waterlogged": "false",
-      "west": "none"
-    },
-    "properties": {
-      "east": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "north": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "south": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "up": [
-        "true",
-        "false"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ],
-      "west": [
-        "none",
-        "low",
-        "tall"
       ]
     }
   },
@@ -12455,10 +11361,6 @@
     "default": {},
     "properties": {}
   },
-  "minecraft:potted_potato_flower": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:potted_red_mushroom": {
     "default": {},
     "properties": {}
@@ -12529,19 +11431,6 @@
       "waterlogged": [
         "true",
         "false"
-      ]
-    }
-  },
-  "minecraft:powerful_potato": {
-    "default": {
-      "age": "0"
-    },
-    "properties": {
-      "age": [
-        "0",
-        "1",
-        "2",
-        "3"
       ]
     }
   },
@@ -12817,10 +11706,6 @@
       ]
     }
   },
-  "minecraft:purple_potato_peels_block": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:purple_shulker_box": {
     "default": {
       "facing": "up"
@@ -12955,10 +11840,6 @@
         "false"
       ]
     }
-  },
-  "minecraft:quadruple_compressed_poisonous_potato_block": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:quartz_block": {
     "default": {},
@@ -13303,10 +12184,6 @@
     "default": {},
     "properties": {}
   },
-  "minecraft:red_potato_peels_block": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:red_sand": {
     "default": {},
     "properties": {}
@@ -13635,10 +12512,6 @@
         "down"
       ]
     }
-  },
-  "minecraft:resin_ore": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:respawn_anchor": {
     "default": {
@@ -15208,47 +14081,6 @@
       ]
     }
   },
-  "minecraft:strong_roots": {
-    "default": {
-      "down": "false",
-      "east": "false",
-      "north": "false",
-      "south": "false",
-      "up": "false",
-      "waterlogged": "false",
-      "west": "false"
-    },
-    "properties": {
-      "down": [
-        "true",
-        "false"
-      ],
-      "east": [
-        "true",
-        "false"
-      ],
-      "north": [
-        "true",
-        "false"
-      ],
-      "south": [
-        "true",
-        "false"
-      ],
-      "up": [
-        "true",
-        "false"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ],
-      "west": [
-        "true",
-        "false"
-      ]
-    }
-  },
   "minecraft:structure_block": {
     "default": {
       "mode": "load"
@@ -15388,103 +14220,7 @@
       ]
     }
   },
-  "minecraft:taterstone": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:taterstone_slab": {
-    "default": {
-      "type": "bottom",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "type": [
-        "top",
-        "bottom",
-        "double"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:taterstone_stairs": {
-    "default": {
-      "facing": "north",
-      "half": "bottom",
-      "shape": "straight",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "half": [
-        "top",
-        "bottom"
-      ],
-      "shape": [
-        "straight",
-        "inner_left",
-        "inner_right",
-        "outer_left",
-        "outer_right"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
-  "minecraft:taterstone_wall": {
-    "default": {
-      "east": "none",
-      "north": "none",
-      "south": "none",
-      "up": "true",
-      "waterlogged": "false",
-      "west": "none"
-    },
-    "properties": {
-      "east": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "north": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "south": [
-        "none",
-        "low",
-        "tall"
-      ],
-      "up": [
-        "true",
-        "false"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ],
-      "west": [
-        "none",
-        "low",
-        "tall"
-      ]
-    }
-  },
   "minecraft:terracotta": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:terredepomme": {
     "default": {},
     "properties": {}
   },
@@ -15548,9 +14284,14 @@
   },
   "minecraft:trial_spawner": {
     "default": {
+      "ominous": "false",
       "trial_spawner_state": "inactive"
     },
     "properties": {
+      "ominous": [
+        "true",
+        "false"
+      ],
       "trial_spawner_state": [
         "inactive",
         "waiting_for_players",
@@ -15560,10 +14301,6 @@
         "cooldown"
       ]
     }
-  },
-  "minecraft:triple_compressed_poisonous_potato_block": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:tripwire": {
     "default": {
@@ -15918,6 +14655,7 @@
   "minecraft:vault": {
     "default": {
       "facing": "north",
+      "ominous": "false",
       "vault_state": "inactive"
     },
     "properties": {
@@ -15926,6 +14664,10 @@
         "south",
         "west",
         "east"
+      ],
+      "ominous": [
+        "true",
+        "false"
       ],
       "vault_state": [
         "inactive",
@@ -15944,17 +14686,6 @@
         "x",
         "y",
         "z"
-      ]
-    }
-  },
-  "minecraft:vicious_potato": {
-    "default": {
-      "enabled": "false"
-    },
-    "properties": {
-      "enabled": [
-        "true",
-        "false"
       ]
     }
   },
@@ -17008,47 +15739,6 @@
       ]
     }
   },
-  "minecraft:weak_roots": {
-    "default": {
-      "down": "false",
-      "east": "false",
-      "north": "false",
-      "south": "false",
-      "up": "false",
-      "waterlogged": "false",
-      "west": "false"
-    },
-    "properties": {
-      "down": [
-        "true",
-        "false"
-      ],
-      "east": [
-        "true",
-        "false"
-      ],
-      "north": [
-        "true",
-        "false"
-      ],
-      "south": [
-        "true",
-        "false"
-      ],
-      "up": [
-        "true",
-        "false"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ],
-      "west": [
-        "true",
-        "false"
-      ]
-    }
-  },
   "minecraft:weathered_chiseled_copper": {
     "default": {},
     "properties": {}
@@ -17602,10 +16292,6 @@
         "east"
       ]
     }
-  },
-  "minecraft:yellow_potato_peels_block": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:yellow_shulker_box": {
     "default": {

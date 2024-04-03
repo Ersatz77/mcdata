@@ -46,12 +46,14 @@ minecraft:enchantable/chest_armor
 minecraft:enchantable/crossbow
 minecraft:enchantable/durability
 minecraft:enchantable/equippable
+minecraft:enchantable/fire_aspect
 minecraft:enchantable/fishing
 minecraft:enchantable/foot_armor
 minecraft:enchantable/head_armor
 minecraft:enchantable/leg_armor
 minecraft:enchantable/mining
 minecraft:enchantable/mining_loot
+minecraft:enchantable/sharp_weapon
 minecraft:enchantable/sword
 minecraft:enchantable/trident
 minecraft:enchantable/vanishing
@@ -68,7 +70,6 @@ minecraft:goat_food
 minecraft:gold_ores
 minecraft:hanging_signs
 minecraft:head_armor
-minecraft:heatable_potatos
 minecraft:hoes
 minecraft:hoglin_food
 minecraft:horse_food

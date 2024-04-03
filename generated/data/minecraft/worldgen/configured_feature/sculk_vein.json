@@ -4,7 +4,6 @@
     "block": "minecraft:sculk_vein",
     "can_be_placed_on": [
       "minecraft:stone",
-      "minecraft:potone",
       "minecraft:andesite",
       "minecraft:diorite",
       "minecraft:granite",

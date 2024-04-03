@@ -2,7 +2,6 @@
   "values": [
     "minecraft:cobblestone",
     "minecraft:blackstone",
-    "minecraft:cobbled_deepslate",
-    "minecraft:taterstone"
+    "minecraft:cobbled_deepslate"
   ]
 }

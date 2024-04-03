@@ -75,11 +75,9 @@
                   "distribution": [
                     {
                       "data": {
-                        "type": "minecraft:uniform",
-                        "value": {
-                          "max_inclusive": 4,
-                          "min_inclusive": 0
-                        }
+                        "max_inclusive": 4,
+                        "min_inclusive": 0,
+                        "type": "minecraft:uniform"
                       },
                       "weight": 2
                     },
@@ -139,11 +137,9 @@
                   "distribution": [
                     {
                       "data": {
-                        "type": "minecraft:uniform",
-                        "value": {
-                          "max_inclusive": 4,
-                          "min_inclusive": 0
-                        }
+                        "max_inclusive": 4,
+                        "min_inclusive": 0,
+                        "type": "minecraft:uniform"
                       },
                       "weight": 2
                     },
@@ -203,11 +199,9 @@
                   "distribution": [
                     {
                       "data": {
-                        "type": "minecraft:uniform",
-                        "value": {
-                          "max_inclusive": 4,
-                          "min_inclusive": 0
-                        }
+                        "max_inclusive": 4,
+                        "min_inclusive": 0,
+                        "type": "minecraft:uniform"
                       },
                       "weight": 2
                     },
@@ -267,11 +261,9 @@
                   "distribution": [
                     {
                       "data": {
-                        "type": "minecraft:uniform",
-                        "value": {
-                          "max_inclusive": 4,
-                          "min_inclusive": 0
-                        }
+                        "max_inclusive": 4,
+                        "min_inclusive": 0,
+                        "type": "minecraft:uniform"
                       },
                       "weight": 2
                     },

@@ -1,6 +1,5 @@
 {
   "biomes": "#minecraft:has_structure/end_city",
-  "density_checks": [],
   "spawn_overrides": {},
   "step": "surface_structures",
   "type": "minecraft:end_city"

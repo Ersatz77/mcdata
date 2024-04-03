@@ -1,10 +1,7 @@
 {
   "values": [
     "minecraft:dirt",
-    "minecraft:terredepomme",
     "minecraft:grass_block",
-    "minecraft:peelgrass_block",
-    "minecraft:corrupted_peelgrass_block",
     "minecraft:podzol",
     "minecraft:coarse_dirt",
     "minecraft:mycelium",

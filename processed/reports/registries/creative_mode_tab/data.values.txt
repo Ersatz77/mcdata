@@ -8,7 +8,6 @@ minecraft:ingredients
 minecraft:inventory
 minecraft:natural_blocks
 minecraft:op_blocks
-minecraft:potatoes
 minecraft:redstone_blocks
 minecraft:search
 minecraft:spawn_eggs
