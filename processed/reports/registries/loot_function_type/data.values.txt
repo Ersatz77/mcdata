@@ -8,9 +8,11 @@ minecraft:enchant_with_levels
 minecraft:exploration_map
 minecraft:explosion_decay
 minecraft:fill_player_head
+minecraft:filtered
 minecraft:furnace_smelt
 minecraft:limit_count
 minecraft:looting_enchant
+minecraft:modify_contents
 minecraft:reference
 minecraft:sequence
 minecraft:set_attributes
@@ -20,11 +22,13 @@ minecraft:set_components
 minecraft:set_contents
 minecraft:set_count
 minecraft:set_custom_data
+minecraft:set_custom_model_data
 minecraft:set_damage
 minecraft:set_enchantments
 minecraft:set_firework_explosion
 minecraft:set_fireworks
 minecraft:set_instrument
+minecraft:set_item
 minecraft:set_loot_table
 minecraft:set_lore
 minecraft:set_name

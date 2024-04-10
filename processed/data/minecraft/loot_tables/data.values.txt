@@ -1146,6 +1146,8 @@ minecraft:entities/zombie_horse
 minecraft:entities/zombie_villager
 minecraft:entities/zombified_piglin
 minecraft:equipment/trial_chamber
+minecraft:equipment/trial_chamber_melee
+minecraft:equipment/trial_chamber_ranged
 minecraft:gameplay/cat_morning_gift
 minecraft:gameplay/fishing
 minecraft:gameplay/fishing/fish
