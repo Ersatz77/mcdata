@@ -18,8 +18,8 @@ minecraft:inverted_healing_and_harm
 minecraft:non_controlling_rider
 minecraft:not_scary_for_pufferfish
 minecraft:powder_snow_walkable_mobs
-minecraft:punchable_projectiles
 minecraft:raiders
+minecraft:redirectable_projectile
 minecraft:sensitive_to_bane_of_arthropods
 minecraft:sensitive_to_impaling
 minecraft:sensitive_to_smite
