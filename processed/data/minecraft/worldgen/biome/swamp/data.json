@@ -196,12 +196,6 @@
         "minCount": 1,
         "type": "minecraft:slime",
         "weight": 1
-      },
-      {
-        "maxCount": 4,
-        "minCount": 4,
-        "type": "minecraft:bogged",
-        "weight": 50
       }
     ],
     "underground_water_creature": [
