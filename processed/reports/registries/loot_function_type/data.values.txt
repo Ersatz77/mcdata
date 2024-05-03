@@ -5,13 +5,13 @@ minecraft:copy_name
 minecraft:copy_state
 minecraft:enchant_randomly
 minecraft:enchant_with_levels
+minecraft:enchanted_count_increase
 minecraft:exploration_map
 minecraft:explosion_decay
 minecraft:fill_player_head
 minecraft:filtered
 minecraft:furnace_smelt
 minecraft:limit_count
-minecraft:looting_enchant
 minecraft:modify_contents
 minecraft:reference
 minecraft:sequence

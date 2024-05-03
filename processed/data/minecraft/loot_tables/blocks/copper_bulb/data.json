@@ -1,4 +1,21 @@
 {
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "name": "minecraft:copper_bulb",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
   "random_sequence": "minecraft:blocks/copper_bulb",
   "type": "minecraft:block"
 }

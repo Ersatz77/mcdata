@@ -78,7 +78,7 @@
                 "min": 30.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_hoe",
@@ -140,7 +140,7 @@
                 "min": 30.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_leggings",
@@ -150,10 +150,8 @@
         {
           "functions": [
             {
-              "enchantments": [
-                "minecraft:swift_sneak"
-              ],
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "minecraft:swift_sneak"
             }
           ],
           "name": "minecraft:book",
@@ -265,7 +263,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_leggings",
@@ -327,7 +325,8 @@
         {
           "functions": [
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:book",
@@ -415,10 +414,8 @@
         {
           "functions": [
             {
-              "enchantments": [
-                "minecraft:mending"
-              ],
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "minecraft:mending"
             }
           ],
           "name": "minecraft:book",

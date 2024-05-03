@@ -11,6 +11,7 @@
     "minecraft:replaceable",
     "minecraft:solid",
     "minecraft:true",
+    "minecraft:unobstructed",
     "minecraft:would_survive"
   ]
 }

@@ -109,7 +109,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_sword",
@@ -125,7 +125,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_boots",
@@ -141,7 +141,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_chestplate",
@@ -157,7 +157,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_leggings",
@@ -173,7 +173,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_helmet",
@@ -189,7 +189,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_pickaxe",
@@ -205,7 +205,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_shovel",
@@ -221,7 +221,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_sword",
@@ -237,7 +237,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_boots",
@@ -253,7 +253,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_chestplate",
@@ -269,7 +269,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_leggings",
@@ -285,7 +285,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_helmet",
@@ -301,7 +301,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_pickaxe",
@@ -317,7 +317,7 @@
                 "min": 20.0,
                 "type": "minecraft:uniform"
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_shovel",

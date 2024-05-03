@@ -20,7 +20,8 @@
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:looting_enchant"
+              "enchantment": "minecraft:looting",
+              "function": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:gunpowder",
@@ -34,7 +35,7 @@
       "conditions": [
         {
           "condition": "minecraft:entity_properties",
-          "entity": "killer",
+          "entity": "attacker",
           "predicate": {
             "type": "#minecraft:skeletons"
           }

@@ -20,6 +20,7 @@ minecraft:bee_growables
 minecraft:beehives
 minecraft:big_dripleaf_placeable
 minecraft:birch_logs
+minecraft:blocks_wind_charge_explosions
 minecraft:buttons
 minecraft:camel_sand_step_sound_blocks
 minecraft:campfires
