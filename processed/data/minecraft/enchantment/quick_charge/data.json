@@ -4,18 +4,14 @@
     "translate": "enchantment.minecraft.quick_charge"
   },
   "effects": {
-    "minecraft:crossbow_charge_time": [
-      {
-        "effect": {
-          "type": "minecraft:add",
-          "value": {
-            "base": -0.25,
-            "per_level_above_first": -0.25,
-            "type": "minecraft:linear"
-          }
-        }
+    "minecraft:crossbow_charge_time": {
+      "type": "minecraft:add",
+      "value": {
+        "base": -0.25,
+        "per_level_above_first": -0.25,
+        "type": "minecraft:linear"
       }
-    ],
+    },
     "minecraft:crossbow_charging_sounds": [
       {
         "end": "minecraft:item.crossbow.loading_end",

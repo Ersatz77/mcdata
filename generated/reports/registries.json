@@ -5001,82 +5001,79 @@
     },
     "protocol_id": 68
   },
-  "minecraft:decorated_pot_patterns": {
+  "minecraft:decorated_pot_pattern": {
     "entries": {
-      "minecraft:angler_pottery_pattern": {
-        "protocol_id": 1
-      },
-      "minecraft:archer_pottery_pattern": {
-        "protocol_id": 2
-      },
-      "minecraft:arms_up_pottery_pattern": {
-        "protocol_id": 3
-      },
-      "minecraft:blade_pottery_pattern": {
-        "protocol_id": 4
-      },
-      "minecraft:brewer_pottery_pattern": {
-        "protocol_id": 5
-      },
-      "minecraft:burn_pottery_pattern": {
-        "protocol_id": 6
-      },
-      "minecraft:danger_pottery_pattern": {
-        "protocol_id": 7
-      },
-      "minecraft:decorated_pot_base": {
-        "protocol_id": 24
-      },
-      "minecraft:decorated_pot_side": {
+      "minecraft:angler": {
         "protocol_id": 0
       },
-      "minecraft:explorer_pottery_pattern": {
+      "minecraft:archer": {
+        "protocol_id": 1
+      },
+      "minecraft:arms_up": {
+        "protocol_id": 2
+      },
+      "minecraft:blade": {
+        "protocol_id": 3
+      },
+      "minecraft:blank": {
+        "protocol_id": 23
+      },
+      "minecraft:brewer": {
+        "protocol_id": 4
+      },
+      "minecraft:burn": {
+        "protocol_id": 5
+      },
+      "minecraft:danger": {
+        "protocol_id": 6
+      },
+      "minecraft:explorer": {
+        "protocol_id": 7
+      },
+      "minecraft:flow": {
         "protocol_id": 8
       },
-      "minecraft:flow_pottery_pattern": {
+      "minecraft:friend": {
         "protocol_id": 9
       },
-      "minecraft:friend_pottery_pattern": {
+      "minecraft:guster": {
         "protocol_id": 10
       },
-      "minecraft:guster_pottery_pattern": {
+      "minecraft:heart": {
         "protocol_id": 11
       },
-      "minecraft:heart_pottery_pattern": {
+      "minecraft:heartbreak": {
         "protocol_id": 12
       },
-      "minecraft:heartbreak_pottery_pattern": {
+      "minecraft:howl": {
         "protocol_id": 13
       },
-      "minecraft:howl_pottery_pattern": {
+      "minecraft:miner": {
         "protocol_id": 14
       },
-      "minecraft:miner_pottery_pattern": {
+      "minecraft:mourner": {
         "protocol_id": 15
       },
-      "minecraft:mourner_pottery_pattern": {
+      "minecraft:plenty": {
         "protocol_id": 16
       },
-      "minecraft:plenty_pottery_pattern": {
+      "minecraft:prize": {
         "protocol_id": 17
       },
-      "minecraft:prize_pottery_pattern": {
+      "minecraft:scrape": {
         "protocol_id": 18
       },
-      "minecraft:scrape_pottery_pattern": {
+      "minecraft:sheaf": {
         "protocol_id": 19
       },
-      "minecraft:sheaf_pottery_pattern": {
+      "minecraft:shelter": {
         "protocol_id": 20
       },
-      "minecraft:shelter_pottery_pattern": {
+      "minecraft:skull": {
         "protocol_id": 21
       },
-      "minecraft:skull_pottery_pattern": {
+      "minecraft:snort": {
         "protocol_id": 22
-      },
-      "minecraft:snort_pottery_pattern": {
-        "protocol_id": 23
       }
     },
     "protocol_id": 63
@@ -5093,13 +5090,13 @@
         "protocol_id": 9
       },
       "minecraft:block_experience": {
-        "protocol_id": 22
+        "protocol_id": 21
       },
       "minecraft:crossbow_charge_time": {
-        "protocol_id": 18
+        "protocol_id": 24
       },
       "minecraft:crossbow_charging_sounds": {
-        "protocol_id": 26
+        "protocol_id": 25
       },
       "minecraft:damage": {
         "protocol_id": 2
@@ -5114,10 +5111,10 @@
         "protocol_id": 10
       },
       "minecraft:fishing_luck_bonus": {
-        "protocol_id": 21
+        "protocol_id": 20
       },
       "minecraft:fishing_time_reduction": {
-        "protocol_id": 20
+        "protocol_id": 19
       },
       "minecraft:hit_block": {
         "protocol_id": 7
@@ -5132,16 +5129,16 @@
         "protocol_id": 11
       },
       "minecraft:mob_experience": {
-        "protocol_id": 23
+        "protocol_id": 22
       },
       "minecraft:post_attack": {
         "protocol_id": 6
       },
       "minecraft:prevent_armor_change": {
-        "protocol_id": 29
+        "protocol_id": 28
       },
       "minecraft:prevent_equipment_drop": {
-        "protocol_id": 28
+        "protocol_id": 27
       },
       "minecraft:projectile_count": {
         "protocol_id": 17
@@ -5156,7 +5153,7 @@
         "protocol_id": 16
       },
       "minecraft:repair_with_xp": {
-        "protocol_id": 25
+        "protocol_id": 23
       },
       "minecraft:smash_damage_per_fallen_block": {
         "protocol_id": 3
@@ -5165,13 +5162,13 @@
         "protocol_id": 12
       },
       "minecraft:trident_return_acceleration": {
-        "protocol_id": 19
+        "protocol_id": 18
       },
       "minecraft:trident_sound": {
-        "protocol_id": 27
+        "protocol_id": 26
       },
       "minecraft:trident_spin_attack_strength": {
-        "protocol_id": 24
+        "protocol_id": 29
       }
     },
     "protocol_id": 72
@@ -6162,7 +6159,7 @@
         "protocol_id": 1261
       },
       "minecraft:amethyst_shard": {
-        "protocol_id": 808
+        "protocol_id": 809
       },
       "minecraft:ancient_debris": {
         "protocol_id": 80
@@ -6186,7 +6183,7 @@
         "protocol_id": 419
       },
       "minecraft:apple": {
-        "protocol_id": 799
+        "protocol_id": 800
       },
       "minecraft:archer_pottery_sherd": {
         "protocol_id": 1289
@@ -6204,7 +6201,7 @@
         "protocol_id": 1290
       },
       "minecraft:arrow": {
-        "protocol_id": 801
+        "protocol_id": 802
       },
       "minecraft:axolotl_bucket": {
         "protocol_id": 919
@@ -6507,10 +6504,10 @@
         "protocol_id": 286
       },
       "minecraft:bow": {
-        "protocol_id": 800
+        "protocol_id": 801
       },
       "minecraft:bowl": {
-        "protocol_id": 848
+        "protocol_id": 799
       },
       "minecraft:brain_coral": {
         "protocol_id": 600
@@ -6681,7 +6678,7 @@
         "protocol_id": 862
       },
       "minecraft:charcoal": {
-        "protocol_id": 803
+        "protocol_id": 804
       },
       "minecraft:cherry_boat": {
         "protocol_id": 784
@@ -6801,7 +6798,7 @@
         "protocol_id": 932
       },
       "minecraft:coal": {
-        "protocol_id": 802
+        "protocol_id": 803
       },
       "minecraft:coal_block": {
         "protocol_id": 81
@@ -6909,7 +6906,7 @@
         "protocol_id": 1311
       },
       "minecraft:copper_ingot": {
-        "protocol_id": 812
+        "protocol_id": 813
       },
       "minecraft:copper_ore": {
         "protocol_id": 66
@@ -7248,10 +7245,10 @@
         "protocol_id": 762
       },
       "minecraft:diamond": {
-        "protocol_id": 804
+        "protocol_id": 805
       },
       "minecraft:diamond_axe": {
-        "protocol_id": 840
+        "protocol_id": 841
       },
       "minecraft:diamond_block": {
         "protocol_id": 91
@@ -7266,7 +7263,7 @@
         "protocol_id": 868
       },
       "minecraft:diamond_hoe": {
-        "protocol_id": 841
+        "protocol_id": 842
       },
       "minecraft:diamond_horse_armor": {
         "protocol_id": 1126
@@ -7278,13 +7275,13 @@
         "protocol_id": 76
       },
       "minecraft:diamond_pickaxe": {
-        "protocol_id": 839
+        "protocol_id": 840
       },
       "minecraft:diamond_shovel": {
-        "protocol_id": 838
+        "protocol_id": 839
       },
       "minecraft:diamond_sword": {
-        "protocol_id": 837
+        "protocol_id": 838
       },
       "minecraft:diorite": {
         "protocol_id": 4
@@ -7356,7 +7353,7 @@
         "protocol_id": 773
       },
       "minecraft:emerald": {
-        "protocol_id": 805
+        "protocol_id": 806
       },
       "minecraft:emerald_block": {
         "protocol_id": 382
@@ -7593,7 +7590,7 @@
         "protocol_id": 90
       },
       "minecraft:gold_ingot": {
-        "protocol_id": 814
+        "protocol_id": 815
       },
       "minecraft:gold_nugget": {
         "protocol_id": 996
@@ -7605,7 +7602,7 @@
         "protocol_id": 884
       },
       "minecraft:golden_axe": {
-        "protocol_id": 830
+        "protocol_id": 831
       },
       "minecraft:golden_boots": {
         "protocol_id": 875
@@ -7620,7 +7617,7 @@
         "protocol_id": 872
       },
       "minecraft:golden_hoe": {
-        "protocol_id": 831
+        "protocol_id": 832
       },
       "minecraft:golden_horse_armor": {
         "protocol_id": 1125
@@ -7629,13 +7626,13 @@
         "protocol_id": 874
       },
       "minecraft:golden_pickaxe": {
-        "protocol_id": 829
+        "protocol_id": 830
       },
       "minecraft:golden_shovel": {
-        "protocol_id": 828
+        "protocol_id": 829
       },
       "minecraft:golden_sword": {
-        "protocol_id": 827
+        "protocol_id": 828
       },
       "minecraft:granite": {
         "protocol_id": 2
@@ -7839,7 +7836,7 @@
         "protocol_id": 941
       },
       "minecraft:iron_axe": {
-        "protocol_id": 835
+        "protocol_id": 836
       },
       "minecraft:iron_bars": {
         "protocol_id": 355
@@ -7863,13 +7860,13 @@
         "protocol_id": 864
       },
       "minecraft:iron_hoe": {
-        "protocol_id": 836
+        "protocol_id": 837
       },
       "minecraft:iron_horse_armor": {
         "protocol_id": 1124
       },
       "minecraft:iron_ingot": {
-        "protocol_id": 810
+        "protocol_id": 811
       },
       "minecraft:iron_leggings": {
         "protocol_id": 866
@@ -7881,13 +7878,13 @@
         "protocol_id": 64
       },
       "minecraft:iron_pickaxe": {
-        "protocol_id": 834
+        "protocol_id": 835
       },
       "minecraft:iron_shovel": {
-        "protocol_id": 833
+        "protocol_id": 834
       },
       "minecraft:iron_sword": {
-        "protocol_id": 832
+        "protocol_id": 833
       },
       "minecraft:iron_trapdoor": {
         "protocol_id": 730
@@ -7971,7 +7968,7 @@
         "protocol_id": 190
       },
       "minecraft:lapis_lazuli": {
-        "protocol_id": 806
+        "protocol_id": 807
       },
       "minecraft:lapis_ore": {
         "protocol_id": 74
@@ -8460,7 +8457,7 @@
         "protocol_id": 517
       },
       "minecraft:netherite_axe": {
-        "protocol_id": 845
+        "protocol_id": 846
       },
       "minecraft:netherite_block": {
         "protocol_id": 92
@@ -8475,25 +8472,25 @@
         "protocol_id": 876
       },
       "minecraft:netherite_hoe": {
-        "protocol_id": 846
+        "protocol_id": 847
       },
       "minecraft:netherite_ingot": {
-        "protocol_id": 815
+        "protocol_id": 816
       },
       "minecraft:netherite_leggings": {
         "protocol_id": 878
       },
       "minecraft:netherite_pickaxe": {
-        "protocol_id": 844
+        "protocol_id": 845
       },
       "minecraft:netherite_scrap": {
-        "protocol_id": 816
+        "protocol_id": 817
       },
       "minecraft:netherite_shovel": {
-        "protocol_id": 843
+        "protocol_id": 844
       },
       "minecraft:netherite_sword": {
-        "protocol_id": 842
+        "protocol_id": 843
       },
       "minecraft:netherite_upgrade_smithing_template": {
         "protocol_id": 1269
@@ -8973,7 +8970,7 @@
         "protocol_id": 297
       },
       "minecraft:quartz": {
-        "protocol_id": 807
+        "protocol_id": 808
       },
       "minecraft:quartz_block": {
         "protocol_id": 423
@@ -9015,19 +9012,19 @@
         "protocol_id": 1056
       },
       "minecraft:raw_copper": {
-        "protocol_id": 811
+        "protocol_id": 812
       },
       "minecraft:raw_copper_block": {
         "protocol_id": 83
       },
       "minecraft:raw_gold": {
-        "protocol_id": 813
+        "protocol_id": 814
       },
       "minecraft:raw_gold_block": {
         "protocol_id": 84
       },
       "minecraft:raw_iron": {
-        "protocol_id": 809
+        "protocol_id": 810
       },
       "minecraft:raw_iron_block": {
         "protocol_id": 82
@@ -9441,7 +9438,7 @@
         "protocol_id": 1067
       },
       "minecraft:stick": {
-        "protocol_id": 847
+        "protocol_id": 848
       },
       "minecraft:sticky_piston": {
         "protocol_id": 663
@@ -9450,7 +9447,7 @@
         "protocol_id": 1
       },
       "minecraft:stone_axe": {
-        "protocol_id": 825
+        "protocol_id": 826
       },
       "minecraft:stone_brick_slab": {
         "protocol_id": 271
@@ -9468,16 +9465,16 @@
         "protocol_id": 682
       },
       "minecraft:stone_hoe": {
-        "protocol_id": 826
+        "protocol_id": 827
       },
       "minecraft:stone_pickaxe": {
-        "protocol_id": 824
+        "protocol_id": 825
       },
       "minecraft:stone_pressure_plate": {
         "protocol_id": 695
       },
       "minecraft:stone_shovel": {
-        "protocol_id": 823
+        "protocol_id": 824
       },
       "minecraft:stone_slab": {
         "protocol_id": 264
@@ -9486,7 +9483,7 @@
         "protocol_id": 627
       },
       "minecraft:stone_sword": {
-        "protocol_id": 822
+        "protocol_id": 823
       },
       "minecraft:stonecutter": {
         "protocol_id": 1212
@@ -10014,19 +10011,19 @@
         "protocol_id": 1082
       },
       "minecraft:wooden_axe": {
-        "protocol_id": 820
-      },
-      "minecraft:wooden_hoe": {
         "protocol_id": 821
       },
+      "minecraft:wooden_hoe": {
+        "protocol_id": 822
+      },
       "minecraft:wooden_pickaxe": {
-        "protocol_id": 819
+        "protocol_id": 820
       },
       "minecraft:wooden_shovel": {
-        "protocol_id": 818
+        "protocol_id": 819
       },
       "minecraft:wooden_sword": {
-        "protocol_id": 817
+        "protocol_id": 818
       },
       "minecraft:writable_book": {
         "protocol_id": 1091

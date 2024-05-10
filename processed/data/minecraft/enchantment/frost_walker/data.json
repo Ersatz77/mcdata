@@ -54,8 +54,8 @@
                 "type": "minecraft:matching_blocks"
               },
               {
-                "fluids": "minecraft:water",
-                "type": "minecraft:matching_fluids"
+                "blocks": "minecraft:water",
+                "type": "minecraft:matching_blocks"
               },
               {
                 "type": "minecraft:unobstructed"
@@ -73,6 +73,7 @@
               "type": "minecraft:linear"
             }
           },
+          "trigger_game_event": "minecraft:block_place",
           "type": "minecraft:replace_disc"
         },
         "requirements": {

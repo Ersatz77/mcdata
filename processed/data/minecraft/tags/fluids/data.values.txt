@@ -1,2 +1,0 @@
-minecraft:lava
-minecraft:water

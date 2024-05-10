@@ -1,9 +1,3 @@
 {
-  "values": [
-    "minecraft:allay_can_listen",
-    "minecraft:ignore_vibrations_sneaking",
-    "minecraft:shrieker_can_listen",
-    "minecraft:vibrations",
-    "minecraft:warden_can_listen"
-  ]
+  "values": []
 }

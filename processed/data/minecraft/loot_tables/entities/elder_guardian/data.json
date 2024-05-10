@@ -130,7 +130,7 @@
         },
         {
           "chance": {
-            "base": 0.025,
+            "base": 0.035,
             "per_level_above_first": 0.01,
             "type": "minecraft:linear"
           },
