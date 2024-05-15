@@ -72,30 +72,6 @@
               "function": "minecraft:enchanted_count_increase"
             }
           ],
-          "name": "minecraft:redstone",
-          "type": "minecraft:item"
-        },
-        {
-          "functions": [
-            {
-              "add": false,
-              "count": {
-                "max": 2.0,
-                "min": 0.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            },
-            {
-              "count": {
-                "max": 1.0,
-                "min": 0.0,
-                "type": "minecraft:uniform"
-              },
-              "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
-            }
-          ],
           "name": "minecraft:spider_eye",
           "type": "minecraft:item"
         },
@@ -178,6 +154,36 @@
         "min": 1.0,
         "type": "minecraft:uniform"
       }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 8.0,
+                "min": 4.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "count": {
+                "max": 1.0,
+                "min": 0.0,
+                "type": "minecraft:uniform"
+              },
+              "enchantment": "minecraft:looting",
+              "function": "minecraft:enchanted_count_increase"
+            }
+          ],
+          "name": "minecraft:redstone",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
     }
   ],
   "random_sequence": "minecraft:entities/witch",
