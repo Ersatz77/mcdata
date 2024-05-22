@@ -5542,28 +5542,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 8.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -5660,28 +5648,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 0.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": 0.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -5760,28 +5736,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 4.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.799999952316284,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -5816,28 +5780,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 4.5,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -5872,28 +5824,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 6.0,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.4000000953674316,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -7503,28 +7443,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 6.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -7625,28 +7553,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 0.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -7711,28 +7627,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 1.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.799999952316284,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -7767,28 +7671,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 1.5,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -7823,28 +7715,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 3.0,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.4000000953674316,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -8827,28 +8707,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 8.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0999999046325684,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -8987,28 +8855,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 0.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -1.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -9115,28 +8971,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.799999952316284,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -9171,28 +9015,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 3.5,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -9227,28 +9059,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 5.0,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.4000000953674316,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -10560,28 +10380,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 5.0,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.5,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -11517,6 +11325,9 @@
       "minecraft:enchantments": {
         "levels": {}
       },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:11"
+      },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "rare",
@@ -11530,6 +11341,9 @@
       },
       "minecraft:enchantments": {
         "levels": {}
+      },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:13"
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
@@ -11545,6 +11359,9 @@
       "minecraft:enchantments": {
         "levels": {}
       },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:5"
+      },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "rare",
@@ -11558,6 +11375,9 @@
       },
       "minecraft:enchantments": {
         "levels": {}
+      },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:blocks"
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
@@ -11573,6 +11393,9 @@
       "minecraft:enchantments": {
         "levels": {}
       },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:cat"
+      },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "rare",
@@ -11586,6 +11409,9 @@
       },
       "minecraft:enchantments": {
         "levels": {}
+      },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:chirp"
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
@@ -11601,6 +11427,9 @@
       "minecraft:enchantments": {
         "levels": {}
       },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:creator"
+      },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "rare",
@@ -11614,6 +11443,9 @@
       },
       "minecraft:enchantments": {
         "levels": {}
+      },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:creator_music_box"
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
@@ -11629,6 +11461,9 @@
       "minecraft:enchantments": {
         "levels": {}
       },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:far"
+      },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "rare",
@@ -11642,6 +11477,9 @@
       },
       "minecraft:enchantments": {
         "levels": {}
+      },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:mall"
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
@@ -11657,6 +11495,9 @@
       "minecraft:enchantments": {
         "levels": {}
       },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:mellohi"
+      },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "rare",
@@ -11670,6 +11511,9 @@
       },
       "minecraft:enchantments": {
         "levels": {}
+      },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:otherside"
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
@@ -11685,6 +11529,9 @@
       "minecraft:enchantments": {
         "levels": {}
       },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:pigstep"
+      },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "rare",
@@ -11698,6 +11545,9 @@
       },
       "minecraft:enchantments": {
         "levels": {}
+      },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:precipice"
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
@@ -11713,6 +11563,9 @@
       "minecraft:enchantments": {
         "levels": {}
       },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:relic"
+      },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "rare",
@@ -11726,6 +11579,9 @@
       },
       "minecraft:enchantments": {
         "levels": {}
+      },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:stal"
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
@@ -11741,6 +11597,9 @@
       "minecraft:enchantments": {
         "levels": {}
       },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:strad"
+      },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "rare",
@@ -11755,6 +11614,9 @@
       "minecraft:enchantments": {
         "levels": {}
       },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:wait"
+      },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "rare",
@@ -11768,6 +11630,9 @@
       },
       "minecraft:enchantments": {
         "levels": {}
+      },
+      "minecraft:jukebox_playable": {
+        "song": "minecraft:ward"
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
@@ -12011,28 +11876,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 9.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -12134,28 +11987,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 0.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": 0.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -12223,28 +12064,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 5.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.799999952316284,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -12295,28 +12124,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 5.5,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -12352,28 +12169,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 7.0,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.4000000953674316,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -17008,28 +16813,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 8.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.200000047683716,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -17134,28 +16927,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 0.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -17190,28 +16971,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 2.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.799999952316284,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -17260,28 +17029,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 2.5,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -17344,28 +17101,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 4.0,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.4000000953674316,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -18145,28 +17890,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 8.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.9000000953674316,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -19913,28 +19646,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 6.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.200000047683716,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -19969,28 +19690,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 0.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -20025,28 +19734,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 1.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.799999952316284,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -20081,28 +19778,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 1.5,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -3.0,
-            "name": "Tool modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },
@@ -20137,28 +19822,16 @@
           {
             "type": "minecraft:generic.attack_damage",
             "amount": 3.0,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_damage",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -885041709,
-              1683771192,
-              -1533567981,
-              -1556236849
-            ]
+            "slot": "mainhand"
           },
           {
             "type": "minecraft:generic.attack_speed",
             "amount": -2.4000000953674316,
-            "name": "Weapon modifier",
+            "id": "minecraft:base_attack_speed",
             "operation": "add_value",
-            "slot": "mainhand",
-            "uuid": [
-              -98353636,
-              1098926181,
-              -1340359474,
-              -1752847197
-            ]
+            "slot": "mainhand"
           }
         ]
       },

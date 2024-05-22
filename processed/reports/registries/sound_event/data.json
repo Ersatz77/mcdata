@@ -702,6 +702,7 @@
     "minecraft:block.vault.insert_item_fail",
     "minecraft:block.vault.open_shutter",
     "minecraft:block.vault.place",
+    "minecraft:block.vault.reject_rewarded_player",
     "minecraft:block.vault.step",
     "minecraft:block.vine.break",
     "minecraft:block.vine.fall",

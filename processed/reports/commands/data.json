@@ -190,37 +190,28 @@
                   "children": {
                     "add": {
                       "children": {
-                        "uuid": {
+                        "id": {
                           "children": {
-                            "name": {
+                            "value": {
                               "children": {
-                                "value": {
-                                  "children": {
-                                    "add_multiplied_base": {
-                                      "executable": true,
-                                      "type": "literal"
-                                    },
-                                    "add_multiplied_total": {
-                                      "executable": true,
-                                      "type": "literal"
-                                    },
-                                    "add_value": {
-                                      "executable": true,
-                                      "type": "literal"
-                                    }
-                                  },
-                                  "parser": "brigadier:double",
-                                  "type": "argument"
+                                "add_multiplied_base": {
+                                  "executable": true,
+                                  "type": "literal"
+                                },
+                                "add_multiplied_total": {
+                                  "executable": true,
+                                  "type": "literal"
+                                },
+                                "add_value": {
+                                  "executable": true,
+                                  "type": "literal"
                                 }
                               },
-                              "parser": "brigadier:string",
-                              "properties": {
-                                "type": "phrase"
-                              },
+                              "parser": "brigadier:double",
                               "type": "argument"
                             }
                           },
-                          "parser": "minecraft:uuid",
+                          "parser": "minecraft:resource_location",
                           "type": "argument"
                         }
                       },
@@ -228,9 +219,9 @@
                     },
                     "remove": {
                       "children": {
-                        "uuid": {
+                        "id": {
                           "executable": true,
-                          "parser": "minecraft:uuid",
+                          "parser": "minecraft:resource_location",
                           "type": "argument"
                         }
                       },
@@ -240,7 +231,7 @@
                       "children": {
                         "get": {
                           "children": {
-                            "uuid": {
+                            "id": {
                               "children": {
                                 "scale": {
                                   "executable": true,
@@ -249,7 +240,7 @@
                                 }
                               },
                               "executable": true,
-                              "parser": "minecraft:uuid",
+                              "parser": "minecraft:resource_location",
                               "type": "argument"
                             }
                           },
@@ -6472,6 +6463,17 @@
           "type": "literal"
         },
         "enderPearlsVanishOnDeath": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "entitiesWithPassengersCanUsePortals": {
           "children": {
             "value": {
               "executable": true,

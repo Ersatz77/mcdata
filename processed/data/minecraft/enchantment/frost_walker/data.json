@@ -45,17 +45,21 @@
           "predicate": {
             "predicates": [
               {
-                "blocks": "minecraft:air",
                 "offset": [
                   0,
                   1,
                   0
                 ],
-                "type": "minecraft:matching_blocks"
+                "tag": "minecraft:air",
+                "type": "minecraft:matching_block_tag"
               },
               {
                 "blocks": "minecraft:water",
                 "type": "minecraft:matching_blocks"
+              },
+              {
+                "fluids": "minecraft:water",
+                "type": "minecraft:matching_fluids"
               },
               {
                 "type": "minecraft:unobstructed"

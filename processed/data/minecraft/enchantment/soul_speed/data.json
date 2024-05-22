@@ -13,10 +13,9 @@
             "type": "minecraft:linear"
           },
           "attribute": "minecraft:generic.movement_speed",
-          "name": "Soul speed boost",
+          "id": "minecraft:enchantment.soul_speed",
           "operation": "add_value",
-          "type": "minecraft:attribute",
-          "uuid": "87f46a96-686f-4796-b035-22e16ee9e038"
+          "type": "minecraft:attribute"
         },
         "requirements": {
           "condition": "minecraft:all_of",
@@ -109,10 +108,9 @@
         "effect": {
           "amount": 1.0,
           "attribute": "minecraft:generic.movement_efficiency",
-          "name": "Soul speed movement efficiency",
+          "id": "minecraft:enchantment.soul_speed",
           "operation": "add_value",
-          "type": "minecraft:attribute",
-          "uuid": "b9716dbd-50df-4080-850e-70347d24e687"
+          "type": "minecraft:attribute"
         },
         "requirements": {
           "condition": "minecraft:entity_properties",
