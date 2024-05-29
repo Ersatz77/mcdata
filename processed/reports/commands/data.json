@@ -6473,17 +6473,6 @@
           "executable": true,
           "type": "literal"
         },
-        "entitiesWithPassengersCanUsePortals": {
-          "children": {
-            "value": {
-              "executable": true,
-              "parser": "brigadier:bool",
-              "type": "argument"
-            }
-          },
-          "executable": true,
-          "type": "literal"
-        },
         "fallDamage": {
           "children": {
             "value": {
