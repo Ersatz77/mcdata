@@ -15,6 +15,7 @@ minecraft:disk
 minecraft:dripstone_cluster
 minecraft:end_gateway
 minecraft:end_island
+minecraft:end_platform
 minecraft:end_spike
 minecraft:fill_layer
 minecraft:flower

@@ -6,6 +6,7 @@
     "minecraft:count",
     "minecraft:count_on_every_layer",
     "minecraft:environment_scan",
+    "minecraft:fixed_placement",
     "minecraft:height_range",
     "minecraft:heightmap",
     "minecraft:in_square",
