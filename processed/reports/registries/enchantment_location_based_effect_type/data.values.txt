@@ -7,7 +7,7 @@ minecraft:explode
 minecraft:ignite
 minecraft:play_sound
 minecraft:replace_block
-minecraft:replace_disc
+minecraft:replace_disk
 minecraft:run_function
 minecraft:set_block_properties
 minecraft:spawn_particles
