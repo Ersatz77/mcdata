@@ -78,7 +78,7 @@
             }
           },
           "trigger_game_event": "minecraft:block_place",
-          "type": "minecraft:replace_disc"
+          "type": "minecraft:replace_disk"
         },
         "requirements": {
           "condition": "minecraft:entity_properties",
