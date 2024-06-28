@@ -49,7 +49,7 @@ jobs:
           rm -r ./processed
 
       - name: Run mcgen
-        run: python -m mcgen --rawpath ./temp/raw --outpath ./processed --log INFO --processors mcgen.processors.write_version_file mcgen.processors.convert_json_files mcgen.processors.simplify_blocks mcgen.processors.split_registries mcgen.processors.summarize_data custom_processors.create_all_tags_data_pack
+        run: python -m mcgen --rawpath ./temp/raw --outpath ./processed --log INFO --processors mcgen.processors.write_version_file mcgen.processors.convert_json_files mcgen.processors.simplify_blocks mcgen.processors.split_registries custom_processors.summarize_data custom_processors.create_all_tags_data_pack
 
       - name: Cleanup repo
         run: |
