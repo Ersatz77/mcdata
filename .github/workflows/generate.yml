@@ -1,31 +1,17 @@
-name: Update
+name: Generate
 
 on:
   workflow_dispatch:
     inputs:
-      ignore_update_check:
-        description: 'Ignore update check'
+      version:
+        description: 'The version to generate data for'
         required: true
-        default: true
-        type: boolean
+        default: 'snapshot'
+        type: string
 
 jobs:
-  check_for_updates:
+  generate:
     runs-on: ubuntu-latest
-    outputs:
-      id: ${{ steps.check.outputs.id }}
-    steps:
-      - id: check
-        name: Check for Minecraft updates
-        uses: ByMartrixX/minecraft-update-check-action@v0
-        with:
-          version-manifest-url: 'https://piston-meta.mojang.com/mc/game/version_manifest_v2.json'
-          cache-base-key: 'mc-manifest-'
-
-  update:
-    runs-on: ubuntu-latest
-    needs: check_for_updates
-    if: ${{ needs.check_for_updates.outputs.id != '' || github.event.inputs.ignore_update_check == 'true' }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
@@ -53,7 +39,7 @@ jobs:
           rm -r ./processed
 
       - name: Run mcgen
-        run: python -m mcgen --rawpath ./temp/raw --outpath ./processed --log INFO --processors mcgen.processors.write_version_file mcgen.processors.convert_json_files mcgen.processors.simplify_blocks mcgen.processors.split_registries custom_processors.summarize_data custom_processors.create_all_tags_data_pack
+        run: python -m mcgen --version ${{github.event.inputs.version}} --rawpath ./temp/raw --outpath ./processed --log INFO --processors mcgen.processors.write_version_file mcgen.processors.convert_json_files mcgen.processors.simplify_blocks mcgen.processors.split_registries custom_processors.summarize_data custom_processors.create_all_tags_data_pack
 
       - name: Cleanup repo
         run: |
