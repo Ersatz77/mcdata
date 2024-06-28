@@ -18,13 +18,13 @@ def process(ctx: Context, **options):
     data_summary = {}
 
     # advancements
-    data_summary["advancement"] = summarize_registry(ctx, data_path / "advancement")
+    data_summary["advancements"] = summarize_registry(ctx, data_path / "advancements")
 
     # loot tables
-    data_summary["loot_table"] = summarize_registry(ctx, data_path / "loot_table")
+    data_summary["loot_tables"] = summarize_registry(ctx, data_path / "loot_tables")
 
     # recipes
-    data_summary["recipe"] = summarize_registry(ctx, data_path / "recipe")
+    data_summary["recipes"] = summarize_registry(ctx, data_path / "recipes")
 
     # tags
     data_summary["tags"] = {}

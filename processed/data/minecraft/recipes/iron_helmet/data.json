@@ -1,0 +1,17 @@
+{
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_helmet"
+  },
+  "type": "minecraft:crafting_shaped"
+}

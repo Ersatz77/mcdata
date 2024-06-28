@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:chiseled_tuff"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_tuff_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:tuff_slab"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "parent": "minecraft:recipes/root",
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_tuff_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:chiseled_tuff"
+    ]
+  }
+}

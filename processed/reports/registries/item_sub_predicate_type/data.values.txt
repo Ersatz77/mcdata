@@ -1,0 +1,13 @@
+minecraft:attribute_modifiers
+minecraft:bundle_contents
+minecraft:container
+minecraft:custom_data
+minecraft:damage
+minecraft:enchantments
+minecraft:firework_explosion
+minecraft:fireworks
+minecraft:potion_contents
+minecraft:stored_enchantments
+minecraft:trim
+minecraft:writable_book_content
+minecraft:written_book_content

@@ -1,0 +1,18 @@
+{
+  "category": "misc",
+  "group": "boat",
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:jungle_boat"
+  },
+  "type": "minecraft:crafting_shaped"
+}

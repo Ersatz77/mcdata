@@ -1,0 +1,93 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "minecraft:arms_up_pottery_sherd",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "minecraft:brewer_pottery_sherd",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "minecraft:brick",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "minecraft:emerald",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "minecraft:stick",
+          "type": "minecraft:item"
+        },
+        {
+          "functions": [
+            {
+              "effects": [
+                {
+                  "duration": {
+                    "max": 10.0,
+                    "min": 7.0,
+                    "type": "minecraft:uniform"
+                  },
+                  "type": "minecraft:night_vision"
+                },
+                {
+                  "duration": {
+                    "max": 10.0,
+                    "min": 7.0,
+                    "type": "minecraft:uniform"
+                  },
+                  "type": "minecraft:jump_boost"
+                },
+                {
+                  "duration": {
+                    "max": 8.0,
+                    "min": 6.0,
+                    "type": "minecraft:uniform"
+                  },
+                  "type": "minecraft:weakness"
+                },
+                {
+                  "duration": {
+                    "max": 7.0,
+                    "min": 5.0,
+                    "type": "minecraft:uniform"
+                  },
+                  "type": "minecraft:blindness"
+                },
+                {
+                  "duration": {
+                    "max": 20.0,
+                    "min": 10.0,
+                    "type": "minecraft:uniform"
+                  },
+                  "type": "minecraft:poison"
+                },
+                {
+                  "duration": {
+                    "max": 10.0,
+                    "min": 7.0,
+                    "type": "minecraft:uniform"
+                  },
+                  "type": "minecraft:saturation"
+                }
+              ],
+              "function": "minecraft:set_stew_effect"
+            }
+          ],
+          "name": "minecraft:suspicious_stew",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:archaeology/desert_well",
+  "type": "minecraft:archaeology"
+}

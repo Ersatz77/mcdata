@@ -1,0 +1,17 @@
+{
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "minecraft:turtle_scute"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:turtle_helmet"
+  },
+  "type": "minecraft:crafting_shaped"
+}

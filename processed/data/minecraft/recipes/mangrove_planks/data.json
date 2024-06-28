@@ -1,0 +1,14 @@
+{
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "minecraft:mangrove_logs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:mangrove_planks"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

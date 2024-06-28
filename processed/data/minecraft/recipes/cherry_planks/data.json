@@ -1,0 +1,14 @@
+{
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "minecraft:cherry_logs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:cherry_planks"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

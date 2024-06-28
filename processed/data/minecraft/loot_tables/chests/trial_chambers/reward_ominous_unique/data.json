@@ -1,0 +1,35 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "minecraft:enchanted_golden_apple",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "name": "minecraft:flow_armor_trim_smithing_template",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "name": "minecraft:flow_banner_pattern",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
+          "name": "minecraft:music_disc_creator",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "minecraft:heavy_core",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:chests/trial_chambers/reward_ominous_unique",
+  "type": "minecraft:chest"
+}

@@ -1,0 +1,13 @@
+{
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:gold_nugget"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,3 @@
+minecraft:blank
+minecraft:fixed
+minecraft:styled

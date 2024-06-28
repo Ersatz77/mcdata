@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:sandstone"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:sandstone_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

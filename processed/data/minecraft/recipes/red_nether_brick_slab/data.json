@@ -1,0 +1,16 @@
+{
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:red_nether_bricks"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:red_nether_brick_slab"
+  },
+  "type": "minecraft:crafting_shaped"
+}
