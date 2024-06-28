@@ -1,0 +1,12 @@
+{
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:sandstone"
+  },
+  "result": {
+    "id": "minecraft:smooth_sandstone"
+  },
+  "type": "minecraft:smelting"
+}

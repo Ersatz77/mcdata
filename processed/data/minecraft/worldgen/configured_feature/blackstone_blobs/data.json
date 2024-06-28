@@ -1,0 +1,16 @@
+{
+  "config": {
+    "radius": {
+      "max_inclusive": 7,
+      "min_inclusive": 3,
+      "type": "minecraft:uniform"
+    },
+    "state": {
+      "Name": "minecraft:blackstone"
+    },
+    "target": {
+      "Name": "minecraft:netherrack"
+    }
+  },
+  "type": "minecraft:netherrack_replace_blobs"
+}

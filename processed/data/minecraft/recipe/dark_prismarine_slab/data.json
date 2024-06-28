@@ -1,0 +1,16 @@
+{
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:dark_prismarine"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:dark_prismarine_slab"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,16 @@
+{
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:creeper_head"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:creeper_banner_pattern"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

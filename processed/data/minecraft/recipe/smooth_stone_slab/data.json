@@ -1,0 +1,16 @@
+{
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:smooth_stone_slab"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,9 @@
+minecraft:broken
+minecraft:crafted
+minecraft:custom
+minecraft:dropped
+minecraft:killed
+minecraft:killed_by
+minecraft:mined
+minecraft:picked_up
+minecraft:used

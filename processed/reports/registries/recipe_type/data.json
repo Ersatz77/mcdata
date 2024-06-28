@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:blasting",
+    "minecraft:campfire_cooking",
+    "minecraft:crafting",
+    "minecraft:smelting",
+    "minecraft:smithing",
+    "minecraft:smoking",
+    "minecraft:stonecutting"
+  ]
+}

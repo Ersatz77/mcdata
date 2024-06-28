@@ -1,0 +1,10 @@
+{
+  "ingredient": {
+    "item": "minecraft:purpur_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:purpur_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

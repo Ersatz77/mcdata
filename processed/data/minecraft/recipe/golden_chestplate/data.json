@@ -1,0 +1,18 @@
+{
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_chestplate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

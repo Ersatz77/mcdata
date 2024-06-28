@@ -1,0 +1,12 @@
+{
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:cobbled_deepslate"
+  },
+  "result": {
+    "id": "minecraft:deepslate"
+  },
+  "type": "minecraft:smelting"
+}
