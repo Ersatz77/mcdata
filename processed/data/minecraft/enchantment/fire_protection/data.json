@@ -7,8 +7,8 @@
     "minecraft:attributes": [
       {
         "amount": {
-          "base": -0.15,
-          "per_level_above_first": -0.15,
+          "base": -0.0375,
+          "per_level_above_first": -0.0375,
           "type": "minecraft:linear"
         },
         "attribute": "minecraft:generic.burning_time",
