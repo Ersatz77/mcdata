@@ -5233,6 +5233,9 @@
       },
       "minecraft:linear": {
         "protocol_id": 3
+      },
+      "minecraft:lookup": {
+        "protocol_id": 4
       }
     },
     "protocol_id": 73
