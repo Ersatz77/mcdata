@@ -1,3 +1,0 @@
-minecraft:by_cost
-minecraft:by_cost_with_difficulty
-minecraft:single

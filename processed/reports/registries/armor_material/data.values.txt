@@ -1,8 +1,0 @@
-minecraft:armadillo
-minecraft:chainmail
-minecraft:diamond
-minecraft:gold
-minecraft:iron
-minecraft:leather
-minecraft:netherite
-minecraft:turtle

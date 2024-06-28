@@ -1,2 +1,0 @@
-minecraft:context
-minecraft:storage

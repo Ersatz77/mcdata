@@ -1,4 +1,0 @@
-minecraft:append_loot
-minecraft:append_static
-minecraft:clear
-minecraft:passthrough
