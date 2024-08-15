@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:smooth_sandstone"
-    }
+    "#": "minecraft:smooth_sandstone"
   },
   "pattern": [
     "#  ",

@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:logs"
-    },
-    "X": {
-      "item": "minecraft:furnace"
-    }
+    "#": "#minecraft:logs",
+    "X": "minecraft:furnace"
   },
   "pattern": [
     " # ",

@@ -1,0 +1,16 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "minecraft:brown_mushroom",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 5.0
+    }
+  ],
+  "random_sequence": "minecraft:shearing/mooshroom/brown",
+  "type": "minecraft:shearing"
+}

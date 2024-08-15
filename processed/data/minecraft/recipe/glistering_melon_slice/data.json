@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:gold_nugget"
-    },
-    "X": {
-      "item": "minecraft:melon_slice"
-    }
+    "#": "minecraft:gold_nugget",
+    "X": "minecraft:melon_slice"
   },
   "pattern": [
     "###",

@@ -1,19 +1,11 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "S": {
-      "tag": "minecraft:soul_fire_base_blocks"
-    },
+    "#": "minecraft:stick",
+    "S": "#minecraft:soul_fire_base_blocks",
     "X": [
-      {
-        "item": "minecraft:coal"
-      },
-      {
-        "item": "minecraft:charcoal"
-      }
+      "minecraft:coal",
+      "minecraft:charcoal"
     ]
   },
   "pattern": [

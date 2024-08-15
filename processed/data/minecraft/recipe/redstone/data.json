@@ -1,9 +1,7 @@
 {
   "category": "redstone",
   "ingredients": [
-    {
-      "item": "minecraft:redstone_block"
-    }
+    "minecraft:redstone_block"
   ],
   "result": {
     "count": 9,

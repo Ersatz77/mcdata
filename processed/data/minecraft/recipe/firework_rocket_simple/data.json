@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:gunpowder"
-    },
-    {
-      "item": "minecraft:paper"
-    }
+    "minecraft:gunpowder",
+    "minecraft:paper"
   ],
   "result": {
     "count": 3,

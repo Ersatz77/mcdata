@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:red_sandstone_slab"
-    }
+    "#": "minecraft:red_sandstone_slab"
   },
   "pattern": [
     "#",

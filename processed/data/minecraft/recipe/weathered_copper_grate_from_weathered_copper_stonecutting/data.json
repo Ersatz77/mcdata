@@ -1,7 +1,5 @@
 {
-  "ingredient": {
-    "item": "minecraft:weathered_copper"
-  },
+  "ingredient": "minecraft:weathered_copper",
   "result": {
     "count": 4,
     "id": "minecraft:weathered_copper_grate"

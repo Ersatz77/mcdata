@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:chest"
-    },
-    "-": {
-      "item": "minecraft:shulker_shell"
-    }
+    "#": "minecraft:chest",
+    "-": "minecraft:shulker_shell"
   },
   "pattern": [
     "-",

@@ -1,9 +1,7 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:polished_blackstone_bricks"
-    }
+    "#": "minecraft:polished_blackstone_bricks"
   },
   "pattern": [
     "###",

@@ -416,7 +416,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -462,7 +462,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -518,7 +518,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -1593,7 +1593,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -1890,7 +1890,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -1941,6 +1941,9 @@
       "minecraft:attribute_modifiers": {
         "modifiers": []
       },
+      "minecraft:enchantable": {
+        "value": 1
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -1964,12 +1967,29 @@
       "minecraft:repair_cost": 0
     }
   },
+  "minecraft:bordure_indented_banner_pattern": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
   "minecraft:bow": {
     "components": {
       "minecraft:attribute_modifiers": {
         "modifiers": []
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 1
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -2092,7 +2112,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -2504,7 +2524,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -2751,7 +2771,7 @@
       "minecraft:lore": [],
       "minecraft:max_damage": 195,
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -2767,7 +2787,7 @@
       "minecraft:lore": [],
       "minecraft:max_damage": 240,
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -2783,7 +2803,7 @@
       "minecraft:lore": [],
       "minecraft:max_damage": 165,
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -2799,7 +2819,7 @@
       "minecraft:lore": [],
       "minecraft:max_damage": 225,
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -3450,7 +3470,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -3721,7 +3741,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -4367,6 +4387,9 @@
       },
       "minecraft:charged_projectiles": [],
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 1
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -4711,7 +4734,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -5540,14 +5563,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 8.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -5556,6 +5579,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 10
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -5564,6 +5590,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:diamond_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -5646,14 +5675,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 0.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": 0.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -5662,6 +5691,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 10
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -5670,6 +5702,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:diamond_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -5734,14 +5769,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 4.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.799999952316284,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -5750,6 +5785,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 10
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -5758,6 +5796,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:diamond_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -5778,14 +5819,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 4.5,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -5794,6 +5835,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 10
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -5802,6 +5846,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:diamond_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -5822,14 +5869,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 6.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.4000000953674316,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -5838,6 +5885,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 10
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -5846,6 +5896,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:diamond_tool_materials"
+      },
       "minecraft:tool": {
         "damage_per_block": 2,
         "rules": [
@@ -5956,7 +6009,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -6041,7 +6094,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "uncommon",
+      "minecraft:rarity": "epic",
       "minecraft:repair_cost": 0
     }
   },
@@ -6131,7 +6184,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -6145,7 +6198,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -6189,8 +6242,11 @@
       "minecraft:lore": [],
       "minecraft:max_damage": 432,
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "uncommon",
-      "minecraft:repair_cost": 0
+      "minecraft:rarity": "epic",
+      "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "minecraft:phantom_membrane"
+      }
     }
   },
   "minecraft:emerald": {
@@ -6301,7 +6357,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "epic",
+      "minecraft:rarity": "rare",
       "minecraft:repair_cost": 0
     }
   },
@@ -6330,7 +6386,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "common",
       "minecraft:repair_cost": 0
     }
   },
@@ -6437,7 +6493,6 @@
       "minecraft:attribute_modifiers": {
         "modifiers": []
       },
-      "minecraft:container": [],
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -6556,7 +6611,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -6696,7 +6751,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "rare",
       "minecraft:repair_cost": 0
     }
   },
@@ -6752,6 +6807,20 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:field_masoned_banner_pattern": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0
     }
@@ -6865,6 +6934,9 @@
         "modifiers": []
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 1
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -6929,7 +7001,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -6957,7 +7029,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -7041,7 +7113,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -7326,7 +7398,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -7432,7 +7504,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "common",
       "minecraft:repair_cost": 0
     }
   },
@@ -7441,14 +7513,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 6.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -7457,6 +7529,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 22
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -7465,6 +7540,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:gold_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -7551,14 +7629,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 0.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -7567,6 +7645,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 22
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -7575,6 +7656,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:gold_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -7625,14 +7709,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 1.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.799999952316284,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -7641,6 +7725,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 22
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -7649,6 +7736,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:gold_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -7669,14 +7759,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 1.5,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -7685,6 +7775,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 22
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -7693,6 +7786,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:gold_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -7713,14 +7809,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 3.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.4000000953674316,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -7729,6 +7825,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 22
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -7737,6 +7836,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:gold_tool_materials"
+      },
       "minecraft:tool": {
         "damage_per_block": 2,
         "rules": [
@@ -8271,7 +8373,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -8327,7 +8429,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -8341,7 +8443,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -8542,7 +8644,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -8556,7 +8658,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -8705,14 +8807,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 8.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0999999046325684,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -8721,6 +8823,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 14
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -8729,6 +8834,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:iron_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -8853,14 +8961,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 0.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -1.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -8869,6 +8977,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 14
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -8877,6 +8988,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:iron_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -8969,14 +9083,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 3.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.799999952316284,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -8985,6 +9099,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 14
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -8993,6 +9110,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:iron_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -9013,14 +9133,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 3.5,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -9029,6 +9149,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 14
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -9037,6 +9160,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:iron_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -9057,14 +9183,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 5.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.4000000953674316,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -9073,6 +9199,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 14
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -9081,6 +9210,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:iron_tool_materials"
+      },
       "minecraft:tool": {
         "damage_per_block": 2,
         "rules": [
@@ -10378,14 +10510,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 5.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.4000000953674316,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -10394,6 +10526,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 15
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -10402,6 +10537,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "epic",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "minecraft:breeze_rod"
+      },
       "minecraft:tool": {
         "damage_per_block": 2,
         "rules": []
@@ -10998,7 +11136,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11012,7 +11150,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "epic",
+      "minecraft:rarity": "rare",
       "minecraft:repair_cost": 0
     }
   },
@@ -11180,7 +11318,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11330,7 +11468,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11347,7 +11485,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11364,7 +11502,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11381,7 +11519,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11398,7 +11536,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11415,7 +11553,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11449,7 +11587,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11466,7 +11604,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11483,7 +11621,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11500,7 +11638,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11551,7 +11689,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11568,7 +11706,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11585,7 +11723,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11602,7 +11740,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11619,7 +11757,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11636,7 +11774,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "rare",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11696,7 +11834,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -11837,7 +11975,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "uncommon",
+      "minecraft:rarity": "rare",
       "minecraft:repair_cost": 0
     }
   },
@@ -11874,14 +12012,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 9.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -11890,6 +12028,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 15
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -11899,6 +12040,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:netherite_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -11985,14 +12129,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 0.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": 0.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -12001,6 +12145,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 15
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -12010,6 +12157,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:netherite_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -12062,14 +12212,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 5.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.799999952316284,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -12078,6 +12228,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 15
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -12087,6 +12240,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:netherite_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -12122,14 +12278,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 5.5,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -12138,6 +12294,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 15
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -12147,6 +12306,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:netherite_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -12167,14 +12329,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 7.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.4000000953674316,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -12183,6 +12345,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 15
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -12192,6 +12357,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:netherite_tool_materials"
+      },
       "minecraft:tool": {
         "damage_per_block": 2,
         "rules": [
@@ -12218,7 +12386,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -12559,7 +12727,7 @@
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
       "minecraft:ominous_bottle_amplifier": 0,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -13431,7 +13599,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -14140,7 +14308,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -14691,7 +14859,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -14803,7 +14971,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -15295,7 +15463,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -15510,7 +15678,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -15636,7 +15804,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -15650,7 +15818,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -15664,7 +15832,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -15732,7 +15900,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -15750,7 +15918,10 @@
       "minecraft:max_damage": 336,
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
-      "minecraft:repair_cost": 0
+      "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:wooden_tool_materials"
+      }
     }
   },
   "minecraft:short_grass": {
@@ -15834,7 +16005,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "epic",
       "minecraft:repair_cost": 0
     }
   },
@@ -15904,7 +16075,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "uncommon",
+      "minecraft:rarity": "rare",
       "minecraft:repair_cost": 0
     }
   },
@@ -15918,7 +16089,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -16199,7 +16370,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -16227,7 +16398,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -16241,7 +16412,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -16451,7 +16622,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "rare",
       "minecraft:repair_cost": 0
     }
   },
@@ -16811,14 +16982,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 8.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.200000047683716,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -16827,6 +16998,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 5
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -16835,6 +17009,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:stone_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -16925,14 +17102,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 0.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -16941,6 +17118,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 5
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -16949,6 +17129,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:stone_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -16969,14 +17152,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 2.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.799999952316284,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -16985,6 +17168,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 5
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -16993,6 +17179,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:stone_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -17027,14 +17216,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 2.5,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -17043,6 +17232,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 5
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -17051,6 +17243,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:stone_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -17099,14 +17294,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 4.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.4000000953674316,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -17115,6 +17310,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 5
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -17123,6 +17321,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:stone_tool_materials"
+      },
       "minecraft:tool": {
         "damage_per_block": 2,
         "rules": [
@@ -17709,7 +17910,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -17888,14 +18089,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 8.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.9000000953674316,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -17904,13 +18105,16 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 1
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
       "minecraft:lore": [],
       "minecraft:max_damage": 250,
       "minecraft:max_stack_size": 1,
-      "minecraft:rarity": "epic",
+      "minecraft:rarity": "rare",
       "minecraft:repair_cost": 0,
       "minecraft:tool": {
         "damage_per_block": 2,
@@ -18243,7 +18447,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "rare",
       "minecraft:repair_cost": 0
     }
   },
@@ -18327,7 +18531,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "rare",
       "minecraft:repair_cost": 0
     }
   },
@@ -19127,7 +19331,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -19521,7 +19725,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "common",
+      "minecraft:rarity": "uncommon",
       "minecraft:repair_cost": 0
     }
   },
@@ -19577,7 +19781,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "uncommon",
+      "minecraft:rarity": "rare",
       "minecraft:repair_cost": 0
     }
   },
@@ -19644,14 +19848,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 6.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.200000047683716,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -19660,6 +19864,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 15
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -19668,6 +19875,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:wooden_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -19688,14 +19898,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 0.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -19704,6 +19914,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 15
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -19712,6 +19925,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:wooden_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -19732,14 +19948,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 1.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.799999952316284,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -19748,6 +19964,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 15
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -19756,6 +19975,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:wooden_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -19776,14 +19998,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 1.5,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -3.0,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -19792,6 +20014,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 15
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -19800,6 +20025,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:wooden_tool_materials"
+      },
       "minecraft:tool": {
         "rules": [
           {
@@ -19820,14 +20048,14 @@
       "minecraft:attribute_modifiers": {
         "modifiers": [
           {
-            "type": "minecraft:generic.attack_damage",
+            "type": "minecraft:attack_damage",
             "amount": 3.0,
             "id": "minecraft:base_attack_damage",
             "operation": "add_value",
             "slot": "mainhand"
           },
           {
-            "type": "minecraft:generic.attack_speed",
+            "type": "minecraft:attack_speed",
             "amount": -2.4000000953674316,
             "id": "minecraft:base_attack_speed",
             "operation": "add_value",
@@ -19836,6 +20064,9 @@
         ]
       },
       "minecraft:damage": 0,
+      "minecraft:enchantable": {
+        "value": 15
+      },
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -19844,6 +20075,9 @@
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
+      "minecraft:repairable": {
+        "items": "#minecraft:wooden_tool_materials"
+      },
       "minecraft:tool": {
         "damage_per_block": 2,
         "rules": [

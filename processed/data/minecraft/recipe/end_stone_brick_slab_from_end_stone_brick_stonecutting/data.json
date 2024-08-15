@@ -1,7 +1,5 @@
 {
-  "ingredient": {
-    "item": "minecraft:end_stone_bricks"
-  },
+  "ingredient": "minecraft:end_stone_bricks",
   "result": {
     "count": 2,
     "id": "minecraft:end_stone_brick_slab"

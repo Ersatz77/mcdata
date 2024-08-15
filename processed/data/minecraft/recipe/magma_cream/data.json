@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:blaze_powder"
-    },
-    {
-      "item": "minecraft:slime_ball"
-    }
+    "minecraft:blaze_powder",
+    "minecraft:slime_ball"
   ],
   "result": {
     "count": 1,

@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:hopper"
-    },
-    {
-      "item": "minecraft:minecart"
-    }
+    "minecraft:hopper",
+    "minecraft:minecart"
   ],
   "result": {
     "count": 1,

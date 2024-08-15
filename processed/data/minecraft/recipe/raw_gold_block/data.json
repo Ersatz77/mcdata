@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:raw_gold"
-    }
+    "#": "minecraft:raw_gold"
   },
   "pattern": [
     "###",

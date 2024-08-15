@@ -2,9 +2,7 @@
   "category": "building",
   "group": "wooden_stairs",
   "key": {
-    "#": {
-      "item": "minecraft:cherry_planks"
-    }
+    "#": "minecraft:cherry_planks"
   },
   "pattern": [
     "#  ",

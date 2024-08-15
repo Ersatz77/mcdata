@@ -1,15 +1,9 @@
 {
   "category": "misc",
   "key": {
-    "C": {
-      "tag": "minecraft:coals"
-    },
-    "L": {
-      "tag": "minecraft:logs"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    }
+    "C": "#minecraft:coals",
+    "L": "#minecraft:logs",
+    "S": "minecraft:stick"
   },
   "pattern": [
     " S ",

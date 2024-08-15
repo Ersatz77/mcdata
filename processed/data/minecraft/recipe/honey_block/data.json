@@ -1,9 +1,7 @@
 {
   "category": "redstone",
   "key": {
-    "#": {
-      "item": "minecraft:honey_bottle"
-    }
+    "#": "minecraft:honey_bottle"
   },
   "pattern": [
     "##",

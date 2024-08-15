@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:obsidian"
-    },
-    "E": {
-      "item": "minecraft:ender_eye"
-    }
+    "#": "minecraft:obsidian",
+    "E": "minecraft:ender_eye"
   },
   "pattern": [
     "###",

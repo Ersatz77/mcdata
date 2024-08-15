@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:popped_chorus_fruit"
-    },
-    "/": {
-      "item": "minecraft:blaze_rod"
-    }
+    "#": "minecraft:popped_chorus_fruit",
+    "/": "minecraft:blaze_rod"
   },
   "pattern": [
     "/",

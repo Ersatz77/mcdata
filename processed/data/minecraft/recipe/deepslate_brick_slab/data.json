@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:deepslate_bricks"
-    }
+    "#": "minecraft:deepslate_bricks"
   },
   "pattern": [
     "###"

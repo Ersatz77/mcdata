@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:lapis_lazuli"
-    }
+    "#": "minecraft:lapis_lazuli"
   },
   "pattern": [
     "###",

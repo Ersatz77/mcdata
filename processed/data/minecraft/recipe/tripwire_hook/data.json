@@ -1,15 +1,9 @@
 {
   "category": "redstone",
   "key": {
-    "#": {
-      "tag": "minecraft:planks"
-    },
-    "I": {
-      "item": "minecraft:iron_ingot"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    }
+    "#": "#minecraft:planks",
+    "I": "minecraft:iron_ingot",
+    "S": "minecraft:stick"
   },
   "pattern": [
     "I",

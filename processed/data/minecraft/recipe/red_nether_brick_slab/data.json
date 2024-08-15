@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:red_nether_bricks"
-    }
+    "#": "minecraft:red_nether_bricks"
   },
   "pattern": [
     "###"

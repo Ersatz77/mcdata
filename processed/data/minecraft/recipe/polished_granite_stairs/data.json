@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:polished_granite"
-    }
+    "#": "minecraft:polished_granite"
   },
   "pattern": [
     "#  ",

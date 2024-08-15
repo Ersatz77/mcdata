@@ -1,12 +1,8 @@
 {
   "category": "redstone",
   "key": {
-    "B": {
-      "item": "minecraft:bookshelf"
-    },
-    "S": {
-      "tag": "minecraft:wooden_slabs"
-    }
+    "B": "minecraft:bookshelf",
+    "S": "#minecraft:wooden_slabs"
   },
   "pattern": [
     "SSS",

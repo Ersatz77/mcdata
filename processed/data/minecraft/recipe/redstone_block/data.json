@@ -1,9 +1,7 @@
 {
   "category": "redstone",
   "key": {
-    "#": {
-      "item": "minecraft:redstone"
-    }
+    "#": "minecraft:redstone"
   },
   "pattern": [
     "###",

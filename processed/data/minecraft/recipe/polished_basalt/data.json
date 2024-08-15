@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "S": {
-      "item": "minecraft:basalt"
-    }
+    "S": "minecraft:basalt"
   },
   "pattern": [
     "SS",

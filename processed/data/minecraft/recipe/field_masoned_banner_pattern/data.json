@@ -1,0 +1,12 @@
+{
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:bricks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:field_masoned_banner_pattern"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:green_dye"
-    },
-    {
-      "item": "minecraft:white_dye"
-    }
+    "minecraft:green_dye",
+    "minecraft:white_dye"
   ],
   "result": {
     "count": 2,

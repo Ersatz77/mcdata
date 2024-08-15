@@ -1,15 +1,9 @@
 {
   "category": "equipment",
   "key": {
-    "#": {
-      "item": "minecraft:copper_ingot"
-    },
-    "I": {
-      "item": "minecraft:stick"
-    },
-    "X": {
-      "item": "minecraft:feather"
-    }
+    "#": "minecraft:copper_ingot",
+    "I": "minecraft:stick",
+    "X": "minecraft:feather"
   },
   "pattern": [
     "X",

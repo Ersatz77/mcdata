@@ -2,9 +2,7 @@
   "category": "building",
   "group": "planks",
   "ingredients": [
-    {
-      "tag": "minecraft:acacia_logs"
-    }
+    "#minecraft:acacia_logs"
   ],
   "result": {
     "count": 4,

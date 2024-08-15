@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:smooth_quartz"
-    }
+    "#": "minecraft:smooth_quartz"
   },
   "pattern": [
     "###"

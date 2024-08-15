@@ -1,9 +1,7 @@
 {
   "category": "equipment",
   "key": {
-    "X": {
-      "item": "minecraft:leather"
-    }
+    "X": "minecraft:leather"
   },
   "pattern": [
     "XXX",

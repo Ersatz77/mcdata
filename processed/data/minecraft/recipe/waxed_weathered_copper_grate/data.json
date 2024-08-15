@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "M": {
-      "item": "minecraft:waxed_weathered_copper"
-    }
+    "M": "minecraft:waxed_weathered_copper"
   },
   "pattern": [
     " M ",

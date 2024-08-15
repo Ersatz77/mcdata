@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "I": {
-      "item": "minecraft:bamboo"
-    },
-    "~": {
-      "item": "minecraft:string"
-    }
+    "I": "minecraft:bamboo",
+    "~": "minecraft:string"
   },
   "pattern": [
     "I~I",

@@ -1,12 +1,8 @@
 {
   "category": "equipment",
   "key": {
-    "O": {
-      "item": "minecraft:slime_ball"
-    },
-    "~": {
-      "item": "minecraft:string"
-    }
+    "O": "minecraft:slime_ball",
+    "~": "minecraft:string"
   },
   "pattern": [
     "~~ ",

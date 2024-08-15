@@ -1,33 +1,15 @@
 {
   "category": "building",
   "ingredients": [
-    {
-      "item": "minecraft:packed_ice"
-    },
-    {
-      "item": "minecraft:packed_ice"
-    },
-    {
-      "item": "minecraft:packed_ice"
-    },
-    {
-      "item": "minecraft:packed_ice"
-    },
-    {
-      "item": "minecraft:packed_ice"
-    },
-    {
-      "item": "minecraft:packed_ice"
-    },
-    {
-      "item": "minecraft:packed_ice"
-    },
-    {
-      "item": "minecraft:packed_ice"
-    },
-    {
-      "item": "minecraft:packed_ice"
-    }
+    "minecraft:packed_ice",
+    "minecraft:packed_ice",
+    "minecraft:packed_ice",
+    "minecraft:packed_ice",
+    "minecraft:packed_ice",
+    "minecraft:packed_ice",
+    "minecraft:packed_ice",
+    "minecraft:packed_ice",
+    "minecraft:packed_ice"
   ],
   "result": {
     "count": 1,

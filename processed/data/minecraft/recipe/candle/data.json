@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "H": {
-      "item": "minecraft:honeycomb"
-    },
-    "S": {
-      "item": "minecraft:string"
-    }
+    "H": "minecraft:honeycomb",
+    "S": "minecraft:string"
   },
   "pattern": [
     "S",

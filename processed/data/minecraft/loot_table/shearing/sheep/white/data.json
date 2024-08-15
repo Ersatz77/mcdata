@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "minecraft:white_wool",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
+  "random_sequence": "minecraft:shearing/sheep/white",
+  "type": "minecraft:shearing"
+}

@@ -1046,6 +1046,20 @@ minecraft:recipes/food/mushroom_stew
 minecraft:recipes/food/pumpkin_pie
 minecraft:recipes/food/rabbit_stew_from_brown_mushroom
 minecraft:recipes/food/rabbit_stew_from_red_mushroom
+minecraft:recipes/food/suspicious_stew_from_allium
+minecraft:recipes/food/suspicious_stew_from_azure_bluet
+minecraft:recipes/food/suspicious_stew_from_blue_orchid
+minecraft:recipes/food/suspicious_stew_from_cornflower
+minecraft:recipes/food/suspicious_stew_from_dandelion
+minecraft:recipes/food/suspicious_stew_from_lily_of_the_valley
+minecraft:recipes/food/suspicious_stew_from_orange_tulip
+minecraft:recipes/food/suspicious_stew_from_oxeye_daisy
+minecraft:recipes/food/suspicious_stew_from_pink_tulip
+minecraft:recipes/food/suspicious_stew_from_poppy
+minecraft:recipes/food/suspicious_stew_from_red_tulip
+minecraft:recipes/food/suspicious_stew_from_torchflower
+minecraft:recipes/food/suspicious_stew_from_white_tulip
+minecraft:recipes/food/suspicious_stew_from_wither_rose
 minecraft:recipes/misc/beacon
 minecraft:recipes/misc/black_dye
 minecraft:recipes/misc/black_dye_from_wither_rose
@@ -1056,6 +1070,7 @@ minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim
 minecraft:recipes/misc/bone_meal
 minecraft:recipes/misc/bone_meal_from_bone_block
 minecraft:recipes/misc/book
+minecraft:recipes/misc/bordure_indented_banner_pattern
 minecraft:recipes/misc/bowl
 minecraft:recipes/misc/brick
 minecraft:recipes/misc/brown_dye
@@ -1095,6 +1110,7 @@ minecraft:recipes/misc/emerald_from_smelting_emerald_ore
 minecraft:recipes/misc/ender_eye
 minecraft:recipes/misc/eye_armor_trim_smithing_template
 minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim
+minecraft:recipes/misc/field_masoned_banner_pattern
 minecraft:recipes/misc/fire_charge
 minecraft:recipes/misc/firework_rocket_simple
 minecraft:recipes/misc/flow_armor_trim_smithing_template

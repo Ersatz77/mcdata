@@ -1,9 +1,7 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:stone_crafting_materials"
-    }
+    "#": "#minecraft:stone_crafting_materials"
   },
   "pattern": [
     "###",

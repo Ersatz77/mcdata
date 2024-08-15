@@ -1,9 +1,7 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:cobbled_deepslate"
-    }
+    "#": "minecraft:cobbled_deepslate"
   },
   "pattern": [
     "###",

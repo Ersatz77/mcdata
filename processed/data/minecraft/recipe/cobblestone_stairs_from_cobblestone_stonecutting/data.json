@@ -1,7 +1,5 @@
 {
-  "ingredient": {
-    "item": "minecraft:cobblestone"
-  },
+  "ingredient": "minecraft:cobblestone",
   "result": {
     "count": 1,
     "id": "minecraft:cobblestone_stairs"

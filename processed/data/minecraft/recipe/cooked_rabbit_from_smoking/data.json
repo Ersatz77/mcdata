@@ -2,9 +2,7 @@
   "category": "food",
   "cookingtime": 100,
   "experience": 0.35,
-  "ingredient": {
-    "item": "minecraft:rabbit"
-  },
+  "ingredient": "minecraft:rabbit",
   "result": {
     "id": "minecraft:cooked_rabbit"
   },

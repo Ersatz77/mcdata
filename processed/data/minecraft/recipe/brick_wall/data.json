@@ -1,9 +1,7 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:bricks"
-    }
+    "#": "minecraft:bricks"
   },
   "pattern": [
     "###",

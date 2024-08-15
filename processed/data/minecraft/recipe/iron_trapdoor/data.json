@@ -1,9 +1,7 @@
 {
   "category": "redstone",
   "key": {
-    "#": {
-      "item": "minecraft:iron_ingot"
-    }
+    "#": "minecraft:iron_ingot"
   },
   "pattern": [
     "##",

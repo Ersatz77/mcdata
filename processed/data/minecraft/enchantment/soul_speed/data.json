@@ -12,7 +12,7 @@
             "per_level_above_first": 0.0105,
             "type": "minecraft:linear"
           },
-          "attribute": "minecraft:generic.movement_speed",
+          "attribute": "minecraft:movement_speed",
           "id": "minecraft:enchantment.soul_speed",
           "operation": "add_value",
           "type": "minecraft:attribute"
@@ -107,7 +107,7 @@
       {
         "effect": {
           "amount": 1.0,
-          "attribute": "minecraft:generic.movement_efficiency",
+          "attribute": "minecraft:movement_efficiency",
           "id": "minecraft:enchantment.soul_speed",
           "operation": "add_value",
           "type": "minecraft:attribute"

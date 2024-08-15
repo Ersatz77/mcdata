@@ -1,6 +1,5 @@
 minecraft:biome
 minecraft:block_predicate_filter
-minecraft:carving_mask
 minecraft:count
 minecraft:count_on_every_layer
 minecraft:environment_scan

@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:tuff_bricks"
-    }
+    "#": "minecraft:tuff_bricks"
   },
   "pattern": [
     "#  ",

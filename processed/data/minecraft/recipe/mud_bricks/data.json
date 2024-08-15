@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:packed_mud"
-    }
+    "#": "minecraft:packed_mud"
   },
   "pattern": [
     "##",

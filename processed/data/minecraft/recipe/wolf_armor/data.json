@@ -1,9 +1,7 @@
 {
   "category": "equipment",
   "key": {
-    "X": {
-      "item": "minecraft:armadillo_scute"
-    }
+    "X": "minecraft:armadillo_scute"
   },
   "pattern": [
     "X  ",

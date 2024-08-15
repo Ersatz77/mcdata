@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:planks"
-    },
-    "@": {
-      "item": "minecraft:flint"
-    }
+    "#": "#minecraft:planks",
+    "@": "minecraft:flint"
   },
   "pattern": [
     "@@",

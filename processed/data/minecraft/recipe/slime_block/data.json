@@ -1,9 +1,7 @@
 {
   "category": "redstone",
   "key": {
-    "#": {
-      "item": "minecraft:slime_ball"
-    }
+    "#": "minecraft:slime_ball"
   },
   "pattern": [
     "###",

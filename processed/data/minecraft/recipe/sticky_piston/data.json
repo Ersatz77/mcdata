@@ -1,12 +1,8 @@
 {
   "category": "redstone",
   "key": {
-    "P": {
-      "item": "minecraft:piston"
-    },
-    "S": {
-      "item": "minecraft:slime_ball"
-    }
+    "P": "minecraft:piston",
+    "S": "minecraft:slime_ball"
   },
   "pattern": [
     "S",

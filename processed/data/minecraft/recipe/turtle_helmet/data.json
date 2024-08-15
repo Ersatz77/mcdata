@@ -1,9 +1,7 @@
 {
   "category": "equipment",
   "key": {
-    "X": {
-      "item": "minecraft:turtle_scute"
-    }
+    "X": "minecraft:turtle_scute"
   },
   "pattern": [
     "XXX",

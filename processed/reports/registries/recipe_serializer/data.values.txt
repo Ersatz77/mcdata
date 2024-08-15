@@ -14,7 +14,6 @@ minecraft:crafting_special_mapextending
 minecraft:crafting_special_repairitem
 minecraft:crafting_special_shielddecoration
 minecraft:crafting_special_shulkerboxcoloring
-minecraft:crafting_special_suspiciousstew
 minecraft:crafting_special_tippedarrow
 minecraft:smelting
 minecraft:smithing_transform

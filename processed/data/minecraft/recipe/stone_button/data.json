@@ -1,9 +1,7 @@
 {
   "category": "redstone",
   "ingredients": [
-    {
-      "item": "minecraft:stone"
-    }
+    "minecraft:stone"
   ],
   "result": {
     "count": 1,

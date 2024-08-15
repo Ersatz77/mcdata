@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:andesite"
-    }
+    "#": "minecraft:andesite"
   },
   "pattern": [
     "###"

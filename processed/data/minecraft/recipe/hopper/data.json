@@ -1,12 +1,8 @@
 {
   "category": "redstone",
   "key": {
-    "C": {
-      "item": "minecraft:chest"
-    },
-    "I": {
-      "item": "minecraft:iron_ingot"
-    }
+    "C": "minecraft:chest",
+    "I": "minecraft:iron_ingot"
   },
   "pattern": [
     "I I",

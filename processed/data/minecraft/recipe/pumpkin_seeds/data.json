@@ -1,9 +1,7 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:pumpkin"
-    }
+    "minecraft:pumpkin"
   ],
   "result": {
     "count": 4,

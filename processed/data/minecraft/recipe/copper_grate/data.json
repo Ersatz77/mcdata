@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "M": {
-      "item": "minecraft:copper_block"
-    }
+    "M": "minecraft:copper_block"
   },
   "pattern": [
     " M ",

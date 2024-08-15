@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:quartz_block"
-    }
+    "#": "minecraft:quartz_block"
   },
   "pattern": [
     "#",

@@ -1,7 +1,5 @@
 {
-  "ingredient": {
-    "item": "minecraft:tuff_bricks"
-  },
+  "ingredient": "minecraft:tuff_bricks",
   "result": {
     "count": 1,
     "id": "minecraft:tuff_brick_stairs"

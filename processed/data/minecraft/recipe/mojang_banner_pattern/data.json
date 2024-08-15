@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:enchanted_golden_apple"
-    }
+    "minecraft:paper",
+    "minecraft:enchanted_golden_apple"
   ],
   "result": {
     "count": 1,

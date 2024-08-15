@@ -1,15 +1,9 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:diamond"
-    },
-    "C": {
-      "item": "minecraft:breeze_rod"
-    },
-    "S": {
-      "item": "minecraft:flow_armor_trim_smithing_template"
-    }
+    "#": "minecraft:diamond",
+    "C": "minecraft:breeze_rod",
+    "S": "minecraft:flow_armor_trim_smithing_template"
   },
   "pattern": [
     "#S#",

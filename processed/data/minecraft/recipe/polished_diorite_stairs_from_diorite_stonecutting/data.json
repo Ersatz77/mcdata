@@ -1,7 +1,5 @@
 {
-  "ingredient": {
-    "item": "minecraft:diorite"
-  },
+  "ingredient": "minecraft:diorite",
   "result": {
     "count": 1,
     "id": "minecraft:polished_diorite_stairs"

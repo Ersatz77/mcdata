@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "I": {
-      "item": "minecraft:iron_block"
-    },
-    "i": {
-      "item": "minecraft:iron_ingot"
-    }
+    "I": "minecraft:iron_block",
+    "i": "minecraft:iron_ingot"
   },
   "pattern": [
     "III",

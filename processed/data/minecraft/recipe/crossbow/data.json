@@ -1,18 +1,10 @@
 {
   "category": "equipment",
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "$": {
-      "item": "minecraft:tripwire_hook"
-    },
-    "&": {
-      "item": "minecraft:iron_ingot"
-    },
-    "~": {
-      "item": "minecraft:string"
-    }
+    "#": "minecraft:stick",
+    "$": "minecraft:tripwire_hook",
+    "&": "minecraft:iron_ingot",
+    "~": "minecraft:string"
   },
   "pattern": [
     "#&#",

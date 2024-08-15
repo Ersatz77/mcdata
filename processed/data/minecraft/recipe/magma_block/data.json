@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:magma_cream"
-    }
+    "#": "minecraft:magma_cream"
   },
   "pattern": [
     "##",

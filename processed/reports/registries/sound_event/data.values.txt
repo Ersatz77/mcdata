@@ -620,6 +620,11 @@ minecraft:block.soul_soil.fall
 minecraft:block.soul_soil.hit
 minecraft:block.soul_soil.place
 minecraft:block.soul_soil.step
+minecraft:block.spawner.break
+minecraft:block.spawner.fall
+minecraft:block.spawner.hit
+minecraft:block.spawner.place
+minecraft:block.spawner.step
 minecraft:block.sponge.absorb
 minecraft:block.sponge.break
 minecraft:block.sponge.fall
@@ -1494,6 +1499,7 @@ minecraft:item.bucket.fill_powder_snow
 minecraft:item.bucket.fill_tadpole
 minecraft:item.bundle.drop_contents
 minecraft:item.bundle.insert
+minecraft:item.bundle.insert_fail
 minecraft:item.bundle.remove_one
 minecraft:item.chorus_fruit.teleport
 minecraft:item.crop.plant

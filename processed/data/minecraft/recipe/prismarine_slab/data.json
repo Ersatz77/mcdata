@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:prismarine"
-    }
+    "#": "minecraft:prismarine"
   },
   "pattern": [
     "###"

@@ -1,12 +1,8 @@
 {
   "category": "building",
   "key": {
-    "C": {
-      "item": "minecraft:prismarine_crystals"
-    },
-    "S": {
-      "item": "minecraft:prismarine_shard"
-    }
+    "C": "minecraft:prismarine_crystals",
+    "S": "minecraft:prismarine_shard"
   },
   "pattern": [
     "SCS",

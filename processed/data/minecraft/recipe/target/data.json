@@ -1,12 +1,8 @@
 {
   "category": "redstone",
   "key": {
-    "H": {
-      "item": "minecraft:hay_block"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    }
+    "H": "minecraft:hay_block",
+    "R": "minecraft:redstone"
   },
   "pattern": [
     " R ",

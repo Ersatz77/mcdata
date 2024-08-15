@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "X": {
-      "tag": "minecraft:wool"
-    }
+    "#": "minecraft:stick",
+    "X": "#minecraft:wool"
   },
   "pattern": [
     "###",

@@ -1,12 +1,8 @@
 {
   "category": "building",
   "key": {
-    "N": {
-      "item": "minecraft:nether_brick"
-    },
-    "W": {
-      "item": "minecraft:nether_wart"
-    }
+    "N": "minecraft:nether_brick",
+    "W": "minecraft:nether_wart"
   },
   "pattern": [
     "NW",

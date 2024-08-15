@@ -1,12 +1,8 @@
 {
   "category": "redstone",
   "key": {
-    "#": {
-      "item": "minecraft:cobblestone"
-    },
-    "X": {
-      "item": "minecraft:stick"
-    }
+    "#": "minecraft:cobblestone",
+    "X": "minecraft:stick"
   },
   "pattern": [
     "X",

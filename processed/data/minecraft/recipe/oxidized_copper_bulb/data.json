@@ -1,15 +1,9 @@
 {
   "category": "redstone",
   "key": {
-    "B": {
-      "item": "minecraft:blaze_rod"
-    },
-    "C": {
-      "item": "minecraft:oxidized_copper"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    }
+    "B": "minecraft:blaze_rod",
+    "C": "minecraft:oxidized_copper",
+    "R": "minecraft:redstone"
   },
   "pattern": [
     " C ",

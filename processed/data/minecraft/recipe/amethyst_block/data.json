@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:amethyst_shard"
-    }
+    "#": "minecraft:amethyst_shard"
   },
   "pattern": [
     "##",

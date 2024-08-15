@@ -2,9 +2,7 @@
   "category": "building",
   "group": "planks",
   "ingredients": [
-    {
-      "tag": "minecraft:oak_logs"
-    }
+    "#minecraft:oak_logs"
   ],
   "result": {
     "count": 4,

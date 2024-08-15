@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:mossy_stone_bricks"
-    }
+    "#": "minecraft:mossy_stone_bricks"
   },
   "pattern": [
     "###"

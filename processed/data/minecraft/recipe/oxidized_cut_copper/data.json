@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:oxidized_copper"
-    }
+    "#": "minecraft:oxidized_copper"
   },
   "pattern": [
     "##",

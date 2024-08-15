@@ -1,33 +1,15 @@
 {
   "category": "building",
   "ingredients": [
-    {
-      "item": "minecraft:melon_slice"
-    },
-    {
-      "item": "minecraft:melon_slice"
-    },
-    {
-      "item": "minecraft:melon_slice"
-    },
-    {
-      "item": "minecraft:melon_slice"
-    },
-    {
-      "item": "minecraft:melon_slice"
-    },
-    {
-      "item": "minecraft:melon_slice"
-    },
-    {
-      "item": "minecraft:melon_slice"
-    },
-    {
-      "item": "minecraft:melon_slice"
-    },
-    {
-      "item": "minecraft:melon_slice"
-    }
+    "minecraft:melon_slice",
+    "minecraft:melon_slice",
+    "minecraft:melon_slice",
+    "minecraft:melon_slice",
+    "minecraft:melon_slice",
+    "minecraft:melon_slice",
+    "minecraft:melon_slice",
+    "minecraft:melon_slice",
+    "minecraft:melon_slice"
   ],
   "result": {
     "count": 1,

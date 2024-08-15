@@ -1,7 +1,5 @@
 {
-  "ingredient": {
-    "item": "minecraft:waxed_weathered_copper"
-  },
+  "ingredient": "minecraft:waxed_weathered_copper",
   "result": {
     "count": 4,
     "id": "minecraft:waxed_weathered_copper_grate"

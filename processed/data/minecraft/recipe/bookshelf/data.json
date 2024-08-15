@@ -1,12 +1,8 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "tag": "minecraft:planks"
-    },
-    "X": {
-      "item": "minecraft:book"
-    }
+    "#": "#minecraft:planks",
+    "X": "minecraft:book"
   },
   "pattern": [
     "###",

@@ -1,19 +1,11 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:gunpowder"
-    },
-    {
-      "item": "minecraft:blaze_powder"
-    },
+    "minecraft:gunpowder",
+    "minecraft:blaze_powder",
     [
-      {
-        "item": "minecraft:coal"
-      },
-      {
-        "item": "minecraft:charcoal"
-      }
+      "minecraft:coal",
+      "minecraft:charcoal"
     ]
   ],
   "result": {

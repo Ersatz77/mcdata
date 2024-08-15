@@ -1,9 +1,7 @@
 {
   "category": "equipment",
   "key": {
-    "X": {
-      "item": "minecraft:iron_ingot"
-    }
+    "X": "minecraft:iron_ingot"
   },
   "pattern": [
     "XXX",

@@ -1,9 +1,7 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:end_stone_bricks"
-    }
+    "#": "minecraft:end_stone_bricks"
   },
   "pattern": [
     "###",

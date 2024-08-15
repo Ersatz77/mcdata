@@ -1,18 +1,10 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:leather"
-    }
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:leather"
   ],
   "result": {
     "count": 1,

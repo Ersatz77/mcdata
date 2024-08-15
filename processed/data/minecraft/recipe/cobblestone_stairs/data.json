@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:cobblestone"
-    }
+    "#": "minecraft:cobblestone"
   },
   "pattern": [
     "#  ",

@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:item_frame"
-    },
-    {
-      "item": "minecraft:glow_ink_sac"
-    }
+    "minecraft:item_frame",
+    "minecraft:glow_ink_sac"
   ],
   "result": {
     "count": 1,

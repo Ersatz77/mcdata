@@ -1,9 +1,7 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:dried_kelp_block"
-    }
+    "minecraft:dried_kelp_block"
   ],
   "result": {
     "count": 9,

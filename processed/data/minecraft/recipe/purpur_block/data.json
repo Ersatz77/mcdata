@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "F": {
-      "item": "minecraft:popped_chorus_fruit"
-    }
+    "F": "minecraft:popped_chorus_fruit"
   },
   "pattern": [
     "FF",

@@ -1,12 +1,8 @@
 {
   "category": "redstone",
   "key": {
-    "#": {
-      "item": "minecraft:amethyst_shard"
-    },
-    "X": {
-      "item": "minecraft:sculk_sensor"
-    }
+    "#": "minecraft:amethyst_shard",
+    "X": "minecraft:sculk_sensor"
   },
   "pattern": [
     " # ",

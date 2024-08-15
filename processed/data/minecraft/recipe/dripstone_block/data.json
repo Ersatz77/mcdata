@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:pointed_dripstone"
-    }
+    "#": "minecraft:pointed_dripstone"
   },
   "pattern": [
     "##",

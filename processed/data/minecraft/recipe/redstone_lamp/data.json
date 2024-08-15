@@ -1,12 +1,8 @@
 {
   "category": "redstone",
   "key": {
-    "G": {
-      "item": "minecraft:glowstone"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    }
+    "G": "minecraft:glowstone",
+    "R": "minecraft:redstone"
   },
   "pattern": [
     " R ",

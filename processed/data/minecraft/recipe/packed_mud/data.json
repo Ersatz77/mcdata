@@ -1,12 +1,8 @@
 {
   "category": "building",
   "ingredients": [
-    {
-      "item": "minecraft:mud"
-    },
-    {
-      "item": "minecraft:wheat"
-    }
+    "minecraft:mud",
+    "minecraft:wheat"
   ],
   "result": {
     "count": 1,

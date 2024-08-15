@@ -1,7 +1,5 @@
 {
-  "ingredient": {
-    "item": "minecraft:exposed_copper"
-  },
+  "ingredient": "minecraft:exposed_copper",
   "result": {
     "count": 4,
     "id": "minecraft:exposed_cut_copper_stairs"

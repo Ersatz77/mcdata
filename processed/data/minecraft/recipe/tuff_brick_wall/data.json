@@ -1,9 +1,7 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:tuff_bricks"
-    }
+    "#": "minecraft:tuff_bricks"
   },
   "pattern": [
     "###",

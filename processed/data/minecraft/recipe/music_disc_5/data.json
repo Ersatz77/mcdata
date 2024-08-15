@@ -1,33 +1,15 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:disc_fragment_5"
-    },
-    {
-      "item": "minecraft:disc_fragment_5"
-    },
-    {
-      "item": "minecraft:disc_fragment_5"
-    },
-    {
-      "item": "minecraft:disc_fragment_5"
-    },
-    {
-      "item": "minecraft:disc_fragment_5"
-    },
-    {
-      "item": "minecraft:disc_fragment_5"
-    },
-    {
-      "item": "minecraft:disc_fragment_5"
-    },
-    {
-      "item": "minecraft:disc_fragment_5"
-    },
-    {
-      "item": "minecraft:disc_fragment_5"
-    }
+    "minecraft:disc_fragment_5",
+    "minecraft:disc_fragment_5",
+    "minecraft:disc_fragment_5",
+    "minecraft:disc_fragment_5",
+    "minecraft:disc_fragment_5",
+    "minecraft:disc_fragment_5",
+    "minecraft:disc_fragment_5",
+    "minecraft:disc_fragment_5",
+    "minecraft:disc_fragment_5"
   ],
   "result": {
     "count": 1,

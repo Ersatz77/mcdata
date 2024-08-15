@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:creeper_head"
-    }
+    "minecraft:paper",
+    "minecraft:creeper_head"
   ],
   "result": {
     "count": 1,

@@ -2,9 +2,7 @@
   "category": "blocks",
   "cookingtime": 200,
   "experience": 0.1,
-  "ingredient": {
-    "item": "minecraft:purple_terracotta"
-  },
+  "ingredient": "minecraft:purple_terracotta",
   "result": {
     "id": "minecraft:purple_glazed_terracotta"
   },

@@ -1,33 +1,15 @@
 {
   "category": "building",
   "ingredients": [
-    {
-      "item": "minecraft:nether_wart"
-    },
-    {
-      "item": "minecraft:nether_wart"
-    },
-    {
-      "item": "minecraft:nether_wart"
-    },
-    {
-      "item": "minecraft:nether_wart"
-    },
-    {
-      "item": "minecraft:nether_wart"
-    },
-    {
-      "item": "minecraft:nether_wart"
-    },
-    {
-      "item": "minecraft:nether_wart"
-    },
-    {
-      "item": "minecraft:nether_wart"
-    },
-    {
-      "item": "minecraft:nether_wart"
-    }
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart"
   ],
   "result": {
     "count": 1,

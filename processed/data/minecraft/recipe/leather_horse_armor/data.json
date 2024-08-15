@@ -1,9 +1,7 @@
 {
   "category": "misc",
   "key": {
-    "X": {
-      "item": "minecraft:leather"
-    }
+    "X": "minecraft:leather"
   },
   "pattern": [
     "X X",

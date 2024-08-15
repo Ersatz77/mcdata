@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:blue_dye"
-    },
-    {
-      "item": "minecraft:red_dye"
-    }
+    "minecraft:blue_dye",
+    "minecraft:red_dye"
   ],
   "result": {
     "count": 2,

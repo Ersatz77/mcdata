@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:torch"
-    },
-    "X": {
-      "item": "minecraft:iron_nugget"
-    }
+    "#": "minecraft:torch",
+    "X": "minecraft:iron_nugget"
   },
   "pattern": [
     "XXX",

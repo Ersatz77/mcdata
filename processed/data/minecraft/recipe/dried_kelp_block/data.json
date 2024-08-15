@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:dried_kelp"
-    }
+    "#": "minecraft:dried_kelp"
   },
   "pattern": [
     "###",

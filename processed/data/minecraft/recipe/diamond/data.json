@@ -1,9 +1,7 @@
 {
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:diamond_block"
-    }
+    "minecraft:diamond_block"
   ],
   "result": {
     "count": 9,

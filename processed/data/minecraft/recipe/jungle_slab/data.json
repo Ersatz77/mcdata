@@ -2,9 +2,7 @@
   "category": "building",
   "group": "wooden_slab",
   "key": {
-    "#": {
-      "item": "minecraft:jungle_planks"
-    }
+    "#": "minecraft:jungle_planks"
   },
   "pattern": [
     "###"

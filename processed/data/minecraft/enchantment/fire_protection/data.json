@@ -11,7 +11,7 @@
           "per_level_above_first": -0.15,
           "type": "minecraft:linear"
         },
-        "attribute": "minecraft:generic.burning_time",
+        "attribute": "minecraft:burning_time",
         "id": "minecraft:enchantment.fire_protection",
         "operation": "add_multiplied_base"
       }

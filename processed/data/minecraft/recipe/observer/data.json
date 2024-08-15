@@ -1,15 +1,9 @@
 {
   "category": "redstone",
   "key": {
-    "#": {
-      "item": "minecraft:cobblestone"
-    },
-    "Q": {
-      "item": "minecraft:quartz"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    }
+    "#": "minecraft:cobblestone",
+    "Q": "minecraft:quartz",
+    "R": "minecraft:redstone"
   },
   "pattern": [
     "###",

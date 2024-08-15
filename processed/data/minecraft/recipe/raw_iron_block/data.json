@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:raw_iron"
-    }
+    "#": "minecraft:raw_iron"
   },
   "pattern": [
     "###",

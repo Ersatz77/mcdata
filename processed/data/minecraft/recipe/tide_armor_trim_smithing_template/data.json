@@ -1,15 +1,9 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:diamond"
-    },
-    "C": {
-      "item": "minecraft:prismarine"
-    },
-    "S": {
-      "item": "minecraft:tide_armor_trim_smithing_template"
-    }
+    "#": "minecraft:diamond",
+    "C": "minecraft:prismarine",
+    "S": "minecraft:tide_armor_trim_smithing_template"
   },
   "pattern": [
     "#S#",

@@ -1,9 +1,7 @@
 {
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:end_stone"
-    }
+    "#": "minecraft:end_stone"
   },
   "pattern": [
     "##",

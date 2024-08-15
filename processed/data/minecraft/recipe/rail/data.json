@@ -1,12 +1,8 @@
 {
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "X": {
-      "item": "minecraft:iron_ingot"
-    }
+    "#": "minecraft:stick",
+    "X": "minecraft:iron_ingot"
   },
   "pattern": [
     "X X",
