@@ -4554,6 +4554,26 @@
     },
     "protocol_id": 20
   },
+  "minecraft:consume_effect_type": {
+    "entries": {
+      "minecraft:apply_effects": {
+        "protocol_id": 0
+      },
+      "minecraft:clear_all_effects": {
+        "protocol_id": 2
+      },
+      "minecraft:play_sound": {
+        "protocol_id": 4
+      },
+      "minecraft:remove_effects": {
+        "protocol_id": 1
+      },
+      "minecraft:teleport_randomly": {
+        "protocol_id": 3
+      }
+    },
+    "protocol_id": 77
+  },
   "minecraft:creative_mode_tab": {
     "entries": {
       "minecraft:building_blocks": {
@@ -4837,25 +4857,25 @@
         "protocol_id": 12
       },
       "minecraft:banner_patterns": {
-        "protocol_id": 51
+        "protocol_id": 54
       },
       "minecraft:base_color": {
-        "protocol_id": 52
-      },
-      "minecraft:bees": {
-        "protocol_id": 56
-      },
-      "minecraft:block_entity_data": {
-        "protocol_id": 41
-      },
-      "minecraft:block_state": {
         "protocol_id": 55
       },
+      "minecraft:bees": {
+        "protocol_id": 59
+      },
+      "minecraft:block_entity_data": {
+        "protocol_id": 44
+      },
+      "minecraft:block_state": {
+        "protocol_id": 58
+      },
       "minecraft:bucket_entity_data": {
-        "protocol_id": 40
+        "protocol_id": 43
       },
       "minecraft:bundle_contents": {
-        "protocol_id": 32
+        "protocol_id": 35
       },
       "minecraft:can_break": {
         "protocol_id": 11
@@ -4864,13 +4884,16 @@
         "protocol_id": 10
       },
       "minecraft:charged_projectiles": {
-        "protocol_id": 31
+        "protocol_id": 34
+      },
+      "minecraft:consumable": {
+        "protocol_id": 21
       },
       "minecraft:container": {
-        "protocol_id": 54
+        "protocol_id": 57
       },
       "minecraft:container_loot": {
-        "protocol_id": 58
+        "protocol_id": 61
       },
       "minecraft:creative_slot_lock": {
         "protocol_id": 17
@@ -4888,13 +4911,13 @@
         "protocol_id": 3
       },
       "minecraft:debug_stick_state": {
-        "protocol_id": 38
+        "protocol_id": 41
       },
       "minecraft:dyed_color": {
-        "protocol_id": 26
+        "protocol_id": 29
       },
       "minecraft:enchantable": {
-        "protocol_id": 23
+        "protocol_id": 26
       },
       "minecraft:enchantment_glint_override": {
         "protocol_id": 18
@@ -4903,16 +4926,16 @@
         "protocol_id": 9
       },
       "minecraft:entity_data": {
-        "protocol_id": 39
+        "protocol_id": 42
       },
       "minecraft:fire_resistant": {
-        "protocol_id": 21
+        "protocol_id": 24
       },
       "minecraft:firework_explosion": {
-        "protocol_id": 47
+        "protocol_id": 50
       },
       "minecraft:fireworks": {
-        "protocol_id": 48
+        "protocol_id": 51
       },
       "minecraft:food": {
         "protocol_id": 20
@@ -4924,7 +4947,7 @@
         "protocol_id": 15
       },
       "minecraft:instrument": {
-        "protocol_id": 42
+        "protocol_id": 45
       },
       "minecraft:intangible_projectile": {
         "protocol_id": 19
@@ -4933,28 +4956,28 @@
         "protocol_id": 6
       },
       "minecraft:jukebox_playable": {
-        "protocol_id": 44
+        "protocol_id": 47
       },
       "minecraft:lock": {
-        "protocol_id": 57
+        "protocol_id": 60
       },
       "minecraft:lodestone_tracker": {
-        "protocol_id": 46
+        "protocol_id": 49
       },
       "minecraft:lore": {
         "protocol_id": 7
       },
       "minecraft:map_color": {
-        "protocol_id": 27
+        "protocol_id": 30
       },
       "minecraft:map_decorations": {
-        "protocol_id": 29
+        "protocol_id": 32
       },
       "minecraft:map_id": {
-        "protocol_id": 28
+        "protocol_id": 31
       },
       "minecraft:map_post_processing": {
-        "protocol_id": 30
+        "protocol_id": 33
       },
       "minecraft:max_damage": {
         "protocol_id": 2
@@ -4963,52 +4986,58 @@
         "protocol_id": 1
       },
       "minecraft:note_block_sound": {
-        "protocol_id": 50
-      },
-      "minecraft:ominous_bottle_amplifier": {
-        "protocol_id": 43
-      },
-      "minecraft:pot_decorations": {
         "protocol_id": 53
       },
+      "minecraft:ominous_bottle_amplifier": {
+        "protocol_id": 46
+      },
+      "minecraft:pot_decorations": {
+        "protocol_id": 56
+      },
       "minecraft:potion_contents": {
-        "protocol_id": 33
+        "protocol_id": 36
       },
       "minecraft:profile": {
-        "protocol_id": 49
+        "protocol_id": 52
       },
       "minecraft:rarity": {
         "protocol_id": 8
       },
       "minecraft:recipes": {
-        "protocol_id": 45
+        "protocol_id": 48
       },
       "minecraft:repair_cost": {
         "protocol_id": 16
       },
       "minecraft:repairable": {
-        "protocol_id": 24
+        "protocol_id": 27
       },
       "minecraft:stored_enchantments": {
-        "protocol_id": 25
+        "protocol_id": 28
       },
       "minecraft:suspicious_stew_effects": {
-        "protocol_id": 34
+        "protocol_id": 37
       },
       "minecraft:tool": {
-        "protocol_id": 22
+        "protocol_id": 25
       },
       "minecraft:trim": {
-        "protocol_id": 37
+        "protocol_id": 40
       },
       "minecraft:unbreakable": {
         "protocol_id": 4
       },
+      "minecraft:use_cooldown": {
+        "protocol_id": 23
+      },
+      "minecraft:use_remainder": {
+        "protocol_id": 22
+      },
       "minecraft:writable_book_content": {
-        "protocol_id": 35
+        "protocol_id": 38
       },
       "minecraft:written_book_content": {
-        "protocol_id": 36
+        "protocol_id": 39
       }
     },
     "protocol_id": 67
@@ -7540,7 +7569,7 @@
         "protocol_id": 188
       },
       "minecraft:glass_bottle": {
-        "protocol_id": 1000
+        "protocol_id": 999
       },
       "minecraft:glass_pane": {
         "protocol_id": 357
@@ -8854,7 +8883,7 @@
         "protocol_id": 1100
       },
       "minecraft:potion": {
-        "protocol_id": 999
+        "protocol_id": 1000
       },
       "minecraft:powder_snow_bucket": {
         "protocol_id": 912

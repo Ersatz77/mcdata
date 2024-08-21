@@ -1,0 +1,5 @@
+minecraft:apply_effects
+minecraft:clear_all_effects
+minecraft:play_sound
+minecraft:remove_effects
+minecraft:teleport_randomly

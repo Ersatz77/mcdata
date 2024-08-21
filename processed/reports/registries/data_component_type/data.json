@@ -11,6 +11,7 @@
     "minecraft:can_break",
     "minecraft:can_place_on",
     "minecraft:charged_projectiles",
+    "minecraft:consumable",
     "minecraft:container",
     "minecraft:container_loot",
     "minecraft:creative_slot_lock",
@@ -57,6 +58,8 @@
     "minecraft:tool",
     "minecraft:trim",
     "minecraft:unbreakable",
+    "minecraft:use_cooldown",
+    "minecraft:use_remainder",
     "minecraft:writable_book_content",
     "minecraft:written_book_content"
   ]

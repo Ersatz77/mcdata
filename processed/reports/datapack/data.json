@@ -79,6 +79,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:consume_effect_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:creative_mode_tab": {
       "elements": false,
       "stable": true,
