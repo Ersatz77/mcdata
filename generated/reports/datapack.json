@@ -364,6 +364,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:trial_spawner": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:trigger_type": {
       "elements": false,
       "stable": true,
