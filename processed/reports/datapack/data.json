@@ -24,11 +24,6 @@
       "stable": true,
       "tags": false
     },
-    "minecraft:armor_material": {
-      "elements": false,
-      "stable": true,
-      "tags": true
-    },
     "minecraft:attribute": {
       "elements": false,
       "stable": true,

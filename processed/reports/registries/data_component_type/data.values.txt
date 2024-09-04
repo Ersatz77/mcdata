@@ -23,14 +23,17 @@ minecraft:enchantable
 minecraft:enchantment_glint_override
 minecraft:enchantments
 minecraft:entity_data
+minecraft:equippable
 minecraft:fire_resistant
 minecraft:firework_explosion
 minecraft:fireworks
 minecraft:food
+minecraft:glider
 minecraft:hide_additional_tooltip
 minecraft:hide_tooltip
 minecraft:instrument
 minecraft:intangible_projectile
+minecraft:item_model
 minecraft:item_name
 minecraft:jukebox_playable
 minecraft:lock
@@ -54,6 +57,7 @@ minecraft:repairable
 minecraft:stored_enchantments
 minecraft:suspicious_stew_effects
 minecraft:tool
+minecraft:tooltip_style
 minecraft:trim
 minecraft:unbreakable
 minecraft:use_cooldown

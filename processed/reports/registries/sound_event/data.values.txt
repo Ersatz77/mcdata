@@ -995,7 +995,6 @@ minecraft:entity.goat.ram_impact
 minecraft:entity.goat.screaming.ambient
 minecraft:entity.goat.screaming.death
 minecraft:entity.goat.screaming.eat
-minecraft:entity.goat.screaming.horn_break
 minecraft:entity.goat.screaming.hurt
 minecraft:entity.goat.screaming.long_jump
 minecraft:entity.goat.screaming.milk
@@ -1516,7 +1515,6 @@ minecraft:item.elytra.flying
 minecraft:item.firecharge.use
 minecraft:item.flintandsteel.use
 minecraft:item.glow_ink_sac.use
-minecraft:item.goat_horn.play
 minecraft:item.goat_horn.sound.0
 minecraft:item.goat_horn.sound.1
 minecraft:item.goat_horn.sound.2

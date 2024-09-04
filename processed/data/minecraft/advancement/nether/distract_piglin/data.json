@@ -26,7 +26,7 @@
               "predicate": {
                 "equipment": {
                   "head": {
-                    "items": "minecraft:golden_helmet"
+                    "items": "#minecraft:piglin_safe_armor"
                   }
                 }
               }
@@ -40,7 +40,7 @@
               "predicate": {
                 "equipment": {
                   "chest": {
-                    "items": "minecraft:golden_chestplate"
+                    "items": "#minecraft:piglin_safe_armor"
                   }
                 }
               }
@@ -54,7 +54,7 @@
               "predicate": {
                 "equipment": {
                   "legs": {
-                    "items": "minecraft:golden_leggings"
+                    "items": "#minecraft:piglin_safe_armor"
                   }
                 }
               }
@@ -68,7 +68,7 @@
               "predicate": {
                 "equipment": {
                   "feet": {
-                    "items": "minecraft:golden_boots"
+                    "items": "#minecraft:piglin_safe_armor"
                   }
                 }
               }
@@ -104,7 +104,7 @@
               "predicate": {
                 "equipment": {
                   "head": {
-                    "items": "minecraft:golden_helmet"
+                    "items": "#minecraft:piglin_safe_armor"
                   }
                 }
               }
@@ -118,7 +118,7 @@
               "predicate": {
                 "equipment": {
                   "chest": {
-                    "items": "minecraft:golden_chestplate"
+                    "items": "#minecraft:piglin_safe_armor"
                   }
                 }
               }
@@ -132,7 +132,7 @@
               "predicate": {
                 "equipment": {
                   "legs": {
-                    "items": "minecraft:golden_leggings"
+                    "items": "#minecraft:piglin_safe_armor"
                   }
                 }
               }
@@ -146,7 +146,7 @@
               "predicate": {
                 "equipment": {
                   "feet": {
-                    "items": "minecraft:golden_boots"
+                    "items": "#minecraft:piglin_safe_armor"
                   }
                 }
               }

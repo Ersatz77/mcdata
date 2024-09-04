@@ -35,7 +35,6 @@ minecraft:candle_cake
 minecraft:carpet
 minecraft:carrot
 minecraft:cartography_table
-minecraft:carved_pumpkin
 minecraft:cauldron
 minecraft:cave_vines
 minecraft:cave_vines_plant

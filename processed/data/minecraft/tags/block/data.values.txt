@@ -15,6 +15,7 @@ minecraft:bamboo_plantable_on
 minecraft:banners
 minecraft:base_stone_nether
 minecraft:base_stone_overworld
+minecraft:bats_spawnable_on
 minecraft:beacon_base_blocks
 minecraft:beds
 minecraft:bee_growables
