@@ -13,6 +13,7 @@ minecraft:parrot
 minecraft:player
 minecraft:rabbit
 minecraft:raider
+minecraft:salmon
 minecraft:sheep
 minecraft:slime
 minecraft:tropical_fish

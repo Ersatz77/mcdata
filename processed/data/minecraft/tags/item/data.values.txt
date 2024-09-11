@@ -13,6 +13,7 @@ minecraft:birch_logs
 minecraft:boats
 minecraft:bookshelf_books
 minecraft:breaks_decorated_pots
+minecraft:brewing_fuel
 minecraft:buttons
 minecraft:camel_food
 minecraft:candles
@@ -39,6 +40,7 @@ minecraft:diamond_ores
 minecraft:diamond_tool_materials
 minecraft:dirt
 minecraft:doors
+minecraft:duplicates_allays
 minecraft:dyeable
 minecraft:emerald_ores
 minecraft:enchantable/armor
@@ -97,6 +99,7 @@ minecraft:non_flammable_wood
 minecraft:noteblock_top_instruments
 minecraft:oak_logs
 minecraft:ocelot_food
+minecraft:panda_eats_from_ground
 minecraft:panda_food
 minecraft:parrot_food
 minecraft:parrot_poisonous_food
