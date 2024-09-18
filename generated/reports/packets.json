@@ -95,9 +95,6 @@
       "minecraft:custom_query": {
         "protocol_id": 4
       },
-      "minecraft:game_profile": {
-        "protocol_id": 2
-      },
       "minecraft:hello": {
         "protocol_id": 1
       },
@@ -106,6 +103,9 @@
       },
       "minecraft:login_disconnect": {
         "protocol_id": 0
+      },
+      "minecraft:login_finished": {
+        "protocol_id": 2
       }
     },
     "serverbound": {

@@ -1,0 +1,8 @@
+{
+  "category": "equipment",
+  "group": "bundle_dye",
+  "input": "#minecraft:bundles",
+  "material": "minecraft:red_dye",
+  "result": "minecraft:red_bundle",
+  "type": "minecraft:crafting_transmute"
+}

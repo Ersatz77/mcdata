@@ -1572,6 +1572,23 @@
       "minecraft:repair_cost": 0
     }
   },
+  "minecraft:black_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:black_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.black_bundle\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
   "minecraft:black_candle": {
     "components": {
       "minecraft:attribute_modifiers": {
@@ -1930,6 +1947,23 @@
       },
       "minecraft:item_model": "minecraft:blue_bed",
       "minecraft:item_name": "{\"translate\":\"block.minecraft.blue_bed\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:blue_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:blue_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.blue_bundle\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
@@ -2563,6 +2597,23 @@
       },
       "minecraft:item_model": "minecraft:brown_bed",
       "minecraft:item_name": "{\"translate\":\"block.minecraft.brown_bed\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:brown_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:brown_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.brown_bundle\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
@@ -5338,6 +5389,23 @@
       },
       "minecraft:item_model": "minecraft:cyan_bed",
       "minecraft:item_name": "{\"translate\":\"block.minecraft.cyan_bed\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:cyan_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:cyan_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.cyan_bundle\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
@@ -9480,6 +9548,23 @@
       "minecraft:repair_cost": 0
     }
   },
+  "minecraft:gray_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:gray_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.gray_bundle\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
   "minecraft:gray_candle": {
     "components": {
       "minecraft:attribute_modifiers": {
@@ -9693,6 +9778,23 @@
       },
       "minecraft:item_model": "minecraft:green_bed",
       "minecraft:item_name": "{\"translate\":\"block.minecraft.green_bed\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:green_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:green_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.green_bundle\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
@@ -10130,6 +10232,7 @@
         "levels": {}
       },
       "minecraft:food": {
+        "can_always_eat": true,
         "nutrition": 6,
         "saturation": 1.2
       },
@@ -11901,6 +12004,23 @@
       "minecraft:repair_cost": 0
     }
   },
+  "minecraft:light_blue_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:light_blue_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.light_blue_bundle\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
   "minecraft:light_blue_candle": {
     "components": {
       "minecraft:attribute_modifiers": {
@@ -12114,6 +12234,23 @@
       },
       "minecraft:item_model": "minecraft:light_gray_bed",
       "minecraft:item_name": "{\"translate\":\"block.minecraft.light_gray_bed\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:light_gray_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:light_gray_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.light_gray_bundle\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
@@ -12413,6 +12550,23 @@
       },
       "minecraft:item_model": "minecraft:lime_bed",
       "minecraft:item_name": "{\"translate\":\"block.minecraft.lime_bed\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:lime_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:lime_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.lime_bundle\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
@@ -12740,6 +12894,23 @@
       },
       "minecraft:item_model": "minecraft:magenta_bed",
       "minecraft:item_name": "{\"translate\":\"block.minecraft.magenta_bed\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:magenta_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:magenta_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.magenta_bundle\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
@@ -15412,6 +15583,23 @@
       "minecraft:repair_cost": 0
     }
   },
+  "minecraft:orange_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:orange_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.orange_bundle\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
   "minecraft:orange_candle": {
     "components": {
       "minecraft:attribute_modifiers": {
@@ -16077,6 +16265,23 @@
       },
       "minecraft:item_model": "minecraft:pink_bed",
       "minecraft:item_name": "{\"translate\":\"block.minecraft.pink_bed\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pink_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pink_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.pink_bundle\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
@@ -17373,6 +17578,23 @@
       "minecraft:repair_cost": 0
     }
   },
+  "minecraft:purple_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:purple_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.purple_bundle\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
   "minecraft:purple_candle": {
     "components": {
       "minecraft:attribute_modifiers": {
@@ -18000,6 +18222,23 @@
       },
       "minecraft:item_model": "minecraft:red_bed",
       "minecraft:item_name": "{\"translate\":\"block.minecraft.red_bed\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:red_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:red_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.red_bundle\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",
@@ -23241,6 +23480,23 @@
       "minecraft:repair_cost": 0
     }
   },
+  "minecraft:white_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:white_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.white_bundle\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
   "minecraft:white_candle": {
     "components": {
       "minecraft:attribute_modifiers": {
@@ -23942,6 +24198,23 @@
       },
       "minecraft:item_model": "minecraft:yellow_bed",
       "minecraft:item_name": "{\"translate\":\"block.minecraft.yellow_bed\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:yellow_bundle": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:bundle_contents": [],
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:yellow_bundle",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.yellow_bundle\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 1,
       "minecraft:rarity": "common",

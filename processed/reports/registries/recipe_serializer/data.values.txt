@@ -13,8 +13,8 @@ minecraft:crafting_special_mapcloning
 minecraft:crafting_special_mapextending
 minecraft:crafting_special_repairitem
 minecraft:crafting_special_shielddecoration
-minecraft:crafting_special_shulkerboxcoloring
 minecraft:crafting_special_tippedarrow
+minecraft:crafting_transmute
 minecraft:smelting
 minecraft:smithing_transform
 minecraft:smithing_trim
