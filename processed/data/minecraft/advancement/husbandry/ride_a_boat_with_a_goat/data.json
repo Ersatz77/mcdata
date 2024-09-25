@@ -11,7 +11,7 @@
                 "passenger": {
                   "type": "minecraft:goat"
                 },
-                "type": "minecraft:boat"
+                "type": "#minecraft:boat"
               }
             }
           }

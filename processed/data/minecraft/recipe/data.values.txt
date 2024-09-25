@@ -66,6 +66,7 @@ minecraft:birch_trapdoor
 minecraft:birch_wood
 minecraft:black_banner
 minecraft:black_bed
+minecraft:black_bundle
 minecraft:black_candle
 minecraft:black_carpet
 minecraft:black_concrete_powder
@@ -87,6 +88,7 @@ minecraft:blast_furnace
 minecraft:blaze_powder
 minecraft:blue_banner
 minecraft:blue_bed
+minecraft:blue_bundle
 minecraft:blue_candle
 minecraft:blue_carpet
 minecraft:blue_concrete_powder
@@ -122,6 +124,7 @@ minecraft:brick_wall_from_bricks_stonecutting
 minecraft:bricks
 minecraft:brown_banner
 minecraft:brown_bed
+minecraft:brown_bundle
 minecraft:brown_candle
 minecraft:brown_carpet
 minecraft:brown_concrete_powder
@@ -134,6 +137,7 @@ minecraft:brown_stained_glass_pane_from_glass_pane
 minecraft:brown_terracotta
 minecraft:brush
 minecraft:bucket
+minecraft:bundle
 minecraft:cake
 minecraft:calibrated_sculk_sensor
 minecraft:campfire
@@ -289,6 +293,7 @@ minecraft:cut_sandstone_slab_from_cut_sandstone_stonecutting
 minecraft:cut_sandstone_slab_from_sandstone_stonecutting
 minecraft:cyan_banner
 minecraft:cyan_bed
+minecraft:cyan_bundle
 minecraft:cyan_candle
 minecraft:cyan_carpet
 minecraft:cyan_concrete_powder
@@ -532,6 +537,7 @@ minecraft:granite_wall
 minecraft:granite_wall_from_granite_stonecutting
 minecraft:gray_banner
 minecraft:gray_bed
+minecraft:gray_bundle
 minecraft:gray_candle
 minecraft:gray_carpet
 minecraft:gray_concrete_powder
@@ -544,6 +550,7 @@ minecraft:gray_stained_glass_pane_from_glass_pane
 minecraft:gray_terracotta
 minecraft:green_banner
 minecraft:green_bed
+minecraft:green_bundle
 minecraft:green_candle
 minecraft:green_carpet
 minecraft:green_concrete_powder
@@ -624,6 +631,7 @@ minecraft:lectern
 minecraft:lever
 minecraft:light_blue_banner
 minecraft:light_blue_bed
+minecraft:light_blue_bundle
 minecraft:light_blue_candle
 minecraft:light_blue_carpet
 minecraft:light_blue_concrete_powder
@@ -637,6 +645,7 @@ minecraft:light_blue_stained_glass_pane_from_glass_pane
 minecraft:light_blue_terracotta
 minecraft:light_gray_banner
 minecraft:light_gray_bed
+minecraft:light_gray_bundle
 minecraft:light_gray_candle
 minecraft:light_gray_carpet
 minecraft:light_gray_concrete_powder
@@ -655,6 +664,7 @@ minecraft:light_weighted_pressure_plate
 minecraft:lightning_rod
 minecraft:lime_banner
 minecraft:lime_bed
+minecraft:lime_bundle
 minecraft:lime_candle
 minecraft:lime_carpet
 minecraft:lime_concrete_powder
@@ -671,6 +681,7 @@ minecraft:loom
 minecraft:mace
 minecraft:magenta_banner
 minecraft:magenta_bed
+minecraft:magenta_bundle
 minecraft:magenta_candle
 minecraft:magenta_carpet
 minecraft:magenta_concrete_powder
@@ -778,6 +789,7 @@ minecraft:oak_wood
 minecraft:observer
 minecraft:orange_banner
 minecraft:orange_bed
+minecraft:orange_bundle
 minecraft:orange_candle
 minecraft:orange_carpet
 minecraft:orange_concrete_powder
@@ -810,6 +822,7 @@ minecraft:painting
 minecraft:paper
 minecraft:pink_banner
 minecraft:pink_bed
+minecraft:pink_bundle
 minecraft:pink_candle
 minecraft:pink_carpet
 minecraft:pink_concrete_powder
@@ -918,6 +931,7 @@ minecraft:pumpkin_pie
 minecraft:pumpkin_seeds
 minecraft:purple_banner
 minecraft:purple_bed
+minecraft:purple_bundle
 minecraft:purple_candle
 minecraft:purple_carpet
 minecraft:purple_concrete_powder
@@ -960,6 +974,7 @@ minecraft:raw_iron_block
 minecraft:recovery_compass
 minecraft:red_banner
 minecraft:red_bed
+minecraft:red_bundle
 minecraft:red_candle
 minecraft:red_carpet
 minecraft:red_concrete_powder
@@ -1283,6 +1298,7 @@ minecraft:weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting
 minecraft:wheat
 minecraft:white_banner
 minecraft:white_bed
+minecraft:white_bundle
 minecraft:white_candle
 minecraft:white_carpet
 minecraft:white_concrete_powder
@@ -1307,6 +1323,7 @@ minecraft:wooden_sword
 minecraft:writable_book
 minecraft:yellow_banner
 minecraft:yellow_bed
+minecraft:yellow_bundle
 minecraft:yellow_candle
 minecraft:yellow_carpet
 minecraft:yellow_concrete_powder

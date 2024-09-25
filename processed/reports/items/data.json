@@ -6860,7 +6860,9 @@
       },
       "minecraft:equippable": {
         "allowed_entities": "minecraft:horse",
-        "equip_sound": "minecraft:item.armor.equip_diamond",
+        "equip_sound": {
+          "sound_id": "minecraft:entity.horse.armor"
+        },
         "model": "minecraft:diamond",
         "slot": "body"
       },
@@ -9202,7 +9204,9 @@
       },
       "minecraft:equippable": {
         "allowed_entities": "minecraft:horse",
-        "equip_sound": "minecraft:item.armor.equip_gold",
+        "equip_sound": {
+          "sound_id": "minecraft:entity.horse.armor"
+        },
         "model": "minecraft:gold",
         "slot": "body"
       },
@@ -10895,7 +10899,9 @@
       },
       "minecraft:equippable": {
         "allowed_entities": "minecraft:horse",
-        "equip_sound": "minecraft:item.armor.equip_iron",
+        "equip_sound": {
+          "sound_id": "minecraft:entity.horse.armor"
+        },
         "model": "minecraft:iron",
         "slot": "body"
       },
@@ -11863,7 +11869,9 @@
       },
       "minecraft:equippable": {
         "allowed_entities": "minecraft:horse",
-        "equip_sound": "minecraft:item.armor.equip_leather",
+        "equip_sound": {
+          "sound_id": "minecraft:entity.horse.armor"
+        },
         "model": "minecraft:leather",
         "slot": "body"
       },

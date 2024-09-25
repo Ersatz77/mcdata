@@ -14,6 +14,7 @@ minecraft:boats
 minecraft:bookshelf_books
 minecraft:breaks_decorated_pots
 minecraft:brewing_fuel
+minecraft:bundles
 minecraft:buttons
 minecraft:camel_food
 minecraft:candles
@@ -93,6 +94,7 @@ minecraft:llama_tempt_items
 minecraft:logs
 minecraft:logs_that_burn
 minecraft:mangrove_logs
+minecraft:map_invisibility_equipment
 minecraft:meat
 minecraft:netherite_tool_materials
 minecraft:non_flammable_wood
