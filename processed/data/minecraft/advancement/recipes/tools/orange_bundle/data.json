@@ -1,10 +1,10 @@
 {
   "criteria": {
-    "has_bundle": {
+    "has_orange_dye": {
       "conditions": {
         "items": [
           {
-            "items": "#minecraft:bundles"
+            "items": "minecraft:orange_dye"
           }
         ]
       },
@@ -21,7 +21,7 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_bundle"
+      "has_orange_dye"
     ]
   ],
   "rewards": {

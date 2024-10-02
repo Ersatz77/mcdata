@@ -4904,6 +4904,38 @@
       "minecraft:repair_cost": 0
     }
   },
+  "minecraft:creaking_heart": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:creaking_heart",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.creaking_heart\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:creaking_spawn_egg": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:creaking_spawn_egg",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.creaking_spawn_egg\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
   "minecraft:creeper_banner_pattern": {
     "components": {
       "minecraft:attribute_modifiers": {
@@ -6860,6 +6892,7 @@
       },
       "minecraft:equippable": {
         "allowed_entities": "minecraft:horse",
+        "damage_on_hurt": false,
         "equip_sound": {
           "sound_id": "minecraft:entity.horse.armor"
         },
@@ -9204,6 +9237,7 @@
       },
       "minecraft:equippable": {
         "allowed_entities": "minecraft:horse",
+        "damage_on_hurt": false,
         "equip_sound": {
           "sound_id": "minecraft:entity.horse.armor"
         },
@@ -10899,6 +10933,7 @@
       },
       "minecraft:equippable": {
         "allowed_entities": "minecraft:horse",
+        "damage_on_hurt": false,
         "equip_sound": {
           "sound_id": "minecraft:entity.horse.armor"
         },
@@ -11869,6 +11904,7 @@
       },
       "minecraft:equippable": {
         "allowed_entities": "minecraft:horse",
+        "damage_on_hurt": false,
         "equip_sound": {
           "sound_id": "minecraft:entity.horse.armor"
         },
@@ -16012,6 +16048,326 @@
       },
       "minecraft:item_model": "minecraft:painting",
       "minecraft:item_name": "{\"translate\":\"item.minecraft.painting\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_hanging_moss": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_hanging_moss",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_hanging_moss\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_moss_block": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_moss_block",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_moss_block\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_moss_carpet": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_moss_carpet",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_moss_carpet\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_boat": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_boat",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.pale_oak_boat\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_button": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_button",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_button\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_chest_boat": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_chest_boat",
+      "minecraft:item_name": "{\"translate\":\"item.minecraft.pale_oak_chest_boat\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_door": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_door",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_door\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_fence": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_fence",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_fence\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_fence_gate": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_fence_gate",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_fence_gate\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_hanging_sign": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_hanging_sign",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_hanging_sign\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 16,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_leaves": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_leaves",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_leaves\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_log": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_log",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_log\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_planks": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_planks",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_planks\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_pressure_plate": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_pressure_plate",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_pressure_plate\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_sapling": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_sapling",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_sapling\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_sign": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_sign",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_sign\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 16,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_slab": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_slab",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_slab\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_stairs": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_stairs",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_stairs\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_trapdoor": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_trapdoor",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_trapdoor\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:pale_oak_wood": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:pale_oak_wood",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.pale_oak_wood\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
       "minecraft:rarity": "common",
@@ -21245,6 +21601,38 @@
       },
       "minecraft:item_model": "minecraft:stripped_oak_wood",
       "minecraft:item_name": "{\"translate\":\"block.minecraft.stripped_oak_wood\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:stripped_pale_oak_log": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:stripped_pale_oak_log",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.stripped_pale_oak_log\"}",
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:stripped_pale_oak_wood": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:stripped_pale_oak_wood",
+      "minecraft:item_name": "{\"translate\":\"block.minecraft.stripped_pale_oak_wood\"}",
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
       "minecraft:rarity": "common",

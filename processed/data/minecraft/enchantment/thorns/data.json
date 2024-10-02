@@ -17,7 +17,7 @@
             },
             {
               "amount": 2.0,
-              "type": "minecraft:damage_item"
+              "type": "minecraft:change_item_damage"
             }
           ],
           "type": "minecraft:all_of"

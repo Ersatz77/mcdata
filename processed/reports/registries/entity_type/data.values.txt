@@ -27,6 +27,8 @@ minecraft:chicken
 minecraft:cod
 minecraft:command_block_minecart
 minecraft:cow
+minecraft:creaking
+minecraft:creaking_transient
 minecraft:creeper
 minecraft:dark_oak_boat
 minecraft:dark_oak_chest_boat
@@ -87,6 +89,8 @@ minecraft:oak_chest_boat
 minecraft:ocelot
 minecraft:ominous_item_spawner
 minecraft:painting
+minecraft:pale_oak_boat
+minecraft:pale_oak_chest_boat
 minecraft:panda
 minecraft:parrot
 minecraft:phantom

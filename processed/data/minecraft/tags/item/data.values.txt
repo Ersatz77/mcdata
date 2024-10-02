@@ -72,6 +72,7 @@ minecraft:fox_food
 minecraft:freeze_immune_wearables
 minecraft:frog_food
 minecraft:furnace_minecart_fuel
+minecraft:gaze_disguise_equipment
 minecraft:goat_food
 minecraft:gold_ores
 minecraft:gold_tool_materials

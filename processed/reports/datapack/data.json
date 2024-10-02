@@ -319,6 +319,11 @@
       "stable": true,
       "tags": false
     },
+    "minecraft:recipe_display": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:recipe_serializer": {
       "elements": false,
       "stable": true,
@@ -345,6 +350,11 @@
       "tags": true
     },
     "minecraft:sensor_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:slot_display": {
       "elements": false,
       "stable": true,
       "tags": true

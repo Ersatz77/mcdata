@@ -1,0 +1,5 @@
+minecraft:crafting_shaped
+minecraft:crafting_shapeless
+minecraft:furnace
+minecraft:smithing
+minecraft:stonecutter

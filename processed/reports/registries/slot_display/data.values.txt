@@ -1,0 +1,7 @@
+minecraft:any_fuel
+minecraft:composite
+minecraft:empty
+minecraft:item
+minecraft:item_stack
+minecraft:smithing_trim
+minecraft:tag

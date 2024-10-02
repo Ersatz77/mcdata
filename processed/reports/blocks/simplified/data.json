@@ -3756,6 +3756,24 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:creaking_heart": {
+    "default": {
+      "axis": "y",
+      "creaking": "disabled"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ],
+      "creaking": [
+        "disabled",
+        "dormant",
+        "active"
+      ]
+    }
+  },
   "minecraft:creeper_head": {
     "default": {
       "powered": "false",
@@ -10217,6 +10235,430 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:pale_hanging_moss": {
+    "default": {
+      "tip": "true"
+    },
+    "properties": {
+      "tip": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_moss_block": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:pale_moss_carpet": {
+    "default": {
+      "bottom": "false",
+      "east": "none",
+      "north": "none",
+      "south": "none",
+      "west": "none"
+    },
+    "properties": {
+      "bottom": [
+        "true",
+        "false"
+      ],
+      "east": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "north": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "south": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "west": [
+        "none",
+        "low",
+        "tall"
+      ]
+    }
+  },
+  "minecraft:pale_oak_button": {
+    "default": {
+      "face": "wall",
+      "facing": "north",
+      "powered": "false"
+    },
+    "properties": {
+      "face": [
+        "floor",
+        "wall",
+        "ceiling"
+      ],
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_door": {
+    "default": {
+      "facing": "north",
+      "half": "lower",
+      "hinge": "left",
+      "open": "false",
+      "powered": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "upper",
+        "lower"
+      ],
+      "hinge": [
+        "left",
+        "right"
+      ],
+      "open": [
+        "true",
+        "false"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_fence": {
+    "default": {
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "waterlogged": "false",
+      "west": "false"
+    },
+    "properties": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_fence_gate": {
+    "default": {
+      "facing": "north",
+      "in_wall": "false",
+      "open": "false",
+      "powered": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "in_wall": [
+        "true",
+        "false"
+      ],
+      "open": [
+        "true",
+        "false"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_leaves": {
+    "default": {
+      "distance": "7",
+      "persistent": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "distance": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "persistent": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_log": {
+    "default": {
+      "axis": "y"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  },
+  "minecraft:pale_oak_planks": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:pale_oak_pressure_plate": {
+    "default": {
+      "powered": "false"
+    },
+    "properties": {
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_sapling": {
+    "default": {
+      "stage": "0"
+    },
+    "properties": {
+      "stage": [
+        "0",
+        "1"
+      ]
+    }
+  },
+  "minecraft:pale_oak_sign": {
+    "default": {
+      "rotation": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_trapdoor": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "open": "false",
+      "powered": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "open": [
+        "true",
+        "false"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_wall_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pale_oak_wood": {
+    "default": {
+      "axis": "y"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  },
   "minecraft:pearlescent_froglight": {
     "default": {
       "axis": "y"
@@ -11350,6 +11792,10 @@
     "properties": {}
   },
   "minecraft:potted_oxeye_daisy": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:potted_pale_oak_sapling": {
     "default": {},
     "properties": {}
   },
@@ -14022,6 +14468,30 @@
     }
   },
   "minecraft:stripped_oak_wood": {
+    "default": {
+      "axis": "y"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  },
+  "minecraft:stripped_pale_oak_log": {
+    "default": {
+      "axis": "y"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  },
+  "minecraft:stripped_pale_oak_wood": {
     "default": {
       "axis": "y"
     },

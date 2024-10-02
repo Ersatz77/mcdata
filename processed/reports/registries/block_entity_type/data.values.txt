@@ -15,6 +15,7 @@ minecraft:command_block
 minecraft:comparator
 minecraft:conduit
 minecraft:crafter
+minecraft:creaking_heart
 minecraft:daylight_detector
 minecraft:decorated_pot
 minecraft:dispenser

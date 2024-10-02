@@ -232,6 +232,14 @@ minecraft:block.coral_block.place
 minecraft:block.coral_block.step
 minecraft:block.crafter.craft
 minecraft:block.crafter.fail
+minecraft:block.creaking_heart.break
+minecraft:block.creaking_heart.fall
+minecraft:block.creaking_heart.hit
+minecraft:block.creaking_heart.hurt
+minecraft:block.creaking_heart.idle
+minecraft:block.creaking_heart.place
+minecraft:block.creaking_heart.spawn
+minecraft:block.creaking_heart.step
 minecraft:block.crop.break
 minecraft:block.decorated_pot.break
 minecraft:block.decorated_pot.fall
@@ -488,6 +496,7 @@ minecraft:block.packed_mud.fall
 minecraft:block.packed_mud.hit
 minecraft:block.packed_mud.place
 minecraft:block.packed_mud.step
+minecraft:block.pale_hanging_moss.idle
 minecraft:block.pink_petals.break
 minecraft:block.pink_petals.fall
 minecraft:block.pink_petals.hit
@@ -857,6 +866,16 @@ minecraft:entity.cow.death
 minecraft:entity.cow.hurt
 minecraft:entity.cow.milk
 minecraft:entity.cow.step
+minecraft:entity.creaking.activate
+minecraft:entity.creaking.ambient
+minecraft:entity.creaking.attack
+minecraft:entity.creaking.deactivate
+minecraft:entity.creaking.death
+minecraft:entity.creaking.freeze
+minecraft:entity.creaking.spawn
+minecraft:entity.creaking.step
+minecraft:entity.creaking.sway
+minecraft:entity.creaking.unfreeze
 minecraft:entity.creeper.death
 minecraft:entity.creeper.hurt
 minecraft:entity.creeper.primed
@@ -1121,6 +1140,7 @@ minecraft:entity.parrot.hurt
 minecraft:entity.parrot.imitate.blaze
 minecraft:entity.parrot.imitate.bogged
 minecraft:entity.parrot.imitate.breeze
+minecraft:entity.parrot.imitate.creaking
 minecraft:entity.parrot.imitate.creeper
 minecraft:entity.parrot.imitate.drowned
 minecraft:entity.parrot.imitate.elder_guardian

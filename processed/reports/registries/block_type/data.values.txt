@@ -21,6 +21,7 @@ minecraft:big_dripleaf
 minecraft:big_dripleaf_stem
 minecraft:blast_furnace
 minecraft:block
+minecraft:bonemealable_feature_placer
 minecraft:brewing_stand
 minecraft:brushable
 minecraft:bubble_column
@@ -59,6 +60,7 @@ minecraft:coral_plant
 minecraft:coral_wall_fan
 minecraft:crafter
 minecraft:crafting_table
+minecraft:creaking_heart
 minecraft:crop
 minecraft:crying_obsidian
 minecraft:daylight_detector
@@ -94,6 +96,7 @@ minecraft:glow_lichen
 minecraft:grass
 minecraft:grindstone
 minecraft:half_transparent
+minecraft:hanging_moss
 minecraft:hanging_roots
 minecraft:hay
 minecraft:heavy_core
@@ -124,7 +127,7 @@ minecraft:magma
 minecraft:mangrove_leaves
 minecraft:mangrove_propagule
 minecraft:mangrove_roots
-minecraft:moss
+minecraft:mossy_carpet
 minecraft:moving_piston
 minecraft:mud
 minecraft:mushroom

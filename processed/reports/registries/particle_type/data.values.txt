@@ -1,6 +1,7 @@
 minecraft:angry_villager
 minecraft:ash
 minecraft:block
+minecraft:block_crumble
 minecraft:block_marker
 minecraft:bubble
 minecraft:bubble_column_up
@@ -95,6 +96,7 @@ minecraft:spore_blossom_air
 minecraft:squid_ink
 minecraft:sweep_attack
 minecraft:totem_of_undying
+minecraft:trail
 minecraft:trial_omen
 minecraft:trial_spawner_detection
 minecraft:trial_spawner_detection_ominous
