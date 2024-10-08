@@ -1,0 +1,13 @@
+minecraft:blast_furnace_blocks
+minecraft:blast_furnace_misc
+minecraft:campfire
+minecraft:crafting_building_blocks
+minecraft:crafting_equipment
+minecraft:crafting_misc
+minecraft:crafting_redstone
+minecraft:furnace_blocks
+minecraft:furnace_food
+minecraft:furnace_misc
+minecraft:smithing
+minecraft:smoker_food
+minecraft:stonecutter

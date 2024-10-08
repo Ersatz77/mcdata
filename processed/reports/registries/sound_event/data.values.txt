@@ -1624,6 +1624,7 @@ minecraft:music_disc.ward
 minecraft:particle.soul_escape
 minecraft:ui.button.click
 minecraft:ui.cartography_table.take_result
+minecraft:ui.hud.bubble_pop
 minecraft:ui.loom.select_pattern
 minecraft:ui.loom.take_result
 minecraft:ui.stonecutter.select_recipe

@@ -6310,6 +6310,17 @@
           "executable": true,
           "type": "literal"
         },
+        "disablePlayerMovementCheck": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "disableRaids": {
           "children": {
             "value": {

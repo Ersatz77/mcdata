@@ -5,3 +5,4 @@ minecraft:item
 minecraft:item_stack
 minecraft:smithing_trim
 minecraft:tag
+minecraft:with_remainder

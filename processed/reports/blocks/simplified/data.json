@@ -10252,7 +10252,7 @@
   },
   "minecraft:pale_moss_carpet": {
     "default": {
-      "bottom": "false",
+      "bottom": "true",
       "east": "none",
       "north": "none",
       "south": "none",

@@ -319,6 +319,11 @@
       "stable": true,
       "tags": false
     },
+    "minecraft:recipe_book_category": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:recipe_display": {
       "elements": false,
       "stable": true,
