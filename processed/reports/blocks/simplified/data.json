@@ -3234,6 +3234,10 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:chiseled_resin_bricks": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:chiseled_sandstone": {
     "default": {},
     "properties": {}
@@ -3302,6 +3306,10 @@
     }
   },
   "minecraft:clay": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:closed_eyeblossom": {
     "default": {},
     "properties": {}
   },
@@ -3758,19 +3766,23 @@
   },
   "minecraft:creaking_heart": {
     "default": {
+      "active": "false",
       "axis": "y",
-      "creaking": "disabled"
+      "natural": "false"
     },
     "properties": {
+      "active": [
+        "true",
+        "false"
+      ],
       "axis": [
         "x",
         "y",
         "z"
       ],
-      "creaking": [
-        "disabled",
-        "dormant",
-        "active"
+      "natural": [
+        "true",
+        "false"
       ]
     }
   },
@@ -9888,6 +9900,10 @@
       ]
     }
   },
+  "minecraft:open_eyeblossom": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:orange_banner": {
     "default": {
       "rotation": "0"
@@ -11739,6 +11755,10 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:potted_closed_eyeblossom": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:potted_cornflower": {
     "default": {},
     "properties": {}
@@ -11784,6 +11804,10 @@
     "properties": {}
   },
   "minecraft:potted_oak_sapling": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:potted_open_eyeblossom": {
     "default": {},
     "properties": {}
   },
@@ -12956,6 +12980,138 @@
         "west",
         "up",
         "down"
+      ]
+    }
+  },
+  "minecraft:resin_block": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:resin_brick_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:resin_brick_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:resin_brick_wall": {
+    "default": {
+      "east": "none",
+      "north": "none",
+      "south": "none",
+      "up": "true",
+      "waterlogged": "false",
+      "west": "none"
+    },
+    "properties": {
+      "east": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "north": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "south": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "up": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "none",
+        "low",
+        "tall"
+      ]
+    }
+  },
+  "minecraft:resin_bricks": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:resin_clump": {
+    "default": {
+      "down": "false",
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "up": "false",
+      "west": "false"
+    },
+    "properties": {
+      "down": [
+        "true",
+        "false"
+      ],
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "up": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
       ]
     }
   },

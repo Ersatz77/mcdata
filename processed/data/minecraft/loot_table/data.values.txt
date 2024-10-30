@@ -175,6 +175,7 @@ minecraft:blocks/chiseled_nether_bricks
 minecraft:blocks/chiseled_polished_blackstone
 minecraft:blocks/chiseled_quartz_block
 minecraft:blocks/chiseled_red_sandstone
+minecraft:blocks/chiseled_resin_bricks
 minecraft:blocks/chiseled_sandstone
 minecraft:blocks/chiseled_stone_bricks
 minecraft:blocks/chiseled_tuff
@@ -182,6 +183,7 @@ minecraft:blocks/chiseled_tuff_bricks
 minecraft:blocks/chorus_flower
 minecraft:blocks/chorus_plant
 minecraft:blocks/clay
+minecraft:blocks/closed_eyeblossom
 minecraft:blocks/coal_block
 minecraft:blocks/coal_ore
 minecraft:blocks/coarse_dirt
@@ -573,6 +575,7 @@ minecraft:blocks/oak_wood
 minecraft:blocks/observer
 minecraft:blocks/obsidian
 minecraft:blocks/ochre_froglight
+minecraft:blocks/open_eyeblossom
 minecraft:blocks/orange_banner
 minecraft:blocks/orange_bed
 minecraft:blocks/orange_candle
@@ -682,6 +685,7 @@ minecraft:blocks/potted_blue_orchid
 minecraft:blocks/potted_brown_mushroom
 minecraft:blocks/potted_cactus
 minecraft:blocks/potted_cherry_sapling
+minecraft:blocks/potted_closed_eyeblossom
 minecraft:blocks/potted_cornflower
 minecraft:blocks/potted_crimson_fungus
 minecraft:blocks/potted_crimson_roots
@@ -694,6 +698,7 @@ minecraft:blocks/potted_jungle_sapling
 minecraft:blocks/potted_lily_of_the_valley
 minecraft:blocks/potted_mangrove_propagule
 minecraft:blocks/potted_oak_sapling
+minecraft:blocks/potted_open_eyeblossom
 minecraft:blocks/potted_orange_tulip
 minecraft:blocks/potted_oxeye_daisy
 minecraft:blocks/potted_pale_oak_sapling
@@ -777,6 +782,12 @@ minecraft:blocks/redstone_torch
 minecraft:blocks/redstone_wire
 minecraft:blocks/reinforced_deepslate
 minecraft:blocks/repeater
+minecraft:blocks/resin_block
+minecraft:blocks/resin_brick_slab
+minecraft:blocks/resin_brick_stairs
+minecraft:blocks/resin_brick_wall
+minecraft:blocks/resin_bricks
+minecraft:blocks/resin_clump
 minecraft:blocks/respawn_anchor
 minecraft:blocks/rooted_dirt
 minecraft:blocks/rose_bush

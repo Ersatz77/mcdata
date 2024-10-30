@@ -72,6 +72,7 @@ minecraft:mycelium
 minecraft:nautilus
 minecraft:note
 minecraft:ominous_spawning
+minecraft:pale_oak_leaves
 minecraft:poof
 minecraft:portal
 minecraft:raid_omen

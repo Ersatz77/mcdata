@@ -278,6 +278,11 @@ minecraft:block.end_portal.spawn
 minecraft:block.end_portal_frame.fill
 minecraft:block.ender_chest.close
 minecraft:block.ender_chest.open
+minecraft:block.eyeblossom.close
+minecraft:block.eyeblossom.close_long
+minecraft:block.eyeblossom.idle
+minecraft:block.eyeblossom.open
+minecraft:block.eyeblossom.open_long
 minecraft:block.fence_gate.close
 minecraft:block.fence_gate.open
 minecraft:block.fire.ambient
@@ -534,6 +539,16 @@ minecraft:block.powder_snow.place
 minecraft:block.powder_snow.step
 minecraft:block.pumpkin.carve
 minecraft:block.redstone_torch.burnout
+minecraft:block.resin.break
+minecraft:block.resin.fall
+minecraft:block.resin.hit
+minecraft:block.resin.place
+minecraft:block.resin.step
+minecraft:block.resin_bricks.break
+minecraft:block.resin_bricks.fall
+minecraft:block.resin_bricks.hit
+minecraft:block.resin_bricks.place
+minecraft:block.resin_bricks.step
 minecraft:block.respawn_anchor.ambient
 minecraft:block.respawn_anchor.charge
 minecraft:block.respawn_anchor.deplete
@@ -875,6 +890,7 @@ minecraft:entity.creaking.freeze
 minecraft:entity.creaking.spawn
 minecraft:entity.creaking.step
 minecraft:entity.creaking.sway
+minecraft:entity.creaking.twitch
 minecraft:entity.creaking.unfreeze
 minecraft:entity.creeper.death
 minecraft:entity.creeper.hurt

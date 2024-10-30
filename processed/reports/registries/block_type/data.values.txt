@@ -41,7 +41,6 @@ minecraft:cave_vines
 minecraft:cave_vines_plant
 minecraft:ceiling_hanging_sign
 minecraft:chain
-minecraft:cherry_leaves
 minecraft:chest
 minecraft:chiseled_book_shelf
 minecraft:chorus_flower
@@ -80,6 +79,7 @@ minecraft:end_portal
 minecraft:end_portal_frame
 minecraft:end_rod
 minecraft:ender_chest
+minecraft:eyeblossom
 minecraft:farm
 minecraft:fence
 minecraft:fence_gate
@@ -130,6 +130,7 @@ minecraft:mangrove_roots
 minecraft:mossy_carpet
 minecraft:moving_piston
 minecraft:mud
+minecraft:multiface
 minecraft:mushroom
 minecraft:mycelium
 minecraft:nether_portal
@@ -139,6 +140,7 @@ minecraft:netherrack
 minecraft:note
 minecraft:nylium
 minecraft:observer
+minecraft:particle_leaves
 minecraft:piglinwallskull
 minecraft:pink_petals
 minecraft:piston_base

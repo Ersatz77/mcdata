@@ -186,6 +186,10 @@
                       "executable": true,
                       "type": "literal"
                     },
+                    "reset": {
+                      "executable": true,
+                      "type": "literal"
+                    },
                     "set": {
                       "children": {
                         "value": {
