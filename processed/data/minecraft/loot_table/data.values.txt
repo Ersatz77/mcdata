@@ -1094,7 +1094,6 @@ minecraft:entities/chicken
 minecraft:entities/cod
 minecraft:entities/cow
 minecraft:entities/creaking
-minecraft:entities/creaking_transient
 minecraft:entities/creeper
 minecraft:entities/dolphin
 minecraft:entities/donkey

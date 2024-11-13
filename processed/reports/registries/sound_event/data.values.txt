@@ -541,7 +541,6 @@ minecraft:block.pumpkin.carve
 minecraft:block.redstone_torch.burnout
 minecraft:block.resin.break
 minecraft:block.resin.fall
-minecraft:block.resin.hit
 minecraft:block.resin.place
 minecraft:block.resin.step
 minecraft:block.resin_bricks.break

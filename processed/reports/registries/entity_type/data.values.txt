@@ -28,7 +28,6 @@ minecraft:cod
 minecraft:command_block_minecart
 minecraft:cow
 minecraft:creaking
-minecraft:creaking_transient
 minecraft:creeper
 minecraft:dark_oak_boat
 minecraft:dark_oak_chest_boat
