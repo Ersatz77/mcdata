@@ -1,15 +1,15 @@
 {
   "values": [
-    "minecraft:iron_ingot",
-    "minecraft:lapis_lazuli",
     "minecraft:emerald",
-    "minecraft:redstone",
-    "minecraft:quartz",
-    "minecraft:netherite_ingot",
     "minecraft:gold_ingot",
     "minecraft:amethyst_shard",
+    "minecraft:diamond",
+    "minecraft:netherite_ingot",
+    "minecraft:iron_ingot",
     "minecraft:copper_ingot",
+    "minecraft:redstone",
     "minecraft:resin_brick",
-    "minecraft:diamond"
+    "minecraft:lapis_lazuli",
+    "minecraft:quartz"
   ]
 }
