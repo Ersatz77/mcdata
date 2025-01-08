@@ -50,6 +50,7 @@ minecraft:note_block_sound
 minecraft:ominous_bottle_amplifier
 minecraft:pot_decorations
 minecraft:potion_contents
+minecraft:potion_duration_scale
 minecraft:profile
 minecraft:rarity
 minecraft:recipes
@@ -63,5 +64,6 @@ minecraft:trim
 minecraft:unbreakable
 minecraft:use_cooldown
 minecraft:use_remainder
+minecraft:weapon
 minecraft:writable_book_content
 minecraft:written_book_content

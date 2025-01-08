@@ -640,6 +640,72 @@
                       },
                       "executable": true,
                       "type": "literal"
+                    },
+                    "strict": {
+                      "children": {
+                        "filtered": {
+                          "children": {
+                            "filter": {
+                              "children": {
+                                "force": {
+                                  "executable": true,
+                                  "type": "literal"
+                                },
+                                "move": {
+                                  "executable": true,
+                                  "type": "literal"
+                                },
+                                "normal": {
+                                  "executable": true,
+                                  "type": "literal"
+                                }
+                              },
+                              "executable": true,
+                              "parser": "minecraft:block_predicate",
+                              "type": "argument"
+                            }
+                          },
+                          "type": "literal"
+                        },
+                        "masked": {
+                          "children": {
+                            "force": {
+                              "executable": true,
+                              "type": "literal"
+                            },
+                            "move": {
+                              "executable": true,
+                              "type": "literal"
+                            },
+                            "normal": {
+                              "executable": true,
+                              "type": "literal"
+                            }
+                          },
+                          "executable": true,
+                          "type": "literal"
+                        },
+                        "replace": {
+                          "children": {
+                            "force": {
+                              "executable": true,
+                              "type": "literal"
+                            },
+                            "move": {
+                              "executable": true,
+                              "type": "literal"
+                            },
+                            "normal": {
+                              "executable": true,
+                              "type": "literal"
+                            }
+                          },
+                          "executable": true,
+                          "type": "literal"
+                        }
+                      },
+                      "executable": true,
+                      "type": "literal"
                     }
                   },
                   "executable": true,
@@ -705,6 +771,72 @@
                                   "type": "literal"
                                 },
                                 "normal": {
+                                  "executable": true,
+                                  "type": "literal"
+                                }
+                              },
+                              "executable": true,
+                              "type": "literal"
+                            },
+                            "strict": {
+                              "children": {
+                                "filtered": {
+                                  "children": {
+                                    "filter": {
+                                      "children": {
+                                        "force": {
+                                          "executable": true,
+                                          "type": "literal"
+                                        },
+                                        "move": {
+                                          "executable": true,
+                                          "type": "literal"
+                                        },
+                                        "normal": {
+                                          "executable": true,
+                                          "type": "literal"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_predicate",
+                                      "type": "argument"
+                                    }
+                                  },
+                                  "type": "literal"
+                                },
+                                "masked": {
+                                  "children": {
+                                    "force": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    },
+                                    "move": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    },
+                                    "normal": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    }
+                                  },
+                                  "executable": true,
+                                  "type": "literal"
+                                },
+                                "replace": {
+                                  "children": {
+                                    "force": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    },
+                                    "move": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    },
+                                    "normal": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    }
+                                  },
                                   "executable": true,
                                   "type": "literal"
                                 }
@@ -801,6 +933,72 @@
                               },
                               "executable": true,
                               "type": "literal"
+                            },
+                            "strict": {
+                              "children": {
+                                "filtered": {
+                                  "children": {
+                                    "filter": {
+                                      "children": {
+                                        "force": {
+                                          "executable": true,
+                                          "type": "literal"
+                                        },
+                                        "move": {
+                                          "executable": true,
+                                          "type": "literal"
+                                        },
+                                        "normal": {
+                                          "executable": true,
+                                          "type": "literal"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:block_predicate",
+                                      "type": "argument"
+                                    }
+                                  },
+                                  "type": "literal"
+                                },
+                                "masked": {
+                                  "children": {
+                                    "force": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    },
+                                    "move": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    },
+                                    "normal": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    }
+                                  },
+                                  "executable": true,
+                                  "type": "literal"
+                                },
+                                "replace": {
+                                  "children": {
+                                    "force": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    },
+                                    "move": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    },
+                                    "normal": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    }
+                                  },
+                                  "executable": true,
+                                  "type": "literal"
+                                }
+                              },
+                              "executable": true,
+                              "type": "literal"
                             }
                           },
                           "executable": true,
@@ -866,6 +1064,72 @@
                                           "type": "literal"
                                         },
                                         "normal": {
+                                          "executable": true,
+                                          "type": "literal"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "type": "literal"
+                                    },
+                                    "strict": {
+                                      "children": {
+                                        "filtered": {
+                                          "children": {
+                                            "filter": {
+                                              "children": {
+                                                "force": {
+                                                  "executable": true,
+                                                  "type": "literal"
+                                                },
+                                                "move": {
+                                                  "executable": true,
+                                                  "type": "literal"
+                                                },
+                                                "normal": {
+                                                  "executable": true,
+                                                  "type": "literal"
+                                                }
+                                              },
+                                              "executable": true,
+                                              "parser": "minecraft:block_predicate",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
+                                        },
+                                        "masked": {
+                                          "children": {
+                                            "force": {
+                                              "executable": true,
+                                              "type": "literal"
+                                            },
+                                            "move": {
+                                              "executable": true,
+                                              "type": "literal"
+                                            },
+                                            "normal": {
+                                              "executable": true,
+                                              "type": "literal"
+                                            }
+                                          },
+                                          "executable": true,
+                                          "type": "literal"
+                                        },
+                                        "replace": {
+                                          "children": {
+                                            "force": {
+                                              "executable": true,
+                                              "type": "literal"
+                                            },
+                                            "move": {
+                                              "executable": true,
+                                              "type": "literal"
+                                            },
+                                            "normal": {
+                                              "executable": true,
+                                              "type": "literal"
+                                            }
+                                          },
                                           "executable": true,
                                           "type": "literal"
                                         }
@@ -6041,11 +6305,33 @@
                     "replace": {
                       "children": {
                         "filter": {
+                          "children": {
+                            "destroy": {
+                              "executable": true,
+                              "type": "literal"
+                            },
+                            "hollow": {
+                              "executable": true,
+                              "type": "literal"
+                            },
+                            "outline": {
+                              "executable": true,
+                              "type": "literal"
+                            },
+                            "strict": {
+                              "executable": true,
+                              "type": "literal"
+                            }
+                          },
                           "executable": true,
                           "parser": "minecraft:block_predicate",
                           "type": "argument"
                         }
                       },
+                      "executable": true,
+                      "type": "literal"
+                    },
+                    "strict": {
                       "executable": true,
                       "type": "literal"
                     }
@@ -8157,6 +8443,12 @@
                             "integrity": {
                               "children": {
                                 "seed": {
+                                  "children": {
+                                    "strict": {
+                                      "executable": true,
+                                      "type": "literal"
+                                    }
+                                  },
                                   "executable": true,
                                   "parser": "brigadier:integer",
                                   "type": "argument"
@@ -9545,6 +9837,10 @@
                   "type": "literal"
                 },
                 "replace": {
+                  "executable": true,
+                  "type": "literal"
+                },
+                "strict": {
                   "executable": true,
                   "type": "literal"
                 }

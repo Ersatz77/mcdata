@@ -1188,6 +1188,7 @@ minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore
 minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore
 minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore
 minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore
+minecraft:recipes/misc/leaf_litter
 minecraft:recipes/misc/leather
 minecraft:recipes/misc/leather_horse_armor
 minecraft:recipes/misc/light_blue_dye_from_blue_orchid
@@ -1274,6 +1275,7 @@ minecraft:recipes/misc/wind_charge
 minecraft:recipes/misc/writable_book
 minecraft:recipes/misc/yellow_dye_from_dandelion
 minecraft:recipes/misc/yellow_dye_from_sunflower
+minecraft:recipes/misc/yellow_dye_from_wildflowers
 minecraft:recipes/redstone/acacia_button
 minecraft:recipes/redstone/acacia_door
 minecraft:recipes/redstone/acacia_fence_gate

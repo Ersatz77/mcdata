@@ -1,0 +1,10 @@
+{
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "#minecraft:leaves",
+  "result": {
+    "id": "minecraft:leaf_litter"
+  },
+  "type": "minecraft:smelting"
+}

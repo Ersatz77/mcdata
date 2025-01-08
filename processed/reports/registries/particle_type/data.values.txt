@@ -96,6 +96,7 @@ minecraft:splash
 minecraft:spore_blossom_air
 minecraft:squid_ink
 minecraft:sweep_attack
+minecraft:tinted_leaves
 minecraft:totem_of_undying
 minecraft:trail
 minecraft:trial_omen

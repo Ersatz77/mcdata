@@ -625,6 +625,7 @@ minecraft:lapis_lazuli_from_blasting_lapis_ore
 minecraft:lapis_lazuli_from_smelting_deepslate_lapis_ore
 minecraft:lapis_lazuli_from_smelting_lapis_ore
 minecraft:lead
+minecraft:leaf_litter
 minecraft:leather
 minecraft:leather_boots
 minecraft:leather_chestplate
@@ -1362,6 +1363,7 @@ minecraft:yellow_carpet
 minecraft:yellow_concrete_powder
 minecraft:yellow_dye_from_dandelion
 minecraft:yellow_dye_from_sunflower
+minecraft:yellow_dye_from_wildflowers
 minecraft:yellow_glazed_terracotta
 minecraft:yellow_shulker_box
 minecraft:yellow_stained_glass

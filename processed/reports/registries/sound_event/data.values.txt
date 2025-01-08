@@ -353,6 +353,11 @@ minecraft:block.honey_block.hit
 minecraft:block.honey_block.place
 minecraft:block.honey_block.slide
 minecraft:block.honey_block.step
+minecraft:block.iron.break
+minecraft:block.iron.fall
+minecraft:block.iron.hit
+minecraft:block.iron.place
+minecraft:block.iron.step
 minecraft:block.iron_door.close
 minecraft:block.iron_door.open
 minecraft:block.iron_trapdoor.close
@@ -372,6 +377,11 @@ minecraft:block.large_amethyst_bud.place
 minecraft:block.lava.ambient
 minecraft:block.lava.extinguish
 minecraft:block.lava.pop
+minecraft:block.leaf_litter.break
+minecraft:block.leaf_litter.fall
+minecraft:block.leaf_litter.hit
+minecraft:block.leaf_litter.place
+minecraft:block.leaf_litter.step
 minecraft:block.lever.click
 minecraft:block.lily_pad.place
 minecraft:block.lodestone.break

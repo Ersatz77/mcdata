@@ -130,6 +130,7 @@ minecraft:rabbits_spawnable_on
 minecraft:rails
 minecraft:redstone_ores
 minecraft:replaceable
+minecraft:replaceable_by_mushrooms
 minecraft:replaceable_by_trees
 minecraft:sand
 minecraft:saplings
@@ -158,6 +159,7 @@ minecraft:stone_ore_replaceables
 minecraft:stone_pressure_plates
 minecraft:strider_warm_blocks
 minecraft:sword_efficient
+minecraft:sword_instantly_mines
 minecraft:terracotta
 minecraft:trail_ruins_replaceable
 minecraft:trapdoors

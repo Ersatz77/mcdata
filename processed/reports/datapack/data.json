@@ -289,6 +289,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:pig_variant": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:point_of_interest_type": {
       "elements": false,
       "stable": true,
@@ -370,6 +375,11 @@
       "tags": true
     },
     "minecraft:stat_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:ticket_type": {
       "elements": false,
       "stable": true,
       "tags": true

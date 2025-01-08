@@ -86,6 +86,7 @@ minecraft:fence_gate
 minecraft:fire
 minecraft:fletching_table
 minecraft:flower
+minecraft:flower_bed
 minecraft:flower_pot
 minecraft:frogspawn
 minecraft:frosted_ice
@@ -116,6 +117,7 @@ minecraft:ladder
 minecraft:lantern
 minecraft:lava_cauldron
 minecraft:layered_cauldron
+minecraft:leaf_litter
 minecraft:leaves
 minecraft:lectern
 minecraft:lever
@@ -140,9 +142,7 @@ minecraft:netherrack
 minecraft:note
 minecraft:nylium
 minecraft:observer
-minecraft:particle_leaves
 minecraft:piglinwallskull
-minecraft:pink_petals
 minecraft:piston_base
 minecraft:piston_head
 minecraft:pitcher_crop

@@ -11,6 +11,7 @@ minecraft:beds
 minecraft:bee_food
 minecraft:birch_logs
 minecraft:boats
+minecraft:book_cloning_target
 minecraft:bookshelf_books
 minecraft:breaks_decorated_pots
 minecraft:brewing_fuel

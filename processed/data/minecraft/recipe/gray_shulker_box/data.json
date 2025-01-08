@@ -3,6 +3,8 @@
   "group": "shulker_box_dye",
   "input": "#minecraft:shulker_boxes",
   "material": "minecraft:gray_dye",
-  "result": "minecraft:gray_shulker_box",
+  "result": {
+    "id": "minecraft:gray_shulker_box"
+  },
   "type": "minecraft:crafting_transmute"
 }

@@ -3,6 +3,8 @@
   "group": "bundle_dye",
   "input": "#minecraft:bundles",
   "material": "minecraft:white_dye",
-  "result": "minecraft:white_bundle",
+  "result": {
+    "id": "minecraft:white_bundle"
+  },
   "type": "minecraft:crafting_transmute"
 }

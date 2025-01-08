@@ -444,6 +444,7 @@ minecraft:blocks/lapis_ore
 minecraft:blocks/large_amethyst_bud
 minecraft:blocks/large_fern
 minecraft:blocks/lava_cauldron
+minecraft:blocks/leaf_litter
 minecraft:blocks/lectern
 minecraft:blocks/lever
 minecraft:blocks/light_blue_banner
@@ -1003,6 +1004,7 @@ minecraft:blocks/white_stained_glass_pane
 minecraft:blocks/white_terracotta
 minecraft:blocks/white_tulip
 minecraft:blocks/white_wool
+minecraft:blocks/wildflowers
 minecraft:blocks/wither_rose
 minecraft:blocks/wither_skeleton_skull
 minecraft:blocks/yellow_banner

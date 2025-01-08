@@ -3,6 +3,8 @@
   "group": "shulker_box_dye",
   "input": "#minecraft:shulker_boxes",
   "material": "minecraft:lime_dye",
-  "result": "minecraft:lime_shulker_box",
+  "result": {
+    "id": "minecraft:lime_shulker_box"
+  },
   "type": "minecraft:crafting_transmute"
 }

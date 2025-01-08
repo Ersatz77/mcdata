@@ -3766,19 +3766,20 @@
   },
   "minecraft:creaking_heart": {
     "default": {
-      "active": "false",
       "axis": "y",
+      "creaking_heart_state": "uprooted",
       "natural": "false"
     },
     "properties": {
-      "active": [
-        "true",
-        "false"
-      ],
       "axis": [
         "x",
         "y",
         "z"
+      ],
+      "creaking_heart_state": [
+        "uprooted",
+        "dormant",
+        "awake"
       ],
       "natural": [
         "true",
@@ -7563,6 +7564,26 @@
   "minecraft:lava_cauldron": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:leaf_litter": {
+    "default": {
+      "facing": "north",
+      "segment_amount": "1"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "segment_amount": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    }
   },
   "minecraft:lectern": {
     "default": {
@@ -16764,6 +16785,26 @@
   "minecraft:white_wool": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:wildflowers": {
+    "default": {
+      "facing": "north",
+      "flower_amount": "1"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "flower_amount": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    }
   },
   "minecraft:wither_rose": {
     "default": {},
