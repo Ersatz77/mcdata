@@ -14876,6 +14876,23 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:test_block": {
+    "default": {
+      "test_block_mode": "start"
+    },
+    "properties": {
+      "test_block_mode": [
+        "start",
+        "log",
+        "fail",
+        "accept"
+      ]
+    }
+  },
+  "minecraft:test_instance_block": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:tinted_glass": {
     "default": {},
     "properties": {}

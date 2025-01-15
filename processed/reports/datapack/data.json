@@ -379,6 +379,31 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:test_environment": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:test_environment_definition_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:test_function": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:test_instance": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:test_instance_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:ticket_type": {
       "elements": false,
       "stable": true,

@@ -10564,6 +10564,314 @@
       },
       "type": "literal"
     },
+    "test": {
+      "children": {
+        "clearall": {
+          "children": {
+            "radius": {
+              "executable": true,
+              "parser": "brigadier:integer",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "clearthat": {
+          "executable": true,
+          "type": "literal"
+        },
+        "clearthese": {
+          "executable": true,
+          "type": "literal"
+        },
+        "create": {
+          "children": {
+            "id": {
+              "children": {
+                "width": {
+                  "children": {
+                    "height": {
+                      "children": {
+                        "depth": {
+                          "executable": true,
+                          "parser": "brigadier:integer",
+                          "type": "argument"
+                        }
+                      },
+                      "parser": "brigadier:integer",
+                      "type": "argument"
+                    }
+                  },
+                  "executable": true,
+                  "parser": "brigadier:integer",
+                  "type": "argument"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:resource_location",
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
+        "locate": {
+          "children": {
+            "tests": {
+              "executable": true,
+              "parser": "minecraft:resource",
+              "properties": {
+                "registry": "minecraft:test_instance"
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
+        "pos": {
+          "children": {
+            "var": {
+              "executable": true,
+              "parser": "brigadier:string",
+              "properties": {
+                "type": "word"
+              },
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "resetclosest": {
+          "executable": true,
+          "type": "literal"
+        },
+        "resetthat": {
+          "executable": true,
+          "type": "literal"
+        },
+        "resetthese": {
+          "executable": true,
+          "type": "literal"
+        },
+        "run": {
+          "children": {
+            "tests": {
+              "children": {
+                "numberOfTimes": {
+                  "children": {
+                    "untilFailed": {
+                      "children": {
+                        "rotationSteps": {
+                          "children": {
+                            "testsPerRow": {
+                              "executable": true,
+                              "parser": "brigadier:integer",
+                              "type": "argument"
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:integer",
+                          "type": "argument"
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:bool",
+                      "type": "argument"
+                    }
+                  },
+                  "executable": true,
+                  "parser": "brigadier:integer",
+                  "properties": {
+                    "min": 0
+                  },
+                  "type": "argument"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:resource_selector",
+              "properties": {
+                "registry": "minecraft:test_instance"
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
+        "runclosest": {
+          "children": {
+            "numberOfTimes": {
+              "children": {
+                "untilFailed": {
+                  "executable": true,
+                  "parser": "brigadier:bool",
+                  "type": "argument"
+                }
+              },
+              "executable": true,
+              "parser": "brigadier:integer",
+              "properties": {
+                "min": 0
+              },
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "runfailed": {
+          "children": {
+            "numberOfTimes": {
+              "children": {
+                "untilFailed": {
+                  "children": {
+                    "rotationSteps": {
+                      "children": {
+                        "testsPerRow": {
+                          "executable": true,
+                          "parser": "brigadier:integer",
+                          "type": "argument"
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:integer",
+                      "type": "argument"
+                    }
+                  },
+                  "executable": true,
+                  "parser": "brigadier:bool",
+                  "type": "argument"
+                }
+              },
+              "executable": true,
+              "parser": "brigadier:integer",
+              "properties": {
+                "min": 0
+              },
+              "type": "argument"
+            },
+            "onlyRequiredTests": {
+              "children": {
+                "numberOfTimes": {
+                  "children": {
+                    "untilFailed": {
+                      "children": {
+                        "rotationSteps": {
+                          "children": {
+                            "testsPerRow": {
+                              "executable": true,
+                              "parser": "brigadier:integer",
+                              "type": "argument"
+                            }
+                          },
+                          "executable": true,
+                          "parser": "brigadier:integer",
+                          "type": "argument"
+                        }
+                      },
+                      "executable": true,
+                      "parser": "brigadier:bool",
+                      "type": "argument"
+                    }
+                  },
+                  "executable": true,
+                  "parser": "brigadier:integer",
+                  "properties": {
+                    "min": 0
+                  },
+                  "type": "argument"
+                }
+              },
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "runmultiple": {
+          "children": {
+            "tests": {
+              "children": {
+                "amount": {
+                  "executable": true,
+                  "parser": "brigadier:integer",
+                  "type": "argument"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:resource_selector",
+              "properties": {
+                "registry": "minecraft:test_instance"
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
+        "runthat": {
+          "children": {
+            "numberOfTimes": {
+              "children": {
+                "untilFailed": {
+                  "executable": true,
+                  "parser": "brigadier:bool",
+                  "type": "argument"
+                }
+              },
+              "executable": true,
+              "parser": "brigadier:integer",
+              "properties": {
+                "min": 0
+              },
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "runthese": {
+          "children": {
+            "numberOfTimes": {
+              "children": {
+                "untilFailed": {
+                  "executable": true,
+                  "parser": "brigadier:bool",
+                  "type": "argument"
+                }
+              },
+              "executable": true,
+              "parser": "brigadier:integer",
+              "properties": {
+                "min": 0
+              },
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "stop": {
+          "executable": true,
+          "type": "literal"
+        },
+        "verify": {
+          "children": {
+            "tests": {
+              "executable": true,
+              "parser": "minecraft:resource_selector",
+              "properties": {
+                "registry": "minecraft:test_instance"
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        }
+      },
+      "type": "literal"
+    },
     "tick": {
       "children": {
         "freeze": {

@@ -204,7 +204,7 @@
         "protocol_id": 24
       },
       "minecraft:custom_report_details": {
-        "protocol_id": 128
+        "protocol_id": 129
       },
       "minecraft:damage_event": {
         "protocol_id": 25
@@ -333,7 +333,7 @@
         "protocol_id": 55
       },
       "minecraft:projectile_power": {
-        "protocol_id": 127
+        "protocol_id": 128
       },
       "minecraft:recipe_book_add": {
         "protocol_id": 67
@@ -375,7 +375,7 @@
         "protocol_id": 79
       },
       "minecraft:server_links": {
-        "protocol_id": 129
+        "protocol_id": 130
       },
       "minecraft:set_action_bar_text": {
         "protocol_id": 80
@@ -494,29 +494,32 @@
       "minecraft:teleport_entity": {
         "protocol_id": 118
       },
-      "minecraft:ticking_state": {
+      "minecraft:test_instance_block_status": {
         "protocol_id": 119
       },
-      "minecraft:ticking_step": {
+      "minecraft:ticking_state": {
         "protocol_id": 120
       },
-      "minecraft:transfer": {
+      "minecraft:ticking_step": {
         "protocol_id": 121
       },
-      "minecraft:update_advancements": {
+      "minecraft:transfer": {
         "protocol_id": 122
       },
-      "minecraft:update_attributes": {
+      "minecraft:update_advancements": {
         "protocol_id": 123
       },
-      "minecraft:update_mob_effect": {
+      "minecraft:update_attributes": {
         "protocol_id": 124
       },
-      "minecraft:update_recipes": {
+      "minecraft:update_mob_effect": {
         "protocol_id": 125
       },
-      "minecraft:update_tags": {
+      "minecraft:update_recipes": {
         "protocol_id": 126
+      },
+      "minecraft:update_tags": {
+        "protocol_id": 127
       }
     },
     "serverbound": {
@@ -691,20 +694,26 @@
       "minecraft:set_structure_block": {
         "protocol_id": 56
       },
-      "minecraft:sign_update": {
+      "minecraft:set_test_block": {
         "protocol_id": 57
       },
-      "minecraft:swing": {
+      "minecraft:sign_update": {
         "protocol_id": 58
       },
-      "minecraft:teleport_to_entity": {
+      "minecraft:swing": {
         "protocol_id": 59
       },
-      "minecraft:use_item": {
+      "minecraft:teleport_to_entity": {
+        "protocol_id": 60
+      },
+      "minecraft:test_instance_block_action": {
         "protocol_id": 61
       },
+      "minecraft:use_item": {
+        "protocol_id": 63
+      },
       "minecraft:use_item_on": {
-        "protocol_id": 60
+        "protocol_id": 62
       }
     }
   },

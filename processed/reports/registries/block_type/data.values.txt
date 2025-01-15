@@ -204,6 +204,8 @@ minecraft:tall_flower
 minecraft:tall_grass
 minecraft:tall_seagrass
 minecraft:target
+minecraft:test
+minecraft:test_instance
 minecraft:tinted_glass
 minecraft:tnt
 minecraft:torch

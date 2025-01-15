@@ -7492,7 +7492,7 @@
       },
       "minecraft:weapon": {
         "can_disable_blocking": true,
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -7705,7 +7705,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -7866,7 +7866,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -7923,7 +7923,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -10082,7 +10082,7 @@
       },
       "minecraft:weapon": {
         "can_disable_blocking": true,
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -10300,7 +10300,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -10443,7 +10443,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -10500,7 +10500,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -11907,7 +11907,7 @@
       },
       "minecraft:weapon": {
         "can_disable_blocking": true,
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -12174,7 +12174,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -12371,7 +12371,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -12428,7 +12428,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -16371,7 +16371,7 @@
       },
       "minecraft:weapon": {
         "can_disable_blocking": true,
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -16620,7 +16620,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -16757,7 +16757,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -16838,7 +16838,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -21590,6 +21590,13 @@
       "minecraft:enchantments": {
         "levels": {}
       },
+      "minecraft:equippable": {
+        "allowed_entities": "#minecraft:can_equip_saddle",
+        "asset_id": "minecraft:saddle",
+        "equip_on_interact": true,
+        "equip_sound": "minecraft:entity.horse.saddle",
+        "slot": "saddle"
+      },
       "minecraft:item_model": "minecraft:saddle",
       "minecraft:item_name": {
         "translate": "item.minecraft.saddle"
@@ -23504,7 +23511,7 @@
       },
       "minecraft:weapon": {
         "can_disable_blocking": true,
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -23651,7 +23658,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -23708,7 +23715,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -23783,7 +23790,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -24636,6 +24643,45 @@
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
       "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:test_block": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:block_state": {
+        "test_block_mode": "start"
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:test_block",
+      "minecraft:item_name": {
+        "translate": "block.minecraft.test_block"
+      },
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "epic",
+      "minecraft:repair_cost": 0
+    }
+  },
+  "minecraft:test_instance_block": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:item_model": "minecraft:test_instance_block",
+      "minecraft:item_name": {
+        "translate": "block.minecraft.test_instance_block"
+      },
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 64,
+      "minecraft:rarity": "epic",
       "minecraft:repair_cost": 0
     }
   },
@@ -27316,7 +27362,7 @@
       },
       "minecraft:weapon": {
         "can_disable_blocking": true,
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -27373,7 +27419,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -27430,7 +27476,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },
@@ -27487,7 +27533,7 @@
         ]
       },
       "minecraft:weapon": {
-        "damage_per_attack": 2
+        "item_damage_per_attack": 2
       }
     }
   },

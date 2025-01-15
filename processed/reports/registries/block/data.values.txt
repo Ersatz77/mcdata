@@ -961,6 +961,8 @@ minecraft:tall_grass
 minecraft:tall_seagrass
 minecraft:target
 minecraft:terracotta
+minecraft:test_block
+minecraft:test_instance_block
 minecraft:tinted_glass
 minecraft:tnt
 minecraft:torch

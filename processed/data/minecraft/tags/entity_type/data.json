@@ -8,6 +8,7 @@
     "minecraft:beehive_inhabitors",
     "minecraft:boat",
     "minecraft:can_breathe_under_water",
+    "minecraft:can_equip_saddle",
     "minecraft:can_turn_in_boats",
     "minecraft:deflects_projectiles",
     "minecraft:dismounts_underwater",

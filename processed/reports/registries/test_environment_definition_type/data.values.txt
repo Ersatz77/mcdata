@@ -1,0 +1,5 @@
+minecraft:all_of
+minecraft:function
+minecraft:game_rules
+minecraft:raining
+minecraft:time_of_day

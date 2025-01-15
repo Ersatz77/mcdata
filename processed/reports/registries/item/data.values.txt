@@ -1220,6 +1220,8 @@ minecraft:tadpole_spawn_egg
 minecraft:tall_grass
 minecraft:target
 minecraft:terracotta
+minecraft:test_block
+minecraft:test_instance_block
 minecraft:tide_armor_trim_smithing_template
 minecraft:tinted_glass
 minecraft:tipped_arrow

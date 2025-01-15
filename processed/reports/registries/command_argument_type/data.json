@@ -42,6 +42,7 @@
     "minecraft:resource_location",
     "minecraft:resource_or_tag",
     "minecraft:resource_or_tag_key",
+    "minecraft:resource_selector",
     "minecraft:rotation",
     "minecraft:score_holder",
     "minecraft:scoreboard_slot",
