@@ -5,6 +5,8 @@ minecraft:base_color
 minecraft:bees
 minecraft:block_entity_data
 minecraft:block_state
+minecraft:blocks_attacks
+minecraft:break_sound
 minecraft:bucket_entity_data
 minecraft:bundle_contents
 minecraft:can_break
@@ -35,8 +37,6 @@ minecraft:food
 minecraft:fox/variant
 minecraft:frog/variant
 minecraft:glider
-minecraft:hide_additional_tooltip
-minecraft:hide_tooltip
 minecraft:horse/variant
 minecraft:instrument
 minecraft:intangible_projectile
@@ -63,6 +63,8 @@ minecraft:pot_decorations
 minecraft:potion_contents
 minecraft:potion_duration_scale
 minecraft:profile
+minecraft:provides_banner_patterns
+minecraft:provides_trim_material
 minecraft:rabbit/variant
 minecraft:rarity
 minecraft:recipes
@@ -74,6 +76,7 @@ minecraft:shulker/color
 minecraft:stored_enchantments
 minecraft:suspicious_stew_effects
 minecraft:tool
+minecraft:tooltip_display
 minecraft:tooltip_style
 minecraft:trim
 minecraft:tropical_fish/base_color

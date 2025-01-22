@@ -1,6 +1,7 @@
 {
   "addition": "#minecraft:trim_materials",
   "base": "#minecraft:trimmable_armor",
+  "pattern": "minecraft:flow",
   "template": "minecraft:flow_armor_trim_smithing_template",
   "type": "minecraft:smithing_trim"
 }

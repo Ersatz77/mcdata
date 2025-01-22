@@ -55,8 +55,8 @@
       "tags": true
     },
     "minecraft:cat_variant": {
-      "elements": false,
-      "stable": true,
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:chat_type": {
@@ -92,6 +92,11 @@
     "minecraft:damage_type": {
       "elements": true,
       "stable": false,
+      "tags": true
+    },
+    "minecraft:data_component_predicate_type": {
+      "elements": false,
+      "stable": true,
       "tags": true
     },
     "minecraft:data_component_type": {
@@ -175,8 +180,8 @@
       "tags": true
     },
     "minecraft:frog_variant": {
-      "elements": false,
-      "stable": true,
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:game_event": {
@@ -206,11 +211,6 @@
     },
     "minecraft:item_modifier": {
       "elements": true,
-      "stable": true,
-      "tags": true
-    },
-    "minecraft:item_sub_predicate_type": {
-      "elements": false,
       "stable": true,
       "tags": true
     },
@@ -370,6 +370,11 @@
       "tags": true
     },
     "minecraft:sound_event": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:spawn_condition_type": {
       "elements": false,
       "stable": true,
       "tags": true

@@ -1,0 +1,3 @@
+minecraft:biome
+minecraft:moon_brightness
+minecraft:structure

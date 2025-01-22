@@ -1,5 +1,5 @@
 {
-  "batch": "minecraft:default",
+  "environment": "minecraft:default",
   "function": "minecraft:always_pass",
   "max_ticks": 1,
   "required": false,

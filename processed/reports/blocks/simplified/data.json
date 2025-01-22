@@ -14878,10 +14878,10 @@
   },
   "minecraft:test_block": {
     "default": {
-      "test_block_mode": "start"
+      "mode": "start"
     },
     "properties": {
-      "test_block_mode": [
+      "mode": [
         "start",
         "log",
         "fail",

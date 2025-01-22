@@ -1,0 +1,21 @@
+{
+  "asset_id": "minecraft:entity/cat/all_black",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "structures": "#minecraft:cats_spawn_as_black",
+        "type": "minecraft:structure"
+      },
+      "priority": 1
+    },
+    {
+      "condition": {
+        "range": {
+          "min": 0.9
+        },
+        "type": "minecraft:moon_brightness"
+      },
+      "priority": 0
+    }
+  ]
+}

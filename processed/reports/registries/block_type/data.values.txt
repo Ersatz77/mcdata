@@ -118,7 +118,6 @@ minecraft:lantern
 minecraft:lava_cauldron
 minecraft:layered_cauldron
 minecraft:leaf_litter
-minecraft:leaves
 minecraft:lectern
 minecraft:lever
 minecraft:light
@@ -207,6 +206,7 @@ minecraft:target
 minecraft:test
 minecraft:test_instance
 minecraft:tinted_glass
+minecraft:tinted_particle_leaves
 minecraft:tnt
 minecraft:torch
 minecraft:torchflower_crop
@@ -219,6 +219,7 @@ minecraft:tripwire
 minecraft:turtle_egg
 minecraft:twisting_vines
 minecraft:twisting_vines_plant
+minecraft:untinted_particle_leaves
 minecraft:vault
 minecraft:vine
 minecraft:wall

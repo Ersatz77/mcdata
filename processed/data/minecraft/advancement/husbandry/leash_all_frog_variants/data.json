@@ -76,10 +76,10 @@
   "parent": "minecraft:husbandry/tadpole_in_a_bucket",
   "requirements": [
     [
-      "minecraft:temperate"
+      "minecraft:warm"
     ],
     [
-      "minecraft:warm"
+      "minecraft:temperate"
     ],
     [
       "minecraft:cold"
