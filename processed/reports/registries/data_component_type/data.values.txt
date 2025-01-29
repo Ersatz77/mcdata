@@ -17,6 +17,7 @@ minecraft:charged_projectiles
 minecraft:consumable
 minecraft:container
 minecraft:container_loot
+minecraft:cow/variant
 minecraft:creative_slot_lock
 minecraft:custom_data
 minecraft:custom_model_data

@@ -241,6 +241,7 @@ minecraft:block.creaking_heart.place
 minecraft:block.creaking_heart.spawn
 minecraft:block.creaking_heart.step
 minecraft:block.crop.break
+minecraft:block.deadbush.idle
 minecraft:block.decorated_pot.break
 minecraft:block.decorated_pot.fall
 minecraft:block.decorated_pot.hit
@@ -575,8 +576,10 @@ minecraft:block.roots.step
 minecraft:block.sand.break
 minecraft:block.sand.fall
 minecraft:block.sand.hit
+minecraft:block.sand.idle
 minecraft:block.sand.place
 minecraft:block.sand.step
+minecraft:block.sand.wind
 minecraft:block.scaffolding.break
 minecraft:block.scaffolding.fall
 minecraft:block.scaffolding.hit

@@ -26,6 +26,7 @@ minecraft:brewing_stand
 minecraft:brushable
 minecraft:bubble_column
 minecraft:budding_amethyst
+minecraft:bush
 minecraft:button
 minecraft:cactus
 minecraft:cake
@@ -84,6 +85,7 @@ minecraft:farm
 minecraft:fence
 minecraft:fence_gate
 minecraft:fire
+minecraft:firefly_bush
 minecraft:fletching_table
 minecraft:flower
 minecraft:flower_bed
@@ -165,6 +167,7 @@ minecraft:respawn_anchor
 minecraft:rooted_dirt
 minecraft:roots
 minecraft:rotated_pillar
+minecraft:sand
 minecraft:sapling
 minecraft:scaffolding
 minecraft:sculk
@@ -203,6 +206,7 @@ minecraft:tall_flower
 minecraft:tall_grass
 minecraft:tall_seagrass
 minecraft:target
+minecraft:terracotta
 minecraft:test
 minecraft:test_instance
 minecraft:tinted_glass

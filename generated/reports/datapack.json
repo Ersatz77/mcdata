@@ -79,6 +79,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:cow_variant": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:creative_mode_tab": {
       "elements": false,
       "stable": true,

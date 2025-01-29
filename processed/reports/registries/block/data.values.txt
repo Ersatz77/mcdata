@@ -146,6 +146,7 @@ minecraft:bubble_coral_block
 minecraft:bubble_coral_fan
 minecraft:bubble_coral_wall_fan
 minecraft:budding_amethyst
+minecraft:bush
 minecraft:cactus
 minecraft:cake
 minecraft:calcite
@@ -378,6 +379,7 @@ minecraft:fire_coral
 minecraft:fire_coral_block
 minecraft:fire_coral_fan
 minecraft:fire_coral_wall_fan
+minecraft:firefly_bush
 minecraft:fletching_table
 minecraft:flower_pot
 minecraft:flowering_azalea

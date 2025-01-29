@@ -2476,6 +2476,10 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:bush": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:cactus": {
     "default": {
       "age": "0"
@@ -6082,6 +6086,10 @@
         "false"
       ]
     }
+  },
+  "minecraft:firefly_bush": {
+    "default": {},
+    "properties": {}
   },
   "minecraft:fletching_table": {
     "default": {},

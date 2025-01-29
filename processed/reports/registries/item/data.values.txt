@@ -178,6 +178,7 @@ minecraft:bucket
 minecraft:budding_amethyst
 minecraft:bundle
 minecraft:burn_pottery_sherd
+minecraft:bush
 minecraft:cactus
 minecraft:cake
 minecraft:calcite
@@ -471,6 +472,7 @@ minecraft:fire_charge
 minecraft:fire_coral
 minecraft:fire_coral_block
 minecraft:fire_coral_fan
+minecraft:firefly_bush
 minecraft:firework_rocket
 minecraft:firework_star
 minecraft:fishing_rod
