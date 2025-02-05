@@ -6545,6 +6545,17 @@
     },
     "gamerule": {
       "children": {
+        "allowFireTicksAwayFromPlayer": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "announceAdvancements": {
           "children": {
             "value": {

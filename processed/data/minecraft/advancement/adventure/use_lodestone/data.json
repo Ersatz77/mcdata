@@ -24,17 +24,17 @@
   },
   "display": {
     "description": {
-      "translate": "advancements.nether.use_lodestone.description"
+      "translate": "advancements.adventure.use_lodestone.description"
     },
     "icon": {
       "count": 1,
       "id": "minecraft:lodestone"
     },
     "title": {
-      "translate": "advancements.nether.use_lodestone.title"
+      "translate": "advancements.adventure.use_lodestone.title"
     }
   },
-  "parent": "minecraft:nether/obtain_ancient_debris",
+  "parent": "minecraft:adventure/root",
   "requirements": [
     [
       "use_lodestone"

@@ -847,6 +847,7 @@ minecraft:pink_bundle
 minecraft:pink_candle
 minecraft:pink_carpet
 minecraft:pink_concrete_powder
+minecraft:pink_dye_from_cactus_flower
 minecraft:pink_dye_from_peony
 minecraft:pink_dye_from_pink_petals
 minecraft:pink_dye_from_pink_tulip

@@ -2505,6 +2505,10 @@
       ]
     }
   },
+  "minecraft:cactus_flower": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:cake": {
     "default": {
       "bites": "0"
@@ -13440,6 +13444,10 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:short_dry_grass": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:short_grass": {
     "default": {},
     "properties": {}
@@ -14832,6 +14840,10 @@
         "3"
       ]
     }
+  },
+  "minecraft:tall_dry_grass": {
+    "default": {},
+    "properties": {}
   },
   "minecraft:tall_grass": {
     "default": {

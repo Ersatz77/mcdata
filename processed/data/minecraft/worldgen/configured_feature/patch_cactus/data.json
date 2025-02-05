@@ -24,6 +24,27 @@
                 },
                 "type": "minecraft:simple_state_provider"
               }
+            },
+            {
+              "height": {
+                "distribution": [
+                  {
+                    "data": 0,
+                    "weight": 3
+                  },
+                  {
+                    "data": 1,
+                    "weight": 1
+                  }
+                ],
+                "type": "minecraft:weighted_list"
+              },
+              "provider": {
+                "state": {
+                  "Name": "minecraft:cactus_flower"
+                },
+                "type": "minecraft:simple_state_provider"
+              }
             }
           ],
           "prioritize_tip": false

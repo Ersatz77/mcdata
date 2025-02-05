@@ -64,6 +64,11 @@
       "stable": false,
       "tags": true
     },
+    "minecraft:chicken_variant": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:chunk_status": {
       "elements": false,
       "stable": true,

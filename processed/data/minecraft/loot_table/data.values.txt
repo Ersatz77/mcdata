@@ -139,6 +139,7 @@ minecraft:blocks/bubble_coral_fan
 minecraft:blocks/budding_amethyst
 minecraft:blocks/bush
 minecraft:blocks/cactus
+minecraft:blocks/cactus_flower
 minecraft:blocks/cake
 minecraft:blocks/calcite
 minecraft:blocks/calibrated_sculk_sensor
@@ -808,6 +809,7 @@ minecraft:blocks/sculk_vein
 minecraft:blocks/sea_lantern
 minecraft:blocks/sea_pickle
 minecraft:blocks/seagrass
+minecraft:blocks/short_dry_grass
 minecraft:blocks/short_grass
 minecraft:blocks/shroomlight
 minecraft:blocks/shulker_box
@@ -895,6 +897,7 @@ minecraft:blocks/sunflower
 minecraft:blocks/suspicious_gravel
 minecraft:blocks/suspicious_sand
 minecraft:blocks/sweet_berry_bush
+minecraft:blocks/tall_dry_grass
 minecraft:blocks/tall_grass
 minecraft:blocks/tall_seagrass
 minecraft:blocks/target

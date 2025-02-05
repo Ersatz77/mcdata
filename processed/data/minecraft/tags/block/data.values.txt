@@ -48,7 +48,6 @@ minecraft:crops
 minecraft:crystal_sound_blocks
 minecraft:dampens_vibrations
 minecraft:dark_oak_logs
-minecraft:dead_bush_may_place_on
 minecraft:deepslate_ore_replaceables
 minecraft:diamond_ores
 minecraft:dirt
@@ -57,6 +56,8 @@ minecraft:doors
 minecraft:dragon_immune
 minecraft:dragon_transparent
 minecraft:dripstone_replaceable_blocks
+minecraft:dry_vegetation_may_place_on
+minecraft:edible_for_sheep
 minecraft:emerald_ores
 minecraft:enchantment_power_provider
 minecraft:enchantment_power_transmitter

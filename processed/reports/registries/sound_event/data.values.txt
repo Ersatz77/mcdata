@@ -120,6 +120,8 @@ minecraft:block.bubble_column.upwards_ambient
 minecraft:block.bubble_column.upwards_inside
 minecraft:block.bubble_column.whirlpool_ambient
 minecraft:block.bubble_column.whirlpool_inside
+minecraft:block.cactus_flower.break
+minecraft:block.cactus_flower.place
 minecraft:block.cake.add_candle
 minecraft:block.calcite.break
 minecraft:block.calcite.fall
@@ -288,6 +290,7 @@ minecraft:block.fence_gate.close
 minecraft:block.fence_gate.open
 minecraft:block.fire.ambient
 minecraft:block.fire.extinguish
+minecraft:block.firefly_bush.idle
 minecraft:block.flowering_azalea.break
 minecraft:block.flowering_azalea.fall
 minecraft:block.flowering_azalea.hit

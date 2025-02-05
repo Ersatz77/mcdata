@@ -14,6 +14,7 @@ minecraft:can_place_on
 minecraft:cat/collar
 minecraft:cat/variant
 minecraft:charged_projectiles
+minecraft:chicken/variant
 minecraft:consumable
 minecraft:container
 minecraft:container_loot

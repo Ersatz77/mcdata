@@ -37,6 +37,7 @@ minecraft:adventure/trim_with_all_exclusive_armor_patterns
 minecraft:adventure/trim_with_any_armor_pattern
 minecraft:adventure/two_birds_one_arrow
 minecraft:adventure/under_lock_and_key
+minecraft:adventure/use_lodestone
 minecraft:adventure/very_very_frightening
 minecraft:adventure/voluntary_exile
 minecraft:adventure/walk_on_powder_snow_with_leather_boots
@@ -103,7 +104,6 @@ minecraft:nether/ride_strider_in_overworld_lava
 minecraft:nether/root
 minecraft:nether/summon_wither
 minecraft:nether/uneasy_alliance
-minecraft:nether/use_lodestone
 minecraft:recipes/brewing/blaze_powder
 minecraft:recipes/brewing/brewing_stand
 minecraft:recipes/brewing/cauldron
@@ -1220,6 +1220,7 @@ minecraft:recipes/misc/orange_dye_from_orange_tulip
 minecraft:recipes/misc/orange_dye_from_red_yellow
 minecraft:recipes/misc/orange_dye_from_torchflower
 minecraft:recipes/misc/paper
+minecraft:recipes/misc/pink_dye_from_cactus_flower
 minecraft:recipes/misc/pink_dye_from_peony
 minecraft:recipes/misc/pink_dye_from_pink_petals
 minecraft:recipes/misc/pink_dye_from_pink_tulip
