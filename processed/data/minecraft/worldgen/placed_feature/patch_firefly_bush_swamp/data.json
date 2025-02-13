@@ -1,11 +1,15 @@
 {
-  "feature": "minecraft:patch_firefly_bush_sparse",
+  "feature": "minecraft:patch_firefly_bush",
   "placement": [
+    {
+      "chance": 8,
+      "type": "minecraft:rarity_filter"
+    },
     {
       "type": "minecraft:in_square"
     },
     {
-      "heightmap": "WORLD_SURFACE_WG",
+      "heightmap": "MOTION_BLOCKING",
       "type": "minecraft:heightmap"
     },
     {

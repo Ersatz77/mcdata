@@ -1,9 +1,9 @@
 {
-  "feature": "minecraft:patch_firefly_bush_near_water",
+  "feature": "minecraft:patch_firefly_bush",
   "placement": [
     {
-      "chance": 6,
-      "type": "minecraft:rarity_filter"
+      "count": 2,
+      "type": "minecraft:count"
     },
     {
       "type": "minecraft:in_square"
@@ -14,6 +14,77 @@
     },
     {
       "type": "minecraft:biome"
+    },
+    {
+      "predicate": {
+        "predicates": [
+          {
+            "blocks": "minecraft:air",
+            "type": "minecraft:matching_blocks"
+          },
+          {
+            "state": {
+              "Name": "minecraft:firefly_bush"
+            },
+            "type": "minecraft:would_survive"
+          },
+          {
+            "predicates": [
+              {
+                "fluids": [
+                  "minecraft:water",
+                  "minecraft:flowing_water"
+                ],
+                "offset": [
+                  1,
+                  -1,
+                  0
+                ],
+                "type": "minecraft:matching_fluids"
+              },
+              {
+                "fluids": [
+                  "minecraft:water",
+                  "minecraft:flowing_water"
+                ],
+                "offset": [
+                  -1,
+                  -1,
+                  0
+                ],
+                "type": "minecraft:matching_fluids"
+              },
+              {
+                "fluids": [
+                  "minecraft:water",
+                  "minecraft:flowing_water"
+                ],
+                "offset": [
+                  0,
+                  -1,
+                  1
+                ],
+                "type": "minecraft:matching_fluids"
+              },
+              {
+                "fluids": [
+                  "minecraft:water",
+                  "minecraft:flowing_water"
+                ],
+                "offset": [
+                  0,
+                  -1,
+                  -1
+                ],
+                "type": "minecraft:matching_fluids"
+              }
+            ],
+            "type": "minecraft:any_of"
+          }
+        ],
+        "type": "minecraft:all_of"
+      },
+      "type": "minecraft:block_predicate_filter"
     }
   ]
 }
