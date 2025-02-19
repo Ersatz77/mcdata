@@ -454,6 +454,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:wolf_sound_variant": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:wolf_variant": {
       "elements": true,
       "stable": false,

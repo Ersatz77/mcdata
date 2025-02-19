@@ -5023,7 +5023,7 @@
         "protocol_id": 13
       },
       "minecraft:axolotl/variant": {
-        "protocol_id": 90
+        "protocol_id": 91
       },
       "minecraft:banner_patterns": {
         "protocol_id": 63
@@ -5059,16 +5059,16 @@
         "protocol_id": 11
       },
       "minecraft:cat/collar": {
-        "protocol_id": 92
+        "protocol_id": 93
       },
       "minecraft:cat/variant": {
-        "protocol_id": 91
+        "protocol_id": 92
       },
       "minecraft:charged_projectiles": {
         "protocol_id": 40
       },
       "minecraft:chicken/variant": {
-        "protocol_id": 85
+        "protocol_id": 86
       },
       "minecraft:consumable": {
         "protocol_id": 21
@@ -5080,7 +5080,7 @@
         "protocol_id": 70
       },
       "minecraft:cow/variant": {
-        "protocol_id": 84
+        "protocol_id": 85
       },
       "minecraft:creative_slot_lock": {
         "protocol_id": 17
@@ -5134,16 +5134,16 @@
         "protocol_id": 20
       },
       "minecraft:fox/variant": {
-        "protocol_id": 75
+        "protocol_id": 76
       },
       "minecraft:frog/variant": {
-        "protocol_id": 86
+        "protocol_id": 87
       },
       "minecraft:glider": {
         "protocol_id": 30
       },
       "minecraft:horse/variant": {
-        "protocol_id": 87
+        "protocol_id": 88
       },
       "minecraft:instrument": {
         "protocol_id": 52
@@ -5161,7 +5161,7 @@
         "protocol_id": 55
       },
       "minecraft:llama/variant": {
-        "protocol_id": 89
+        "protocol_id": 90
       },
       "minecraft:lock": {
         "protocol_id": 69
@@ -5191,7 +5191,7 @@
         "protocol_id": 1
       },
       "minecraft:mooshroom/variant": {
-        "protocol_id": 81
+        "protocol_id": 82
       },
       "minecraft:note_block_sound": {
         "protocol_id": 62
@@ -5200,13 +5200,13 @@
         "protocol_id": 54
       },
       "minecraft:painting/variant": {
-        "protocol_id": 88
+        "protocol_id": 89
       },
       "minecraft:parrot/variant": {
-        "protocol_id": 77
+        "protocol_id": 78
       },
       "minecraft:pig/variant": {
-        "protocol_id": 83
+        "protocol_id": 84
       },
       "minecraft:pot_decorations": {
         "protocol_id": 65
@@ -5227,7 +5227,7 @@
         "protocol_id": 53
       },
       "minecraft:rabbit/variant": {
-        "protocol_id": 82
+        "protocol_id": 83
       },
       "minecraft:rarity": {
         "protocol_id": 9
@@ -5242,13 +5242,13 @@
         "protocol_id": 29
       },
       "minecraft:salmon/size": {
-        "protocol_id": 76
+        "protocol_id": 77
       },
       "minecraft:sheep/color": {
-        "protocol_id": 93
+        "protocol_id": 94
       },
       "minecraft:shulker/color": {
-        "protocol_id": 94
+        "protocol_id": 95
       },
       "minecraft:stored_enchantments": {
         "protocol_id": 34
@@ -5269,13 +5269,13 @@
         "protocol_id": 47
       },
       "minecraft:tropical_fish/base_color": {
-        "protocol_id": 79
+        "protocol_id": 80
       },
       "minecraft:tropical_fish/pattern": {
-        "protocol_id": 78
+        "protocol_id": 79
       },
       "minecraft:tropical_fish/pattern_color": {
-        "protocol_id": 80
+        "protocol_id": 81
       },
       "minecraft:unbreakable": {
         "protocol_id": 4
@@ -5293,6 +5293,9 @@
         "protocol_id": 26
       },
       "minecraft:wolf/collar": {
+        "protocol_id": 75
+      },
+      "minecraft:wolf/sound_variant": {
         "protocol_id": 74
       },
       "minecraft:wolf/variant": {
@@ -14720,58 +14723,58 @@
         "protocol_id": 1585
       },
       "minecraft:block.wood.break": {
-        "protocol_id": 1625
+        "protocol_id": 1660
       },
       "minecraft:block.wood.fall": {
-        "protocol_id": 1626
+        "protocol_id": 1661
       },
       "minecraft:block.wood.hit": {
-        "protocol_id": 1627
+        "protocol_id": 1662
       },
       "minecraft:block.wood.place": {
-        "protocol_id": 1628
+        "protocol_id": 1663
       },
       "minecraft:block.wood.step": {
-        "protocol_id": 1629
+        "protocol_id": 1664
       },
       "minecraft:block.wooden_button.click_off": {
-        "protocol_id": 1621
+        "protocol_id": 1656
       },
       "minecraft:block.wooden_button.click_on": {
-        "protocol_id": 1622
+        "protocol_id": 1657
       },
       "minecraft:block.wooden_door.close": {
-        "protocol_id": 1617
+        "protocol_id": 1652
       },
       "minecraft:block.wooden_door.open": {
-        "protocol_id": 1618
+        "protocol_id": 1653
       },
       "minecraft:block.wooden_pressure_plate.click_off": {
-        "protocol_id": 1623
+        "protocol_id": 1658
       },
       "minecraft:block.wooden_pressure_plate.click_on": {
-        "protocol_id": 1624
+        "protocol_id": 1659
       },
       "minecraft:block.wooden_trapdoor.close": {
-        "protocol_id": 1619
+        "protocol_id": 1654
       },
       "minecraft:block.wooden_trapdoor.open": {
-        "protocol_id": 1620
+        "protocol_id": 1655
       },
       "minecraft:block.wool.break": {
-        "protocol_id": 1630
+        "protocol_id": 1665
       },
       "minecraft:block.wool.fall": {
-        "protocol_id": 1631
+        "protocol_id": 1666
       },
       "minecraft:block.wool.hit": {
-        "protocol_id": 1632
+        "protocol_id": 1667
       },
       "minecraft:block.wool.place": {
-        "protocol_id": 1633
+        "protocol_id": 1668
       },
       "minecraft:block.wool.step": {
-        "protocol_id": 1634
+        "protocol_id": 1669
       },
       "minecraft:enchant.thorns.hit": {
         "protocol_id": 1437
@@ -16802,127 +16805,232 @@
         "protocol_id": 1602
       },
       "minecraft:entity.wolf.ambient": {
-        "protocol_id": 1608
-      },
-      "minecraft:entity.wolf.death": {
-        "protocol_id": 1609
-      },
-      "minecraft:entity.wolf.growl": {
         "protocol_id": 1610
       },
-      "minecraft:entity.wolf.howl": {
+      "minecraft:entity.wolf.death": {
         "protocol_id": 1611
       },
-      "minecraft:entity.wolf.hurt": {
+      "minecraft:entity.wolf.growl": {
         "protocol_id": 1612
       },
-      "minecraft:entity.wolf.pant": {
+      "minecraft:entity.wolf.hurt": {
         "protocol_id": 1613
       },
-      "minecraft:entity.wolf.shake": {
+      "minecraft:entity.wolf.pant": {
         "protocol_id": 1614
       },
+      "minecraft:entity.wolf.shake": {
+        "protocol_id": 1608
+      },
       "minecraft:entity.wolf.step": {
-        "protocol_id": 1615
+        "protocol_id": 1609
       },
       "minecraft:entity.wolf.whine": {
-        "protocol_id": 1616
+        "protocol_id": 1615
       },
-      "minecraft:entity.zoglin.ambient": {
-        "protocol_id": 1635
+      "minecraft:entity.wolf_angry.ambient": {
+        "protocol_id": 1628
       },
-      "minecraft:entity.zoglin.angry": {
-        "protocol_id": 1636
+      "minecraft:entity.wolf_angry.death": {
+        "protocol_id": 1629
       },
-      "minecraft:entity.zoglin.attack": {
-        "protocol_id": 1637
+      "minecraft:entity.wolf_angry.growl": {
+        "protocol_id": 1630
       },
-      "minecraft:entity.zoglin.death": {
-        "protocol_id": 1638
+      "minecraft:entity.wolf_angry.hurt": {
+        "protocol_id": 1631
       },
-      "minecraft:entity.zoglin.hurt": {
-        "protocol_id": 1639
+      "minecraft:entity.wolf_angry.pant": {
+        "protocol_id": 1632
       },
-      "minecraft:entity.zoglin.step": {
+      "minecraft:entity.wolf_angry.whine": {
+        "protocol_id": 1633
+      },
+      "minecraft:entity.wolf_big.ambient": {
         "protocol_id": 1640
       },
-      "minecraft:entity.zombie.ambient": {
+      "minecraft:entity.wolf_big.death": {
         "protocol_id": 1641
       },
-      "minecraft:entity.zombie.attack_iron_door": {
-        "protocol_id": 1643
-      },
-      "minecraft:entity.zombie.attack_wooden_door": {
+      "minecraft:entity.wolf_big.growl": {
         "protocol_id": 1642
       },
-      "minecraft:entity.zombie.break_wooden_door": {
+      "minecraft:entity.wolf_big.hurt": {
+        "protocol_id": 1643
+      },
+      "minecraft:entity.wolf_big.pant": {
         "protocol_id": 1644
       },
-      "minecraft:entity.zombie.converted_to_drowned": {
+      "minecraft:entity.wolf_big.whine": {
         "protocol_id": 1645
       },
-      "minecraft:entity.zombie.death": {
+      "minecraft:entity.wolf_cute.ambient": {
         "protocol_id": 1646
       },
-      "minecraft:entity.zombie.destroy_egg": {
+      "minecraft:entity.wolf_cute.death": {
         "protocol_id": 1647
       },
-      "minecraft:entity.zombie.hurt": {
-        "protocol_id": 1651
-      },
-      "minecraft:entity.zombie.infect": {
-        "protocol_id": 1652
-      },
-      "minecraft:entity.zombie.step": {
-        "protocol_id": 1657
-      },
-      "minecraft:entity.zombie_horse.ambient": {
+      "minecraft:entity.wolf_cute.growl": {
         "protocol_id": 1648
       },
-      "minecraft:entity.zombie_horse.death": {
+      "minecraft:entity.wolf_cute.hurt": {
         "protocol_id": 1649
       },
-      "minecraft:entity.zombie_horse.hurt": {
+      "minecraft:entity.wolf_cute.pant": {
         "protocol_id": 1650
       },
+      "minecraft:entity.wolf_cute.whine": {
+        "protocol_id": 1651
+      },
+      "minecraft:entity.wolf_grumpy.ambient": {
+        "protocol_id": 1634
+      },
+      "minecraft:entity.wolf_grumpy.death": {
+        "protocol_id": 1635
+      },
+      "minecraft:entity.wolf_grumpy.growl": {
+        "protocol_id": 1636
+      },
+      "minecraft:entity.wolf_grumpy.hurt": {
+        "protocol_id": 1637
+      },
+      "minecraft:entity.wolf_grumpy.pant": {
+        "protocol_id": 1638
+      },
+      "minecraft:entity.wolf_grumpy.whine": {
+        "protocol_id": 1639
+      },
+      "minecraft:entity.wolf_puglin.ambient": {
+        "protocol_id": 1616
+      },
+      "minecraft:entity.wolf_puglin.death": {
+        "protocol_id": 1617
+      },
+      "minecraft:entity.wolf_puglin.growl": {
+        "protocol_id": 1618
+      },
+      "minecraft:entity.wolf_puglin.hurt": {
+        "protocol_id": 1619
+      },
+      "minecraft:entity.wolf_puglin.pant": {
+        "protocol_id": 1620
+      },
+      "minecraft:entity.wolf_puglin.whine": {
+        "protocol_id": 1621
+      },
+      "minecraft:entity.wolf_sad.ambient": {
+        "protocol_id": 1622
+      },
+      "minecraft:entity.wolf_sad.death": {
+        "protocol_id": 1623
+      },
+      "minecraft:entity.wolf_sad.growl": {
+        "protocol_id": 1624
+      },
+      "minecraft:entity.wolf_sad.hurt": {
+        "protocol_id": 1625
+      },
+      "minecraft:entity.wolf_sad.pant": {
+        "protocol_id": 1626
+      },
+      "minecraft:entity.wolf_sad.whine": {
+        "protocol_id": 1627
+      },
+      "minecraft:entity.zoglin.ambient": {
+        "protocol_id": 1670
+      },
+      "minecraft:entity.zoglin.angry": {
+        "protocol_id": 1671
+      },
+      "minecraft:entity.zoglin.attack": {
+        "protocol_id": 1672
+      },
+      "minecraft:entity.zoglin.death": {
+        "protocol_id": 1673
+      },
+      "minecraft:entity.zoglin.hurt": {
+        "protocol_id": 1674
+      },
+      "minecraft:entity.zoglin.step": {
+        "protocol_id": 1675
+      },
+      "minecraft:entity.zombie.ambient": {
+        "protocol_id": 1676
+      },
+      "minecraft:entity.zombie.attack_iron_door": {
+        "protocol_id": 1678
+      },
+      "minecraft:entity.zombie.attack_wooden_door": {
+        "protocol_id": 1677
+      },
+      "minecraft:entity.zombie.break_wooden_door": {
+        "protocol_id": 1679
+      },
+      "minecraft:entity.zombie.converted_to_drowned": {
+        "protocol_id": 1680
+      },
+      "minecraft:entity.zombie.death": {
+        "protocol_id": 1681
+      },
+      "minecraft:entity.zombie.destroy_egg": {
+        "protocol_id": 1682
+      },
+      "minecraft:entity.zombie.hurt": {
+        "protocol_id": 1686
+      },
+      "minecraft:entity.zombie.infect": {
+        "protocol_id": 1687
+      },
+      "minecraft:entity.zombie.step": {
+        "protocol_id": 1692
+      },
+      "minecraft:entity.zombie_horse.ambient": {
+        "protocol_id": 1683
+      },
+      "minecraft:entity.zombie_horse.death": {
+        "protocol_id": 1684
+      },
+      "minecraft:entity.zombie_horse.hurt": {
+        "protocol_id": 1685
+      },
       "minecraft:entity.zombie_villager.ambient": {
-        "protocol_id": 1658
+        "protocol_id": 1693
       },
       "minecraft:entity.zombie_villager.converted": {
-        "protocol_id": 1659
+        "protocol_id": 1694
       },
       "minecraft:entity.zombie_villager.cure": {
-        "protocol_id": 1660
+        "protocol_id": 1695
       },
       "minecraft:entity.zombie_villager.death": {
-        "protocol_id": 1661
+        "protocol_id": 1696
       },
       "minecraft:entity.zombie_villager.hurt": {
-        "protocol_id": 1662
+        "protocol_id": 1697
       },
       "minecraft:entity.zombie_villager.step": {
-        "protocol_id": 1663
+        "protocol_id": 1698
       },
       "minecraft:entity.zombified_piglin.ambient": {
-        "protocol_id": 1653
+        "protocol_id": 1688
       },
       "minecraft:entity.zombified_piglin.angry": {
-        "protocol_id": 1654
+        "protocol_id": 1689
       },
       "minecraft:entity.zombified_piglin.death": {
-        "protocol_id": 1655
+        "protocol_id": 1690
       },
       "minecraft:entity.zombified_piglin.hurt": {
-        "protocol_id": 1656
+        "protocol_id": 1691
       },
       "minecraft:event.mob_effect.bad_omen": {
-        "protocol_id": 1664
+        "protocol_id": 1699
       },
       "minecraft:event.mob_effect.raid_omen": {
-        "protocol_id": 1666
+        "protocol_id": 1701
       },
       "minecraft:event.mob_effect.trial_omen": {
-        "protocol_id": 1665
+        "protocol_id": 1700
       },
       "minecraft:event.raid.horn": {
         "protocol_id": 1192
