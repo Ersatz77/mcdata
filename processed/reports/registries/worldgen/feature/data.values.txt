@@ -17,6 +17,7 @@ minecraft:end_gateway
 minecraft:end_island
 minecraft:end_platform
 minecraft:end_spike
+minecraft:fallen_tree
 minecraft:fill_layer
 minecraft:flower
 minecraft:forest_rock

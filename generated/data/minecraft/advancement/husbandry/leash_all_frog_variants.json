@@ -76,13 +76,13 @@
   },
   "requirements": [
     [
+      "minecraft:cold"
+    ],
+    [
       "minecraft:temperate"
     ],
     [
       "minecraft:warm"
-    ],
-    [
-      "minecraft:cold"
     ]
   ],
   "sends_telemetry_event": true
