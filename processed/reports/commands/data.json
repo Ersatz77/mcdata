@@ -7114,6 +7114,17 @@
           "executable": true,
           "type": "literal"
         },
+        "tntExplodes": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "tntExplosionDropDecay": {
           "children": {
             "value": {
