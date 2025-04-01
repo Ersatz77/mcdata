@@ -1700,3 +1700,9 @@ minecraft:ui.toast.in
 minecraft:ui.toast.out
 minecraft:weather.rain
 minecraft:weather.rain.above
+nothingtoseehere:and_action
+nothingtoseehere:crowd_cheer
+nothingtoseehere:crowd_start
+nothingtoseehere:crowd_waiting
+nothingtoseehere:ui.player_unlock_fail
+nothingtoseehere:ui.player_unlock_success

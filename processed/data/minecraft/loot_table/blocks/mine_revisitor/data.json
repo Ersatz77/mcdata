@@ -1,0 +1,21 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "name": "minecraft:mine_revisitor",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:blocks/mine_revisitor",
+  "type": "minecraft:block"
+}

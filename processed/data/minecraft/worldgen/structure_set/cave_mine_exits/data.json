@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "salt": 34432322,
+    "separation": 2,
+    "spacing": 8,
+    "type": "minecraft:random_spread"
+  },
+  "structures": [
+    {
+      "structure": "minecraft:cave_mine_exit",
+      "weight": 1
+    }
+  ]
+}

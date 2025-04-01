@@ -1,0 +1,9 @@
+minecraft:angry_ghast_boss
+minecraft:ender_dragon_boss
+minecraft:enderman_boss
+minecraft:kuiper_belt
+minecraft:raid
+minecraft:small_but_deadly_boss
+minecraft:spooky_scary_skeletons_boss
+minecraft:warden_boss
+minecraft:wither_boss

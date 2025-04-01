@@ -2,6 +2,7 @@
   "values": [
     "minecraft:debug",
     "minecraft:flat",
+    "minecraft:hub",
     "minecraft:noise"
   ]
 }

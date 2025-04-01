@@ -161,6 +161,9 @@
       "minecraft:change_difficulty": {
         "protocol_id": 10
       },
+      "minecraft:change_dimension_type": {
+        "protocol_id": 132
+      },
       "minecraft:chunk_batch_finished": {
         "protocol_id": 11
       },
@@ -204,7 +207,7 @@
         "protocol_id": 24
       },
       "minecraft:custom_report_details": {
-        "protocol_id": 129
+        "protocol_id": 133
       },
       "minecraft:damage_event": {
         "protocol_id": 25
@@ -287,239 +290,251 @@
       "minecraft:open_book": {
         "protocol_id": 51
       },
-      "minecraft:open_screen": {
-        "protocol_id": 52
-      },
-      "minecraft:open_sign_editor": {
-        "protocol_id": 53
-      },
-      "minecraft:ping": {
-        "protocol_id": 54
-      },
-      "minecraft:place_ghost_recipe": {
-        "protocol_id": 56
-      },
-      "minecraft:player_abilities": {
-        "protocol_id": 57
-      },
-      "minecraft:player_chat": {
-        "protocol_id": 58
-      },
-      "minecraft:player_combat_end": {
-        "protocol_id": 59
-      },
-      "minecraft:player_combat_enter": {
-        "protocol_id": 60
-      },
-      "minecraft:player_combat_kill": {
-        "protocol_id": 61
-      },
-      "minecraft:player_info_remove": {
-        "protocol_id": 62
-      },
-      "minecraft:player_info_update": {
-        "protocol_id": 63
-      },
-      "minecraft:player_look_at": {
-        "protocol_id": 64
-      },
-      "minecraft:player_position": {
-        "protocol_id": 65
-      },
-      "minecraft:player_rotation": {
-        "protocol_id": 66
-      },
-      "minecraft:pong_response": {
-        "protocol_id": 55
-      },
-      "minecraft:projectile_power": {
-        "protocol_id": 128
-      },
-      "minecraft:recipe_book_add": {
-        "protocol_id": 67
-      },
-      "minecraft:recipe_book_remove": {
-        "protocol_id": 68
-      },
-      "minecraft:recipe_book_settings": {
-        "protocol_id": 69
-      },
-      "minecraft:remove_entities": {
-        "protocol_id": 70
-      },
-      "minecraft:remove_mob_effect": {
-        "protocol_id": 71
-      },
-      "minecraft:reset_score": {
-        "protocol_id": 72
-      },
-      "minecraft:resource_pack_pop": {
-        "protocol_id": 73
-      },
-      "minecraft:resource_pack_push": {
-        "protocol_id": 74
-      },
-      "minecraft:respawn": {
-        "protocol_id": 75
-      },
-      "minecraft:rotate_head": {
-        "protocol_id": 76
-      },
-      "minecraft:section_blocks_update": {
-        "protocol_id": 77
-      },
-      "minecraft:select_advancements_tab": {
-        "protocol_id": 78
-      },
-      "minecraft:server_data": {
-        "protocol_id": 79
-      },
-      "minecraft:server_links": {
-        "protocol_id": 130
-      },
-      "minecraft:set_action_bar_text": {
-        "protocol_id": 80
-      },
-      "minecraft:set_border_center": {
-        "protocol_id": 81
-      },
-      "minecraft:set_border_lerp_size": {
-        "protocol_id": 82
-      },
-      "minecraft:set_border_size": {
-        "protocol_id": 83
-      },
-      "minecraft:set_border_warning_delay": {
-        "protocol_id": 84
-      },
-      "minecraft:set_border_warning_distance": {
-        "protocol_id": 85
-      },
-      "minecraft:set_camera": {
-        "protocol_id": 86
-      },
-      "minecraft:set_chunk_cache_center": {
-        "protocol_id": 87
-      },
-      "minecraft:set_chunk_cache_radius": {
-        "protocol_id": 88
-      },
-      "minecraft:set_cursor_item": {
-        "protocol_id": 89
-      },
-      "minecraft:set_default_spawn_position": {
-        "protocol_id": 90
-      },
-      "minecraft:set_display_objective": {
-        "protocol_id": 91
-      },
-      "minecraft:set_entity_data": {
-        "protocol_id": 92
-      },
-      "minecraft:set_entity_link": {
-        "protocol_id": 93
-      },
-      "minecraft:set_entity_motion": {
-        "protocol_id": 94
-      },
-      "minecraft:set_equipment": {
-        "protocol_id": 95
-      },
-      "minecraft:set_experience": {
-        "protocol_id": 96
-      },
-      "minecraft:set_health": {
-        "protocol_id": 97
-      },
-      "minecraft:set_held_slot": {
-        "protocol_id": 98
-      },
-      "minecraft:set_objective": {
-        "protocol_id": 99
-      },
-      "minecraft:set_passengers": {
-        "protocol_id": 100
-      },
-      "minecraft:set_player_inventory": {
-        "protocol_id": 101
-      },
-      "minecraft:set_player_team": {
-        "protocol_id": 102
-      },
-      "minecraft:set_score": {
-        "protocol_id": 103
-      },
-      "minecraft:set_simulation_distance": {
-        "protocol_id": 104
-      },
-      "minecraft:set_subtitle_text": {
-        "protocol_id": 105
-      },
-      "minecraft:set_time": {
-        "protocol_id": 106
-      },
-      "minecraft:set_title_text": {
-        "protocol_id": 107
-      },
-      "minecraft:set_titles_animation": {
-        "protocol_id": 108
-      },
-      "minecraft:sound": {
-        "protocol_id": 110
-      },
-      "minecraft:sound_entity": {
-        "protocol_id": 109
-      },
-      "minecraft:start_configuration": {
-        "protocol_id": 111
-      },
-      "minecraft:stop_sound": {
-        "protocol_id": 112
-      },
-      "minecraft:store_cookie": {
-        "protocol_id": 113
-      },
-      "minecraft:system_chat": {
-        "protocol_id": 114
-      },
-      "minecraft:tab_list": {
-        "protocol_id": 115
-      },
-      "minecraft:tag_query": {
+      "minecraft:open_door_packet": {
         "protocol_id": 116
       },
-      "minecraft:take_item_entity": {
+      "minecraft:open_sign_editor": {
+        "protocol_id": 54
+      },
+      "minecraft:open_window": {
+        "protocol_id": 52
+      },
+      "minecraft:ping": {
+        "protocol_id": 55
+      },
+      "minecraft:place_ghost_recipe": {
+        "protocol_id": 57
+      },
+      "minecraft:player_abilities": {
+        "protocol_id": 58
+      },
+      "minecraft:player_chat": {
+        "protocol_id": 59
+      },
+      "minecraft:player_combat_end": {
+        "protocol_id": 60
+      },
+      "minecraft:player_combat_enter": {
+        "protocol_id": 61
+      },
+      "minecraft:player_combat_kill": {
+        "protocol_id": 62
+      },
+      "minecraft:player_info_remove": {
+        "protocol_id": 63
+      },
+      "minecraft:player_info_update": {
+        "protocol_id": 64
+      },
+      "minecraft:player_look_at": {
+        "protocol_id": 65
+      },
+      "minecraft:player_position": {
+        "protocol_id": 66
+      },
+      "minecraft:player_rotation": {
+        "protocol_id": 67
+      },
+      "minecraft:player_unlocks": {
+        "protocol_id": 135
+      },
+      "minecraft:pong_response": {
+        "protocol_id": 56
+      },
+      "minecraft:projectile_power": {
+        "protocol_id": 131
+      },
+      "minecraft:recipe_book_add": {
+        "protocol_id": 68
+      },
+      "minecraft:recipe_book_remove": {
+        "protocol_id": 69
+      },
+      "minecraft:recipe_book_settings": {
+        "protocol_id": 70
+      },
+      "minecraft:remove_entities": {
+        "protocol_id": 71
+      },
+      "minecraft:remove_mob_effect": {
+        "protocol_id": 72
+      },
+      "minecraft:reset_score": {
+        "protocol_id": 73
+      },
+      "minecraft:resource_pack_pop": {
+        "protocol_id": 74
+      },
+      "minecraft:resource_pack_push": {
+        "protocol_id": 75
+      },
+      "minecraft:respawn": {
+        "protocol_id": 76
+      },
+      "minecraft:rotate_head": {
+        "protocol_id": 78
+      },
+      "minecraft:section_blocks_update": {
+        "protocol_id": 79
+      },
+      "minecraft:select_advancements_tab": {
+        "protocol_id": 80
+      },
+      "minecraft:server_data": {
+        "protocol_id": 81
+      },
+      "minecraft:server_links": {
+        "protocol_id": 134
+      },
+      "minecraft:set_action_bar_text": {
+        "protocol_id": 82
+      },
+      "minecraft:set_border_center": {
+        "protocol_id": 83
+      },
+      "minecraft:set_border_lerp_size": {
+        "protocol_id": 84
+      },
+      "minecraft:set_border_size": {
+        "protocol_id": 85
+      },
+      "minecraft:set_border_warning_delay": {
+        "protocol_id": 86
+      },
+      "minecraft:set_border_warning_distance": {
+        "protocol_id": 87
+      },
+      "minecraft:set_camera": {
+        "protocol_id": 88
+      },
+      "minecraft:set_chunk_cache_center": {
+        "protocol_id": 89
+      },
+      "minecraft:set_chunk_cache_radius": {
+        "protocol_id": 90
+      },
+      "minecraft:set_cursor_item": {
+        "protocol_id": 91
+      },
+      "minecraft:set_default_spawn_position": {
+        "protocol_id": 92
+      },
+      "minecraft:set_display_objective": {
+        "protocol_id": 93
+      },
+      "minecraft:set_entity_data": {
+        "protocol_id": 94
+      },
+      "minecraft:set_entity_link": {
+        "protocol_id": 95
+      },
+      "minecraft:set_entity_motion": {
+        "protocol_id": 96
+      },
+      "minecraft:set_equipment": {
+        "protocol_id": 97
+      },
+      "minecraft:set_experience": {
+        "protocol_id": 98
+      },
+      "minecraft:set_health": {
+        "protocol_id": 99
+      },
+      "minecraft:set_held_slot": {
+        "protocol_id": 100
+      },
+      "minecraft:set_objective": {
+        "protocol_id": 101
+      },
+      "minecraft:set_passengers": {
+        "protocol_id": 102
+      },
+      "minecraft:set_player_inventory": {
+        "protocol_id": 103
+      },
+      "minecraft:set_player_team": {
+        "protocol_id": 104
+      },
+      "minecraft:set_score": {
+        "protocol_id": 105
+      },
+      "minecraft:set_simulation_distance": {
+        "protocol_id": 106
+      },
+      "minecraft:set_subtitle_text": {
+        "protocol_id": 107
+      },
+      "minecraft:set_time": {
+        "protocol_id": 108
+      },
+      "minecraft:set_title_text": {
+        "protocol_id": 109
+      },
+      "minecraft:set_titles_animation": {
+        "protocol_id": 110
+      },
+      "minecraft:sound": {
+        "protocol_id": 112
+      },
+      "minecraft:sound_entity": {
+        "protocol_id": 111
+      },
+      "minecraft:start_configuration": {
+        "protocol_id": 113
+      },
+      "minecraft:stop_sound": {
+        "protocol_id": 114
+      },
+      "minecraft:store_cookie": {
+        "protocol_id": 115
+      },
+      "minecraft:system_chat": {
         "protocol_id": 117
       },
-      "minecraft:teleport_entity": {
+      "minecraft:tab_list": {
         "protocol_id": 118
       },
-      "minecraft:test_instance_block_status": {
+      "minecraft:tag_query": {
         "protocol_id": 119
       },
-      "minecraft:ticking_state": {
+      "minecraft:take_item_entity": {
         "protocol_id": 120
       },
-      "minecraft:ticking_step": {
+      "minecraft:teleport_entity": {
         "protocol_id": 121
       },
-      "minecraft:transfer": {
+      "minecraft:test_instance_block_status": {
         "protocol_id": 122
       },
-      "minecraft:update_advancements": {
+      "minecraft:ticking_state": {
         "protocol_id": 123
       },
-      "minecraft:update_attributes": {
+      "minecraft:ticking_step": {
         "protocol_id": 124
       },
-      "minecraft:update_mob_effect": {
+      "minecraft:transfer": {
         "protocol_id": 125
       },
-      "minecraft:update_recipes": {
+      "minecraft:update_advancements": {
         "protocol_id": 126
       },
-      "minecraft:update_tags": {
+      "minecraft:update_attributes": {
         "protocol_id": 127
+      },
+      "minecraft:update_mob_effect": {
+        "protocol_id": 128
+      },
+      "minecraft:update_recipes": {
+        "protocol_id": 129
+      },
+      "minecraft:update_screen": {
+        "protocol_id": 53
+      },
+      "minecraft:update_tags": {
+        "protocol_id": 130
+      },
+      "minecraft:update_unlocked_effects": {
+        "protocol_id": 77
       }
     },
     "serverbound": {
@@ -557,163 +572,172 @@
         "protocol_id": 10
       },
       "minecraft:client_information": {
-        "protocol_id": 12
+        "protocol_id": 13
       },
       "minecraft:client_tick_end": {
         "protocol_id": 11
       },
       "minecraft:command_suggestion": {
-        "protocol_id": 13
-      },
-      "minecraft:configuration_acknowledged": {
         "protocol_id": 14
       },
-      "minecraft:container_button_click": {
+      "minecraft:configuration_acknowledged": {
         "protocol_id": 15
       },
-      "minecraft:container_click": {
+      "minecraft:container_button_click": {
         "protocol_id": 16
       },
-      "minecraft:container_close": {
+      "minecraft:container_click": {
         "protocol_id": 17
       },
-      "minecraft:container_slot_state_changed": {
+      "minecraft:container_close": {
         "protocol_id": 18
       },
-      "minecraft:cookie_response": {
+      "minecraft:container_slot_state_changed": {
         "protocol_id": 19
       },
-      "minecraft:custom_payload": {
+      "minecraft:cookie_response": {
         "protocol_id": 20
       },
-      "minecraft:debug_sample_subscription": {
+      "minecraft:custom_payload": {
         "protocol_id": 21
       },
-      "minecraft:edit_book": {
+      "minecraft:debug_sample_subscription": {
         "protocol_id": 22
       },
-      "minecraft:entity_tag_query": {
+      "minecraft:edit_book": {
         "protocol_id": 23
       },
-      "minecraft:interact": {
+      "minecraft:entity_tag_query": {
         "protocol_id": 24
       },
-      "minecraft:jigsaw_generate": {
+      "minecraft:interact": {
         "protocol_id": 25
       },
-      "minecraft:keep_alive": {
+      "minecraft:jigsaw_generate": {
         "protocol_id": 26
       },
-      "minecraft:lock_difficulty": {
+      "minecraft:keep_alive": {
         "protocol_id": 27
       },
-      "minecraft:move_player_pos": {
+      "minecraft:lock_difficulty": {
         "protocol_id": 28
       },
-      "minecraft:move_player_pos_rot": {
+      "minecraft:move_player_pos": {
         "protocol_id": 29
       },
-      "minecraft:move_player_rot": {
+      "minecraft:move_player_pos_rot": {
         "protocol_id": 30
       },
-      "minecraft:move_player_status_only": {
+      "minecraft:move_player_rot": {
         "protocol_id": 31
       },
-      "minecraft:move_vehicle": {
+      "minecraft:move_player_status_only": {
         "protocol_id": 32
       },
-      "minecraft:paddle_boat": {
+      "minecraft:move_vehicle": {
         "protocol_id": 33
       },
-      "minecraft:pick_item_from_block": {
+      "minecraft:paddle_boat": {
         "protocol_id": 34
       },
-      "minecraft:pick_item_from_entity": {
+      "minecraft:pick_item_from_block": {
         "protocol_id": 35
       },
-      "minecraft:ping_request": {
+      "minecraft:pick_item_from_entity": {
         "protocol_id": 36
       },
-      "minecraft:place_recipe": {
+      "minecraft:ping_request": {
         "protocol_id": 37
       },
-      "minecraft:player_abilities": {
+      "minecraft:place_recipe": {
         "protocol_id": 38
       },
-      "minecraft:player_action": {
+      "minecraft:player_abilities": {
         "protocol_id": 39
       },
-      "minecraft:player_command": {
+      "minecraft:player_action": {
         "protocol_id": 40
       },
-      "minecraft:player_input": {
-        "protocol_id": 41
-      },
-      "minecraft:player_loaded": {
-        "protocol_id": 42
-      },
-      "minecraft:pong": {
-        "protocol_id": 43
-      },
-      "minecraft:recipe_book_change_settings": {
+      "minecraft:player_buy_unlock": {
         "protocol_id": 44
       },
-      "minecraft:recipe_book_seen_recipe": {
+      "minecraft:player_command": {
+        "protocol_id": 41
+      },
+      "minecraft:player_donate_experience": {
+        "protocol_id": 12
+      },
+      "minecraft:player_input": {
+        "protocol_id": 42
+      },
+      "minecraft:player_loaded": {
+        "protocol_id": 43
+      },
+      "minecraft:player_reactivate_unlock": {
         "protocol_id": 45
       },
-      "minecraft:rename_item": {
+      "minecraft:pong": {
         "protocol_id": 46
       },
-      "minecraft:resource_pack": {
+      "minecraft:recipe_book_change_settings": {
         "protocol_id": 47
       },
-      "minecraft:seen_advancements": {
+      "minecraft:recipe_book_seen_recipe": {
         "protocol_id": 48
       },
-      "minecraft:select_trade": {
+      "minecraft:rename_item": {
         "protocol_id": 49
       },
-      "minecraft:set_beacon": {
+      "minecraft:resource_pack": {
         "protocol_id": 50
       },
-      "minecraft:set_carried_item": {
+      "minecraft:seen_advancements": {
         "protocol_id": 51
       },
-      "minecraft:set_command_block": {
+      "minecraft:select_trade": {
         "protocol_id": 52
       },
-      "minecraft:set_command_minecart": {
+      "minecraft:set_beacon": {
         "protocol_id": 53
       },
-      "minecraft:set_creative_mode_slot": {
+      "minecraft:set_carried_item": {
         "protocol_id": 54
       },
-      "minecraft:set_jigsaw_block": {
+      "minecraft:set_command_block": {
         "protocol_id": 55
       },
-      "minecraft:set_structure_block": {
+      "minecraft:set_command_minecart": {
         "protocol_id": 56
       },
-      "minecraft:set_test_block": {
+      "minecraft:set_creative_mode_slot": {
         "protocol_id": 57
       },
-      "minecraft:sign_update": {
+      "minecraft:set_jigsaw_block": {
         "protocol_id": 58
       },
-      "minecraft:swing": {
+      "minecraft:set_structure_block": {
         "protocol_id": 59
       },
-      "minecraft:teleport_to_entity": {
+      "minecraft:set_test_block": {
         "protocol_id": 60
       },
-      "minecraft:test_instance_block_action": {
+      "minecraft:sign_update": {
         "protocol_id": 61
       },
-      "minecraft:use_item": {
+      "minecraft:swing": {
+        "protocol_id": 62
+      },
+      "minecraft:teleport_to_entity": {
         "protocol_id": 63
       },
+      "minecraft:test_instance_block_action": {
+        "protocol_id": 64
+      },
+      "minecraft:use_item": {
+        "protocol_id": 66
+      },
       "minecraft:use_item_on": {
-        "protocol_id": 62
+        "protocol_id": 65
       }
     }
   },

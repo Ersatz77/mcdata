@@ -1,3 +1,4 @@
+minecraft:acting_stage
 minecraft:admiring_disabled
 minecraft:admiring_item
 minecraft:angry_at

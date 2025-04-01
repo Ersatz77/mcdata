@@ -1,0 +1,64 @@
+{
+  "biomes": [
+    {
+      "biome": "minecraft:the_end",
+      "parameters": {
+        "continentalness": 0.0,
+        "depth": 0.0,
+        "erosion": 0.0,
+        "humidity": 0.0,
+        "offset": 0.0,
+        "temperature": 0.0,
+        "weirdness": 0.5
+      }
+    },
+    {
+      "biome": "minecraft:end_barrens",
+      "parameters": {
+        "continentalness": 0.0,
+        "depth": 0.0,
+        "erosion": 0.0,
+        "humidity": -0.5,
+        "offset": 0.0,
+        "temperature": 0.0,
+        "weirdness": 0.5
+      }
+    },
+    {
+      "biome": "minecraft:end_midlands",
+      "parameters": {
+        "continentalness": 0.0,
+        "depth": 0.0,
+        "erosion": 0.0,
+        "humidity": 0.0,
+        "offset": 0.0,
+        "temperature": 0.4,
+        "weirdness": 0.5
+      }
+    },
+    {
+      "biome": "minecraft:small_end_islands",
+      "parameters": {
+        "continentalness": 0.0,
+        "depth": 0.0,
+        "erosion": 0.0,
+        "humidity": 0.5,
+        "offset": 0.375,
+        "temperature": 0.0,
+        "weirdness": 0.5
+      }
+    },
+    {
+      "biome": "minecraft:end_highlands",
+      "parameters": {
+        "continentalness": 0.0,
+        "depth": 0.0,
+        "erosion": 0.0,
+        "humidity": 0.0,
+        "offset": 0.175,
+        "temperature": -0.5,
+        "weirdness": 0.5
+      }
+    }
+  ]
+}

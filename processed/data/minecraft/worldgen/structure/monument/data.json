@@ -1,5 +1,6 @@
 {
   "biomes": "#minecraft:has_structure/ocean_monument",
+  "required_exit_type": "none",
   "spawn_overrides": {
     "axolotls": {
       "bounding_box": "full",

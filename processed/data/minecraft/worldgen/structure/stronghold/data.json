@@ -1,5 +1,6 @@
 {
   "biomes": "#minecraft:has_structure/stronghold",
+  "required_exit_type": "none",
   "spawn_overrides": {},
   "step": "surface_structures",
   "terrain_adaptation": "bury",

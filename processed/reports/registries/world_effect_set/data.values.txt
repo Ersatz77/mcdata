@@ -1,0 +1,6 @@
+minecraft:base_stone
+minecraft:biome
+minecraft:exits
+minecraft:hostile_mobs
+minecraft:passive_mobs
+minecraft:world_type

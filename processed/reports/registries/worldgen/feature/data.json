@@ -42,6 +42,7 @@
     "minecraft:no_bonemeal_flower",
     "minecraft:no_op",
     "minecraft:ore",
+    "minecraft:place_template",
     "minecraft:pointed_dripstone",
     "minecraft:random_boolean_selector",
     "minecraft:random_patch",

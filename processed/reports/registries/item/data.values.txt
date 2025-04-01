@@ -409,6 +409,7 @@ minecraft:diamond_ore
 minecraft:diamond_pickaxe
 minecraft:diamond_shovel
 minecraft:diamond_sword
+minecraft:dimension_control
 minecraft:diorite
 minecraft:diorite_slab
 minecraft:diorite_stairs
@@ -439,7 +440,6 @@ minecraft:enchanted_book
 minecraft:enchanted_golden_apple
 minecraft:enchanting_table
 minecraft:end_crystal
-minecraft:end_portal_frame
 minecraft:end_rod
 minecraft:end_stone
 minecraft:end_stone_brick_slab
@@ -448,11 +448,11 @@ minecraft:end_stone_brick_wall
 minecraft:end_stone_bricks
 minecraft:ender_chest
 minecraft:ender_dragon_spawn_egg
-minecraft:ender_eye
 minecraft:ender_pearl
 minecraft:enderman_spawn_egg
 minecraft:endermite_spawn_egg
 minecraft:evoker_spawn_egg
+minecraft:exit_eye
 minecraft:experience_bottle
 minecraft:explorer_pottery_sherd
 minecraft:exposed_chiseled_copper
@@ -475,6 +475,7 @@ minecraft:fire_charge
 minecraft:fire_coral
 minecraft:fire_coral_block
 minecraft:fire_coral_fan
+minecraft:fire_wand
 minecraft:firefly_bush
 minecraft:firework_rocket
 minecraft:firework_star
@@ -533,6 +534,7 @@ minecraft:granite_slab
 minecraft:granite_stairs
 minecraft:granite_wall
 minecraft:grass_block
+minecraft:grave_advancement
 minecraft:gravel
 minecraft:gray_banner
 minecraft:gray_bed
@@ -750,8 +752,13 @@ minecraft:melon
 minecraft:melon_seeds
 minecraft:melon_slice
 minecraft:milk_bucket
+minecraft:mine
+minecraft:mine_crafter
+minecraft:mine_ingredient
+minecraft:mine_revisitor
 minecraft:minecart
 minecraft:miner_pottery_sherd
+minecraft:mob_trophy
 minecraft:mojang_banner_pattern
 minecraft:mooshroom_spawn_egg
 minecraft:moss_block
@@ -777,6 +784,7 @@ minecraft:mushroom_stew
 minecraft:music_disc_11
 minecraft:music_disc_13
 minecraft:music_disc_5
+minecraft:music_disc_and_action
 minecraft:music_disc_blocks
 minecraft:music_disc_cat
 minecraft:music_disc_chirp
@@ -1092,11 +1100,14 @@ minecraft:sea_pickle
 minecraft:seagrass
 minecraft:sentry_armor_trim_smithing_template
 minecraft:shaper_armor_trim_smithing_template
+minecraft:shazboots
 minecraft:sheaf_pottery_sherd
 minecraft:shears
 minecraft:sheep_spawn_egg
 minecraft:shelter_pottery_sherd
 minecraft:shield
+minecraft:shimmering_door
+minecraft:shimmering_key
 minecraft:short_dry_grass
 minecraft:short_grass
 minecraft:shroomlight
@@ -1110,6 +1121,8 @@ minecraft:skeleton_skull
 minecraft:skeleton_spawn_egg
 minecraft:skull_banner_pattern
 minecraft:skull_pottery_sherd
+minecraft:sky
+minecraft:sky_box
 minecraft:slime_ball
 minecraft:slime_block
 minecraft:slime_spawn_egg
@@ -1226,6 +1239,7 @@ minecraft:tadpole_spawn_egg
 minecraft:tall_dry_grass
 minecraft:tall_grass
 minecraft:target
+minecraft:teleportation_wand
 minecraft:terracotta
 minecraft:test_block
 minecraft:test_instance_block
@@ -1244,6 +1258,7 @@ minecraft:trial_key
 minecraft:trial_spawner
 minecraft:trident
 minecraft:tripwire_hook
+minecraft:trophy
 minecraft:tropical_fish
 minecraft:tropical_fish_bucket
 minecraft:tropical_fish_spawn_egg
@@ -1360,6 +1375,7 @@ minecraft:white_wool
 minecraft:wild_armor_trim_smithing_template
 minecraft:wildflowers
 minecraft:wind_charge
+minecraft:wind_wand
 minecraft:witch_spawn_egg
 minecraft:wither_rose
 minecraft:wither_skeleton_skull

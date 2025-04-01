@@ -1,0 +1,9 @@
+{
+  "config": {
+    "forced_rotation": "clockwise_90",
+    "template": [
+      "minecraft:mines/space_igloo"
+    ]
+  },
+  "type": "minecraft:place_template"
+}

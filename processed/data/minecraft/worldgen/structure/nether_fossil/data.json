@@ -9,6 +9,7 @@
     },
     "type": "minecraft:uniform"
   },
+  "required_exit_type": "none",
   "spawn_overrides": {},
   "step": "underground_decoration",
   "terrain_adaptation": "beard_thin",

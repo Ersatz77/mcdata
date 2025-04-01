@@ -67,6 +67,7 @@ minecraft:crying_obsidian
 minecraft:daylight_detector
 minecraft:decorated_pot
 minecraft:detector_rail
+minecraft:dimension_control
 minecraft:dirt_path
 minecraft:dispenser
 minecraft:door
@@ -77,8 +78,6 @@ minecraft:dropper
 minecraft:dry_vegetation
 minecraft:enchantment_table
 minecraft:end_gateway
-minecraft:end_portal
-minecraft:end_portal_frame
 minecraft:end_rod
 minecraft:ender_chest
 minecraft:eyeblossom
@@ -131,6 +130,10 @@ minecraft:magma
 minecraft:mangrove_leaves
 minecraft:mangrove_propagule
 minecraft:mangrove_roots
+minecraft:mine_crafter
+minecraft:mine_revisitor_block
+minecraft:mine_travelling_block
+minecraft:mob_trophy
 minecraft:mossy_carpet
 minecraft:moving_piston
 minecraft:mud
@@ -178,6 +181,7 @@ minecraft:sculk_shrieker
 minecraft:sculk_vein
 minecraft:sea_pickle
 minecraft:seagrass
+minecraft:shimmering_door
 minecraft:short_dry_grass
 minecraft:shulker_box
 minecraft:skull
@@ -223,6 +227,7 @@ minecraft:trapped_chest
 minecraft:trial_spawner
 minecraft:trip_wire_hook
 minecraft:tripwire
+minecraft:trophy
 minecraft:turtle_egg
 minecraft:twisting_vines
 minecraft:twisting_vines_plant
