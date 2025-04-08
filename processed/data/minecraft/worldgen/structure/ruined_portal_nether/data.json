@@ -1,6 +1,5 @@
 {
   "biomes": "#minecraft:has_structure/ruined_portal_nether",
-  "required_exit_type": "none",
   "setups": [
     {
       "air_pocket_probability": 0.5,

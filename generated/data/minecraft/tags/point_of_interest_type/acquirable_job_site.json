@@ -12,7 +12,6 @@
     "minecraft:mason",
     "minecraft:shepherd",
     "minecraft:toolsmith",
-    "minecraft:weaponsmith",
-    "minecraft:lodestone"
+    "minecraft:weaponsmith"
   ]
 }

@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "E": "minecraft:exit_eye",
+    "E": "minecraft:ender_eye",
     "G": "minecraft:glass",
     "T": "minecraft:ghast_tear"
   },

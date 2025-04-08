@@ -1,4 +1,3 @@
-minecraft:acting
 minecraft:admire_item
 minecraft:avoid
 minecraft:celebrate

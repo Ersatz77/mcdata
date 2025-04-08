@@ -5456,10 +5456,6 @@
     "default": {},
     "properties": {}
   },
-  "minecraft:dimension_control": {
-    "default": {},
-    "properties": {}
-  },
   "minecraft:diorite": {
     "default": {},
     "properties": {}
@@ -5632,6 +5628,31 @@
       ]
     }
   },
+  "minecraft:dried_ghast": {
+    "default": {
+      "facing": "north",
+      "hydration": "0",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "hydration": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:dried_kelp_block": {
     "default": {},
     "properties": {}
@@ -5675,6 +5696,28 @@
   "minecraft:end_gateway": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:end_portal": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:end_portal_frame": {
+    "default": {
+      "eye": "false",
+      "facing": "north"
+    },
+    "properties": {
+      "eye": [
+        "true",
+        "false"
+      ],
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ]
+    }
   },
   "minecraft:end_rod": {
     "default": {
@@ -8899,39 +8942,6 @@
         "5",
         "6",
         "7"
-      ]
-    }
-  },
-  "minecraft:mine_crafter": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:mine_revisitor": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:mine_travelling_block": {
-    "default": {},
-    "properties": {}
-  },
-  "minecraft:mob_trophy": {
-    "default": {
-      "facing": "north",
-      "grade": "grass"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "grade": [
-        "grass",
-        "stone",
-        "gold",
-        "diamond",
-        "netherite"
       ]
     }
   },
@@ -13459,39 +13469,6 @@
     "default": {},
     "properties": {}
   },
-  "minecraft:shimmering_door": {
-    "default": {
-      "facing": "north",
-      "half": "lower",
-      "hinge": "left",
-      "open": "false",
-      "powered": "false"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "half": [
-        "upper",
-        "lower"
-      ],
-      "hinge": [
-        "left",
-        "right"
-      ],
-      "open": [
-        "true",
-        "false"
-      ],
-      "powered": [
-        "true",
-        "false"
-      ]
-    }
-  },
   "minecraft:short_dry_grass": {
     "default": {},
     "properties": {}
@@ -13566,10 +13543,6 @@
         "false"
       ]
     }
-  },
-  "minecraft:sky": {
-    "default": {},
-    "properties": {}
   },
   "minecraft:slime_block": {
     "default": {},
@@ -15104,25 +15077,6 @@
       "powered": [
         "true",
         "false"
-      ]
-    }
-  },
-  "minecraft:trophy": {
-    "default": {
-      "facing": "north",
-      "type": "gold"
-    },
-    "properties": {
-      "facing": [
-        "north",
-        "south",
-        "west",
-        "east"
-      ],
-      "type": [
-        "gold",
-        "mega_spud",
-        "no_medal"
       ]
     }
   },

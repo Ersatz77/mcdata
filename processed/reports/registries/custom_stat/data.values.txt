@@ -22,6 +22,7 @@ minecraft:fall_one_cm
 minecraft:fill_cauldron
 minecraft:fish_caught
 minecraft:fly_one_cm
+minecraft:happy_ghast_one_cm
 minecraft:horse_one_cm
 minecraft:inspect_dispenser
 minecraft:inspect_dropper

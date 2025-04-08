@@ -26,7 +26,6 @@ minecraft:raid_omen
 minecraft:regeneration
 minecraft:resistance
 minecraft:saturation
-minecraft:shazboots
 minecraft:slow_falling
 minecraft:slowness
 minecraft:speed

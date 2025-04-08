@@ -313,7 +313,6 @@ minecraft:blocks/deepslate_tiles
 minecraft:blocks/detector_rail
 minecraft:blocks/diamond_block
 minecraft:blocks/diamond_ore
-minecraft:blocks/dimension_control
 minecraft:blocks/diorite
 minecraft:blocks/diorite_slab
 minecraft:blocks/diorite_stairs
@@ -323,6 +322,7 @@ minecraft:blocks/dirt_path
 minecraft:blocks/dispenser
 minecraft:blocks/dragon_egg
 minecraft:blocks/dragon_head
+minecraft:blocks/dried_ghast
 minecraft:blocks/dried_kelp_block
 minecraft:blocks/dripstone_block
 minecraft:blocks/dropper
@@ -530,9 +530,6 @@ minecraft:blocks/mangrove_wood
 minecraft:blocks/medium_amethyst_bud
 minecraft:blocks/melon
 minecraft:blocks/melon_stem
-minecraft:blocks/mine_crafter
-minecraft:blocks/mine_revisitor
-minecraft:blocks/mob_trophy
 minecraft:blocks/moss_block
 minecraft:blocks/moss_carpet
 minecraft:blocks/mossy_cobblestone
@@ -915,7 +912,6 @@ minecraft:blocks/trapped_chest
 minecraft:blocks/trial_spawner
 minecraft:blocks/tripwire
 minecraft:blocks/tripwire_hook
-minecraft:blocks/trophy
 minecraft:blocks/tube_coral
 minecraft:blocks/tube_coral_block
 minecraft:blocks/tube_coral_fan
@@ -1091,7 +1087,6 @@ minecraft:dispensers/trial_chambers/chamber
 minecraft:dispensers/trial_chambers/corridor
 minecraft:dispensers/trial_chambers/water
 minecraft:entities/allay
-minecraft:entities/angry_ghast
 minecraft:entities/armadillo
 minecraft:entities/armor_stand
 minecraft:entities/axolotl
@@ -1123,6 +1118,7 @@ minecraft:entities/giant
 minecraft:entities/glow_squid
 minecraft:entities/goat
 minecraft:entities/guardian
+minecraft:entities/happy_ghast
 minecraft:entities/hoglin
 minecraft:entities/horse
 minecraft:entities/husk
@@ -1135,20 +1131,6 @@ minecraft:entities/mule
 minecraft:entities/ocelot
 minecraft:entities/panda
 minecraft:entities/parrot
-minecraft:entities/pet_armadillo
-minecraft:entities/pet_axolotl
-minecraft:entities/pet_bee
-minecraft:entities/pet_cat
-minecraft:entities/pet_chicken
-minecraft:entities/pet_cow
-minecraft:entities/pet_creeper
-minecraft:entities/pet_fox
-minecraft:entities/pet_frog
-minecraft:entities/pet_mooshroom
-minecraft:entities/pet_polar_bear
-minecraft:entities/pet_slime
-minecraft:entities/pet_turtle
-minecraft:entities/pet_wolf
 minecraft:entities/phantom
 minecraft:entities/pig
 minecraft:entities/piglin
@@ -1233,9 +1215,7 @@ minecraft:gameplay/hero_of_the_village/unemployed_gift
 minecraft:gameplay/hero_of_the_village/weaponsmith_gift
 minecraft:gameplay/panda_sneeze
 minecraft:gameplay/piglin_bartering
-minecraft:gameplay/room_rewards
 minecraft:gameplay/sniffer_digging
-minecraft:mines/eat_your_veggies
 minecraft:pots/trial_chambers/corridor
 minecraft:shearing/bogged
 minecraft:shearing/mooshroom

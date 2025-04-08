@@ -1,6 +1,5 @@
 {
   "biomes": "#minecraft:has_structure/ruined_portal_swamp",
-  "required_exit_type": "none",
   "setups": [
     {
       "air_pocket_probability": 0.0,

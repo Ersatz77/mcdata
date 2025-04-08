@@ -279,11 +279,6 @@
       "stable": true,
       "tags": true
     },
-    "minecraft:mine_event_type": {
-      "elements": false,
-      "stable": true,
-      "tags": true
-    },
     "minecraft:mob_effect": {
       "elements": false,
       "stable": true,
@@ -307,11 +302,6 @@
     "minecraft:pig_variant": {
       "elements": true,
       "stable": false,
-      "tags": true
-    },
-    "minecraft:player_unlock": {
-      "elements": false,
-      "stable": true,
       "tags": true
     },
     "minecraft:point_of_interest_type": {
@@ -399,11 +389,6 @@
       "stable": true,
       "tags": true
     },
-    "minecraft:special_mine": {
-      "elements": false,
-      "stable": true,
-      "tags": true
-    },
     "minecraft:stat_type": {
       "elements": false,
       "stable": true,
@@ -477,16 +462,6 @@
     "minecraft:wolf_variant": {
       "elements": true,
       "stable": false,
-      "tags": true
-    },
-    "minecraft:world_effect": {
-      "elements": false,
-      "stable": true,
-      "tags": true
-    },
-    "minecraft:world_effect_set": {
-      "elements": false,
-      "stable": true,
       "tags": true
     },
     "minecraft:worldgen/biome": {

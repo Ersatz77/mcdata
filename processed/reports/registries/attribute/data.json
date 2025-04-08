@@ -8,8 +8,8 @@
     "minecraft:block_break_speed",
     "minecraft:block_interaction_range",
     "minecraft:burning_time",
+    "minecraft:camera_distance",
     "minecraft:entity_interaction_range",
-    "minecraft:experience_gain_modifier",
     "minecraft:explosion_knockback_resistance",
     "minecraft:fall_damage_multiplier",
     "minecraft:flying_speed",
@@ -20,12 +20,10 @@
     "minecraft:luck",
     "minecraft:max_absorption",
     "minecraft:max_health",
-    "minecraft:max_jumps",
     "minecraft:mining_efficiency",
     "minecraft:movement_efficiency",
     "minecraft:movement_speed",
     "minecraft:oxygen_bonus",
-    "minecraft:pickup_area_size",
     "minecraft:safe_fall_distance",
     "minecraft:scale",
     "minecraft:sneaking_speed",
@@ -34,6 +32,8 @@
     "minecraft:submerged_mining_speed",
     "minecraft:sweeping_damage_ratio",
     "minecraft:tempt_range",
-    "minecraft:water_movement_efficiency"
+    "minecraft:water_movement_efficiency",
+    "minecraft:waypoint_receive_range",
+    "minecraft:waypoint_transmit_range"
   ]
 }

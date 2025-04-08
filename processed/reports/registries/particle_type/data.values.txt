@@ -69,7 +69,6 @@ minecraft:landing_lava
 minecraft:landing_obsidian_tear
 minecraft:large_smoke
 minecraft:lava
-minecraft:mine_travel
 minecraft:mycelium
 minecraft:nautilus
 minecraft:note

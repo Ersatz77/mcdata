@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_exit_eye": {
+    "has_ender_eye": {
       "conditions": {
         "items": [
           {
-            "items": "minecraft:exit_eye"
+            "items": "minecraft:ender_eye"
           }
         ]
       },
@@ -21,7 +21,7 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_exit_eye"
+      "has_ender_eye"
     ]
   ],
   "rewards": {

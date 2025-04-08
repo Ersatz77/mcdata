@@ -5,7 +5,6 @@ minecraft:brewing_stand
 minecraft:cartography_table
 minecraft:crafter_3x3
 minecraft:crafting
-minecraft:dimension_control
 minecraft:enchantment
 minecraft:furnace
 minecraft:generic_3x3
@@ -19,7 +18,6 @@ minecraft:grindstone
 minecraft:hopper
 minecraft:lectern
 minecraft:loom
-minecraft:map_making
 minecraft:merchant
 minecraft:shulker_box
 minecraft:smithing

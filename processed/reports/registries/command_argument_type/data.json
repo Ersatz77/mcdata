@@ -21,6 +21,7 @@
     "minecraft:game_profile",
     "minecraft:gamemode",
     "minecraft:heightmap",
+    "minecraft:hex_color",
     "minecraft:int_range",
     "minecraft:item_predicate",
     "minecraft:item_slot",

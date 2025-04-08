@@ -1,6 +1,5 @@
 {
   "biomes": "#minecraft:has_structure/swamp_hut",
-  "required_exit_type": "none",
   "spawn_overrides": {
     "creature": {
       "bounding_box": "piece",
@@ -8,7 +7,7 @@
         {
           "maxCount": 1,
           "minCount": 1,
-          "type": "minecraft:pet_cat",
+          "type": "minecraft:cat",
           "weight": 1
         }
       ]

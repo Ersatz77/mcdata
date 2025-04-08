@@ -1,5 +1,4 @@
 minecraft:acacia_logs
-minecraft:amethyst_crystals
 minecraft:anvil
 minecraft:armadillo_food
 minecraft:arrows
@@ -20,7 +19,6 @@ minecraft:bundles
 minecraft:buttons
 minecraft:camel_food
 minecraft:candles
-minecraft:carry_over
 minecraft:cat_food
 minecraft:cherry_logs
 minecraft:chest_armor
@@ -82,13 +80,15 @@ minecraft:goat_food
 minecraft:gold_ores
 minecraft:gold_tool_materials
 minecraft:hanging_signs
+minecraft:happy_ghast_food
+minecraft:happy_ghast_tempt_items
+minecraft:harnesses
 minecraft:head_armor
 minecraft:hoes
 minecraft:hoglin_food
 minecraft:horse_food
 minecraft:horse_tempt_items
 minecraft:ignored_by_piglin_babies
-minecraft:ingot
 minecraft:iron_ores
 minecraft:iron_tool_materials
 minecraft:jungle_logs
@@ -108,7 +108,6 @@ minecraft:non_flammable_wood
 minecraft:noteblock_top_instruments
 minecraft:oak_logs
 minecraft:ocelot_food
-minecraft:ore
 minecraft:pale_oak_logs
 minecraft:panda_eats_from_ground
 minecraft:panda_food

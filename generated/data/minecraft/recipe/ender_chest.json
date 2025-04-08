@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": "minecraft:obsidian",
-    "E": "minecraft:exit_eye"
+    "E": "minecraft:ender_eye"
   },
   "pattern": [
     "###",

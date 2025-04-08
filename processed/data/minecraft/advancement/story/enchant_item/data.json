@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "enchanted_item": {
+      "trigger": "minecraft:enchanted_item"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.enchant_item.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:enchanted_book"
+    },
+    "title": {
+      "translate": "advancements.story.enchant_item.title"
+    }
+  },
+  "parent": "minecraft:story/mine_diamond",
+  "requirements": [
+    [
+      "enchanted_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

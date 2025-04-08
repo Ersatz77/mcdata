@@ -9,7 +9,7 @@
         "humidity": 0.0,
         "offset": 0.0,
         "temperature": 0.0,
-        "weirdness": -0.5
+        "weirdness": 0.0
       }
     },
     {
@@ -21,7 +21,7 @@
         "humidity": -0.5,
         "offset": 0.0,
         "temperature": 0.0,
-        "weirdness": -0.5
+        "weirdness": 0.0
       }
     },
     {
@@ -33,7 +33,7 @@
         "humidity": 0.0,
         "offset": 0.0,
         "temperature": 0.4,
-        "weirdness": -0.5
+        "weirdness": 0.0
       }
     },
     {
@@ -45,7 +45,7 @@
         "humidity": 0.5,
         "offset": 0.375,
         "temperature": 0.0,
-        "weirdness": -0.5
+        "weirdness": 0.0
       }
     },
     {
@@ -57,7 +57,7 @@
         "humidity": 0.0,
         "offset": 0.175,
         "temperature": -0.5,
-        "weirdness": -0.5
+        "weirdness": 0.0
       }
     }
   ]

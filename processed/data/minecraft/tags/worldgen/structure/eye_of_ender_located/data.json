@@ -1,7 +1,5 @@
 {
   "values": [
-    "minecraft:cave_mine_exit",
-    "minecraft:surface_mine_exit",
-    "minecraft:rare_surface_mine_exit"
+    "minecraft:stronghold"
   ]
 }

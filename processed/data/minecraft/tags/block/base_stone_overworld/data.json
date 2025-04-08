@@ -5,10 +5,6 @@
     "minecraft:diorite",
     "minecraft:andesite",
     "minecraft:tuff",
-    "minecraft:deepslate",
-    "minecraft:netherrack",
-    "minecraft:basalt",
-    "minecraft:blackstone",
-    "minecraft:end_stone"
+    "minecraft:deepslate"
   ]
 }

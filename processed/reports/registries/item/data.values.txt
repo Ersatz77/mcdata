@@ -101,6 +101,7 @@ minecraft:black_concrete
 minecraft:black_concrete_powder
 minecraft:black_dye
 minecraft:black_glazed_terracotta
+minecraft:black_harness
 minecraft:black_shulker_box
 minecraft:black_stained_glass
 minecraft:black_stained_glass_pane
@@ -125,6 +126,7 @@ minecraft:blue_concrete_powder
 minecraft:blue_dye
 minecraft:blue_egg
 minecraft:blue_glazed_terracotta
+minecraft:blue_harness
 minecraft:blue_ice
 minecraft:blue_orchid
 minecraft:blue_shulker_box
@@ -165,6 +167,7 @@ minecraft:brown_concrete_powder
 minecraft:brown_dye
 minecraft:brown_egg
 minecraft:brown_glazed_terracotta
+minecraft:brown_harness
 minecraft:brown_mushroom
 minecraft:brown_mushroom_block
 minecraft:brown_shulker_box
@@ -331,6 +334,7 @@ minecraft:cyan_concrete
 minecraft:cyan_concrete_powder
 minecraft:cyan_dye
 minecraft:cyan_glazed_terracotta
+minecraft:cyan_harness
 minecraft:cyan_shulker_box
 minecraft:cyan_stained_glass
 minecraft:cyan_stained_glass_pane
@@ -409,7 +413,6 @@ minecraft:diamond_ore
 minecraft:diamond_pickaxe
 minecraft:diamond_shovel
 minecraft:diamond_sword
-minecraft:dimension_control
 minecraft:diorite
 minecraft:diorite_slab
 minecraft:diorite_stairs
@@ -423,6 +426,7 @@ minecraft:donkey_spawn_egg
 minecraft:dragon_breath
 minecraft:dragon_egg
 minecraft:dragon_head
+minecraft:dried_ghast
 minecraft:dried_kelp
 minecraft:dried_kelp_block
 minecraft:dripstone_block
@@ -440,6 +444,7 @@ minecraft:enchanted_book
 minecraft:enchanted_golden_apple
 minecraft:enchanting_table
 minecraft:end_crystal
+minecraft:end_portal_frame
 minecraft:end_rod
 minecraft:end_stone
 minecraft:end_stone_brick_slab
@@ -448,11 +453,11 @@ minecraft:end_stone_brick_wall
 minecraft:end_stone_bricks
 minecraft:ender_chest
 minecraft:ender_dragon_spawn_egg
+minecraft:ender_eye
 minecraft:ender_pearl
 minecraft:enderman_spawn_egg
 minecraft:endermite_spawn_egg
 minecraft:evoker_spawn_egg
-minecraft:exit_eye
 minecraft:experience_bottle
 minecraft:explorer_pottery_sherd
 minecraft:exposed_chiseled_copper
@@ -475,7 +480,6 @@ minecraft:fire_charge
 minecraft:fire_coral
 minecraft:fire_coral_block
 minecraft:fire_coral_fan
-minecraft:fire_wand
 minecraft:firefly_bush
 minecraft:firework_rocket
 minecraft:firework_star
@@ -534,7 +538,6 @@ minecraft:granite_slab
 minecraft:granite_stairs
 minecraft:granite_wall
 minecraft:grass_block
-minecraft:grave_advancement
 minecraft:gravel
 minecraft:gray_banner
 minecraft:gray_bed
@@ -545,6 +548,7 @@ minecraft:gray_concrete
 minecraft:gray_concrete_powder
 minecraft:gray_dye
 minecraft:gray_glazed_terracotta
+minecraft:gray_harness
 minecraft:gray_shulker_box
 minecraft:gray_stained_glass
 minecraft:gray_stained_glass_pane
@@ -559,6 +563,7 @@ minecraft:green_concrete
 minecraft:green_concrete_powder
 minecraft:green_dye
 minecraft:green_glazed_terracotta
+minecraft:green_harness
 minecraft:green_shulker_box
 minecraft:green_stained_glass
 minecraft:green_stained_glass_pane
@@ -570,6 +575,7 @@ minecraft:gunpowder
 minecraft:guster_banner_pattern
 minecraft:guster_pottery_sherd
 minecraft:hanging_roots
+minecraft:happy_ghast_spawn_egg
 minecraft:hay_block
 minecraft:heart_of_the_sea
 minecraft:heart_pottery_sherd
@@ -668,6 +674,7 @@ minecraft:light_blue_concrete
 minecraft:light_blue_concrete_powder
 minecraft:light_blue_dye
 minecraft:light_blue_glazed_terracotta
+minecraft:light_blue_harness
 minecraft:light_blue_shulker_box
 minecraft:light_blue_stained_glass
 minecraft:light_blue_stained_glass_pane
@@ -682,6 +689,7 @@ minecraft:light_gray_concrete
 minecraft:light_gray_concrete_powder
 minecraft:light_gray_dye
 minecraft:light_gray_glazed_terracotta
+minecraft:light_gray_harness
 minecraft:light_gray_shulker_box
 minecraft:light_gray_stained_glass
 minecraft:light_gray_stained_glass_pane
@@ -701,6 +709,7 @@ minecraft:lime_concrete
 minecraft:lime_concrete_powder
 minecraft:lime_dye
 minecraft:lime_glazed_terracotta
+minecraft:lime_harness
 minecraft:lime_shulker_box
 minecraft:lime_stained_glass
 minecraft:lime_stained_glass_pane
@@ -720,6 +729,7 @@ minecraft:magenta_concrete
 minecraft:magenta_concrete_powder
 minecraft:magenta_dye
 minecraft:magenta_glazed_terracotta
+minecraft:magenta_harness
 minecraft:magenta_shulker_box
 minecraft:magenta_stained_glass
 minecraft:magenta_stained_glass_pane
@@ -752,13 +762,8 @@ minecraft:melon
 minecraft:melon_seeds
 minecraft:melon_slice
 minecraft:milk_bucket
-minecraft:mine
-minecraft:mine_crafter
-minecraft:mine_ingredient
-minecraft:mine_revisitor
 minecraft:minecart
 minecraft:miner_pottery_sherd
-minecraft:mob_trophy
 minecraft:mojang_banner_pattern
 minecraft:mooshroom_spawn_egg
 minecraft:moss_block
@@ -784,7 +789,6 @@ minecraft:mushroom_stew
 minecraft:music_disc_11
 minecraft:music_disc_13
 minecraft:music_disc_5
-minecraft:music_disc_and_action
 minecraft:music_disc_blocks
 minecraft:music_disc_cat
 minecraft:music_disc_chirp
@@ -865,6 +869,7 @@ minecraft:orange_concrete
 minecraft:orange_concrete_powder
 minecraft:orange_dye
 minecraft:orange_glazed_terracotta
+minecraft:orange_harness
 minecraft:orange_shulker_box
 minecraft:orange_stained_glass
 minecraft:orange_stained_glass_pane
@@ -927,6 +932,7 @@ minecraft:pink_concrete
 minecraft:pink_concrete_powder
 minecraft:pink_dye
 minecraft:pink_glazed_terracotta
+minecraft:pink_harness
 minecraft:pink_petals
 minecraft:pink_shulker_box
 minecraft:pink_stained_glass
@@ -1003,6 +1009,7 @@ minecraft:purple_concrete
 minecraft:purple_concrete_powder
 minecraft:purple_dye
 minecraft:purple_glazed_terracotta
+minecraft:purple_harness
 minecraft:purple_shulker_box
 minecraft:purple_stained_glass
 minecraft:purple_stained_glass_pane
@@ -1042,6 +1049,7 @@ minecraft:red_concrete
 minecraft:red_concrete_powder
 minecraft:red_dye
 minecraft:red_glazed_terracotta
+minecraft:red_harness
 minecraft:red_mushroom
 minecraft:red_mushroom_block
 minecraft:red_nether_brick_slab
@@ -1100,14 +1108,11 @@ minecraft:sea_pickle
 minecraft:seagrass
 minecraft:sentry_armor_trim_smithing_template
 minecraft:shaper_armor_trim_smithing_template
-minecraft:shazboots
 minecraft:sheaf_pottery_sherd
 minecraft:shears
 minecraft:sheep_spawn_egg
 minecraft:shelter_pottery_sherd
 minecraft:shield
-minecraft:shimmering_door
-minecraft:shimmering_key
 minecraft:short_dry_grass
 minecraft:short_grass
 minecraft:shroomlight
@@ -1121,8 +1126,6 @@ minecraft:skeleton_skull
 minecraft:skeleton_spawn_egg
 minecraft:skull_banner_pattern
 minecraft:skull_pottery_sherd
-minecraft:sky
-minecraft:sky_box
 minecraft:slime_ball
 minecraft:slime_block
 minecraft:slime_spawn_egg
@@ -1239,7 +1242,6 @@ minecraft:tadpole_spawn_egg
 minecraft:tall_dry_grass
 minecraft:tall_grass
 minecraft:target
-minecraft:teleportation_wand
 minecraft:terracotta
 minecraft:test_block
 minecraft:test_instance_block
@@ -1258,7 +1260,6 @@ minecraft:trial_key
 minecraft:trial_spawner
 minecraft:trident
 minecraft:tripwire_hook
-minecraft:trophy
 minecraft:tropical_fish
 minecraft:tropical_fish_bucket
 minecraft:tropical_fish_spawn_egg
@@ -1366,6 +1367,7 @@ minecraft:white_concrete
 minecraft:white_concrete_powder
 minecraft:white_dye
 minecraft:white_glazed_terracotta
+minecraft:white_harness
 minecraft:white_shulker_box
 minecraft:white_stained_glass
 minecraft:white_stained_glass_pane
@@ -1375,7 +1377,6 @@ minecraft:white_wool
 minecraft:wild_armor_trim_smithing_template
 minecraft:wildflowers
 minecraft:wind_charge
-minecraft:wind_wand
 minecraft:witch_spawn_egg
 minecraft:wither_rose
 minecraft:wither_skeleton_skull
@@ -1399,6 +1400,7 @@ minecraft:yellow_concrete
 minecraft:yellow_concrete_powder
 minecraft:yellow_dye
 minecraft:yellow_glazed_terracotta
+minecraft:yellow_harness
 minecraft:yellow_shulker_box
 minecraft:yellow_stained_glass
 minecraft:yellow_stained_glass_pane

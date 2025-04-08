@@ -13015,7 +13015,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -13042,7 +13042,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -13771,7 +13771,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -13798,7 +13798,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -14527,7 +14527,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           0.03,
@@ -14554,7 +14554,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           0.03,
@@ -15283,7 +15283,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -15310,7 +15310,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -16039,7 +16039,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -16066,7 +16066,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -16076,33 +16076,6 @@
         "erosion": [
           0.45,
           0.55
-        ],
-        "humidity": [
-          0.3,
-          1.0
-        ],
-        "offset": 0.0,
-        "temperature": [
-          0.2,
-          0.55
-        ],
-        "weirdness": [
-          -1.0,
-          -0.9333
-        ]
-      }
-    },
-    {
-      "biome": "minecraft:beach",
-      "parameters": {
-        "continentalness": [
-          -0.19,
-          -0.11
-        ],
-        "depth": 0.0,
-        "erosion": [
-          0.55,
-          1.0
         ],
         "humidity": [
           0.3,
@@ -16126,6 +16099,33 @@
           -0.19,
           -0.11
         ],
+        "depth": 0.0,
+        "erosion": [
+          0.55,
+          1.0
+        ],
+        "humidity": [
+          0.3,
+          1.0
+        ],
+        "offset": 0.0,
+        "temperature": [
+          0.2,
+          0.55
+        ],
+        "weirdness": [
+          -1.0,
+          -0.9333
+        ]
+      }
+    },
+    {
+      "biome": "minecraft:beach",
+      "parameters": {
+        "continentalness": [
+          -0.19,
+          -0.11
+        ],
         "depth": 1.0,
         "erosion": [
           0.55,
@@ -16795,7 +16795,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -16822,7 +16822,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -17551,7 +17551,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -17578,7 +17578,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -18307,7 +18307,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -18334,7 +18334,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -19063,7 +19063,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -19090,7 +19090,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -19819,7 +19819,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -19846,7 +19846,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -31051,7 +31051,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -31078,7 +31078,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -31753,7 +31753,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -31780,7 +31780,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -32455,7 +32455,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           0.03,
@@ -32482,7 +32482,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           0.03,
@@ -33157,7 +33157,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -33184,7 +33184,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -33859,7 +33859,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -33886,7 +33886,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -34561,7 +34561,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -34588,7 +34588,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -35263,7 +35263,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -35290,7 +35290,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -35965,7 +35965,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -35992,7 +35992,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -36667,7 +36667,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -36694,7 +36694,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -37369,7 +37369,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -37396,7 +37396,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -46819,7 +46819,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -46846,7 +46846,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -46873,7 +46873,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -46900,7 +46900,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -47413,7 +47413,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -47440,7 +47440,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -47467,7 +47467,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -47494,7 +47494,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -48007,7 +48007,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -48034,7 +48034,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -48061,7 +48061,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           0.03,
@@ -48088,7 +48088,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           0.03,
@@ -48601,7 +48601,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -48628,7 +48628,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -48655,7 +48655,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -48682,7 +48682,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -49195,7 +49195,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -49222,7 +49222,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -49249,7 +49249,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -49276,7 +49276,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -49789,7 +49789,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -49816,7 +49816,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -49843,7 +49843,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -49870,7 +49870,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -50383,7 +50383,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -50410,7 +50410,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -50437,7 +50437,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -50464,7 +50464,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -50977,7 +50977,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -51004,7 +51004,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -51031,7 +51031,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -51058,7 +51058,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -51571,7 +51571,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -51598,7 +51598,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -51625,7 +51625,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -51652,7 +51652,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -52165,7 +52165,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -52192,7 +52192,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -52219,7 +52219,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -52246,7 +52246,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -63451,7 +63451,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -63478,7 +63478,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -64153,7 +64153,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -64180,7 +64180,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -64855,7 +64855,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           0.03,
@@ -64882,7 +64882,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           0.03,
@@ -65557,7 +65557,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -65584,7 +65584,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -66259,7 +66259,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -66286,7 +66286,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -66961,7 +66961,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -66988,7 +66988,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -67663,7 +67663,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -67690,7 +67690,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -68365,7 +68365,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -68392,7 +68392,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -69067,7 +69067,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -69094,7 +69094,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -69769,7 +69769,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -69796,7 +69796,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -82297,7 +82297,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -82324,7 +82324,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -83053,7 +83053,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -83080,7 +83080,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -83809,7 +83809,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           0.03,
@@ -83836,7 +83836,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:forest",
       "parameters": {
         "continentalness": [
           0.03,
@@ -84565,7 +84565,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -84592,7 +84592,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -85321,7 +85321,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -85348,7 +85348,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -85358,33 +85358,6 @@
         "erosion": [
           0.45,
           0.55
-        ],
-        "humidity": [
-          0.3,
-          1.0
-        ],
-        "offset": 0.0,
-        "temperature": [
-          0.2,
-          0.55
-        ],
-        "weirdness": [
-          -0.4,
-          -0.2666
-        ]
-      }
-    },
-    {
-      "biome": "minecraft:beach",
-      "parameters": {
-        "continentalness": [
-          -0.19,
-          -0.11
-        ],
-        "depth": 0.0,
-        "erosion": [
-          0.55,
-          1.0
         ],
         "humidity": [
           0.3,
@@ -85408,6 +85381,33 @@
           -0.19,
           -0.11
         ],
+        "depth": 0.0,
+        "erosion": [
+          0.55,
+          1.0
+        ],
+        "humidity": [
+          0.3,
+          1.0
+        ],
+        "offset": 0.0,
+        "temperature": [
+          0.2,
+          0.55
+        ],
+        "weirdness": [
+          -0.4,
+          -0.2666
+        ]
+      }
+    },
+    {
+      "biome": "minecraft:beach",
+      "parameters": {
+        "continentalness": [
+          -0.19,
+          -0.11
+        ],
         "depth": 1.0,
         "erosion": [
           0.55,
@@ -86077,7 +86077,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -86104,7 +86104,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -86833,7 +86833,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -86860,7 +86860,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -87589,7 +87589,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -87616,7 +87616,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -88345,7 +88345,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -88372,7 +88372,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -89101,7 +89101,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -89128,7 +89128,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -130573,7 +130573,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -130600,7 +130600,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -131275,7 +131275,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -131302,7 +131302,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -131977,7 +131977,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:plains",
       "parameters": {
         "continentalness": [
           0.03,
@@ -132004,7 +132004,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:plains",
       "parameters": {
         "continentalness": [
           0.03,
@@ -132679,7 +132679,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:sparse_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -132706,7 +132706,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:sparse_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -133381,7 +133381,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -133408,7 +133408,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -134083,7 +134083,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -134110,7 +134110,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -134785,7 +134785,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -134812,7 +134812,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -135487,7 +135487,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -135514,7 +135514,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -136189,7 +136189,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -136216,7 +136216,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -136891,7 +136891,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -136918,7 +136918,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -148123,7 +148123,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -148150,7 +148150,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -148825,7 +148825,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -148852,7 +148852,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -149527,7 +149527,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:plains",
       "parameters": {
         "continentalness": [
           0.03,
@@ -149554,7 +149554,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:plains",
       "parameters": {
         "continentalness": [
           0.03,
@@ -150229,7 +150229,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:sparse_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -150256,7 +150256,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:sparse_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -150931,7 +150931,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -150958,7 +150958,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -151633,7 +151633,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -151660,7 +151660,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -152335,7 +152335,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -152362,7 +152362,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -153037,7 +153037,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -153064,7 +153064,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -153739,7 +153739,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -153766,7 +153766,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -154441,7 +154441,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -154468,7 +154468,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -163945,7 +163945,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -163972,7 +163972,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -164539,7 +164539,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -164566,7 +164566,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -165133,7 +165133,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:plains",
       "parameters": {
         "continentalness": [
           0.03,
@@ -165160,7 +165160,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:plains",
       "parameters": {
         "continentalness": [
           0.03,
@@ -165727,7 +165727,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:sparse_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -165754,7 +165754,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:sparse_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -166267,7 +166267,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -166294,7 +166294,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -166321,7 +166321,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -166348,7 +166348,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -166915,7 +166915,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -166942,7 +166942,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -167509,7 +167509,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -167536,7 +167536,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -168103,7 +168103,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -168130,7 +168130,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -168697,7 +168697,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -168724,7 +168724,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -169237,7 +169237,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -169264,7 +169264,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           -0.19,
@@ -169291,7 +169291,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -169318,7 +169318,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -180523,7 +180523,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -180550,7 +180550,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -181225,7 +181225,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -181252,7 +181252,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -181927,7 +181927,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:plains",
       "parameters": {
         "continentalness": [
           0.03,
@@ -181954,7 +181954,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:plains",
       "parameters": {
         "continentalness": [
           0.03,
@@ -182629,7 +182629,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:sparse_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -182656,7 +182656,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:sparse_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -183331,7 +183331,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -183358,7 +183358,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -184033,7 +184033,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -184060,7 +184060,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -184735,7 +184735,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -184762,7 +184762,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -185437,7 +185437,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -185464,7 +185464,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -186139,7 +186139,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -186166,7 +186166,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -186841,7 +186841,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -186868,7 +186868,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -198505,7 +198505,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -198532,7 +198532,7 @@
       }
     },
     {
-      "biome": "minecraft:basalt_deltas",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -199207,7 +199207,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -199234,7 +199234,7 @@
       }
     },
     {
-      "biome": "minecraft:soul_sand_valley",
+      "biome": "minecraft:savanna",
       "parameters": {
         "continentalness": [
           0.03,
@@ -199909,7 +199909,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:plains",
       "parameters": {
         "continentalness": [
           0.03,
@@ -199936,7 +199936,7 @@
       }
     },
     {
-      "biome": "minecraft:nether_wastes",
+      "biome": "minecraft:plains",
       "parameters": {
         "continentalness": [
           0.03,
@@ -200611,7 +200611,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:sparse_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -200638,7 +200638,7 @@
       }
     },
     {
-      "biome": "minecraft:crimson_forest",
+      "biome": "minecraft:sparse_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -201313,7 +201313,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -201340,7 +201340,7 @@
       }
     },
     {
-      "biome": "minecraft:warped_forest",
+      "biome": "minecraft:bamboo_jungle",
       "parameters": {
         "continentalness": [
           0.03,
@@ -202015,7 +202015,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -202042,7 +202042,7 @@
       }
     },
     {
-      "biome": "minecraft:end_highlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -202717,7 +202717,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -202744,7 +202744,7 @@
       }
     },
     {
-      "biome": "minecraft:end_midlands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -203419,7 +203419,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -203446,7 +203446,7 @@
       }
     },
     {
-      "biome": "minecraft:end_barrens",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -204121,7 +204121,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -204148,7 +204148,7 @@
       }
     },
     {
-      "biome": "minecraft:small_end_islands",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -204823,7 +204823,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
@@ -204850,7 +204850,7 @@
       }
     },
     {
-      "biome": "minecraft:the_end",
+      "biome": "minecraft:desert",
       "parameters": {
         "continentalness": [
           0.03,
