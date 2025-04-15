@@ -1284,7 +1284,6 @@ minecraft:entity.polar_bear.death
 minecraft:entity.polar_bear.hurt
 minecraft:entity.polar_bear.step
 minecraft:entity.polar_bear.warning
-minecraft:entity.puffer_fish.ambient
 minecraft:entity.puffer_fish.blow_out
 minecraft:entity.puffer_fish.blow_up
 minecraft:entity.puffer_fish.death
@@ -1640,6 +1639,7 @@ minecraft:item.mace.smash_ground
 minecraft:item.mace.smash_ground_heavy
 minecraft:item.nether_wart.plant
 minecraft:item.ominous_bottle.dispose
+minecraft:item.shears.snip
 minecraft:item.shield.block
 minecraft:item.shield.break
 minecraft:item.shovel.flatten

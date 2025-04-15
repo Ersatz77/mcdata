@@ -16,5 +16,6 @@ minecraft:mason
 minecraft:meeting
 minecraft:nether_portal
 minecraft:shepherd
+minecraft:test_instance
 minecraft:toolsmith
 minecraft:weaponsmith

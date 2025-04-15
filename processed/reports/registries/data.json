@@ -11945,7 +11945,7 @@
         "protocol_id": 8
       },
       "minecraft:lightning_rod": {
-        "protocol_id": 19
+        "protocol_id": 20
       },
       "minecraft:lodestone": {
         "protocol_id": 18
@@ -11961,6 +11961,9 @@
       },
       "minecraft:shepherd": {
         "protocol_id": 10
+      },
+      "minecraft:test_instance": {
+        "protocol_id": 19
       },
       "minecraft:toolsmith": {
         "protocol_id": 11
@@ -13826,34 +13829,34 @@
         "protocol_id": 979
       },
       "minecraft:block.nether_gold_ore.break": {
-        "protocol_id": 1223
+        "protocol_id": 1222
       },
       "minecraft:block.nether_gold_ore.fall": {
-        "protocol_id": 1224
+        "protocol_id": 1223
       },
       "minecraft:block.nether_gold_ore.hit": {
-        "protocol_id": 1225
+        "protocol_id": 1224
       },
       "minecraft:block.nether_gold_ore.place": {
-        "protocol_id": 1226
+        "protocol_id": 1225
       },
       "minecraft:block.nether_gold_ore.step": {
-        "protocol_id": 1227
+        "protocol_id": 1226
       },
       "minecraft:block.nether_ore.break": {
-        "protocol_id": 1228
+        "protocol_id": 1227
       },
       "minecraft:block.nether_ore.fall": {
-        "protocol_id": 1229
+        "protocol_id": 1228
       },
       "minecraft:block.nether_ore.hit": {
-        "protocol_id": 1230
+        "protocol_id": 1229
       },
       "minecraft:block.nether_ore.place": {
-        "protocol_id": 1231
+        "protocol_id": 1230
       },
       "minecraft:block.nether_ore.step": {
-        "protocol_id": 1232
+        "protocol_id": 1231
       },
       "minecraft:block.nether_sprouts.break": {
         "protocol_id": 1016
@@ -14168,10 +14171,10 @@
         "protocol_id": 1200
       },
       "minecraft:block.pumpkin.carve": {
-        "protocol_id": 1208
+        "protocol_id": 1207
       },
       "minecraft:block.redstone_torch.burnout": {
-        "protocol_id": 1233
+        "protocol_id": 1232
       },
       "minecraft:block.resin.break": {
         "protocol_id": 1365
@@ -14201,31 +14204,31 @@
         "protocol_id": 1373
       },
       "minecraft:block.respawn_anchor.ambient": {
-        "protocol_id": 1234
+        "protocol_id": 1233
       },
       "minecraft:block.respawn_anchor.charge": {
-        "protocol_id": 1235
+        "protocol_id": 1234
       },
       "minecraft:block.respawn_anchor.deplete": {
-        "protocol_id": 1236
+        "protocol_id": 1235
       },
       "minecraft:block.respawn_anchor.set_spawn": {
-        "protocol_id": 1237
+        "protocol_id": 1236
       },
       "minecraft:block.rooted_dirt.break": {
-        "protocol_id": 1238
+        "protocol_id": 1237
       },
       "minecraft:block.rooted_dirt.fall": {
-        "protocol_id": 1239
+        "protocol_id": 1238
       },
       "minecraft:block.rooted_dirt.hit": {
-        "protocol_id": 1240
+        "protocol_id": 1239
       },
       "minecraft:block.rooted_dirt.place": {
-        "protocol_id": 1241
+        "protocol_id": 1240
       },
       "minecraft:block.rooted_dirt.step": {
-        "protocol_id": 1242
+        "protocol_id": 1241
       },
       "minecraft:block.roots.break": {
         "protocol_id": 605
@@ -14243,130 +14246,130 @@
         "protocol_id": 606
       },
       "minecraft:block.sand.break": {
-        "protocol_id": 1247
+        "protocol_id": 1246
       },
       "minecraft:block.sand.fall": {
-        "protocol_id": 1248
+        "protocol_id": 1247
       },
       "minecraft:block.sand.hit": {
-        "protocol_id": 1249
+        "protocol_id": 1248
       },
       "minecraft:block.sand.idle": {
-        "protocol_id": 1252
-      },
-      "minecraft:block.sand.place": {
-        "protocol_id": 1250
-      },
-      "minecraft:block.sand.step": {
         "protocol_id": 1251
       },
+      "minecraft:block.sand.place": {
+        "protocol_id": 1249
+      },
+      "minecraft:block.sand.step": {
+        "protocol_id": 1250
+      },
       "minecraft:block.scaffolding.break": {
-        "protocol_id": 1253
+        "protocol_id": 1252
       },
       "minecraft:block.scaffolding.fall": {
-        "protocol_id": 1254
+        "protocol_id": 1253
       },
       "minecraft:block.scaffolding.hit": {
-        "protocol_id": 1255
+        "protocol_id": 1254
       },
       "minecraft:block.scaffolding.place": {
-        "protocol_id": 1256
+        "protocol_id": 1255
       },
       "minecraft:block.scaffolding.step": {
-        "protocol_id": 1257
+        "protocol_id": 1256
       },
       "minecraft:block.sculk.break": {
-        "protocol_id": 1260
-      },
-      "minecraft:block.sculk.charge": {
         "protocol_id": 1259
       },
-      "minecraft:block.sculk.fall": {
-        "protocol_id": 1261
-      },
-      "minecraft:block.sculk.hit": {
-        "protocol_id": 1262
-      },
-      "minecraft:block.sculk.place": {
-        "protocol_id": 1263
-      },
-      "minecraft:block.sculk.spread": {
+      "minecraft:block.sculk.charge": {
         "protocol_id": 1258
       },
+      "minecraft:block.sculk.fall": {
+        "protocol_id": 1260
+      },
+      "minecraft:block.sculk.hit": {
+        "protocol_id": 1261
+      },
+      "minecraft:block.sculk.place": {
+        "protocol_id": 1262
+      },
+      "minecraft:block.sculk.spread": {
+        "protocol_id": 1257
+      },
       "minecraft:block.sculk.step": {
-        "protocol_id": 1264
+        "protocol_id": 1263
       },
       "minecraft:block.sculk_catalyst.bloom": {
-        "protocol_id": 1265
+        "protocol_id": 1264
       },
       "minecraft:block.sculk_catalyst.break": {
-        "protocol_id": 1266
+        "protocol_id": 1265
       },
       "minecraft:block.sculk_catalyst.fall": {
-        "protocol_id": 1267
+        "protocol_id": 1266
       },
       "minecraft:block.sculk_catalyst.hit": {
-        "protocol_id": 1268
+        "protocol_id": 1267
       },
       "minecraft:block.sculk_catalyst.place": {
-        "protocol_id": 1269
+        "protocol_id": 1268
       },
       "minecraft:block.sculk_catalyst.step": {
-        "protocol_id": 1270
+        "protocol_id": 1269
       },
       "minecraft:block.sculk_sensor.break": {
-        "protocol_id": 1273
-      },
-      "minecraft:block.sculk_sensor.clicking": {
-        "protocol_id": 1271
-      },
-      "minecraft:block.sculk_sensor.clicking_stop": {
         "protocol_id": 1272
       },
+      "minecraft:block.sculk_sensor.clicking": {
+        "protocol_id": 1270
+      },
+      "minecraft:block.sculk_sensor.clicking_stop": {
+        "protocol_id": 1271
+      },
       "minecraft:block.sculk_sensor.fall": {
-        "protocol_id": 1274
+        "protocol_id": 1273
       },
       "minecraft:block.sculk_sensor.hit": {
-        "protocol_id": 1275
+        "protocol_id": 1274
       },
       "minecraft:block.sculk_sensor.place": {
-        "protocol_id": 1276
+        "protocol_id": 1275
       },
       "minecraft:block.sculk_sensor.step": {
-        "protocol_id": 1277
+        "protocol_id": 1276
       },
       "minecraft:block.sculk_shrieker.break": {
-        "protocol_id": 1278
+        "protocol_id": 1277
       },
       "minecraft:block.sculk_shrieker.fall": {
-        "protocol_id": 1279
+        "protocol_id": 1278
       },
       "minecraft:block.sculk_shrieker.hit": {
-        "protocol_id": 1280
+        "protocol_id": 1279
       },
       "minecraft:block.sculk_shrieker.place": {
-        "protocol_id": 1281
+        "protocol_id": 1280
       },
       "minecraft:block.sculk_shrieker.shriek": {
-        "protocol_id": 1282
+        "protocol_id": 1281
       },
       "minecraft:block.sculk_shrieker.step": {
-        "protocol_id": 1283
+        "protocol_id": 1282
       },
       "minecraft:block.sculk_vein.break": {
-        "protocol_id": 1284
+        "protocol_id": 1283
       },
       "minecraft:block.sculk_vein.fall": {
-        "protocol_id": 1285
+        "protocol_id": 1284
       },
       "minecraft:block.sculk_vein.hit": {
-        "protocol_id": 1286
+        "protocol_id": 1285
       },
       "minecraft:block.sculk_vein.place": {
-        "protocol_id": 1287
+        "protocol_id": 1286
       },
       "minecraft:block.sculk_vein.step": {
-        "protocol_id": 1288
+        "protocol_id": 1287
       },
       "minecraft:block.shroomlight.break": {
         "protocol_id": 1296
@@ -16336,92 +16339,89 @@
       "minecraft:entity.polar_bear.warning": {
         "protocol_id": 1187
       },
-      "minecraft:entity.puffer_fish.ambient": {
+      "minecraft:entity.puffer_fish.blow_out": {
         "protocol_id": 1201
       },
-      "minecraft:entity.puffer_fish.blow_out": {
+      "minecraft:entity.puffer_fish.blow_up": {
         "protocol_id": 1202
       },
-      "minecraft:entity.puffer_fish.blow_up": {
+      "minecraft:entity.puffer_fish.death": {
         "protocol_id": 1203
       },
-      "minecraft:entity.puffer_fish.death": {
+      "minecraft:entity.puffer_fish.flop": {
         "protocol_id": 1204
       },
-      "minecraft:entity.puffer_fish.flop": {
+      "minecraft:entity.puffer_fish.hurt": {
         "protocol_id": 1205
       },
-      "minecraft:entity.puffer_fish.hurt": {
+      "minecraft:entity.puffer_fish.sting": {
         "protocol_id": 1206
       },
-      "minecraft:entity.puffer_fish.sting": {
-        "protocol_id": 1207
-      },
       "minecraft:entity.rabbit.ambient": {
-        "protocol_id": 1209
+        "protocol_id": 1208
       },
       "minecraft:entity.rabbit.attack": {
-        "protocol_id": 1210
+        "protocol_id": 1209
       },
       "minecraft:entity.rabbit.death": {
-        "protocol_id": 1211
+        "protocol_id": 1210
       },
       "minecraft:entity.rabbit.hurt": {
-        "protocol_id": 1212
+        "protocol_id": 1211
       },
       "minecraft:entity.rabbit.jump": {
-        "protocol_id": 1213
+        "protocol_id": 1212
       },
       "minecraft:entity.ravager.ambient": {
-        "protocol_id": 1215
+        "protocol_id": 1214
       },
       "minecraft:entity.ravager.attack": {
-        "protocol_id": 1216
+        "protocol_id": 1215
       },
       "minecraft:entity.ravager.celebrate": {
-        "protocol_id": 1217
+        "protocol_id": 1216
       },
       "minecraft:entity.ravager.death": {
-        "protocol_id": 1218
+        "protocol_id": 1217
       },
       "minecraft:entity.ravager.hurt": {
-        "protocol_id": 1219
+        "protocol_id": 1218
       },
       "minecraft:entity.ravager.roar": {
-        "protocol_id": 1222
-      },
-      "minecraft:entity.ravager.step": {
-        "protocol_id": 1220
-      },
-      "minecraft:entity.ravager.stunned": {
         "protocol_id": 1221
       },
+      "minecraft:entity.ravager.step": {
+        "protocol_id": 1219
+      },
+      "minecraft:entity.ravager.stunned": {
+        "protocol_id": 1220
+      },
       "minecraft:entity.salmon.ambient": {
-        "protocol_id": 1243
+        "protocol_id": 1242
       },
       "minecraft:entity.salmon.death": {
-        "protocol_id": 1244
+        "protocol_id": 1243
       },
       "minecraft:entity.salmon.flop": {
-        "protocol_id": 1245
+        "protocol_id": 1244
       },
       "minecraft:entity.salmon.hurt": {
-        "protocol_id": 1246
+        "protocol_id": 1245
       },
       "minecraft:entity.sheep.ambient": {
-        "protocol_id": 1289
+        "protocol_id": 1288
       },
       "minecraft:entity.sheep.death": {
-        "protocol_id": 1290
+        "protocol_id": 1289
       },
       "minecraft:entity.sheep.hurt": {
-        "protocol_id": 1291
+        "protocol_id": 1290
       },
       "minecraft:entity.sheep.shear": {
-        "protocol_id": 1292
+        "protocol_id": 1291
       },
       "minecraft:entity.sheep.step": {
-        "protocol_id": 1293
+        "protocol_id": 1292
       },
       "minecraft:entity.shulker.ambient": {
         "protocol_id": 1302
@@ -17177,7 +17177,7 @@
         "protocol_id": 1721
       },
       "minecraft:event.raid.horn": {
-        "protocol_id": 1214
+        "protocol_id": 1213
       },
       "minecraft:intentionally_empty": {
         "protocol_id": 1000
@@ -17403,6 +17403,9 @@
       },
       "minecraft:item.ominous_bottle.dispose": {
         "protocol_id": 1071
+      },
+      "minecraft:item.shears.snip": {
+        "protocol_id": 1293
       },
       "minecraft:item.shield.block": {
         "protocol_id": 1294
