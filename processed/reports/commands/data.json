@@ -6905,6 +6905,17 @@
           "executable": true,
           "type": "literal"
         },
+        "locatorBar": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "logAdminCommands": {
           "children": {
             "value": {
@@ -7156,17 +7167,6 @@
           "type": "literal"
         },
         "universalAnger": {
-          "children": {
-            "value": {
-              "executable": true,
-              "parser": "brigadier:bool",
-              "type": "argument"
-            }
-          },
-          "executable": true,
-          "type": "literal"
-        },
-        "useLocatorBar": {
           "children": {
             "value": {
               "executable": true,
@@ -11261,49 +11261,20 @@
                   },
                   "type": "literal"
                 },
-                "fade": {
+                "style": {
                   "children": {
-                    "fade_start": {
+                    "reset": {
+                      "executable": true,
+                      "type": "literal"
+                    },
+                    "set": {
                       "children": {
-                        "alpha_start": {
-                          "children": {
-                            "fade_end": {
-                              "children": {
-                                "alpha_end": {
-                                  "executable": true,
-                                  "parser": "brigadier:float",
-                                  "properties": {
-                                    "max": 1.0,
-                                    "min": 0.0
-                                  },
-                                  "type": "argument"
-                                }
-                              },
-                              "parser": "brigadier:integer",
-                              "properties": {
-                                "max": 60000000,
-                                "min": 0
-                              },
-                              "type": "argument"
-                            }
-                          },
-                          "parser": "brigadier:float",
-                          "properties": {
-                            "max": 1.0,
-                            "min": 0.0
-                          },
+                        "style": {
+                          "executable": true,
+                          "parser": "minecraft:resource_location",
                           "type": "argument"
                         }
                       },
-                      "parser": "brigadier:integer",
-                      "properties": {
-                        "max": 60000000,
-                        "min": 0
-                      },
-                      "type": "argument"
-                    },
-                    "reset": {
-                      "executable": true,
                       "type": "literal"
                     }
                   },

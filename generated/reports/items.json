@@ -3398,9 +3398,6 @@
         {
           "type": "minecraft:armor",
           "amount": 1.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -3408,9 +3405,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -3448,9 +3442,6 @@
         {
           "type": "minecraft:armor",
           "amount": 5.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -3458,9 +3449,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -3498,9 +3486,6 @@
         {
           "type": "minecraft:armor",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -3508,9 +3493,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -3548,9 +3530,6 @@
         {
           "type": "minecraft:armor",
           "amount": 4.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -3558,9 +3537,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -6869,9 +6845,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 8.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -6879,9 +6852,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -6947,9 +6917,6 @@
         {
           "type": "minecraft:armor",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -6957,9 +6924,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -6997,9 +6961,6 @@
         {
           "type": "minecraft:armor",
           "amount": 8.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -7007,9 +6968,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -7047,9 +7005,6 @@
         {
           "type": "minecraft:armor",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -7057,9 +7012,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -7097,9 +7049,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -7107,9 +7056,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -7158,9 +7104,6 @@
         {
           "type": "minecraft:armor",
           "amount": 11.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.body",
           "operation": "add_value",
           "slot": "body"
@@ -7168,9 +7111,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.body",
           "operation": "add_value",
           "slot": "body"
@@ -7202,9 +7142,6 @@
         {
           "type": "minecraft:armor",
           "amount": 6.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -7212,9 +7149,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -7268,9 +7202,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 4.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -7278,9 +7209,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.799999952316284,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -7329,9 +7257,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 4.5,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -7339,9 +7264,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -7390,9 +7312,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 6.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -7400,9 +7319,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.4000000953674316,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -7684,7 +7600,7 @@
       },
       "minecraft:lore": [],
       "minecraft:max_stack_size": 64,
-      "minecraft:rarity": "uncommon",
+      "minecraft:rarity": "common",
       "minecraft:repair_cost": 0,
       "minecraft:tooltip_display": {}
     }
@@ -9330,9 +9246,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 6.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -9340,9 +9253,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -9392,9 +9302,6 @@
         {
           "type": "minecraft:armor",
           "amount": 1.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -9402,9 +9309,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -9463,9 +9367,6 @@
         {
           "type": "minecraft:armor",
           "amount": 5.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -9473,9 +9374,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -9513,9 +9411,6 @@
         {
           "type": "minecraft:armor",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -9523,9 +9418,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -9563,9 +9455,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -9573,9 +9462,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -9624,9 +9510,6 @@
         {
           "type": "minecraft:armor",
           "amount": 7.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.body",
           "operation": "add_value",
           "slot": "body"
@@ -9634,9 +9517,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.body",
           "operation": "add_value",
           "slot": "body"
@@ -9668,9 +9548,6 @@
         {
           "type": "minecraft:armor",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -9678,9 +9555,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -9718,9 +9592,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 1.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -9728,9 +9599,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.799999952316284,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -9779,9 +9647,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 1.5,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -9789,9 +9654,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -9840,9 +9702,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -9850,9 +9709,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.4000000953674316,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -11118,9 +10974,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 8.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -11128,9 +10981,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0999999046325684,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -11212,9 +11062,6 @@
         {
           "type": "minecraft:armor",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -11222,9 +11069,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -11262,9 +11106,6 @@
         {
           "type": "minecraft:armor",
           "amount": 6.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -11272,9 +11113,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -11344,9 +11182,6 @@
         {
           "type": "minecraft:armor",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -11354,9 +11189,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -11394,9 +11226,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -11404,9 +11233,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -1.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -11455,9 +11281,6 @@
         {
           "type": "minecraft:armor",
           "amount": 5.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.body",
           "operation": "add_value",
           "slot": "body"
@@ -11465,9 +11288,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.body",
           "operation": "add_value",
           "slot": "body"
@@ -11516,9 +11336,6 @@
         {
           "type": "minecraft:armor",
           "amount": 5.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -11526,9 +11343,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -11598,9 +11412,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -11608,9 +11419,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.799999952316284,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -11659,9 +11467,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 3.5,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -11669,9 +11474,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -11720,9 +11522,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 5.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -11730,9 +11529,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.4000000953674316,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -12347,9 +12143,6 @@
         {
           "type": "minecraft:armor",
           "amount": 1.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -12357,9 +12150,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -12397,9 +12187,6 @@
         {
           "type": "minecraft:armor",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -12407,9 +12194,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -12447,9 +12231,6 @@
         {
           "type": "minecraft:armor",
           "amount": 1.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -12457,9 +12238,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -12497,9 +12275,6 @@
         {
           "type": "minecraft:armor",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.body",
           "operation": "add_value",
           "slot": "body"
@@ -12507,9 +12282,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.body",
           "operation": "add_value",
           "slot": "body"
@@ -12541,9 +12313,6 @@
         {
           "type": "minecraft:armor",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -12551,9 +12320,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -13565,9 +13331,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 5.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -13575,9 +13338,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.4000000953674316,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -15308,9 +15068,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 9.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -15318,9 +15075,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -15392,9 +15146,6 @@
         {
           "type": "minecraft:armor",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -15402,9 +15153,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -15412,9 +15160,6 @@
         {
           "type": "minecraft:knockback_resistance",
           "amount": 0.10000000149011612,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.boots",
           "operation": "add_value",
           "slot": "feet"
@@ -15455,9 +15200,6 @@
         {
           "type": "minecraft:armor",
           "amount": 8.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -15465,9 +15207,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -15475,9 +15214,6 @@
         {
           "type": "minecraft:knockback_resistance",
           "amount": 0.10000000149011612,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.chestplate",
           "operation": "add_value",
           "slot": "chest"
@@ -15518,9 +15254,6 @@
         {
           "type": "minecraft:armor",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -15528,9 +15261,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -15538,9 +15268,6 @@
         {
           "type": "minecraft:knockback_resistance",
           "amount": 0.10000000149011612,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -15581,9 +15308,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -15591,9 +15315,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -15665,9 +15386,6 @@
         {
           "type": "minecraft:armor",
           "amount": 6.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -15675,9 +15393,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -15685,9 +15400,6 @@
         {
           "type": "minecraft:knockback_resistance",
           "amount": 0.10000000149011612,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.leggings",
           "operation": "add_value",
           "slot": "legs"
@@ -15728,9 +15440,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 5.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -15738,9 +15447,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.799999952316284,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -15811,9 +15517,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 5.5,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -15821,9 +15524,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -15875,9 +15575,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 7.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -15885,9 +15582,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.4000000953674316,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -21951,9 +21645,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 8.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -21961,9 +21652,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.200000047683716,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -22093,9 +21781,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -22103,9 +21788,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -22154,9 +21836,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -22164,9 +21843,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.799999952316284,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -22231,9 +21907,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 2.5,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -22241,9 +21914,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -22324,9 +21994,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 4.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -22334,9 +22001,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.4000000953674316,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -23353,9 +23017,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 8.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -23363,9 +23024,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.9000000953674316,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -23663,9 +23321,6 @@
         {
           "type": "minecraft:armor",
           "amount": 2.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -23673,9 +23328,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.helmet",
           "operation": "add_value",
           "slot": "head"
@@ -25448,9 +25100,6 @@
         {
           "type": "minecraft:armor",
           "amount": 11.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.body",
           "operation": "add_value",
           "slot": "body"
@@ -25458,9 +25107,6 @@
         {
           "type": "minecraft:armor_toughness",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:armor.body",
           "operation": "add_value",
           "slot": "body"
@@ -25512,9 +25158,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 6.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -25522,9 +25165,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.200000047683716,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -25574,9 +25214,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 0.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -25584,9 +25221,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -25635,9 +25269,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 1.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -25645,9 +25276,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.799999952316284,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -25696,9 +25324,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 1.5,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -25706,9 +25331,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
@@ -25757,9 +25379,6 @@
         {
           "type": "minecraft:attack_damage",
           "amount": 3.0,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
           "slot": "mainhand"
@@ -25767,9 +25386,6 @@
         {
           "type": "minecraft:attack_speed",
           "amount": -2.4000000953674316,
-          "display": {
-            "type": "default"
-          },
           "id": "minecraft:base_attack_speed",
           "operation": "add_value",
           "slot": "mainhand"
