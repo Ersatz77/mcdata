@@ -94,6 +94,18 @@
           "functions": [
             {
               "add": false,
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:dried_ghast",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
               "count": {
                 "max": 9.0,
                 "min": 3.0,
