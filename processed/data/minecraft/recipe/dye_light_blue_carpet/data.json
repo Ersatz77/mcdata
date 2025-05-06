@@ -1,6 +1,6 @@
 {
-  "category": "building",
-  "group": "carpet",
+  "category": "misc",
+  "group": "carpet_dye",
   "ingredients": [
     "minecraft:light_blue_dye",
     [

@@ -1,6 +1,6 @@
 {
-  "category": "building",
-  "group": "bed",
+  "category": "misc",
+  "group": "bed_dye",
   "ingredients": [
     "minecraft:red_dye",
     [

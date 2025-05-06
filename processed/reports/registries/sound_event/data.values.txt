@@ -274,7 +274,6 @@ minecraft:block.dried_ghast.ambient
 minecraft:block.dried_ghast.ambient_water
 minecraft:block.dried_ghast.break
 minecraft:block.dried_ghast.fall
-minecraft:block.dried_ghast.hit
 minecraft:block.dried_ghast.place
 minecraft:block.dried_ghast.place_in_water
 minecraft:block.dried_ghast.step
