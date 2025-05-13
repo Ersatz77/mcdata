@@ -1,0 +1,7 @@
+minecraft:confirmation
+minecraft:dialog_list
+minecraft:multi_action
+minecraft:multi_action_input_form
+minecraft:notice
+minecraft:server_links
+minecraft:simple_input_form

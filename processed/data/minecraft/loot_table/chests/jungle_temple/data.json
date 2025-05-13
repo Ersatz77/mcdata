@@ -116,7 +116,18 @@
           "weight": 16
         },
         {
-          "name": "minecraft:saddle",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 5.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:leather",
           "type": "minecraft:item",
           "weight": 3
         },

@@ -165,6 +165,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "attribute": {
@@ -296,6 +297,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "ban": {
@@ -313,6 +315,7 @@
           "type": "argument"
         }
       },
+      "required_level": 3,
       "type": "literal"
     },
     "ban-ip": {
@@ -333,6 +336,7 @@
           "type": "argument"
         }
       },
+      "required_level": 3,
       "type": "literal"
     },
     "banlist": {
@@ -347,6 +351,7 @@
         }
       },
       "executable": true,
+      "required_level": 3,
       "type": "literal"
     },
     "bossbar": {
@@ -539,6 +544,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "clear": {
@@ -571,6 +577,7 @@
         }
       },
       "executable": true,
+      "required_level": 2,
       "type": "literal"
     },
     "clone": {
@@ -1165,6 +1172,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "damage": {
@@ -1240,6 +1248,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "data": {
@@ -4173,6 +4182,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "datapack": {
@@ -4194,6 +4204,7 @@
               "type": "argument"
             }
           },
+          "required_level": 4,
           "type": "literal"
         },
         "disable": {
@@ -4273,6 +4284,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "debug": {
@@ -4285,6 +4297,7 @@
               "type": "argument"
             }
           },
+          "required_level": 3,
           "type": "literal"
         },
         "start": {
@@ -4296,6 +4309,7 @@
           "type": "literal"
         }
       },
+      "required_level": 3,
       "type": "literal"
     },
     "defaultgamemode": {
@@ -4306,6 +4320,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "deop": {
@@ -4316,6 +4331,47 @@
           "type": "argument"
         }
       },
+      "required_level": 3,
+      "type": "literal"
+    },
+    "dialog": {
+      "children": {
+        "clear": {
+          "children": {
+            "targets": {
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "amount": "multiple",
+                "type": "players"
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
+        "show": {
+          "children": {
+            "targets": {
+              "children": {
+                "dialog": {
+                  "executable": true,
+                  "parser": "minecraft:dialog",
+                  "type": "argument"
+                }
+              },
+              "parser": "minecraft:entity",
+              "properties": {
+                "amount": "multiple",
+                "type": "players"
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        }
+      },
+      "required_level": 2,
       "type": "literal"
     },
     "difficulty": {
@@ -4338,6 +4394,7 @@
         }
       },
       "executable": true,
+      "required_level": 2,
       "type": "literal"
     },
     "effect": {
@@ -4442,6 +4499,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "enchant": {
@@ -4475,6 +4533,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "execute": {
@@ -6204,6 +6263,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "experience": {
@@ -6295,6 +6355,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "fill": {
@@ -6368,6 +6429,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "fillbiome": {
@@ -6408,6 +6470,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "forceload": {
@@ -6462,6 +6525,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "function": {
@@ -6539,6 +6603,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "gamemode": {
@@ -6560,6 +6625,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "gamerule": {
@@ -7189,6 +7255,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "give": {
@@ -7219,6 +7286,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "help": {
@@ -7486,6 +7554,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "jfr": {
@@ -7499,6 +7568,7 @@
           "type": "literal"
         }
       },
+      "required_level": 4,
       "type": "literal"
     },
     "kick": {
@@ -7520,6 +7590,7 @@
           "type": "argument"
         }
       },
+      "required_level": 3,
       "type": "literal"
     },
     "kill": {
@@ -7535,6 +7606,7 @@
         }
       },
       "executable": true,
+      "required_level": 2,
       "type": "literal"
     },
     "list": {
@@ -7589,6 +7661,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "loot": {
@@ -8252,6 +8325,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "me": {
@@ -8292,6 +8366,7 @@
           "type": "argument"
         }
       },
+      "required_level": 3,
       "type": "literal"
     },
     "pardon": {
@@ -8302,6 +8377,7 @@
           "type": "argument"
         }
       },
+      "required_level": 3,
       "type": "literal"
     },
     "pardon-ip": {
@@ -8315,6 +8391,7 @@
           "type": "argument"
         }
       },
+      "required_level": 3,
       "type": "literal"
     },
     "particle": {
@@ -8389,6 +8466,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "perf": {
@@ -8402,6 +8480,7 @@
           "type": "literal"
         }
       },
+      "required_level": 4,
       "type": "literal"
     },
     "place": {
@@ -8538,6 +8617,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "playsound": {
@@ -9090,6 +9170,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "publish": {
@@ -9119,6 +9200,7 @@
         }
       },
       "executable": true,
+      "required_level": 4,
       "type": "literal"
     },
     "random": {
@@ -9177,6 +9259,7 @@
               "type": "argument"
             }
           },
+          "required_level": 2,
           "type": "literal"
         },
         "roll": {
@@ -9186,6 +9269,7 @@
                 "sequence": {
                   "executable": true,
                   "parser": "minecraft:resource_location",
+                  "required_level": 2,
                   "type": "argument"
                 }
               },
@@ -9203,6 +9287,7 @@
                 "sequence": {
                   "executable": true,
                   "parser": "minecraft:resource_location",
+                  "required_level": 2,
                   "type": "argument"
                 }
               },
@@ -9273,10 +9358,12 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "reload": {
       "executable": true,
+      "required_level": 2,
       "type": "literal"
     },
     "return": {
@@ -9294,6 +9381,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "ride": {
@@ -9327,6 +9415,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "rotate": {
@@ -9378,6 +9467,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "save-all": {
@@ -9388,14 +9478,17 @@
         }
       },
       "executable": true,
+      "required_level": 4,
       "type": "literal"
     },
     "save-off": {
       "executable": true,
+      "required_level": 4,
       "type": "literal"
     },
     "save-on": {
       "executable": true,
+      "required_level": 4,
       "type": "literal"
     },
     "say": {
@@ -9406,6 +9499,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "schedule": {
@@ -9453,6 +9547,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "scoreboard": {
@@ -9868,10 +9963,12 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "seed": {
       "executable": true,
+      "required_level": 2,
       "type": "literal"
     },
     "setblock": {
@@ -9906,6 +10003,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "setidletimeout": {
@@ -9919,6 +10017,7 @@
           "type": "argument"
         }
       },
+      "required_level": 3,
       "type": "literal"
     },
     "setworldspawn": {
@@ -9937,6 +10036,7 @@
         }
       },
       "executable": true,
+      "required_level": 2,
       "type": "literal"
     },
     "spawnpoint": {
@@ -9966,6 +10066,7 @@
         }
       },
       "executable": true,
+      "required_level": 2,
       "type": "literal"
     },
     "spectate": {
@@ -9992,6 +10093,7 @@
         }
       },
       "executable": true,
+      "required_level": 2,
       "type": "literal"
     },
     "spreadplayers": {
@@ -10062,10 +10164,12 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "stop": {
       "executable": true,
+      "required_level": 4,
       "type": "literal"
     },
     "stopsound": {
@@ -10202,6 +10306,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "summon": {
@@ -10229,6 +10334,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "tag": {
@@ -10274,6 +10380,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "team": {
@@ -10497,6 +10604,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "teammsg": {
@@ -10588,6 +10696,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "tell": {
@@ -10614,6 +10723,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "test": {
@@ -10922,6 +11032,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "tick": {
@@ -10988,6 +11099,7 @@
           "type": "literal"
         }
       },
+      "required_level": 3,
       "type": "literal"
     },
     "time": {
@@ -11052,6 +11164,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "title": {
@@ -11136,6 +11249,7 @@
           "type": "argument"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "tm": {
@@ -11148,6 +11262,7 @@
       "redirect": [
         "teleport"
       ],
+      "required_level": 2,
       "type": "literal"
     },
     "transfer": {
@@ -11183,6 +11298,7 @@
           "type": "argument"
         }
       },
+      "required_level": 3,
       "type": "literal"
     },
     "trigger": {
@@ -11219,6 +11335,7 @@
     },
     "version": {
       "executable": true,
+      "required_level": 2,
       "type": "literal"
     },
     "w": {
@@ -11292,6 +11409,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "weather": {
@@ -11339,6 +11457,7 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "whitelist": {
@@ -11380,6 +11499,7 @@
           "type": "literal"
         }
       },
+      "required_level": 3,
       "type": "literal"
     },
     "worldborder": {
@@ -11509,12 +11629,14 @@
           "type": "literal"
         }
       },
+      "required_level": 2,
       "type": "literal"
     },
     "xp": {
       "redirect": [
         "experience"
       ],
+      "required_level": 2,
       "type": "literal"
     }
   },

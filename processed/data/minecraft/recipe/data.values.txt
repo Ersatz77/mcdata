@@ -1078,6 +1078,7 @@ minecraft:resin_clump
 minecraft:respawn_anchor
 minecraft:rib_armor_trim_smithing_template
 minecraft:rib_armor_trim_smithing_template_smithing_trim
+minecraft:saddle
 minecraft:sandstone
 minecraft:sandstone_slab
 minecraft:sandstone_slab_from_sandstone_stonecutting

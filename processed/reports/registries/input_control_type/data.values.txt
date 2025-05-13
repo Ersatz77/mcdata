@@ -1,0 +1,4 @@
+minecraft:boolean
+minecraft:number_range
+minecraft:single_option
+minecraft:text

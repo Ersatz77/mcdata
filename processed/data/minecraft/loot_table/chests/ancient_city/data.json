@@ -113,11 +113,15 @@
           "functions": [
             {
               "add": false,
-              "count": 1.0,
+              "count": {
+                "max": 5.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:saddle",
+          "name": "minecraft:leather",
           "type": "minecraft:item",
           "weight": 2
         },

@@ -11,6 +11,7 @@ minecraft:block_state
 minecraft:color
 minecraft:column_pos
 minecraft:component
+minecraft:dialog
 minecraft:dimension
 minecraft:entity
 minecraft:entity_anchor

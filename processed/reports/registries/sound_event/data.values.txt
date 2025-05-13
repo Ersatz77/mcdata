@@ -1705,6 +1705,7 @@ minecraft:music_disc.precipice
 minecraft:music_disc.relic
 minecraft:music_disc.stal
 minecraft:music_disc.strad
+minecraft:music_disc.tears
 minecraft:music_disc.wait
 minecraft:music_disc.ward
 minecraft:particle.soul_escape
