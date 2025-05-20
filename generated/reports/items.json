@@ -1625,6 +1625,7 @@
         "asset_id": "minecraft:black_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:black_carpet",
@@ -2032,6 +2033,7 @@
         "asset_id": "minecraft:blue_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:blue_carpet",
@@ -2726,6 +2728,7 @@
         "asset_id": "minecraft:brown_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:brown_carpet",
@@ -5682,6 +5685,7 @@
         "asset_id": "minecraft:cyan_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:cyan_carpet",
@@ -7136,6 +7140,7 @@
         "can_be_sheared": true,
         "damage_on_hurt": false,
         "equip_sound": "minecraft:entity.horse.armor",
+        "shearing_sound": "minecraft:item.horse_armor.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:diamond_horse_armor",
@@ -9543,6 +9548,7 @@
         "can_be_sheared": true,
         "damage_on_hurt": false,
         "equip_sound": "minecraft:entity.horse.armor",
+        "shearing_sound": "minecraft:item.horse_armor.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:golden_horse_armor",
@@ -9944,6 +9950,7 @@
         "asset_id": "minecraft:gray_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:gray_carpet",
@@ -10206,6 +10213,7 @@
         "asset_id": "minecraft:green_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:green_carpet",
@@ -11321,6 +11329,7 @@
         "can_be_sheared": true,
         "damage_on_hurt": false,
         "equip_sound": "minecraft:entity.horse.armor",
+        "shearing_sound": "minecraft:item.horse_armor.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:iron_horse_armor",
@@ -12316,6 +12325,7 @@
         "can_be_sheared": true,
         "damage_on_hurt": false,
         "equip_sound": "minecraft:entity.horse.armor",
+        "shearing_sound": "minecraft:item.horse_armor.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:leather_horse_armor",
@@ -12503,6 +12513,7 @@
         "asset_id": "minecraft:light_blue_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:light_blue_carpet",
@@ -12765,6 +12776,7 @@
         "asset_id": "minecraft:light_gray_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:light_gray_carpet",
@@ -13107,6 +13119,7 @@
         "asset_id": "minecraft:lime_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:lime_carpet",
@@ -13480,6 +13493,7 @@
         "asset_id": "minecraft:magenta_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:magenta_carpet",
@@ -16205,6 +16219,7 @@
         "asset_id": "minecraft:orange_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:orange_carpet",
@@ -17251,6 +17266,7 @@
         "asset_id": "minecraft:pink_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:pink_carpet",
@@ -18595,6 +18611,7 @@
         "asset_id": "minecraft:purple_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:purple_carpet",
@@ -19272,6 +19289,7 @@
         "asset_id": "minecraft:red_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:red_carpet",
@@ -19999,6 +20017,7 @@
         "can_be_sheared": true,
         "equip_on_interact": true,
         "equip_sound": "minecraft:entity.horse.saddle",
+        "shearing_sound": "minecraft:item.saddle.unequip",
         "slot": "saddle"
       },
       "minecraft:item_model": "minecraft:saddle",
@@ -24816,6 +24835,7 @@
         "asset_id": "minecraft:white_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:white_carpet",
@@ -25614,6 +25634,7 @@
         "asset_id": "minecraft:yellow_carpet",
         "can_be_sheared": true,
         "equip_sound": "minecraft:entity.llama.swag",
+        "shearing_sound": "minecraft:item.llama_carpet.unequip",
         "slot": "body"
       },
       "minecraft:item_model": "minecraft:yellow_carpet",

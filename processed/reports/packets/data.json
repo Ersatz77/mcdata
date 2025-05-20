@@ -66,6 +66,9 @@
       "minecraft:cookie_response": {
         "protocol_id": 1
       },
+      "minecraft:custom_click_action": {
+        "protocol_id": 8
+      },
       "minecraft:custom_payload": {
         "protocol_id": 2
       },
