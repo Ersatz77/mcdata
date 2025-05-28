@@ -124,6 +124,11 @@
       "stable": false,
       "tags": true
     },
+    "minecraft:dialog_action_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:dialog_body_type": {
       "elements": false,
       "stable": true,
@@ -410,11 +415,6 @@
       "tags": true
     },
     "minecraft:stat_type": {
-      "elements": false,
-      "stable": true,
-      "tags": true
-    },
-    "minecraft:submit_method_type": {
       "elements": false,
       "stable": true,
       "tags": true

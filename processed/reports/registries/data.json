@@ -5408,6 +5408,38 @@
     },
     "protocol_id": 60
   },
+  "minecraft:dialog_action_type": {
+    "entries": {
+      "minecraft:change_page": {
+        "protocol_id": 4
+      },
+      "minecraft:copy_to_clipboard": {
+        "protocol_id": 5
+      },
+      "minecraft:custom": {
+        "protocol_id": 6
+      },
+      "minecraft:dynamic/custom": {
+        "protocol_id": 8
+      },
+      "minecraft:dynamic/run_command": {
+        "protocol_id": 7
+      },
+      "minecraft:open_url": {
+        "protocol_id": 0
+      },
+      "minecraft:run_command": {
+        "protocol_id": 1
+      },
+      "minecraft:show_dialog": {
+        "protocol_id": 3
+      },
+      "minecraft:suggest_command": {
+        "protocol_id": 2
+      }
+    },
+    "protocol_id": 83
+  },
   "minecraft:dialog_body_type": {
     "entries": {
       "minecraft:item": {
@@ -5422,7 +5454,7 @@
   "minecraft:dialog_type": {
     "entries": {
       "minecraft:confirmation": {
-        "protocol_id": 6
+        "protocol_id": 4
       },
       "minecraft:dialog_list": {
         "protocol_id": 2
@@ -5430,17 +5462,11 @@
       "minecraft:multi_action": {
         "protocol_id": 3
       },
-      "minecraft:multi_action_input_form": {
-        "protocol_id": 4
-      },
       "minecraft:notice": {
         "protocol_id": 0
       },
       "minecraft:server_links": {
         "protocol_id": 1
-      },
-      "minecraft:simple_input_form": {
-        "protocol_id": 5
       }
     },
     "protocol_id": 82
@@ -17770,20 +17796,6 @@
       }
     },
     "protocol_id": 21
-  },
-  "minecraft:submit_method_type": {
-    "entries": {
-      "minecraft:command_template": {
-        "protocol_id": 0
-      },
-      "minecraft:custom_form": {
-        "protocol_id": 2
-      },
-      "minecraft:custom_template": {
-        "protocol_id": 1
-      }
-    },
-    "protocol_id": 83
   },
   "minecraft:test_environment_definition_type": {
     "entries": {

@@ -1,0 +1,9 @@
+minecraft:change_page
+minecraft:copy_to_clipboard
+minecraft:custom
+minecraft:dynamic/custom
+minecraft:dynamic/run_command
+minecraft:open_url
+minecraft:run_command
+minecraft:show_dialog
+minecraft:suggest_command
