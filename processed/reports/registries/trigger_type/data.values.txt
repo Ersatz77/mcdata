@@ -36,6 +36,7 @@ minecraft:player_generates_container_loot
 minecraft:player_hurt_entity
 minecraft:player_interacted_with_entity
 minecraft:player_killed_entity
+minecraft:player_sheared_equipment
 minecraft:recipe_crafted
 minecraft:recipe_unlocked
 minecraft:ride_entity_in_lava

@@ -17868,13 +17868,13 @@
   "minecraft:trigger_type": {
     "entries": {
       "minecraft:allay_drop_item_on_block": {
-        "protocol_id": 51
+        "protocol_id": 52
       },
       "minecraft:any_block_use": {
         "protocol_id": 40
       },
       "minecraft:avoid_vibration": {
-        "protocol_id": 52
+        "protocol_id": 53
       },
       "minecraft:bee_nest_destroyed": {
         "protocol_id": 36
@@ -17898,7 +17898,7 @@
         "protocol_id": 25
       },
       "minecraft:crafter_recipe_crafted": {
-        "protocol_id": 54
+        "protocol_id": 55
       },
       "minecraft:cured_zombie_villager": {
         "protocol_id": 17
@@ -17922,10 +17922,10 @@
         "protocol_id": 2
       },
       "minecraft:fall_after_explosion": {
-        "protocol_id": 55
+        "protocol_id": 56
       },
       "minecraft:fall_from_height": {
-        "protocol_id": 48
+        "protocol_id": 49
       },
       "minecraft:filled_bucket": {
         "protocol_id": 9
@@ -17949,7 +17949,7 @@
         "protocol_id": 38
       },
       "minecraft:kill_mob_near_sculk_catalyst": {
-        "protocol_id": 50
+        "protocol_id": 51
       },
       "minecraft:killed_by_arrow": {
         "protocol_id": 32
@@ -17958,7 +17958,7 @@
         "protocol_id": 20
       },
       "minecraft:lightning_strike": {
-        "protocol_id": 46
+        "protocol_id": 47
       },
       "minecraft:location": {
         "protocol_id": 15
@@ -17981,14 +17981,17 @@
       "minecraft:player_killed_entity": {
         "protocol_id": 1
       },
+      "minecraft:player_sheared_equipment": {
+        "protocol_id": 45
+      },
       "minecraft:recipe_crafted": {
-        "protocol_id": 53
+        "protocol_id": 54
       },
       "minecraft:recipe_unlocked": {
         "protocol_id": 5
       },
       "minecraft:ride_entity_in_lava": {
-        "protocol_id": 49
+        "protocol_id": 50
       },
       "minecraft:shot_crossbow": {
         "protocol_id": 31
@@ -18000,7 +18003,7 @@
         "protocol_id": 35
       },
       "minecraft:started_riding": {
-        "protocol_id": 45
+        "protocol_id": 46
       },
       "minecraft:summoned_entity": {
         "protocol_id": 13
@@ -18027,7 +18030,7 @@
         "protocol_id": 27
       },
       "minecraft:using_item": {
-        "protocol_id": 47
+        "protocol_id": 48
       },
       "minecraft:villager_trade": {
         "protocol_id": 18
