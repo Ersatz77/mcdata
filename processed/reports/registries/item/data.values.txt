@@ -795,6 +795,7 @@ minecraft:music_disc_chirp
 minecraft:music_disc_creator
 minecraft:music_disc_creator_music_box
 minecraft:music_disc_far
+minecraft:music_disc_lava_chicken
 minecraft:music_disc_mall
 minecraft:music_disc_mellohi
 minecraft:music_disc_otherside

@@ -1701,6 +1701,7 @@ minecraft:music_disc.chirp
 minecraft:music_disc.creator
 minecraft:music_disc.creator_music_box
 minecraft:music_disc.far
+minecraft:music_disc.lava_chicken
 minecraft:music_disc.mall
 minecraft:music_disc.mellohi
 minecraft:music_disc.otherside
