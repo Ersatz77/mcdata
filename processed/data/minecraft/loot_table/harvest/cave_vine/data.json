@@ -1,0 +1,16 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "minecraft:glow_berries",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:harvest/cave_vine",
+  "type": "minecraft:block_interact"
+}

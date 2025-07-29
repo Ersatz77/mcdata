@@ -7173,21 +7173,6 @@
           "executable": true,
           "type": "literal"
         },
-        "spawnChunkRadius": {
-          "children": {
-            "value": {
-              "executable": true,
-              "parser": "brigadier:integer",
-              "properties": {
-                "max": 32,
-                "min": 0
-              },
-              "type": "argument"
-            }
-          },
-          "executable": true,
-          "type": "literal"
-        },
         "spawnRadius": {
           "children": {
             "value": {

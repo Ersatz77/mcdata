@@ -26,6 +26,7 @@ minecraft:chest_minecart
 minecraft:chicken
 minecraft:cod
 minecraft:command_block_minecart
+minecraft:copper_golem
 minecraft:cow
 minecraft:creaking
 minecraft:creeper

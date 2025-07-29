@@ -55,6 +55,8 @@ minecraft:composter
 minecraft:concrete_powder
 minecraft:conduit
 minecraft:copper_bulb_block
+minecraft:copper_chest
+minecraft:copper_golem_statue
 minecraft:coral
 minecraft:coral_fan
 minecraft:coral_plant
@@ -179,6 +181,7 @@ minecraft:sculk_shrieker
 minecraft:sculk_vein
 minecraft:sea_pickle
 minecraft:seagrass
+minecraft:shelf
 minecraft:short_dry_grass
 minecraft:shulker_box
 minecraft:skull
@@ -238,12 +241,15 @@ minecraft:wall_torch
 minecraft:waterlily
 minecraft:waterlogged_transparent
 minecraft:weathering_copper_bulb
+minecraft:weathering_copper_chest
 minecraft:weathering_copper_door
 minecraft:weathering_copper_full
+minecraft:weathering_copper_golem_statue
 minecraft:weathering_copper_grate
 minecraft:weathering_copper_slab
 minecraft:weathering_copper_stair
 minecraft:weathering_copper_trap_door
+minecraft:weathering_lightning_rod
 minecraft:web
 minecraft:weeping_vines
 minecraft:weeping_vines_plant

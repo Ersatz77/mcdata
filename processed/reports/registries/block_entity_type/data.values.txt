@@ -14,6 +14,7 @@ minecraft:chiseled_bookshelf
 minecraft:command_block
 minecraft:comparator
 minecraft:conduit
+minecraft:copper_golem_statue
 minecraft:crafter
 minecraft:creaking_heart
 minecraft:daylight_detector
@@ -35,6 +36,7 @@ minecraft:piston
 minecraft:sculk_catalyst
 minecraft:sculk_sensor
 minecraft:sculk_shrieker
+minecraft:shelf
 minecraft:shulker_box
 minecraft:sign
 minecraft:skull

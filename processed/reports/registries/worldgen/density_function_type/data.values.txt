@@ -11,9 +11,11 @@ minecraft:clamp
 minecraft:constant
 minecraft:cube
 minecraft:end_islands
+minecraft:find_top_surface
 minecraft:flat_cache
 minecraft:half_negative
 minecraft:interpolated
+minecraft:invert
 minecraft:max
 minecraft:min
 minecraft:mul

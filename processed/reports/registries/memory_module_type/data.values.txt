@@ -97,6 +97,7 @@ minecraft:temptation_cooldown_ticks
 minecraft:tempting_player
 minecraft:time_trying_to_reach_admire_item
 minecraft:touch_cooldown
+minecraft:transport_items_cooldown_ticks
 minecraft:universal_anger
 minecraft:unreachable_tongue_targets
 minecraft:vibration_cooldown
@@ -104,4 +105,5 @@ minecraft:visible_adult_hoglin_count
 minecraft:visible_adult_piglin_count
 minecraft:visible_mobs
 minecraft:visible_villager_babies
+minecraft:visited_block_positions
 minecraft:walk_target

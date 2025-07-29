@@ -40,6 +40,9 @@ minecraft:combination_step_sound_blocks
 minecraft:completes_find_tree_tutorial
 minecraft:concrete_powder
 minecraft:convertable_to_mud
+minecraft:copper
+minecraft:copper_chests
+minecraft:copper_golem_statues
 minecraft:copper_ores
 minecraft:coral_blocks
 minecraft:coral_plants
@@ -81,6 +84,7 @@ minecraft:happy_ghast_avoids
 minecraft:hoglin_repellents
 minecraft:ice
 minecraft:impermeable
+minecraft:incorrect_for_copper_tool
 minecraft:incorrect_for_diamond_tool
 minecraft:incorrect_for_gold_tool
 minecraft:incorrect_for_iron_tool
@@ -97,6 +101,7 @@ minecraft:jungle_logs
 minecraft:lapis_ores
 minecraft:lava_pool_stone_cannot_replace
 minecraft:leaves
+minecraft:lightning_rods
 minecraft:logs
 minecraft:logs_that_burn
 minecraft:lush_ground_replaceable
@@ -187,6 +192,7 @@ minecraft:wooden_buttons
 minecraft:wooden_doors
 minecraft:wooden_fences
 minecraft:wooden_pressure_plates
+minecraft:wooden_shelves
 minecraft:wooden_slabs
 minecraft:wooden_stairs
 minecraft:wooden_trapdoors

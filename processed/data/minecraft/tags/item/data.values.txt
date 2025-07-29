@@ -29,7 +29,11 @@ minecraft:coal_ores
 minecraft:coals
 minecraft:compasses
 minecraft:completes_find_tree_tutorial
+minecraft:copper
+minecraft:copper_chests
+minecraft:copper_golem_statues
 minecraft:copper_ores
+minecraft:copper_tool_materials
 minecraft:cow_food
 minecraft:creeper_drop_music_discs
 minecraft:creeper_igniters
@@ -96,6 +100,7 @@ minecraft:lapis_ores
 minecraft:leaves
 minecraft:lectern_books
 minecraft:leg_armor
+minecraft:lightning_rods
 minecraft:llama_food
 minecraft:llama_tempt_items
 minecraft:logs
@@ -126,6 +131,7 @@ minecraft:rabbit_food
 minecraft:rails
 minecraft:redstone_ores
 minecraft:repairs_chain_armor
+minecraft:repairs_copper_armor
 minecraft:repairs_diamond_armor
 minecraft:repairs_gold_armor
 minecraft:repairs_iron_armor
@@ -171,6 +177,7 @@ minecraft:wooden_buttons
 minecraft:wooden_doors
 minecraft:wooden_fences
 minecraft:wooden_pressure_plates
+minecraft:wooden_shelves
 minecraft:wooden_slabs
 minecraft:wooden_stairs
 minecraft:wooden_tool_materials

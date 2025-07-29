@@ -5,8 +5,9 @@
     "minecraft:forced",
     "minecraft:player_loading",
     "minecraft:player_simulation",
+    "minecraft:player_spawn",
     "minecraft:portal",
-    "minecraft:start",
+    "minecraft:spawn_search",
     "minecraft:unknown"
   ]
 }

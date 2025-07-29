@@ -93,6 +93,11 @@
           "weight": 8
         },
         {
+          "name": "minecraft:copper_horse_armor",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
           "name": "minecraft:iron_horse_armor",
           "type": "minecraft:item",
           "weight": 5
