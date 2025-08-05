@@ -11,6 +11,7 @@ minecraft:campfire_signal_smoke
 minecraft:cherry_leaves
 minecraft:cloud
 minecraft:composter
+minecraft:copper_fire_flame
 minecraft:crimson_spore
 minecraft:crit
 minecraft:current_down

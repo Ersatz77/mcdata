@@ -240,7 +240,9 @@ minecraft:wall_skull
 minecraft:wall_torch
 minecraft:waterlily
 minecraft:waterlogged_transparent
+minecraft:weathering_copper_bar
 minecraft:weathering_copper_bulb
+minecraft:weathering_copper_chain
 minecraft:weathering_copper_chest
 minecraft:weathering_copper_door
 minecraft:weathering_copper_full
@@ -249,6 +251,7 @@ minecraft:weathering_copper_grate
 minecraft:weathering_copper_slab
 minecraft:weathering_copper_stair
 minecraft:weathering_copper_trap_door
+minecraft:weathering_lantern
 minecraft:weathering_lightning_rod
 minecraft:web
 minecraft:weeping_vines

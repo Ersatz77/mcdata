@@ -6,6 +6,7 @@ minecraft:axes
 minecraft:axolotl_food
 minecraft:bamboo_blocks
 minecraft:banners
+minecraft:bars
 minecraft:beacon_payment_items
 minecraft:beds
 minecraft:bee_food
@@ -20,6 +21,7 @@ minecraft:buttons
 minecraft:camel_food
 minecraft:candles
 minecraft:cat_food
+minecraft:chains
 minecraft:cherry_logs
 minecraft:chest_armor
 minecraft:chest_boats
@@ -96,6 +98,7 @@ minecraft:ignored_by_piglin_babies
 minecraft:iron_ores
 minecraft:iron_tool_materials
 minecraft:jungle_logs
+minecraft:lanterns
 minecraft:lapis_ores
 minecraft:leaves
 minecraft:lectern_books

@@ -3732,6 +3732,37 @@
       ]
     }
   },
+  "minecraft:copper_bars": {
+    "default": {
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "waterlogged": "false",
+      "west": "false"
+    },
+    "properties": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:copper_block": {
     "default": {},
     "properties": {}
@@ -3747,6 +3778,23 @@
         "false"
       ],
       "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:copper_chain": {
+    "default": {
+      "axis": "y",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ],
+      "waterlogged": [
         "true",
         "false"
       ]
@@ -3845,7 +3893,27 @@
       ]
     }
   },
+  "minecraft:copper_lantern": {
+    "default": {
+      "hanging": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "hanging": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:copper_ore": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:copper_torch": {
     "default": {},
     "properties": {}
   },
@@ -3879,6 +3947,19 @@
       "waterlogged": [
         "true",
         "false"
+      ]
+    }
+  },
+  "minecraft:copper_wall_torch": {
+    "default": {
+      "facing": "north"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
       ]
     }
   },
@@ -6085,6 +6166,37 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:exposed_copper_bars": {
+    "default": {
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "waterlogged": "false",
+      "west": "false"
+    },
+    "properties": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:exposed_copper_bulb": {
     "default": {
       "lit": "false",
@@ -6096,6 +6208,23 @@
         "false"
       ],
       "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:exposed_copper_chain": {
+    "default": {
+      "axis": "y",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ],
+      "waterlogged": [
         "true",
         "false"
       ]
@@ -6188,6 +6317,22 @@
       "waterlogged": "false"
     },
     "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:exposed_copper_lantern": {
+    "default": {
+      "hanging": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "hanging": [
+        "true",
+        "false"
+      ],
       "waterlogged": [
         "true",
         "false"
@@ -10549,6 +10694,37 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:oxidized_copper_bars": {
+    "default": {
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "waterlogged": "false",
+      "west": "false"
+    },
+    "properties": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:oxidized_copper_bulb": {
     "default": {
       "lit": "false",
@@ -10560,6 +10736,23 @@
         "false"
       ],
       "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:oxidized_copper_chain": {
+    "default": {
+      "axis": "y",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ],
+      "waterlogged": [
         "true",
         "false"
       ]
@@ -10652,6 +10845,22 @@
       "waterlogged": "false"
     },
     "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:oxidized_copper_lantern": {
+    "default": {
+      "hanging": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "hanging": [
+        "true",
+        "false"
+      ],
       "waterlogged": [
         "true",
         "false"
@@ -16402,6 +16611,37 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:waxed_copper_bars": {
+    "default": {
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "waterlogged": "false",
+      "west": "false"
+    },
+    "properties": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:waxed_copper_block": {
     "default": {},
     "properties": {}
@@ -16417,6 +16657,23 @@
         "false"
       ],
       "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:waxed_copper_chain": {
+    "default": {
+      "axis": "y",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ],
+      "waterlogged": [
         "true",
         "false"
       ]
@@ -16509,6 +16766,22 @@
       "waterlogged": "false"
     },
     "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:waxed_copper_lantern": {
+    "default": {
+      "hanging": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "hanging": [
+        "true",
+        "false"
+      ],
       "waterlogged": [
         "true",
         "false"
@@ -16608,6 +16881,37 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:waxed_exposed_copper_bars": {
+    "default": {
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "waterlogged": "false",
+      "west": "false"
+    },
+    "properties": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:waxed_exposed_copper_bulb": {
     "default": {
       "lit": "false",
@@ -16619,6 +16923,23 @@
         "false"
       ],
       "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:waxed_exposed_copper_chain": {
+    "default": {
+      "axis": "y",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ],
+      "waterlogged": [
         "true",
         "false"
       ]
@@ -16711,6 +17032,22 @@
       "waterlogged": "false"
     },
     "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:waxed_exposed_copper_lantern": {
+    "default": {
+      "hanging": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "hanging": [
+        "true",
+        "false"
+      ],
       "waterlogged": [
         "true",
         "false"
@@ -16860,6 +17197,37 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:waxed_oxidized_copper_bars": {
+    "default": {
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "waterlogged": "false",
+      "west": "false"
+    },
+    "properties": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:waxed_oxidized_copper_bulb": {
     "default": {
       "lit": "false",
@@ -16871,6 +17239,23 @@
         "false"
       ],
       "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:waxed_oxidized_copper_chain": {
+    "default": {
+      "axis": "y",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ],
+      "waterlogged": [
         "true",
         "false"
       ]
@@ -16963,6 +17348,22 @@
       "waterlogged": "false"
     },
     "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:waxed_oxidized_copper_lantern": {
+    "default": {
+      "hanging": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "hanging": [
+        "true",
+        "false"
+      ],
       "waterlogged": [
         "true",
         "false"
@@ -17087,6 +17488,37 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:waxed_weathered_copper_bars": {
+    "default": {
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "waterlogged": "false",
+      "west": "false"
+    },
+    "properties": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:waxed_weathered_copper_bulb": {
     "default": {
       "lit": "false",
@@ -17098,6 +17530,23 @@
         "false"
       ],
       "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:waxed_weathered_copper_chain": {
+    "default": {
+      "axis": "y",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ],
+      "waterlogged": [
         "true",
         "false"
       ]
@@ -17190,6 +17639,22 @@
       "waterlogged": "false"
     },
     "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:waxed_weathered_copper_lantern": {
+    "default": {
+      "hanging": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "hanging": [
+        "true",
+        "false"
+      ],
       "waterlogged": [
         "true",
         "false"
@@ -17314,6 +17779,37 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:weathered_copper_bars": {
+    "default": {
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "waterlogged": "false",
+      "west": "false"
+    },
+    "properties": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:weathered_copper_bulb": {
     "default": {
       "lit": "false",
@@ -17325,6 +17821,23 @@
         "false"
       ],
       "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:weathered_copper_chain": {
+    "default": {
+      "axis": "y",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ],
+      "waterlogged": [
         "true",
         "false"
       ]
@@ -17417,6 +17930,22 @@
       "waterlogged": "false"
     },
     "properties": {
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:weathered_copper_lantern": {
+    "default": {
+      "hanging": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "hanging": [
+        "true",
+        "false"
+      ],
       "waterlogged": [
         "true",
         "false"
