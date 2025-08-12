@@ -144,6 +144,7 @@ minecraft:repairs_turtle_helmet
 minecraft:repairs_wolf_armor
 minecraft:sand
 minecraft:saplings
+minecraft:shearable_from_copper_golem
 minecraft:sheep_food
 minecraft:shovels
 minecraft:shulker_boxes

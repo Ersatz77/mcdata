@@ -216,12 +216,17 @@
   },
   "minecraft:acacia_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -887,12 +892,17 @@
   },
   "minecraft:bamboo_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -1455,12 +1465,17 @@
   },
   "minecraft:birch_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -3071,12 +3086,17 @@
   },
   "minecraft:cherry_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -4285,12 +4305,17 @@
   },
   "minecraft:crimson_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -4982,12 +5007,17 @@
   },
   "minecraft:dark_oak_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -7752,12 +7782,17 @@
   },
   "minecraft:jungle_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -9225,12 +9260,17 @@
   },
   "minecraft:mangrove_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -10273,12 +10313,17 @@
   },
   "minecraft:oak_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -11252,12 +11297,17 @@
   },
   "minecraft:pale_oak_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -14835,12 +14885,17 @@
   },
   "minecraft:spruce_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",
@@ -16379,12 +16434,17 @@
   },
   "minecraft:warped_shelf": {
     "default": {
+      "align_items_to_bottom": "false",
       "facing": "north",
       "powered": "false",
       "side_chain": "unconnected",
       "waterlogged": "false"
     },
     "properties": {
+      "align_items_to_bottom": [
+        "true",
+        "false"
+      ],
       "facing": [
         "north",
         "south",

@@ -926,6 +926,7 @@ minecraft:entity.copper_golem.item_drop
 minecraft:entity.copper_golem.item_no_drop
 minecraft:entity.copper_golem.no_item_get
 minecraft:entity.copper_golem.no_item_no_get
+minecraft:entity.copper_golem.shear
 minecraft:entity.copper_golem.spawn
 minecraft:entity.copper_golem.spin
 minecraft:entity.copper_golem.step
@@ -1764,5 +1765,6 @@ minecraft:ui.stonecutter.take_result
 minecraft:ui.toast.challenge_complete
 minecraft:ui.toast.in
 minecraft:ui.toast.out
+minecraft:weather.end_flash
 minecraft:weather.rain
 minecraft:weather.rain.above

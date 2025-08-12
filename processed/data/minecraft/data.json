@@ -4566,6 +4566,7 @@
       "minecraft:wool_carpets"
     ],
     "entity_type": [
+      "minecraft:accepts_iron_golem_gift",
       "minecraft:aquatic",
       "minecraft:arrows",
       "minecraft:arthropod",
@@ -4578,6 +4579,8 @@
       "minecraft:can_equip_saddle",
       "minecraft:can_turn_in_boats",
       "minecraft:can_wear_horse_armor",
+      "minecraft:candidate_for_iron_golem_gift",
+      "minecraft:cannot_be_pushed_onto_boats",
       "minecraft:deflects_projectiles",
       "minecraft:dismounts_underwater",
       "minecraft:fall_damage_immune",
@@ -4764,6 +4767,7 @@
       "minecraft:repairs_wolf_armor",
       "minecraft:sand",
       "minecraft:saplings",
+      "minecraft:shearable_from_copper_golem",
       "minecraft:sheep_food",
       "minecraft:shovels",
       "minecraft:shulker_boxes",

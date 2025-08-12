@@ -1,3 +1,4 @@
+minecraft:accepts_iron_golem_gift
 minecraft:aquatic
 minecraft:arrows
 minecraft:arthropod
@@ -10,6 +11,8 @@ minecraft:can_equip_harness
 minecraft:can_equip_saddle
 minecraft:can_turn_in_boats
 minecraft:can_wear_horse_armor
+minecraft:candidate_for_iron_golem_gift
+minecraft:cannot_be_pushed_onto_boats
 minecraft:deflects_projectiles
 minecraft:dismounts_underwater
 minecraft:fall_damage_immune
