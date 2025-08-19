@@ -6358,6 +6358,35 @@
       "required_level": 2,
       "type": "literal"
     },
+    "fetchprofile": {
+      "children": {
+        "id": {
+          "children": {
+            "id": {
+              "executable": true,
+              "parser": "minecraft:uuid",
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
+        "name": {
+          "children": {
+            "name": {
+              "executable": true,
+              "parser": "brigadier:string",
+              "properties": {
+                "type": "greedy"
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        }
+      },
+      "required_level": 2,
+      "type": "literal"
+    },
     "fill": {
       "children": {
         "from": {

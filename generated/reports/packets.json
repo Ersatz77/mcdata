@@ -4,6 +4,9 @@
       "minecraft:clear_dialog": {
         "protocol_id": 17
       },
+      "minecraft:code_of_conduct": {
+        "protocol_id": 19
+      },
       "minecraft:cookie_request": {
         "protocol_id": 0
       },
@@ -60,6 +63,9 @@
       }
     },
     "serverbound": {
+      "minecraft:accept_code_of_conduct": {
+        "protocol_id": 9
+      },
       "minecraft:client_information": {
         "protocol_id": 0
       },

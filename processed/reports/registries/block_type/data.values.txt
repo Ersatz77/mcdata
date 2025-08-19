@@ -90,7 +90,6 @@ minecraft:fence
 minecraft:fence_gate
 minecraft:fire
 minecraft:firefly_bush
-minecraft:fletching_table
 minecraft:flower
 minecraft:flower_bed
 minecraft:flower_pot
