@@ -155,7 +155,6 @@ minecraft:blocks/carved_pumpkin
 minecraft:blocks/cauldron
 minecraft:blocks/cave_vines
 minecraft:blocks/cave_vines_plant
-minecraft:blocks/chain
 minecraft:blocks/cherry_button
 minecraft:blocks/cherry_door
 minecraft:blocks/cherry_fence
@@ -437,6 +436,7 @@ minecraft:blocks/infested_stone
 minecraft:blocks/infested_stone_bricks
 minecraft:blocks/iron_bars
 minecraft:blocks/iron_block
+minecraft:blocks/iron_chain
 minecraft:blocks/iron_door
 minecraft:blocks/iron_ore
 minecraft:blocks/iron_trapdoor

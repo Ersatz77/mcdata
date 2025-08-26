@@ -224,6 +224,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:incoming_rpc_methods": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:input_control_type": {
       "elements": false,
       "stable": true,
@@ -310,6 +315,11 @@
       "tags": true
     },
     "minecraft:number_format_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:outgoing_rpc_methods": {
       "elements": false,
       "stable": true,
       "tags": true

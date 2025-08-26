@@ -151,7 +151,6 @@ minecraft:candle
 minecraft:carrot_on_a_stick
 minecraft:cartography_table
 minecraft:cauldron
-minecraft:chain
 minecraft:charcoal
 minecraft:cherry_boat
 minecraft:cherry_button
@@ -626,6 +625,7 @@ minecraft:iron_axe
 minecraft:iron_bars
 minecraft:iron_block
 minecraft:iron_boots
+minecraft:iron_chain
 minecraft:iron_chestplate
 minecraft:iron_door
 minecraft:iron_helmet

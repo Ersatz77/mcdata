@@ -6659,6 +6659,17 @@
     },
     "gamerule": {
       "children": {
+        "allowEnteringNetherUsingPortals": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "allowFireTicksAwayFromPlayer": {
           "children": {
             "value": {
@@ -6912,6 +6923,17 @@
           "executable": true,
           "type": "literal"
         },
+        "enableCommandBlocks": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "enderPearlsVanishOnDeath": {
           "children": {
             "value": {
@@ -7147,6 +7169,17 @@
           "executable": true,
           "type": "literal"
         },
+        "pvp": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "randomTickSpeed": {
           "children": {
             "value": {
@@ -7196,6 +7229,17 @@
             "value": {
               "executable": true,
               "parser": "brigadier:integer",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "spawnMonsters": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
               "type": "argument"
             }
           },

@@ -648,6 +648,7 @@ minecraft:block.shelf.place
 minecraft:block.shelf.place_item
 minecraft:block.shelf.single_swap
 minecraft:block.shelf.step
+minecraft:block.shelf.take_item
 minecraft:block.shroomlight.break
 minecraft:block.shroomlight.fall
 minecraft:block.shroomlight.hit

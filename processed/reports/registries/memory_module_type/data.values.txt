@@ -100,6 +100,7 @@ minecraft:touch_cooldown
 minecraft:transport_items_cooldown_ticks
 minecraft:universal_anger
 minecraft:unreachable_tongue_targets
+minecraft:unreachable_transport_block_positions
 minecraft:vibration_cooldown
 minecraft:visible_adult_hoglin_count
 minecraft:visible_adult_piglin_count

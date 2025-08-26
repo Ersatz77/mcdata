@@ -202,7 +202,6 @@ minecraft:carved_pumpkin
 minecraft:cat_spawn_egg
 minecraft:cauldron
 minecraft:cave_spider_spawn_egg
-minecraft:chain
 minecraft:chain_command_block
 minecraft:chainmail_boots
 minecraft:chainmail_chestplate
@@ -639,6 +638,7 @@ minecraft:iron_axe
 minecraft:iron_bars
 minecraft:iron_block
 minecraft:iron_boots
+minecraft:iron_chain
 minecraft:iron_chestplate
 minecraft:iron_door
 minecraft:iron_golem_spawn_egg

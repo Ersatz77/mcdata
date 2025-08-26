@@ -165,7 +165,6 @@ minecraft:cauldron
 minecraft:cave_air
 minecraft:cave_vines
 minecraft:cave_vines_plant
-minecraft:chain
 minecraft:chain_command_block
 minecraft:cherry_button
 minecraft:cherry_door
@@ -471,6 +470,7 @@ minecraft:infested_stone
 minecraft:infested_stone_bricks
 minecraft:iron_bars
 minecraft:iron_block
+minecraft:iron_chain
 minecraft:iron_door
 minecraft:iron_ore
 minecraft:iron_trapdoor

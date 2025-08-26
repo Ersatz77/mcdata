@@ -2817,23 +2817,6 @@
       ]
     }
   },
-  "minecraft:chain": {
-    "default": {
-      "axis": "y",
-      "waterlogged": "false"
-    },
-    "properties": {
-      "axis": [
-        "x",
-        "y",
-        "z"
-      ],
-      "waterlogged": [
-        "true",
-        "false"
-      ]
-    }
-  },
   "minecraft:chain_command_block": {
     "default": {
       "conditional": "false",
@@ -7419,6 +7402,23 @@
   "minecraft:iron_block": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:iron_chain": {
+    "default": {
+      "axis": "y",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:iron_door": {
     "default": {

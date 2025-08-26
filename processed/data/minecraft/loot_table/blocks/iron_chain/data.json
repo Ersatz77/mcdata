@@ -9,13 +9,13 @@
       ],
       "entries": [
         {
-          "name": "minecraft:chain",
+          "name": "minecraft:iron_chain",
           "type": "minecraft:item"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "minecraft:blocks/chain",
+  "random_sequence": "minecraft:blocks/iron_chain",
   "type": "minecraft:block"
 }
