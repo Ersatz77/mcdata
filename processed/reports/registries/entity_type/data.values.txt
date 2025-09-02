@@ -82,6 +82,7 @@ minecraft:llama_spit
 minecraft:magma_cube
 minecraft:mangrove_boat
 minecraft:mangrove_chest_boat
+minecraft:mannequin
 minecraft:marker
 minecraft:minecart
 minecraft:mooshroom

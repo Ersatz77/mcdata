@@ -1195,6 +1195,7 @@ minecraft:entities/illusioner
 minecraft:entities/iron_golem
 minecraft:entities/llama
 minecraft:entities/magma_cube
+minecraft:entities/mannequin
 minecraft:entities/mooshroom
 minecraft:entities/mule
 minecraft:entities/ocelot
