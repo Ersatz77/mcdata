@@ -6714,6 +6714,17 @@
           "executable": true,
           "type": "literal"
         },
+        "commandBlocksEnabled": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
         "commandModificationBlockLimit": {
           "children": {
             "value": {
@@ -6913,17 +6924,6 @@
           "type": "literal"
         },
         "drowningDamage": {
-          "children": {
-            "value": {
-              "executable": true,
-              "parser": "brigadier:bool",
-              "type": "argument"
-            }
-          },
-          "executable": true,
-          "type": "literal"
-        },
-        "enableCommandBlocks": {
           "children": {
             "value": {
               "executable": true,
@@ -7251,6 +7251,17 @@
             "value": {
               "executable": true,
               "parser": "brigadier:integer",
+              "type": "argument"
+            }
+          },
+          "executable": true,
+          "type": "literal"
+        },
+        "spawnerBlocksEnabled": {
+          "children": {
+            "value": {
+              "executable": true,
+              "parser": "brigadier:bool",
               "type": "argument"
             }
           },

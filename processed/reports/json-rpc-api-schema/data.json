@@ -406,7 +406,7 @@
         "name": "banlist",
         "schema": {
           "items": {
-            "$ref": "#/components/schemas/player"
+            "$ref": "#/components/schemas/ip_ban"
           },
           "type": "array"
         }

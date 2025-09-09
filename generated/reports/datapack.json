@@ -114,6 +114,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:debug_subscription": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:decorated_pot_pattern": {
       "elements": false,
       "stable": true,

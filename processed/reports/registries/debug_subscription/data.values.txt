@@ -1,0 +1,16 @@
+minecraft:bee_hives
+minecraft:bees
+minecraft:brains
+minecraft:breezes
+minecraft:dedicated_server_tick_time
+minecraft:entity_block_intersections
+minecraft:entity_paths
+minecraft:game_event_listeners
+minecraft:game_events
+minecraft:goal_selectors
+minecraft:neighbor_updates
+minecraft:pois
+minecraft:raids
+minecraft:redstone_wire_orientations
+minecraft:structures
+minecraft:village_sections
