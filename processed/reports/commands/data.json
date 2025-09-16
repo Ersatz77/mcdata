@@ -10147,9 +10147,9 @@
       "children": {
         "pos": {
           "children": {
-            "angle": {
+            "rotation": {
               "executable": true,
-              "parser": "minecraft:angle",
+              "parser": "minecraft:rotation",
               "type": "argument"
             }
           },
@@ -10168,9 +10168,9 @@
           "children": {
             "pos": {
               "children": {
-                "angle": {
+                "rotation": {
                   "executable": true,
-                  "parser": "minecraft:angle",
+                  "parser": "minecraft:rotation",
                   "type": "argument"
                 }
               },

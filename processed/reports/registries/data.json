@@ -12359,52 +12359,52 @@
   },
   "minecraft:outgoing_rpc_methods": {
     "entries": {
-      "notification:allowlist/added": {
+      "minecraft:notification/allowlist/added": {
         "protocol_id": 8
       },
-      "notification:allowlist/removed": {
+      "minecraft:notification/allowlist/removed": {
         "protocol_id": 9
       },
-      "notification:bans/added": {
+      "minecraft:notification/bans/added": {
         "protocol_id": 12
       },
-      "notification:bans/removed": {
+      "minecraft:notification/bans/removed": {
         "protocol_id": 13
       },
-      "notification:gamerules/updated": {
+      "minecraft:notification/gamerules/updated": {
         "protocol_id": 14
       },
-      "notification:ip_bans/added": {
+      "minecraft:notification/ip_bans/added": {
         "protocol_id": 10
       },
-      "notification:ip_bans/removed": {
+      "minecraft:notification/ip_bans/removed": {
         "protocol_id": 11
       },
-      "notification:operators/added": {
+      "minecraft:notification/operators/added": {
         "protocol_id": 6
       },
-      "notification:operators/removed": {
+      "minecraft:notification/operators/removed": {
         "protocol_id": 7
       },
-      "notification:players/joined": {
+      "minecraft:notification/players/joined": {
         "protocol_id": 4
       },
-      "notification:players/left": {
+      "minecraft:notification/players/left": {
         "protocol_id": 5
       },
-      "notification:server/saved": {
+      "minecraft:notification/server/saved": {
         "protocol_id": 3
       },
-      "notification:server/saving": {
+      "minecraft:notification/server/saving": {
         "protocol_id": 2
       },
-      "notification:server/started": {
+      "minecraft:notification/server/started": {
         "protocol_id": 0
       },
-      "notification:server/status": {
+      "minecraft:notification/server/status": {
         "protocol_id": 15
       },
-      "notification:server/stopping": {
+      "minecraft:notification/server/stopping": {
         "protocol_id": 1
       }
     },
