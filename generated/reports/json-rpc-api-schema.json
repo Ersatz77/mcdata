@@ -62,11 +62,8 @@
           "message": {
             "$ref": "#/components/schemas/message"
           },
-          "players": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/player"
-            }
+          "player": {
+            "$ref": "#/components/schemas/player"
           }
         }
       },
