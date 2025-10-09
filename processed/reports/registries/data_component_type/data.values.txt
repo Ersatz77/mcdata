@@ -25,6 +25,7 @@ minecraft:custom_model_data
 minecraft:custom_name
 minecraft:damage
 minecraft:damage_resistant
+minecraft:damage_type
 minecraft:death_protection
 minecraft:debug_stick_state
 minecraft:dyed_color
@@ -45,6 +46,7 @@ minecraft:intangible_projectile
 minecraft:item_model
 minecraft:item_name
 minecraft:jukebox_playable
+minecraft:kinetic_weapon
 minecraft:llama/variant
 minecraft:lock
 minecraft:lodestone_tracker
@@ -55,11 +57,13 @@ minecraft:map_id
 minecraft:map_post_processing
 minecraft:max_damage
 minecraft:max_stack_size
+minecraft:minimum_attack_charge
 minecraft:mooshroom/variant
 minecraft:note_block_sound
 minecraft:ominous_bottle_amplifier
 minecraft:painting/variant
 minecraft:parrot/variant
+minecraft:piercing_weapon
 minecraft:pig/variant
 minecraft:pot_decorations
 minecraft:potion_contents
@@ -77,6 +81,7 @@ minecraft:sheep/color
 minecraft:shulker/color
 minecraft:stored_enchantments
 minecraft:suspicious_stew_effects
+minecraft:swing_animation
 minecraft:tool
 minecraft:tooltip_display
 minecraft:tooltip_style
@@ -86,6 +91,7 @@ minecraft:tropical_fish/pattern
 minecraft:tropical_fish/pattern_color
 minecraft:unbreakable
 minecraft:use_cooldown
+minecraft:use_effects
 minecraft:use_remainder
 minecraft:villager/variant
 minecraft:weapon

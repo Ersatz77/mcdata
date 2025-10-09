@@ -339,6 +339,16 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:permission_check_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:permission_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:pig_variant": {
       "elements": true,
       "stable": false,

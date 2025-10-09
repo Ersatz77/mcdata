@@ -11,6 +11,7 @@
     "minecraft:notification/operators/removed",
     "minecraft:notification/players/joined",
     "minecraft:notification/players/left",
+    "minecraft:notification/server/activity",
     "minecraft:notification/server/saved",
     "minecraft:notification/server/saving",
     "minecraft:notification/server/started",

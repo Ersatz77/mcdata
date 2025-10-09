@@ -66,11 +66,13 @@
     "minecraft:enchantable/foot_armor",
     "minecraft:enchantable/head_armor",
     "minecraft:enchantable/leg_armor",
+    "minecraft:enchantable/lunge",
     "minecraft:enchantable/mace",
+    "minecraft:enchantable/melee_weapon",
     "minecraft:enchantable/mining",
     "minecraft:enchantable/mining_loot",
     "minecraft:enchantable/sharp_weapon",
-    "minecraft:enchantable/sword",
+    "minecraft:enchantable/sweeping",
     "minecraft:enchantable/trident",
     "minecraft:enchantable/vanishing",
     "minecraft:enchantable/weapon",
@@ -113,6 +115,9 @@
     "minecraft:mangrove_logs",
     "minecraft:map_invisibility_equipment",
     "minecraft:meat",
+    "minecraft:nautilus_bucket_food",
+    "minecraft:nautilus_food",
+    "minecraft:nautilus_taming_items",
     "minecraft:netherite_tool_materials",
     "minecraft:non_flammable_wood",
     "minecraft:noteblock_top_instruments",
@@ -158,6 +163,7 @@
     "minecraft:smelts_to_glass",
     "minecraft:sniffer_food",
     "minecraft:soul_fire_base_blocks",
+    "minecraft:spears",
     "minecraft:spruce_logs",
     "minecraft:stairs",
     "minecraft:stone_bricks",
@@ -189,6 +195,7 @@
     "minecraft:wooden_tool_materials",
     "minecraft:wooden_trapdoors",
     "minecraft:wool",
-    "minecraft:wool_carpets"
+    "minecraft:wool_carpets",
+    "minecraft:zombie_horse_food"
   ]
 }

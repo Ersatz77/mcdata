@@ -4,6 +4,7 @@ minecraft:angry_at
 minecraft:ate_recently
 minecraft:attack_cooling_down
 minecraft:attack_target
+minecraft:attack_target_cooldown
 minecraft:avoid_target
 minecraft:breed_target
 minecraft:breeze_jump_cooldown
@@ -16,6 +17,7 @@ minecraft:breeze_shoot_cooldown
 minecraft:breeze_shoot_recover
 minecraft:cant_reach_walk_target_since
 minecraft:celebrate_location
+minecraft:charge_cooldown_ticks
 minecraft:dancing
 minecraft:danger_detected_recently
 minecraft:dig_cooldown

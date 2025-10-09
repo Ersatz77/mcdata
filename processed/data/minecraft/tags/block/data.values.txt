@@ -29,6 +29,7 @@ minecraft:buttons
 minecraft:camel_sand_step_sound_blocks
 minecraft:camels_spawnable_on
 minecraft:campfires
+minecraft:can_glide_through
 minecraft:candle_cakes
 minecraft:candles
 minecraft:cauldrons

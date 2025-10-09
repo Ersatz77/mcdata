@@ -13,6 +13,7 @@ minecraft:happy_ghast_temptations
 minecraft:hoglin_specific_sensor
 minecraft:hurt_by
 minecraft:is_in_water
+minecraft:nautilus_temptations
 minecraft:nearest_adult
 minecraft:nearest_adult_any_type
 minecraft:nearest_bed

@@ -165,7 +165,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "attribute": {
@@ -297,7 +303,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "ban": {
@@ -315,7 +327,13 @@
           "type": "argument"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "ban-ip": {
@@ -336,7 +354,13 @@
           "type": "argument"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "banlist": {
@@ -351,7 +375,13 @@
         }
       },
       "executable": true,
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "bossbar": {
@@ -544,7 +574,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "clear": {
@@ -577,7 +613,13 @@
         }
       },
       "executable": true,
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "clone": {
@@ -1172,7 +1214,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "damage": {
@@ -1248,7 +1296,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "data": {
@@ -4182,7 +4236,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "datapack": {
@@ -4204,7 +4264,13 @@
               "type": "argument"
             }
           },
-          "required_level": 4,
+          "permissions": {
+            "permission": {
+              "level": "owners",
+              "type": "minecraft:command_level"
+            },
+            "type": "minecraft:require"
+          },
           "type": "literal"
         },
         "disable": {
@@ -4284,7 +4350,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "debug": {
@@ -4297,7 +4369,13 @@
               "type": "argument"
             }
           },
-          "required_level": 3,
+          "permissions": {
+            "permission": {
+              "level": "admins",
+              "type": "minecraft:command_level"
+            },
+            "type": "minecraft:require"
+          },
           "type": "literal"
         },
         "start": {
@@ -4309,7 +4387,13 @@
           "type": "literal"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "defaultgamemode": {
@@ -4320,7 +4404,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "deop": {
@@ -4331,7 +4421,13 @@
           "type": "argument"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "dialog": {
@@ -4371,7 +4467,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "difficulty": {
@@ -4394,7 +4496,13 @@
         }
       },
       "executable": true,
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "effect": {
@@ -4499,7 +4607,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "enchant": {
@@ -4533,7 +4647,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "execute": {
@@ -5039,6 +5159,25 @@
                   "properties": {
                     "amount": "single"
                   },
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
+            },
+            "stopwatch": {
+              "children": {
+                "id": {
+                  "children": {
+                    "range": {
+                      "executable": true,
+                      "parser": "minecraft:float_range",
+                      "redirect": [
+                        "execute"
+                      ],
+                      "type": "argument"
+                    }
+                  },
+                  "parser": "minecraft:resource_location",
                   "type": "argument"
                 }
               },
@@ -6258,12 +6397,37 @@
                 }
               },
               "type": "literal"
+            },
+            "stopwatch": {
+              "children": {
+                "id": {
+                  "children": {
+                    "range": {
+                      "executable": true,
+                      "parser": "minecraft:float_range",
+                      "redirect": [
+                        "execute"
+                      ],
+                      "type": "argument"
+                    }
+                  },
+                  "parser": "minecraft:resource_location",
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
             }
           },
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "experience": {
@@ -6355,7 +6519,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "fetchprofile": {
@@ -6384,7 +6554,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "fill": {
@@ -6458,7 +6634,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "fillbiome": {
@@ -6499,7 +6681,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "forceload": {
@@ -6554,7 +6742,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "function": {
@@ -6632,7 +6826,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "gamemode": {
@@ -6654,7 +6854,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "gamerule": {
@@ -7324,7 +7530,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "give": {
@@ -7355,7 +7567,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "help": {
@@ -7623,7 +7841,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "jfr": {
@@ -7637,7 +7861,13 @@
           "type": "literal"
         }
       },
-      "required_level": 4,
+      "permissions": {
+        "permission": {
+          "level": "owners",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "kick": {
@@ -7659,7 +7889,13 @@
           "type": "argument"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "kill": {
@@ -7675,7 +7911,13 @@
         }
       },
       "executable": true,
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "list": {
@@ -7730,7 +7972,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "loot": {
@@ -8394,7 +8642,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "me": {
@@ -8435,7 +8689,13 @@
           "type": "argument"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "pardon": {
@@ -8446,7 +8706,13 @@
           "type": "argument"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "pardon-ip": {
@@ -8460,7 +8726,13 @@
           "type": "argument"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "particle": {
@@ -8535,7 +8807,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "perf": {
@@ -8549,7 +8827,13 @@
           "type": "literal"
         }
       },
-      "required_level": 4,
+      "permissions": {
+        "permission": {
+          "level": "owners",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "place": {
@@ -8686,7 +8970,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "playsound": {
@@ -9293,7 +9583,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "publish": {
@@ -9323,7 +9619,13 @@
         }
       },
       "executable": true,
-      "required_level": 4,
+      "permissions": {
+        "permission": {
+          "level": "owners",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "random": {
@@ -9382,7 +9684,13 @@
               "type": "argument"
             }
           },
-          "required_level": 2,
+          "permissions": {
+            "permission": {
+              "level": "gamemasters",
+              "type": "minecraft:command_level"
+            },
+            "type": "minecraft:require"
+          },
           "type": "literal"
         },
         "roll": {
@@ -9392,7 +9700,13 @@
                 "sequence": {
                   "executable": true,
                   "parser": "minecraft:resource_location",
-                  "required_level": 2,
+                  "permissions": {
+                    "permission": {
+                      "level": "gamemasters",
+                      "type": "minecraft:command_level"
+                    },
+                    "type": "minecraft:require"
+                  },
                   "type": "argument"
                 }
               },
@@ -9410,7 +9724,13 @@
                 "sequence": {
                   "executable": true,
                   "parser": "minecraft:resource_location",
-                  "required_level": 2,
+                  "permissions": {
+                    "permission": {
+                      "level": "gamemasters",
+                      "type": "minecraft:command_level"
+                    },
+                    "type": "minecraft:require"
+                  },
                   "type": "argument"
                 }
               },
@@ -9481,12 +9801,24 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "reload": {
       "executable": true,
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "return": {
@@ -9504,7 +9836,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "ride": {
@@ -9538,7 +9876,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "rotate": {
@@ -9590,7 +9934,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "save-all": {
@@ -9601,17 +9951,35 @@
         }
       },
       "executable": true,
-      "required_level": 4,
+      "permissions": {
+        "permission": {
+          "level": "owners",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "save-off": {
       "executable": true,
-      "required_level": 4,
+      "permissions": {
+        "permission": {
+          "level": "owners",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "save-on": {
       "executable": true,
-      "required_level": 4,
+      "permissions": {
+        "permission": {
+          "level": "owners",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "say": {
@@ -9622,7 +9990,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "schedule": {
@@ -9670,7 +10044,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "scoreboard": {
@@ -10086,12 +10466,24 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "seed": {
       "executable": true,
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "setblock": {
@@ -10126,7 +10518,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "setidletimeout": {
@@ -10140,7 +10538,13 @@
           "type": "argument"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "setworldspawn": {
@@ -10159,7 +10563,13 @@
         }
       },
       "executable": true,
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "spawnpoint": {
@@ -10189,7 +10599,13 @@
         }
       },
       "executable": true,
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "spectate": {
@@ -10216,7 +10632,13 @@
         }
       },
       "executable": true,
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "spreadplayers": {
@@ -10287,12 +10709,24 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "stop": {
       "executable": true,
-      "required_level": 4,
+      "permissions": {
+        "permission": {
+          "level": "owners",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "stopsound": {
@@ -10440,7 +10874,47 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
+      "type": "literal"
+    },
+    "stopwatch": {
+      "children": {
+        "id": {
+          "children": {
+            "create": {
+              "executable": true,
+              "type": "literal"
+            },
+            "query": {
+              "executable": true,
+              "type": "literal"
+            },
+            "remove": {
+              "executable": true,
+              "type": "literal"
+            },
+            "restart": {
+              "executable": true,
+              "type": "literal"
+            }
+          },
+          "parser": "minecraft:resource_location",
+          "type": "argument"
+        }
+      },
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "summon": {
@@ -10468,7 +10942,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "tag": {
@@ -10514,7 +10994,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "team": {
@@ -10738,7 +11224,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "teammsg": {
@@ -10830,7 +11322,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "tell": {
@@ -10857,7 +11355,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "test": {
@@ -11166,7 +11670,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "tick": {
@@ -11233,7 +11743,13 @@
           "type": "literal"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "time": {
@@ -11298,7 +11814,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "title": {
@@ -11383,7 +11905,13 @@
           "type": "argument"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "tm": {
@@ -11393,10 +11921,16 @@
       "type": "literal"
     },
     "tp": {
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "redirect": [
         "teleport"
       ],
-      "required_level": 2,
       "type": "literal"
     },
     "transfer": {
@@ -11432,7 +11966,13 @@
           "type": "argument"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "trigger": {
@@ -11469,7 +12009,13 @@
     },
     "version": {
       "executable": true,
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "w": {
@@ -11543,7 +12089,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "weather": {
@@ -11591,7 +12143,13 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "whitelist": {
@@ -11633,7 +12191,13 @@
           "type": "literal"
         }
       },
-      "required_level": 3,
+      "permissions": {
+        "permission": {
+          "level": "admins",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "worldborder": {
@@ -11763,14 +12327,26 @@
           "type": "literal"
         }
       },
-      "required_level": 2,
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "type": "literal"
     },
     "xp": {
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
       "redirect": [
         "experience"
       ],
-      "required_level": 2,
       "type": "literal"
     }
   },

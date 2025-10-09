@@ -25,6 +25,11 @@
           "weight": 2
         },
         {
+          "name": "minecraft:stone_spear",
+          "type": "minecraft:item",
+          "weight": 2
+        },
+        {
           "name": "minecraft:rotten_flesh",
           "type": "minecraft:item",
           "weight": 5
@@ -97,6 +102,64 @@
           "name": "minecraft:map",
           "type": "minecraft:item",
           "weight": 5
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 148
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:copper_nautilus_armor",
+          "type": "minecraft:item",
+          "weight": 20
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:iron_nautilus_armor",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:golden_nautilus_armor",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "functions": [
+            {
+              "add": false,
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:diamond_nautilus_armor",
+          "type": "minecraft:item",
+          "weight": 2
         }
       ],
       "rolls": 1.0

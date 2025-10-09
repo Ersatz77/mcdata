@@ -1,5 +1,6 @@
 minecraft:add
 minecraft:all_of
+minecraft:exponential
 minecraft:multiply
 minecraft:remove_binomial
 minecraft:set

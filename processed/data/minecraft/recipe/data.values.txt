@@ -275,6 +275,7 @@ minecraft:copper_nugget_from_blasting
 minecraft:copper_nugget_from_smelting
 minecraft:copper_pickaxe
 minecraft:copper_shovel
+minecraft:copper_spear
 minecraft:copper_sword
 minecraft:copper_torch
 minecraft:copper_trapdoor
@@ -407,6 +408,7 @@ minecraft:diamond_hoe
 minecraft:diamond_leggings
 minecraft:diamond_pickaxe
 minecraft:diamond_shovel
+minecraft:diamond_spear
 minecraft:diamond_sword
 minecraft:diorite
 minecraft:diorite_slab
@@ -574,6 +576,7 @@ minecraft:golden_hoe
 minecraft:golden_leggings
 minecraft:golden_pickaxe
 minecraft:golden_shovel
+minecraft:golden_spear
 minecraft:golden_sword
 minecraft:granite
 minecraft:granite_slab
@@ -644,6 +647,7 @@ minecraft:iron_nugget_from_blasting
 minecraft:iron_nugget_from_smelting
 minecraft:iron_pickaxe
 minecraft:iron_shovel
+minecraft:iron_spear
 minecraft:iron_sword
 minecraft:iron_trapdoor
 minecraft:item_frame
@@ -823,10 +827,12 @@ minecraft:netherite_hoe_smithing
 minecraft:netherite_ingot
 minecraft:netherite_ingot_from_netherite_block
 minecraft:netherite_leggings_smithing
+minecraft:netherite_nautilus_armor_smithing
 minecraft:netherite_pickaxe_smithing
 minecraft:netherite_scrap
 minecraft:netherite_scrap_from_blasting
 minecraft:netherite_shovel_smithing
+minecraft:netherite_spear_smithing
 minecraft:netherite_sword_smithing
 minecraft:netherite_upgrade_smithing_template
 minecraft:note_block
@@ -1200,6 +1206,7 @@ minecraft:stone_pressure_plate
 minecraft:stone_shovel
 minecraft:stone_slab
 minecraft:stone_slab_from_stone_stonecutting
+minecraft:stone_spear
 minecraft:stone_stairs
 minecraft:stone_stairs_from_stone_stonecutting
 minecraft:stone_sword
@@ -1441,6 +1448,7 @@ minecraft:wooden_axe
 minecraft:wooden_hoe
 minecraft:wooden_pickaxe
 minecraft:wooden_shovel
+minecraft:wooden_spear
 minecraft:wooden_sword
 minecraft:writable_book
 minecraft:yellow_banner

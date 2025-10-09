@@ -6,11 +6,13 @@ minecraft:axolotl_always_hostiles
 minecraft:axolotl_hunt_targets
 minecraft:beehive_inhabitors
 minecraft:boat
+minecraft:burn_in_daylight
 minecraft:can_breathe_under_water
 minecraft:can_equip_harness
 minecraft:can_equip_saddle
 minecraft:can_turn_in_boats
 minecraft:can_wear_horse_armor
+minecraft:can_wear_nautilus_armor
 minecraft:candidate_for_iron_golem_gift
 minecraft:cannot_be_pushed_onto_boats
 minecraft:deflects_projectiles
@@ -27,6 +29,7 @@ minecraft:immune_to_infested
 minecraft:immune_to_oozing
 minecraft:impact_projectiles
 minecraft:inverted_healing_and_harm
+minecraft:nautilus_hostiles
 minecraft:no_anger_from_wind_charge
 minecraft:non_controlling_rider
 minecraft:not_scary_for_pufferfish

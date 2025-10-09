@@ -89,6 +89,7 @@
     "minecraft:minecart",
     "minecraft:mooshroom",
     "minecraft:mule",
+    "minecraft:nautilus",
     "minecraft:oak_boat",
     "minecraft:oak_chest_boat",
     "minecraft:ocelot",
@@ -151,6 +152,7 @@
     "minecraft:zoglin",
     "minecraft:zombie",
     "minecraft:zombie_horse",
+    "minecraft:zombie_nautilus",
     "minecraft:zombie_villager",
     "minecraft:zombified_piglin"
   ]

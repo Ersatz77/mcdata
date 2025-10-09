@@ -132,6 +132,22 @@
               "options": "#minecraft:on_random_loot"
             }
           ],
+          "name": "minecraft:diamond_spear",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "max": 39.0,
+                "min": 20.0,
+                "type": "minecraft:uniform"
+              },
+              "options": "#minecraft:on_random_loot"
+            }
+          ],
           "name": "minecraft:diamond_boots",
           "type": "minecraft:item",
           "weight": 3

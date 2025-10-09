@@ -18,6 +18,7 @@
     "minecraft:location_changed",
     "minecraft:mob_experience",
     "minecraft:post_attack",
+    "minecraft:post_piercing_attack",
     "minecraft:prevent_armor_change",
     "minecraft:prevent_equipment_drop",
     "minecraft:projectile_count",
