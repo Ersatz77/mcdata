@@ -1217,6 +1217,7 @@ minecraft:entity.nautilus.dash_ready
 minecraft:entity.nautilus.death
 minecraft:entity.nautilus.eat
 minecraft:entity.nautilus.hurt
+minecraft:entity.nautilus.riding
 minecraft:entity.nautilus.swim
 minecraft:entity.ocelot.ambient
 minecraft:entity.ocelot.death

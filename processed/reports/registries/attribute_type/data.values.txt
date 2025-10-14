@@ -1,0 +1,8 @@
+minecraft:ambient_particles
+minecraft:ambient_sounds
+minecraft:background_music
+minecraft:bed_rule
+minecraft:boolean
+minecraft:color
+minecraft:float
+minecraft:particle

@@ -29,6 +29,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:attribute_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:banner_pattern": {
       "elements": true,
       "stable": false,
@@ -200,6 +205,11 @@
       "tags": true
     },
     "minecraft:entity_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:environment_attribute": {
       "elements": false,
       "stable": true,
       "tags": true
