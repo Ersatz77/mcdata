@@ -6251,7 +6251,7 @@
           "amount": 1.0,
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
-          "slot": "hand",
+          "slot": "mainhand",
           "type": "minecraft:attack_damage"
         },
         {
@@ -9134,7 +9134,7 @@
           "amount": 3.0,
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
-          "slot": "hand",
+          "slot": "mainhand",
           "type": "minecraft:attack_damage"
         },
         {
@@ -12038,7 +12038,7 @@
           "amount": 0.0,
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
-          "slot": "hand",
+          "slot": "mainhand",
           "type": "minecraft:attack_damage"
         },
         {
@@ -14204,7 +14204,7 @@
           "amount": 2.0,
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
-          "slot": "hand",
+          "slot": "mainhand",
           "type": "minecraft:attack_damage"
         },
         {
@@ -18938,7 +18938,7 @@
           "amount": 4.0,
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
-          "slot": "hand",
+          "slot": "mainhand",
           "type": "minecraft:attack_damage"
         },
         {
@@ -26412,7 +26412,7 @@
           "amount": 1.0,
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
-          "slot": "hand",
+          "slot": "mainhand",
           "type": "minecraft:attack_damage"
         },
         {
@@ -30895,7 +30895,7 @@
           "amount": 0.0,
           "id": "minecraft:base_attack_damage",
           "operation": "add_value",
-          "slot": "hand",
+          "slot": "mainhand",
           "type": "minecraft:attack_damage"
         },
         {

@@ -12231,7 +12231,7 @@
           "children": {
             "distance": {
               "children": {
-                "time": {
+                "ticks": {
                   "executable": true,
                   "parser": "brigadier:integer",
                   "properties": {
@@ -12300,7 +12300,7 @@
           "children": {
             "distance": {
               "children": {
-                "time": {
+                "ticks": {
                   "executable": true,
                   "parser": "brigadier:integer",
                   "properties": {

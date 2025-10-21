@@ -1,6 +1,8 @@
 {
   "values": [
     "minecraft:all_of",
+    "minecraft:apply_exhaustion",
+    "minecraft:apply_impulse",
     "minecraft:apply_mob_effect",
     "minecraft:attribute",
     "minecraft:change_item_damage",

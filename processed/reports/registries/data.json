@@ -5887,6 +5887,9 @@
       "minecraft:all_of": {
         "protocol_id": 0
       },
+      "minecraft:apply_exhaustion": {
+        "protocol_id": 7
+      },
       "minecraft:apply_impulse": {
         "protocol_id": 6
       },
@@ -5906,25 +5909,25 @@
         "protocol_id": 5
       },
       "minecraft:play_sound": {
-        "protocol_id": 7
-      },
-      "minecraft:replace_block": {
         "protocol_id": 8
       },
-      "minecraft:replace_disk": {
+      "minecraft:replace_block": {
         "protocol_id": 9
       },
-      "minecraft:run_function": {
+      "minecraft:replace_disk": {
         "protocol_id": 10
       },
-      "minecraft:set_block_properties": {
+      "minecraft:run_function": {
         "protocol_id": 11
       },
-      "minecraft:spawn_particles": {
+      "minecraft:set_block_properties": {
         "protocol_id": 12
       },
-      "minecraft:summon_entity": {
+      "minecraft:spawn_particles": {
         "protocol_id": 13
+      },
+      "minecraft:summon_entity": {
+        "protocol_id": 14
       }
     },
     "protocol_id": 71
@@ -5957,6 +5960,12 @@
       "minecraft:all_of": {
         "protocol_id": 0
       },
+      "minecraft:apply_exhaustion": {
+        "protocol_id": 8
+      },
+      "minecraft:apply_impulse": {
+        "protocol_id": 7
+      },
       "minecraft:apply_mob_effect": {
         "protocol_id": 1
       },
@@ -5976,25 +5985,25 @@
         "protocol_id": 6
       },
       "minecraft:play_sound": {
-        "protocol_id": 7
-      },
-      "minecraft:replace_block": {
-        "protocol_id": 8
-      },
-      "minecraft:replace_disk": {
         "protocol_id": 9
       },
-      "minecraft:run_function": {
+      "minecraft:replace_block": {
         "protocol_id": 10
       },
-      "minecraft:set_block_properties": {
+      "minecraft:replace_disk": {
         "protocol_id": 11
       },
-      "minecraft:spawn_particles": {
+      "minecraft:run_function": {
         "protocol_id": 12
       },
-      "minecraft:summon_entity": {
+      "minecraft:set_block_properties": {
         "protocol_id": 13
+      },
+      "minecraft:spawn_particles": {
+        "protocol_id": 14
+      },
+      "minecraft:summon_entity": {
+        "protocol_id": 15
       }
     },
     "protocol_id": 72
@@ -11687,6 +11696,9 @@
       },
       "minecraft:copy_state": {
         "protocol_id": 25
+      },
+      "minecraft:discard": {
+        "protocol_id": 40
       },
       "minecraft:enchant_randomly": {
         "protocol_id": 3
@@ -18745,6 +18757,9 @@
       },
       "minecraft:item.trident.thunder": {
         "protocol_id": 1538
+      },
+      "minecraft:item.underwater_saddle.equip": {
+        "protocol_id": 1803
       },
       "minecraft:item.wolf_armor.break": {
         "protocol_id": 1696

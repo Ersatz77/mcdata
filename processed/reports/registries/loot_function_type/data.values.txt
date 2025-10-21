@@ -3,6 +3,7 @@ minecraft:copy_components
 minecraft:copy_custom_data
 minecraft:copy_name
 minecraft:copy_state
+minecraft:discard
 minecraft:enchant_randomly
 minecraft:enchant_with_levels
 minecraft:enchanted_count_increase

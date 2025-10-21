@@ -1731,6 +1731,7 @@ minecraft:item.trident.riptide_2
 minecraft:item.trident.riptide_3
 minecraft:item.trident.throw
 minecraft:item.trident.thunder
+minecraft:item.underwater_saddle.equip
 minecraft:item.wolf_armor.break
 minecraft:item.wolf_armor.crack
 minecraft:item.wolf_armor.damage
