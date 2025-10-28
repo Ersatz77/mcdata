@@ -10,6 +10,7 @@ minecraft:burn_in_daylight
 minecraft:can_breathe_under_water
 minecraft:can_equip_harness
 minecraft:can_equip_saddle
+minecraft:can_float_while_ridden
 minecraft:can_turn_in_boats
 minecraft:can_wear_horse_armor
 minecraft:can_wear_nautilus_armor

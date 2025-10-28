@@ -1,15 +1,11 @@
 minecraft:armadillo_scare_detected
-minecraft:armadillo_temptations
 minecraft:axolotl_attackables
-minecraft:axolotl_temptations
 minecraft:breeze_attack_entity_sensor
-minecraft:camel_temptations
 minecraft:dummy
+minecraft:food_temptations
 minecraft:frog_attackables
 minecraft:frog_temptations
-minecraft:goat_temptations
 minecraft:golem_detected
-minecraft:happy_ghast_temptations
 minecraft:hoglin_specific_sensor
 minecraft:hurt_by
 minecraft:is_in_water
@@ -23,7 +19,6 @@ minecraft:nearest_players
 minecraft:piglin_brute_specific_sensor
 minecraft:piglin_specific_sensor
 minecraft:secondary_pois
-minecraft:sniffer_temptations
 minecraft:villager_babies
 minecraft:villager_hostiles
 minecraft:warden_entity_sensor

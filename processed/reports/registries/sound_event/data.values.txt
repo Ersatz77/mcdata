@@ -908,6 +908,17 @@ minecraft:entity.camel.sit
 minecraft:entity.camel.stand
 minecraft:entity.camel.step
 minecraft:entity.camel.step_sand
+minecraft:entity.camel_husk.ambient
+minecraft:entity.camel_husk.dash
+minecraft:entity.camel_husk.dash_ready
+minecraft:entity.camel_husk.death
+minecraft:entity.camel_husk.eat
+minecraft:entity.camel_husk.hurt
+minecraft:entity.camel_husk.saddle
+minecraft:entity.camel_husk.sit
+minecraft:entity.camel_husk.stand
+minecraft:entity.camel_husk.step
+minecraft:entity.camel_husk.step_sand
 minecraft:entity.cat.ambient
 minecraft:entity.cat.beg_for_food
 minecraft:entity.cat.death
@@ -1235,6 +1246,10 @@ minecraft:entity.panda.pre_sneeze
 minecraft:entity.panda.sneeze
 minecraft:entity.panda.step
 minecraft:entity.panda.worried_ambient
+minecraft:entity.parched.ambient
+minecraft:entity.parched.death
+minecraft:entity.parched.hurt
+minecraft:entity.parched.step
 minecraft:entity.parrot.ambient
 minecraft:entity.parrot.death
 minecraft:entity.parrot.eat
@@ -1243,6 +1258,7 @@ minecraft:entity.parrot.hurt
 minecraft:entity.parrot.imitate.blaze
 minecraft:entity.parrot.imitate.bogged
 minecraft:entity.parrot.imitate.breeze
+minecraft:entity.parrot.imitate.camel_husk
 minecraft:entity.parrot.imitate.creaking
 minecraft:entity.parrot.imitate.creeper
 minecraft:entity.parrot.imitate.drowned
@@ -1256,6 +1272,7 @@ minecraft:entity.parrot.imitate.hoglin
 minecraft:entity.parrot.imitate.husk
 minecraft:entity.parrot.imitate.illusioner
 minecraft:entity.parrot.imitate.magma_cube
+minecraft:entity.parrot.imitate.parched
 minecraft:entity.parrot.imitate.phantom
 minecraft:entity.parrot.imitate.piglin
 minecraft:entity.parrot.imitate.piglin_brute
@@ -1275,6 +1292,8 @@ minecraft:entity.parrot.imitate.wither
 minecraft:entity.parrot.imitate.wither_skeleton
 minecraft:entity.parrot.imitate.zoglin
 minecraft:entity.parrot.imitate.zombie
+minecraft:entity.parrot.imitate.zombie_horse
+minecraft:entity.parrot.imitate.zombie_nautilus
 minecraft:entity.parrot.imitate.zombie_villager
 minecraft:entity.parrot.step
 minecraft:entity.phantom.ambient
@@ -1704,6 +1723,8 @@ minecraft:item.lodestone_compass.lock
 minecraft:item.mace.smash_air
 minecraft:item.mace.smash_ground
 minecraft:item.mace.smash_ground_heavy
+minecraft:item.nautilus_saddle_equip
+minecraft:item.nautilus_saddle_underwater_equip
 minecraft:item.nether_wart.plant
 minecraft:item.ominous_bottle.dispose
 minecraft:item.saddle.unequip
@@ -1731,7 +1752,6 @@ minecraft:item.trident.riptide_2
 minecraft:item.trident.riptide_3
 minecraft:item.trident.throw
 minecraft:item.trident.thunder
-minecraft:item.underwater_saddle.equip
 minecraft:item.wolf_armor.break
 minecraft:item.wolf_armor.crack
 minecraft:item.wolf_armor.damage

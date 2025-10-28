@@ -234,6 +234,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:game_rule": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:height_provider_type": {
       "elements": false,
       "stable": true,
@@ -435,6 +440,11 @@
       "tags": true
     },
     "minecraft:slot_display": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:slot_source_type": {
       "elements": false,
       "stable": true,
       "tags": true

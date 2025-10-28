@@ -9,8 +9,12 @@
         "effect": {
           "effects": [
             {
+              "amount": 1.0,
+              "type": "minecraft:change_item_damage"
+            },
+            {
               "amount": {
-                "base": 12.0,
+                "base": 4.0,
                 "per_level_above_first": 4.0,
                 "type": "minecraft:linear"
               },

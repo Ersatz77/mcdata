@@ -7,6 +7,7 @@
     "minecraft:item",
     "minecraft:loot_table",
     "minecraft:sequence",
+    "minecraft:slots",
     "minecraft:tag"
   ]
 }

@@ -45,6 +45,7 @@ minecraft:jump
 minecraft:leave_game
 minecraft:minecart_one_cm
 minecraft:mob_kills
+minecraft:nautilus_one_cm
 minecraft:open_barrel
 minecraft:open_chest
 minecraft:open_enderchest

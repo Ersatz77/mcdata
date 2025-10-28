@@ -18,6 +18,7 @@ minecraft:bogged
 minecraft:breeze
 minecraft:breeze_wind_charge
 minecraft:camel
+minecraft:camel_husk
 minecraft:cat
 minecraft:cave_spider
 minecraft:cherry_boat
@@ -96,6 +97,7 @@ minecraft:painting
 minecraft:pale_oak_boat
 minecraft:pale_oak_chest_boat
 minecraft:panda
+minecraft:parched
 minecraft:parrot
 minecraft:phantom
 minecraft:pig

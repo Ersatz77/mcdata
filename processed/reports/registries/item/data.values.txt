@@ -192,6 +192,7 @@ minecraft:cactus_flower
 minecraft:cake
 minecraft:calcite
 minecraft:calibrated_sculk_sensor
+minecraft:camel_husk_spawn_egg
 minecraft:camel_spawn_egg
 minecraft:campfire
 minecraft:candle
@@ -964,6 +965,7 @@ minecraft:pale_oak_trapdoor
 minecraft:pale_oak_wood
 minecraft:panda_spawn_egg
 minecraft:paper
+minecraft:parched_spawn_egg
 minecraft:parrot_spawn_egg
 minecraft:pearlescent_froglight
 minecraft:peony
