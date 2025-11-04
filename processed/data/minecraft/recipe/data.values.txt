@@ -824,6 +824,7 @@ minecraft:netherite_boots_smithing
 minecraft:netherite_chestplate_smithing
 minecraft:netherite_helmet_smithing
 minecraft:netherite_hoe_smithing
+minecraft:netherite_horse_armor_smithing
 minecraft:netherite_ingot
 minecraft:netherite_ingot_from_netherite_block
 minecraft:netherite_leggings_smithing

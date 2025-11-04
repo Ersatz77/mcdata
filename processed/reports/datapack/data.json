@@ -429,11 +429,6 @@
       "stable": true,
       "tags": true
     },
-    "minecraft:schedule": {
-      "elements": false,
-      "stable": true,
-      "tags": true
-    },
     "minecraft:sensor_type": {
       "elements": false,
       "stable": true,
@@ -492,6 +487,11 @@
     "minecraft:ticket_type": {
       "elements": false,
       "stable": true,
+      "tags": true
+    },
+    "minecraft:timeline": {
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:trial_spawner": {
@@ -700,6 +700,11 @@
       "tags": true
     },
     "minecraft:worldgen/world_preset": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:zombie_nautilus_variant": {
       "elements": true,
       "stable": false,
       "tags": true

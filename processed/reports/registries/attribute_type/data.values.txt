@@ -1,9 +1,13 @@
+minecraft:activity
 minecraft:ambient_particles
 minecraft:ambient_sounds
+minecraft:angle_degrees
 minecraft:argb_color
 minecraft:background_music
 minecraft:bed_rule
 minecraft:boolean
 minecraft:float
+minecraft:moon_phase
 minecraft:particle
 minecraft:rgb_color
+minecraft:tri_state

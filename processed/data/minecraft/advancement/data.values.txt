@@ -26,6 +26,7 @@ minecraft:adventure/salvage_sherd
 minecraft:adventure/shoot_arrow
 minecraft:adventure/sleep_in_bed
 minecraft:adventure/sniper_duel
+minecraft:adventure/spear_many_mobs
 minecraft:adventure/spyglass_at_dragon
 minecraft:adventure/spyglass_at_ghast
 minecraft:adventure/spyglass_at_parrot
@@ -788,6 +789,7 @@ minecraft:recipes/combat/magenta_harness
 minecraft:recipes/combat/netherite_boots_smithing
 minecraft:recipes/combat/netherite_chestplate_smithing
 minecraft:recipes/combat/netherite_helmet_smithing
+minecraft:recipes/combat/netherite_horse_armor_smithing
 minecraft:recipes/combat/netherite_leggings_smithing
 minecraft:recipes/combat/netherite_nautilus_armor_smithing
 minecraft:recipes/combat/netherite_spear_smithing
