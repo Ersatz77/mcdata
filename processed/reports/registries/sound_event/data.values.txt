@@ -1620,6 +1620,7 @@ minecraft:entity.zombie.step
 minecraft:entity.zombie_horse.ambient
 minecraft:entity.zombie_horse.angry
 minecraft:entity.zombie_horse.death
+minecraft:entity.zombie_horse.eat
 minecraft:entity.zombie_horse.hurt
 minecraft:entity.zombie_nautilus.ambient
 minecraft:entity.zombie_nautilus.dash

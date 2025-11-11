@@ -7451,7 +7451,7 @@
         "protocol_id": 0
       },
       "minecraft:allay_spawn_egg": {
-        "protocol_id": 1131
+        "protocol_id": 1163
       },
       "minecraft:allium": {
         "protocol_id": 234
@@ -7496,7 +7496,7 @@
         "protocol_id": 889
       },
       "minecraft:armadillo_spawn_egg": {
-        "protocol_id": 1130
+        "protocol_id": 1141
       },
       "minecraft:armor_stand": {
         "protocol_id": 1254
@@ -7511,7 +7511,7 @@
         "protocol_id": 1023
       },
       "minecraft:axolotl_spawn_egg": {
-        "protocol_id": 1132
+        "protocol_id": 1151
       },
       "minecraft:azalea": {
         "protocol_id": 205
@@ -7592,7 +7592,7 @@
         "protocol_id": 362
       },
       "minecraft:bat_spawn_egg": {
-        "protocol_id": 1133
+        "protocol_id": 1142
       },
       "minecraft:beacon": {
         "protocol_id": 455
@@ -7604,7 +7604,7 @@
         "protocol_id": 1379
       },
       "minecraft:bee_spawn_egg": {
-        "protocol_id": 1134
+        "protocol_id": 1143
       },
       "minecraft:beef": {
         "protocol_id": 1110
@@ -7751,7 +7751,7 @@
         "protocol_id": 1116
       },
       "minecraft:blaze_spawn_egg": {
-        "protocol_id": 1135
+        "protocol_id": 1203
       },
       "minecraft:blue_banner": {
         "protocol_id": 1277
@@ -7808,7 +7808,7 @@
         "protocol_id": 224
       },
       "minecraft:bogged_spawn_egg": {
-        "protocol_id": 1136
+        "protocol_id": 1172
       },
       "minecraft:bolt_armor_trim_smithing_template": {
         "protocol_id": 1444
@@ -7853,7 +7853,7 @@
         "protocol_id": 1222
       },
       "minecraft:breeze_spawn_egg": {
-        "protocol_id": 1137
+        "protocol_id": 1188
       },
       "minecraft:brewer_pottery_sherd": {
         "protocol_id": 1449
@@ -7973,10 +7973,10 @@
         "protocol_id": 743
       },
       "minecraft:camel_husk_spawn_egg": {
-        "protocol_id": 1140
+        "protocol_id": 1173
       },
       "minecraft:camel_spawn_egg": {
-        "protocol_id": 1139
+        "protocol_id": 1134
       },
       "minecraft:campfire": {
         "protocol_id": 1375
@@ -8003,7 +8003,7 @@
         "protocol_id": 1127
       },
       "minecraft:cave_spider_spawn_egg": {
-        "protocol_id": 1141
+        "protocol_id": 1186
       },
       "minecraft:chain_command_block": {
         "protocol_id": 574
@@ -8087,7 +8087,7 @@
         "protocol_id": 1112
       },
       "minecraft:chicken_spawn_egg": {
-        "protocol_id": 1142
+        "protocol_id": 1130
       },
       "minecraft:chipped_anvil": {
         "protocol_id": 479
@@ -8201,7 +8201,7 @@
         "protocol_id": 1021
       },
       "minecraft:cod_spawn_egg": {
-        "protocol_id": 1143
+        "protocol_id": 1152
       },
       "minecraft:command_block": {
         "protocol_id": 454
@@ -8273,7 +8273,7 @@
         "protocol_id": 792
       },
       "minecraft:copper_golem_spawn_egg": {
-        "protocol_id": 1144
+        "protocol_id": 1166
       },
       "minecraft:copper_golem_statue": {
         "protocol_id": 1492
@@ -8330,7 +8330,7 @@
         "protocol_id": 241
       },
       "minecraft:cow_spawn_egg": {
-        "protocol_id": 1145
+        "protocol_id": 1131
       },
       "minecraft:cracked_deepslate_bricks": {
         "protocol_id": 382
@@ -8357,7 +8357,7 @@
         "protocol_id": 330
       },
       "minecraft:creaking_spawn_egg": {
-        "protocol_id": 1211
+        "protocol_id": 1189
       },
       "minecraft:creeper_banner_pattern": {
         "protocol_id": 1343
@@ -8366,7 +8366,7 @@
         "protocol_id": 1237
       },
       "minecraft:creeper_spawn_egg": {
-        "protocol_id": 1146
+        "protocol_id": 1190
       },
       "minecraft:crimson_button": {
         "protocol_id": 761
@@ -8744,10 +8744,10 @@
         "protocol_id": 728
       },
       "minecraft:dolphin_spawn_egg": {
-        "protocol_id": 1147
+        "protocol_id": 1153
       },
       "minecraft:donkey_spawn_egg": {
-        "protocol_id": 1148
+        "protocol_id": 1135
       },
       "minecraft:dragon_breath": {
         "protocol_id": 1290
@@ -8774,7 +8774,7 @@
         "protocol_id": 729
       },
       "minecraft:drowned_spawn_egg": {
-        "protocol_id": 1149
+        "protocol_id": 1174
       },
       "minecraft:dune_armor_trim_smithing_template": {
         "protocol_id": 1428
@@ -8786,7 +8786,7 @@
         "protocol_id": 1031
       },
       "minecraft:elder_guardian_spawn_egg": {
-        "protocol_id": 1150
+        "protocol_id": 1191
       },
       "minecraft:elytra": {
         "protocol_id": 862
@@ -8837,7 +8837,7 @@
         "protocol_id": 439
       },
       "minecraft:ender_dragon_spawn_egg": {
-        "protocol_id": 1151
+        "protocol_id": 1213
       },
       "minecraft:ender_eye": {
         "protocol_id": 1128
@@ -8846,13 +8846,13 @@
         "protocol_id": 1115
       },
       "minecraft:enderman_spawn_egg": {
-        "protocol_id": 1152
+        "protocol_id": 1214
       },
       "minecraft:endermite_spawn_egg": {
-        "protocol_id": 1153
+        "protocol_id": 1215
       },
       "minecraft:evoker_spawn_egg": {
-        "protocol_id": 1154
+        "protocol_id": 1198
       },
       "minecraft:experience_bottle": {
         "protocol_id": 1217
@@ -8981,13 +8981,13 @@
         "protocol_id": 192
       },
       "minecraft:fox_spawn_egg": {
-        "protocol_id": 1155
+        "protocol_id": 1144
       },
       "minecraft:friend_pottery_sherd": {
         "protocol_id": 1454
       },
       "minecraft:frog_spawn_egg": {
-        "protocol_id": 1156
+        "protocol_id": 1154
       },
       "minecraft:frogspawn": {
         "protocol_id": 1423
@@ -8999,7 +8999,7 @@
         "protocol_id": 856
       },
       "minecraft:ghast_spawn_egg": {
-        "protocol_id": 1157
+        "protocol_id": 1204
       },
       "minecraft:ghast_tear": {
         "protocol_id": 1117
@@ -9035,7 +9035,7 @@
         "protocol_id": 411
       },
       "minecraft:glow_squid_spawn_egg": {
-        "protocol_id": 1159
+        "protocol_id": 1155
       },
       "minecraft:glowstone": {
         "protocol_id": 367
@@ -9047,7 +9047,7 @@
         "protocol_id": 1352
       },
       "minecraft:goat_spawn_egg": {
-        "protocol_id": 1160
+        "protocol_id": 1145
       },
       "minecraft:gold_block": {
         "protocol_id": 92
@@ -9215,7 +9215,7 @@
         "protocol_id": 1359
       },
       "minecraft:guardian_spawn_egg": {
-        "protocol_id": 1161
+        "protocol_id": 1192
       },
       "minecraft:gunpowder": {
         "protocol_id": 950
@@ -9230,7 +9230,7 @@
         "protocol_id": 266
       },
       "minecraft:happy_ghast_spawn_egg": {
-        "protocol_id": 1158
+        "protocol_id": 1205
       },
       "minecraft:hay_block": {
         "protocol_id": 504
@@ -9251,7 +9251,7 @@
         "protocol_id": 766
       },
       "minecraft:hoglin_spawn_egg": {
-        "protocol_id": 1162
+        "protocol_id": 1206
       },
       "minecraft:honey_block": {
         "protocol_id": 725
@@ -9281,7 +9281,7 @@
         "protocol_id": 673
       },
       "minecraft:horse_spawn_egg": {
-        "protocol_id": 1163
+        "protocol_id": 1136
       },
       "minecraft:host_armor_trim_smithing_template": {
         "protocol_id": 1442
@@ -9290,7 +9290,7 @@
         "protocol_id": 1458
       },
       "minecraft:husk_spawn_egg": {
-        "protocol_id": 1164
+        "protocol_id": 1175
       },
       "minecraft:ice": {
         "protocol_id": 338
@@ -9341,7 +9341,7 @@
         "protocol_id": 779
       },
       "minecraft:iron_golem_spawn_egg": {
-        "protocol_id": 1165
+        "protocol_id": 1167
       },
       "minecraft:iron_helmet": {
         "protocol_id": 966
@@ -9665,7 +9665,7 @@
         "protocol_id": 1294
       },
       "minecraft:llama_spawn_egg": {
-        "protocol_id": 1166
+        "protocol_id": 1146
       },
       "minecraft:lodestone": {
         "protocol_id": 1383
@@ -9728,7 +9728,7 @@
         "protocol_id": 1125
       },
       "minecraft:magma_cube_spawn_egg": {
-        "protocol_id": 1167
+        "protocol_id": 1207
       },
       "minecraft:mangrove_boat": {
         "protocol_id": 879
@@ -9815,7 +9815,7 @@
         "protocol_id": 1345
       },
       "minecraft:mooshroom_spawn_egg": {
-        "protocol_id": 1168
+        "protocol_id": 1164
       },
       "minecraft:moss_block": {
         "protocol_id": 262
@@ -9869,7 +9869,7 @@
         "protocol_id": 144
       },
       "minecraft:mule_spawn_egg": {
-        "protocol_id": 1169
+        "protocol_id": 1137
       },
       "minecraft:mushroom_stem": {
         "protocol_id": 389
@@ -9953,7 +9953,7 @@
         "protocol_id": 1332
       },
       "minecraft:nautilus_spawn_egg": {
-        "protocol_id": 1170
+        "protocol_id": 1156
       },
       "minecraft:nether_brick": {
         "protocol_id": 1245
@@ -10106,7 +10106,7 @@
         "protocol_id": 321
       },
       "minecraft:ocelot_spawn_egg": {
-        "protocol_id": 1171
+        "protocol_id": 1147
       },
       "minecraft:ochre_froglight": {
         "protocol_id": 1420
@@ -10289,16 +10289,16 @@
         "protocol_id": 177
       },
       "minecraft:panda_spawn_egg": {
-        "protocol_id": 1172
+        "protocol_id": 1148
       },
       "minecraft:paper": {
         "protocol_id": 1028
       },
       "minecraft:parched_spawn_egg": {
-        "protocol_id": 1173
+        "protocol_id": 1176
       },
       "minecraft:parrot_spawn_egg": {
-        "protocol_id": 1174
+        "protocol_id": 1139
       },
       "minecraft:pearlescent_froglight": {
         "protocol_id": 1422
@@ -10313,25 +10313,25 @@
         "protocol_id": 861
       },
       "minecraft:phantom_spawn_egg": {
-        "protocol_id": 1175
+        "protocol_id": 1193
       },
       "minecraft:pig_spawn_egg": {
-        "protocol_id": 1176
+        "protocol_id": 1132
       },
       "minecraft:piglin_banner_pattern": {
         "protocol_id": 1347
       },
       "minecraft:piglin_brute_spawn_egg": {
-        "protocol_id": 1178
+        "protocol_id": 1209
       },
       "minecraft:piglin_head": {
         "protocol_id": 1239
       },
       "minecraft:piglin_spawn_egg": {
-        "protocol_id": 1177
+        "protocol_id": 1208
       },
       "minecraft:pillager_spawn_egg": {
-        "protocol_id": 1179
+        "protocol_id": 1199
       },
       "minecraft:pink_banner": {
         "protocol_id": 1272
@@ -10409,7 +10409,7 @@
         "protocol_id": 1230
       },
       "minecraft:polar_bear_spawn_egg": {
-        "protocol_id": 1180
+        "protocol_id": 1149
       },
       "minecraft:polished_andesite": {
         "protocol_id": 7
@@ -10553,7 +10553,7 @@
         "protocol_id": 1019
       },
       "minecraft:pufferfish_spawn_egg": {
-        "protocol_id": 1181
+        "protocol_id": 1157
       },
       "minecraft:pumpkin": {
         "protocol_id": 356
@@ -10649,7 +10649,7 @@
         "protocol_id": 1253
       },
       "minecraft:rabbit_spawn_egg": {
-        "protocol_id": 1182
+        "protocol_id": 1150
       },
       "minecraft:rabbit_stew": {
         "protocol_id": 1251
@@ -10661,7 +10661,7 @@
         "protocol_id": 1441
       },
       "minecraft:ravager_spawn_egg": {
-        "protocol_id": 1183
+        "protocol_id": 1200
       },
       "minecraft:raw_copper": {
         "protocol_id": 905
@@ -10835,7 +10835,7 @@
         "protocol_id": 1020
       },
       "minecraft:salmon_spawn_egg": {
-        "protocol_id": 1184
+        "protocol_id": 1158
       },
       "minecraft:sand": {
         "protocol_id": 59
@@ -10895,7 +10895,7 @@
         "protocol_id": 1105
       },
       "minecraft:sheep_spawn_egg": {
-        "protocol_id": 1185
+        "protocol_id": 1133
       },
       "minecraft:shelter_pottery_sherd": {
         "protocol_id": 1465
@@ -10919,22 +10919,22 @@
         "protocol_id": 1304
       },
       "minecraft:shulker_spawn_egg": {
-        "protocol_id": 1186
+        "protocol_id": 1216
       },
       "minecraft:silence_armor_trim_smithing_template": {
         "protocol_id": 1440
       },
       "minecraft:silverfish_spawn_egg": {
-        "protocol_id": 1187
+        "protocol_id": 1194
       },
       "minecraft:skeleton_horse_spawn_egg": {
-        "protocol_id": 1189
+        "protocol_id": 1178
       },
       "minecraft:skeleton_skull": {
         "protocol_id": 1233
       },
       "minecraft:skeleton_spawn_egg": {
-        "protocol_id": 1188
+        "protocol_id": 1177
       },
       "minecraft:skull_banner_pattern": {
         "protocol_id": 1344
@@ -10949,7 +10949,7 @@
         "protocol_id": 724
       },
       "minecraft:slime_spawn_egg": {
-        "protocol_id": 1190
+        "protocol_id": 1195
       },
       "minecraft:small_amethyst_bud": {
         "protocol_id": 1415
@@ -11003,7 +11003,7 @@
         "protocol_id": 647
       },
       "minecraft:sniffer_spawn_egg": {
-        "protocol_id": 1191
+        "protocol_id": 1165
       },
       "minecraft:snort_pottery_sherd": {
         "protocol_id": 1467
@@ -11018,7 +11018,7 @@
         "protocol_id": 339
       },
       "minecraft:snow_golem_spawn_egg": {
-        "protocol_id": 1192
+        "protocol_id": 1168
       },
       "minecraft:snowball": {
         "protocol_id": 1016
@@ -11048,7 +11048,7 @@
         "protocol_id": 1122
       },
       "minecraft:spider_spawn_egg": {
-        "protocol_id": 1193
+        "protocol_id": 1187
       },
       "minecraft:spire_armor_trim_smithing_template": {
         "protocol_id": 1437
@@ -11120,7 +11120,7 @@
         "protocol_id": 1055
       },
       "minecraft:squid_spawn_egg": {
-        "protocol_id": 1194
+        "protocol_id": 1159
       },
       "minecraft:stick": {
         "protocol_id": 946
@@ -11177,10 +11177,10 @@
         "protocol_id": 1361
       },
       "minecraft:stray_spawn_egg": {
-        "protocol_id": 1195
+        "protocol_id": 1179
       },
       "minecraft:strider_spawn_egg": {
-        "protocol_id": 1196
+        "protocol_id": 1210
       },
       "minecraft:string": {
         "protocol_id": 948
@@ -11285,7 +11285,7 @@
         "protocol_id": 1024
       },
       "minecraft:tadpole_spawn_egg": {
-        "protocol_id": 1197
+        "protocol_id": 1160
       },
       "minecraft:tall_dry_grass": {
         "protocol_id": 210
@@ -11333,7 +11333,7 @@
         "protocol_id": 1303
       },
       "minecraft:trader_llama_spawn_egg": {
-        "protocol_id": 1198
+        "protocol_id": 1169
       },
       "minecraft:trapped_chest": {
         "protocol_id": 745
@@ -11357,7 +11357,7 @@
         "protocol_id": 1022
       },
       "minecraft:tropical_fish_spawn_egg": {
-        "protocol_id": 1199
+        "protocol_id": 1161
       },
       "minecraft:tube_coral": {
         "protocol_id": 659
@@ -11402,7 +11402,7 @@
         "protocol_id": 888
       },
       "minecraft:turtle_spawn_egg": {
-        "protocol_id": 1200
+        "protocol_id": 1162
       },
       "minecraft:twisting_vines": {
         "protocol_id": 255
@@ -11417,25 +11417,25 @@
         "protocol_id": 1433
       },
       "minecraft:vex_spawn_egg": {
-        "protocol_id": 1201
-      },
-      "minecraft:villager_spawn_egg": {
         "protocol_id": 1202
       },
+      "minecraft:villager_spawn_egg": {
+        "protocol_id": 1170
+      },
       "minecraft:vindicator_spawn_egg": {
-        "protocol_id": 1203
+        "protocol_id": 1201
       },
       "minecraft:vine": {
         "protocol_id": 410
       },
       "minecraft:wandering_trader_spawn_egg": {
-        "protocol_id": 1204
+        "protocol_id": 1171
       },
       "minecraft:ward_armor_trim_smithing_template": {
         "protocol_id": 1431
       },
       "minecraft:warden_spawn_egg": {
-        "protocol_id": 1205
+        "protocol_id": 1196
       },
       "minecraft:warped_button": {
         "protocol_id": 762
@@ -11795,7 +11795,7 @@
         "protocol_id": 1219
       },
       "minecraft:witch_spawn_egg": {
-        "protocol_id": 1206
+        "protocol_id": 1197
       },
       "minecraft:wither_rose": {
         "protocol_id": 243
@@ -11804,16 +11804,16 @@
         "protocol_id": 1234
       },
       "minecraft:wither_skeleton_spawn_egg": {
-        "protocol_id": 1208
+        "protocol_id": 1181
       },
       "minecraft:wither_spawn_egg": {
-        "protocol_id": 1207
+        "protocol_id": 1180
       },
       "minecraft:wolf_armor": {
         "protocol_id": 890
       },
       "minecraft:wolf_spawn_egg": {
-        "protocol_id": 1209
+        "protocol_id": 1140
       },
       "minecraft:wooden_axe": {
         "protocol_id": 914
@@ -11885,25 +11885,25 @@
         "protocol_id": 217
       },
       "minecraft:zoglin_spawn_egg": {
-        "protocol_id": 1210
+        "protocol_id": 1211
       },
       "minecraft:zombie_head": {
         "protocol_id": 1236
       },
       "minecraft:zombie_horse_spawn_egg": {
-        "protocol_id": 1213
+        "protocol_id": 1183
       },
       "minecraft:zombie_nautilus_spawn_egg": {
-        "protocol_id": 1216
+        "protocol_id": 1184
       },
       "minecraft:zombie_spawn_egg": {
-        "protocol_id": 1212
+        "protocol_id": 1182
       },
       "minecraft:zombie_villager_spawn_egg": {
-        "protocol_id": 1214
+        "protocol_id": 1185
       },
       "minecraft:zombified_piglin_spawn_egg": {
-        "protocol_id": 1215
+        "protocol_id": 1212
       }
     },
     "protocol_id": 7
@@ -18692,13 +18692,13 @@
         "protocol_id": 1793
       },
       "minecraft:entity.zombie.hurt": {
-        "protocol_id": 1798
-      },
-      "minecraft:entity.zombie.infect": {
         "protocol_id": 1799
       },
+      "minecraft:entity.zombie.infect": {
+        "protocol_id": 1800
+      },
       "minecraft:entity.zombie.step": {
-        "protocol_id": 1811
+        "protocol_id": 1812
       },
       "minecraft:entity.zombie_horse.ambient": {
         "protocol_id": 1794
@@ -18709,68 +18709,71 @@
       "minecraft:entity.zombie_horse.death": {
         "protocol_id": 1796
       },
-      "minecraft:entity.zombie_horse.hurt": {
+      "minecraft:entity.zombie_horse.eat": {
         "protocol_id": 1797
       },
-      "minecraft:entity.zombie_nautilus.ambient": {
-        "protocol_id": 1800
+      "minecraft:entity.zombie_horse.hurt": {
+        "protocol_id": 1798
       },
-      "minecraft:entity.zombie_nautilus.dash": {
+      "minecraft:entity.zombie_nautilus.ambient": {
         "protocol_id": 1801
       },
-      "minecraft:entity.zombie_nautilus.dash_ready": {
+      "minecraft:entity.zombie_nautilus.dash": {
         "protocol_id": 1802
       },
-      "minecraft:entity.zombie_nautilus.death": {
+      "minecraft:entity.zombie_nautilus.dash_ready": {
         "protocol_id": 1803
       },
-      "minecraft:entity.zombie_nautilus.eat": {
+      "minecraft:entity.zombie_nautilus.death": {
         "protocol_id": 1804
       },
-      "minecraft:entity.zombie_nautilus.hurt": {
+      "minecraft:entity.zombie_nautilus.eat": {
         "protocol_id": 1805
       },
-      "minecraft:entity.zombie_nautilus.swim": {
+      "minecraft:entity.zombie_nautilus.hurt": {
         "protocol_id": 1806
       },
-      "minecraft:entity.zombie_villager.ambient": {
-        "protocol_id": 1812
-      },
-      "minecraft:entity.zombie_villager.converted": {
-        "protocol_id": 1813
-      },
-      "minecraft:entity.zombie_villager.cure": {
-        "protocol_id": 1814
-      },
-      "minecraft:entity.zombie_villager.death": {
-        "protocol_id": 1815
-      },
-      "minecraft:entity.zombie_villager.hurt": {
-        "protocol_id": 1816
-      },
-      "minecraft:entity.zombie_villager.step": {
-        "protocol_id": 1817
-      },
-      "minecraft:entity.zombified_piglin.ambient": {
+      "minecraft:entity.zombie_nautilus.swim": {
         "protocol_id": 1807
       },
-      "minecraft:entity.zombified_piglin.angry": {
-        "protocol_id": 1808
+      "minecraft:entity.zombie_villager.ambient": {
+        "protocol_id": 1813
       },
-      "minecraft:entity.zombified_piglin.death": {
-        "protocol_id": 1809
+      "minecraft:entity.zombie_villager.converted": {
+        "protocol_id": 1814
       },
-      "minecraft:entity.zombified_piglin.hurt": {
-        "protocol_id": 1810
+      "minecraft:entity.zombie_villager.cure": {
+        "protocol_id": 1815
       },
-      "minecraft:event.mob_effect.bad_omen": {
+      "minecraft:entity.zombie_villager.death": {
+        "protocol_id": 1816
+      },
+      "minecraft:entity.zombie_villager.hurt": {
+        "protocol_id": 1817
+      },
+      "minecraft:entity.zombie_villager.step": {
         "protocol_id": 1818
       },
+      "minecraft:entity.zombified_piglin.ambient": {
+        "protocol_id": 1808
+      },
+      "minecraft:entity.zombified_piglin.angry": {
+        "protocol_id": 1809
+      },
+      "minecraft:entity.zombified_piglin.death": {
+        "protocol_id": 1810
+      },
+      "minecraft:entity.zombified_piglin.hurt": {
+        "protocol_id": 1811
+      },
+      "minecraft:event.mob_effect.bad_omen": {
+        "protocol_id": 1819
+      },
       "minecraft:event.mob_effect.raid_omen": {
-        "protocol_id": 1820
+        "protocol_id": 1821
       },
       "minecraft:event.mob_effect.trial_omen": {
-        "protocol_id": 1819
+        "protocol_id": 1820
       },
       "minecraft:event.raid.horn": {
         "protocol_id": 1285
@@ -19019,10 +19022,10 @@
         "protocol_id": 917
       },
       "minecraft:item.nautilus_saddle_equip": {
-        "protocol_id": 1823
+        "protocol_id": 1824
       },
       "minecraft:item.nautilus_saddle_underwater_equip": {
-        "protocol_id": 1822
+        "protocol_id": 1823
       },
       "minecraft:item.nether_wart.plant": {
         "protocol_id": 1048
@@ -19031,7 +19034,7 @@
         "protocol_id": 1135
       },
       "minecraft:item.saddle.unequip": {
-        "protocol_id": 1821
+        "protocol_id": 1822
       },
       "minecraft:item.shears.snip": {
         "protocol_id": 1374

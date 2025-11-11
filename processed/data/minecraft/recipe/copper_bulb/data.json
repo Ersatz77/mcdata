@@ -1,5 +1,6 @@
 {
   "category": "redstone",
+  "group": "copper_bulb",
   "key": {
     "B": "minecraft:blaze_rod",
     "C": "minecraft:copper_block",

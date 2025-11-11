@@ -1,5 +1,6 @@
 {
   "category": "redstone",
+  "group": "waxed_exposed_copper_bulb",
   "key": {
     "B": "minecraft:blaze_rod",
     "C": "minecraft:waxed_exposed_copper",

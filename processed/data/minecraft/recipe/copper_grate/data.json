@@ -1,5 +1,6 @@
 {
   "category": "building",
+  "group": "copper_grate",
   "key": {
     "M": "minecraft:copper_block"
   },

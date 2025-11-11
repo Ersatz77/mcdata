@@ -1,6 +1,6 @@
 {
   "category": "building",
-  "group": "waxed_oxidized_lightning_rod",
+  "group": "waxed_lightning_rod",
   "ingredients": [
     "minecraft:oxidized_lightning_rod",
     "minecraft:honeycomb"

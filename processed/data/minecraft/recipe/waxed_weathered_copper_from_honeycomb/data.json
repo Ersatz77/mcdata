@@ -1,6 +1,6 @@
 {
   "category": "building",
-  "group": "waxed_weathered_copper",
+  "group": "waxed_copper_block",
   "ingredients": [
     "minecraft:weathered_copper",
     "minecraft:honeycomb"
