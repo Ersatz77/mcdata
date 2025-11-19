@@ -1,3 +1,4 @@
+minecraft:attack_range
 minecraft:attribute_modifiers
 minecraft:axolotl/variant
 minecraft:banner_patterns
