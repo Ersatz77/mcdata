@@ -9,19 +9,28 @@
       ],
       "entries": [
         {
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "max": 3.0,
+                "min": 0.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "count": {
+                "max": 1.0,
+                "min": 0.0,
+                "type": "minecraft:uniform"
+              },
+              "enchantment": "minecraft:looting",
+              "function": "minecraft:enchanted_count_increase"
+            }
+          ],
           "name": "minecraft:rotten_flesh",
           "type": "minecraft:item"
-        }
-      ],
-      "functions": [
-        {
-          "add": false,
-          "count": {
-            "max": 3.0,
-            "min": 0.0,
-            "type": "minecraft:uniform"
-          },
-          "function": "minecraft:set_count"
         }
       ],
       "rolls": 1.0
