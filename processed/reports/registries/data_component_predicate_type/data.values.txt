@@ -10,5 +10,6 @@ minecraft:jukebox_playable
 minecraft:potion_contents
 minecraft:stored_enchantments
 minecraft:trim
+minecraft:villager/variant
 minecraft:writable_book_content
 minecraft:written_book_content

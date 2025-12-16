@@ -22,7 +22,9 @@ minecraft:gameplay/surface_slime_spawn_chance
 minecraft:gameplay/turtle_egg_hatch_chance
 minecraft:gameplay/villager_activity
 minecraft:gameplay/water_evaporates
+minecraft:visual/ambient_light_color
 minecraft:visual/ambient_particles
+minecraft:visual/block_light_tint
 minecraft:visual/cloud_color
 minecraft:visual/cloud_fog_end_distance
 minecraft:visual/cloud_height
@@ -32,6 +34,7 @@ minecraft:visual/fog_end_distance
 minecraft:visual/fog_start_distance
 minecraft:visual/moon_angle
 minecraft:visual/moon_phase
+minecraft:visual/night_vision_color
 minecraft:visual/sky_color
 minecraft:visual/sky_fog_end_distance
 minecraft:visual/sky_light_color

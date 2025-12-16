@@ -35,6 +35,8 @@ minecraft:set_lore
 minecraft:set_name
 minecraft:set_ominous_bottle_amplifier
 minecraft:set_potion
+minecraft:set_random_dyes
+minecraft:set_random_potion
 minecraft:set_stew_effect
 minecraft:set_writable_book_pages
 minecraft:set_written_book_pages

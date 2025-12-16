@@ -1,5 +1,6 @@
 {
   "values": [
+    "minecraft:additional_trade_cost",
     "minecraft:attack_range",
     "minecraft:attribute_modifiers",
     "minecraft:axolotl/variant",
