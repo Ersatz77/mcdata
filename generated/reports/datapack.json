@@ -494,6 +494,11 @@
       "stable": false,
       "tags": true
     },
+    "minecraft:trade_set": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:trial_spawner": {
       "elements": true,
       "stable": false,
@@ -517,6 +522,11 @@
     "minecraft:villager_profession": {
       "elements": false,
       "stable": true,
+      "tags": true
+    },
+    "minecraft:villager_trade": {
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:villager_type": {

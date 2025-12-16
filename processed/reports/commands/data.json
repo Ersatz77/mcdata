@@ -11686,6 +11686,36 @@
       },
       "type": "literal"
     },
+    "swing": {
+      "children": {
+        "targets": {
+          "children": {
+            "mainhand": {
+              "executable": true,
+              "type": "literal"
+            },
+            "offhand": {
+              "executable": true,
+              "type": "literal"
+            }
+          },
+          "parser": "minecraft:entity",
+          "properties": {
+            "amount": "multiple",
+            "type": "entities"
+          },
+          "type": "argument"
+        }
+      },
+      "permissions": {
+        "permission": {
+          "level": "gamemasters",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
+      },
+      "type": "literal"
+    },
     "tag": {
       "children": {
         "targets": {
