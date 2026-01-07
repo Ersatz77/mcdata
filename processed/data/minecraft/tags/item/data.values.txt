@@ -114,6 +114,7 @@ minecraft:logs_that_burn
 minecraft:mangrove_logs
 minecraft:map_invisibility_equipment
 minecraft:meat
+minecraft:metal_nuggets
 minecraft:nautilus_bucket_food
 minecraft:nautilus_food
 minecraft:nautilus_taming_items

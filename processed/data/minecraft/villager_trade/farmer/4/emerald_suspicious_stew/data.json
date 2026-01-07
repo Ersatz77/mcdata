@@ -3,23 +3,23 @@
     {
       "effects": [
         {
-          "duration": 100.0,
+          "duration": 5.0,
           "type": "minecraft:night_vision"
         },
         {
-          "duration": 160.0,
+          "duration": 8.0,
           "type": "minecraft:jump_boost"
         },
         {
-          "duration": 140.0,
+          "duration": 7.0,
           "type": "minecraft:weakness"
         },
         {
-          "duration": 120.0,
+          "duration": 6.0,
           "type": "minecraft:blindness"
         },
         {
-          "duration": 280.0,
+          "duration": 14.0,
           "type": "minecraft:poison"
         },
         {

@@ -116,7 +116,7 @@
                     "type_specific": {
                       "food": {
                         "level": {
-                          "min": 6
+                          "min": 7
                         }
                       },
                       "type": "minecraft:player"
