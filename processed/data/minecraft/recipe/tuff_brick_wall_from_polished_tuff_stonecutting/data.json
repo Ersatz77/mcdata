@@ -1,7 +1,6 @@
 {
   "ingredient": "minecraft:polished_tuff",
   "result": {
-    "count": 1,
     "id": "minecraft:tuff_brick_wall"
   },
   "type": "minecraft:stonecutting"

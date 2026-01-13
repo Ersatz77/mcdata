@@ -6,7 +6,6 @@
     "#minecraft:eggs"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:pumpkin_pie"
   },
   "type": "minecraft:crafting_shapeless"

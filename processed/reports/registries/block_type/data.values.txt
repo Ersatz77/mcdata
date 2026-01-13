@@ -85,7 +85,7 @@ minecraft:end_portal_frame
 minecraft:end_rod
 minecraft:ender_chest
 minecraft:eyeblossom
-minecraft:farm
+minecraft:farmland
 minecraft:fence
 minecraft:fence_gate
 minecraft:fire
@@ -95,7 +95,6 @@ minecraft:flower_bed
 minecraft:flower_pot
 minecraft:frogspawn
 minecraft:frosted_ice
-minecraft:fungus
 minecraft:furnace
 minecraft:glazed_terracotta
 minecraft:glow_lichen
@@ -127,6 +126,7 @@ minecraft:lectern
 minecraft:lever
 minecraft:light
 minecraft:lightning_rod
+minecraft:lily_pad
 minecraft:liquid
 minecraft:loom
 minecraft:magma
@@ -139,7 +139,9 @@ minecraft:mud
 minecraft:multiface
 minecraft:mushroom
 minecraft:mycelium
+minecraft:nether_fungus
 minecraft:nether_portal
+minecraft:nether_roots
 minecraft:nether_sprouts
 minecraft:nether_wart
 minecraft:netherrack
@@ -168,7 +170,6 @@ minecraft:redstone_wire
 minecraft:repeater
 minecraft:respawn_anchor
 minecraft:rooted_dirt
-minecraft:roots
 minecraft:rotated_pillar
 minecraft:sand
 minecraft:sapling
@@ -237,7 +238,6 @@ minecraft:wall_hanging_sign
 minecraft:wall_sign
 minecraft:wall_skull
 minecraft:wall_torch
-minecraft:waterlily
 minecraft:waterlogged_transparent
 minecraft:weathering_copper_bar
 minecraft:weathering_copper_bulb

@@ -4199,7 +4199,7 @@
       "minecraft:eyeblossom": {
         "protocol_id": 84
       },
-      "minecraft:farm": {
+      "minecraft:farmland": {
         "protocol_id": 85
       },
       "minecraft:fence": {
@@ -4228,9 +4228,6 @@
       },
       "minecraft:frosted_ice": {
         "protocol_id": 94
-      },
-      "minecraft:fungus": {
-        "protocol_id": 95
       },
       "minecraft:furnace": {
         "protocol_id": 96
@@ -4325,6 +4322,9 @@
       "minecraft:lightning_rod": {
         "protocol_id": 126
       },
+      "minecraft:lily_pad": {
+        "protocol_id": 239
+      },
       "minecraft:liquid": {
         "protocol_id": 127
       },
@@ -4361,8 +4361,14 @@
       "minecraft:mycelium": {
         "protocol_id": 138
       },
+      "minecraft:nether_fungus": {
+        "protocol_id": 95
+      },
       "minecraft:nether_portal": {
         "protocol_id": 139
+      },
+      "minecraft:nether_roots": {
+        "protocol_id": 169
       },
       "minecraft:nether_sprouts": {
         "protocol_id": 141
@@ -4447,9 +4453,6 @@
       },
       "minecraft:rooted_dirt": {
         "protocol_id": 168
-      },
-      "minecraft:roots": {
-        "protocol_id": 169
       },
       "minecraft:rotated_pillar": {
         "protocol_id": 170
@@ -4654,9 +4657,6 @@
       },
       "minecraft:wall_torch": {
         "protocol_id": 237
-      },
-      "minecraft:waterlily": {
-        "protocol_id": 239
       },
       "minecraft:waterlogged_transparent": {
         "protocol_id": 240
@@ -12316,16 +12316,16 @@
     "default": "minecraft:dummy",
     "entries": {
       "minecraft:admiring_disabled": {
-        "protocol_id": 69
+        "protocol_id": 68
       },
       "minecraft:admiring_item": {
-        "protocol_id": 66
+        "protocol_id": 65
       },
       "minecraft:angry_at": {
-        "protocol_id": 64
+        "protocol_id": 63
       },
       "minecraft:ate_recently": {
-        "protocol_id": 84
+        "protocol_id": 83
       },
       "minecraft:attack_cooling_down": {
         "protocol_id": 16
@@ -12334,148 +12334,145 @@
         "protocol_id": 15
       },
       "minecraft:attack_target_cooldown": {
-        "protocol_id": 58
+        "protocol_id": 57
       },
       "minecraft:avoid_target": {
-        "protocol_id": 26
+        "protocol_id": 25
       },
       "minecraft:breed_target": {
         "protocol_id": 18
       },
       "minecraft:breeze_jump_cooldown": {
-        "protocol_id": 109
+        "protocol_id": 108
       },
       "minecraft:breeze_jump_inhaling": {
-        "protocol_id": 114
-      },
-      "minecraft:breeze_jump_target": {
-        "protocol_id": 115
-      },
-      "minecraft:breeze_leaving_water": {
-        "protocol_id": 116
-      },
-      "minecraft:breeze_shoot": {
-        "protocol_id": 110
-      },
-      "minecraft:breeze_shoot_charging": {
-        "protocol_id": 111
-      },
-      "minecraft:breeze_shoot_cooldown": {
         "protocol_id": 113
       },
-      "minecraft:breeze_shoot_recover": {
+      "minecraft:breeze_jump_target": {
+        "protocol_id": 114
+      },
+      "minecraft:breeze_leaving_water": {
+        "protocol_id": 115
+      },
+      "minecraft:breeze_shoot": {
+        "protocol_id": 109
+      },
+      "minecraft:breeze_shoot_charging": {
+        "protocol_id": 110
+      },
+      "minecraft:breeze_shoot_cooldown": {
         "protocol_id": 112
       },
+      "minecraft:breeze_shoot_recover": {
+        "protocol_id": 111
+      },
       "minecraft:cant_reach_walk_target_since": {
-        "protocol_id": 31
+        "protocol_id": 30
       },
       "minecraft:celebrate_location": {
-        "protocol_id": 71
+        "protocol_id": 70
       },
       "minecraft:charge_cooldown_ticks": {
-        "protocol_id": 57
+        "protocol_id": 56
       },
       "minecraft:dancing": {
-        "protocol_id": 72
+        "protocol_id": 71
       },
       "minecraft:danger_detected_recently": {
-        "protocol_id": 33
+        "protocol_id": 32
       },
       "minecraft:dig_cooldown": {
-        "protocol_id": 93
+        "protocol_id": 92
       },
       "minecraft:disable_walk_to_admire_item": {
-        "protocol_id": 68
+        "protocol_id": 67
       },
       "minecraft:disturbance_location": {
-        "protocol_id": 88
+        "protocol_id": 87
       },
       "minecraft:doors_to_close": {
-        "protocol_id": 22
+        "protocol_id": 21
       },
       "minecraft:dummy": {
         "protocol_id": 0
       },
       "minecraft:gaze_cooldown_ticks": {
-        "protocol_id": 43
+        "protocol_id": 42
       },
       "minecraft:golem_detected_recently": {
-        "protocol_id": 32
+        "protocol_id": 31
       },
       "minecraft:has_hunting_cooldown": {
-        "protocol_id": 47
+        "protocol_id": 46
       },
       "minecraft:heard_bell_time": {
-        "protocol_id": 30
+        "protocol_id": 29
       },
       "minecraft:hiding_place": {
-        "protocol_id": 29
+        "protocol_id": 28
       },
       "minecraft:home": {
         "protocol_id": 1
       },
       "minecraft:hunted_recently": {
-        "protocol_id": 70
+        "protocol_id": 69
       },
       "minecraft:hurt_by": {
-        "protocol_id": 24
+        "protocol_id": 23
       },
       "minecraft:hurt_by_entity": {
-        "protocol_id": 25
-      },
-      "minecraft:interactable_doors": {
-        "protocol_id": 21
+        "protocol_id": 24
       },
       "minecraft:interaction_target": {
         "protocol_id": 17
       },
       "minecraft:is_emerging": {
-        "protocol_id": 91
-      },
-      "minecraft:is_in_water": {
-        "protocol_id": 50
-      },
-      "minecraft:is_panicking": {
-        "protocol_id": 52
-      },
-      "minecraft:is_pregnant": {
-        "protocol_id": 51
-      },
-      "minecraft:is_sniffing": {
         "protocol_id": 90
       },
+      "minecraft:is_in_water": {
+        "protocol_id": 49
+      },
+      "minecraft:is_panicking": {
+        "protocol_id": 51
+      },
+      "minecraft:is_pregnant": {
+        "protocol_id": 50
+      },
+      "minecraft:is_sniffing": {
+        "protocol_id": 89
+      },
       "minecraft:is_tempted": {
-        "protocol_id": 44
+        "protocol_id": 43
       },
       "minecraft:item_pickup_cooldown_ticks": {
-        "protocol_id": 104
+        "protocol_id": 103
       },
       "minecraft:job_site": {
         "protocol_id": 2
       },
       "minecraft:last_slept": {
-        "protocol_id": 34
+        "protocol_id": 33
       },
       "minecraft:last_woken": {
-        "protocol_id": 35
+        "protocol_id": 34
       },
       "minecraft:last_worked_at_poi": {
-        "protocol_id": 36
+        "protocol_id": 35
       },
       "minecraft:liked_noteblock": {
-        "protocol_id": 102
-      },
-      "minecraft:liked_noteblock_cooldown_ticks": {
-        "protocol_id": 103
-      },
-      "minecraft:liked_player": {
         "protocol_id": 101
       },
+      "minecraft:liked_noteblock_cooldown_ticks": {
+        "protocol_id": 102
+      },
+      "minecraft:liked_player": {
+        "protocol_id": 100
+      },
       "minecraft:long_jump_cooling_down": {
-        "protocol_id": 45
+        "protocol_id": 44
       },
       "minecraft:long_jump_mid_jump": {
-        "protocol_id": 46
+        "protocol_id": 45
       },
       "minecraft:look_target": {
         "protocol_id": 14
@@ -12487,49 +12484,49 @@
         "protocol_id": 6
       },
       "minecraft:nearby_adult_piglins": {
-        "protocol_id": 76
+        "protocol_id": 75
       },
       "minecraft:nearest_attackable": {
-        "protocol_id": 28
-      },
-      "minecraft:nearest_bed": {
-        "protocol_id": 23
-      },
-      "minecraft:nearest_hostile": {
         "protocol_id": 27
       },
+      "minecraft:nearest_bed": {
+        "protocol_id": 22
+      },
+      "minecraft:nearest_hostile": {
+        "protocol_id": 26
+      },
       "minecraft:nearest_player_holding_wanted_item": {
-        "protocol_id": 83
+        "protocol_id": 82
       },
       "minecraft:nearest_players": {
         "protocol_id": 9
       },
       "minecraft:nearest_repellent": {
-        "protocol_id": 85
+        "protocol_id": 84
       },
       "minecraft:nearest_targetable_player_not_wearing_gold": {
-        "protocol_id": 75
-      },
-      "minecraft:nearest_visible_adult": {
-        "protocol_id": 37
-      },
-      "minecraft:nearest_visible_adult_hoglins": {
-        "protocol_id": 78
-      },
-      "minecraft:nearest_visible_adult_piglin": {
-        "protocol_id": 79
-      },
-      "minecraft:nearest_visible_adult_piglins": {
-        "protocol_id": 77
-      },
-      "minecraft:nearest_visible_baby_hoglin": {
         "protocol_id": 74
       },
-      "minecraft:nearest_visible_huntable_hoglin": {
+      "minecraft:nearest_visible_adult": {
+        "protocol_id": 36
+      },
+      "minecraft:nearest_visible_adult_hoglins": {
+        "protocol_id": 77
+      },
+      "minecraft:nearest_visible_adult_piglin": {
+        "protocol_id": 78
+      },
+      "minecraft:nearest_visible_adult_piglins": {
+        "protocol_id": 76
+      },
+      "minecraft:nearest_visible_baby_hoglin": {
         "protocol_id": 73
       },
+      "minecraft:nearest_visible_huntable_hoglin": {
+        "protocol_id": 72
+      },
       "minecraft:nearest_visible_nemesis": {
-        "protocol_id": 39
+        "protocol_id": 38
       },
       "minecraft:nearest_visible_player": {
         "protocol_id": 10
@@ -12541,118 +12538,118 @@
         "protocol_id": 12
       },
       "minecraft:nearest_visible_wanted_item": {
-        "protocol_id": 38
+        "protocol_id": 37
       },
       "minecraft:nearest_visible_zombified": {
-        "protocol_id": 80
+        "protocol_id": 79
       },
       "minecraft:pacified": {
-        "protocol_id": 86
+        "protocol_id": 85
       },
       "minecraft:path": {
         "protocol_id": 20
       },
       "minecraft:play_dead_ticks": {
-        "protocol_id": 40
+        "protocol_id": 39
       },
       "minecraft:potential_job_site": {
         "protocol_id": 3
       },
       "minecraft:ram_cooldown_ticks": {
-        "protocol_id": 48
+        "protocol_id": 47
       },
       "minecraft:ram_target": {
-        "protocol_id": 49
+        "protocol_id": 48
       },
       "minecraft:recent_projectile": {
-        "protocol_id": 89
+        "protocol_id": 88
       },
       "minecraft:ride_target": {
         "protocol_id": 19
       },
       "minecraft:roar_sound_cooldown": {
-        "protocol_id": 94
+        "protocol_id": 93
       },
       "minecraft:roar_sound_delay": {
-        "protocol_id": 92
+        "protocol_id": 91
       },
       "minecraft:roar_target": {
-        "protocol_id": 87
+        "protocol_id": 86
       },
       "minecraft:secondary_job_site": {
         "protocol_id": 5
       },
       "minecraft:sniff_cooldown": {
-        "protocol_id": 95
+        "protocol_id": 94
       },
       "minecraft:sniffer_digging": {
-        "protocol_id": 107
-      },
-      "minecraft:sniffer_explored_positions": {
-        "protocol_id": 105
-      },
-      "minecraft:sniffer_happy": {
-        "protocol_id": 108
-      },
-      "minecraft:sniffer_sniffing_target": {
         "protocol_id": 106
       },
+      "minecraft:sniffer_explored_positions": {
+        "protocol_id": 104
+      },
+      "minecraft:sniffer_happy": {
+        "protocol_id": 107
+      },
+      "minecraft:sniffer_sniffing_target": {
+        "protocol_id": 105
+      },
       "minecraft:sonic_boom_cooldown": {
-        "protocol_id": 98
-      },
-      "minecraft:sonic_boom_sound_cooldown": {
-        "protocol_id": 99
-      },
-      "minecraft:sonic_boom_sound_delay": {
-        "protocol_id": 100
-      },
-      "minecraft:spear_charge_position": {
-        "protocol_id": 61
-      },
-      "minecraft:spear_engage_time": {
-        "protocol_id": 62
-      },
-      "minecraft:spear_fleeing_position": {
-        "protocol_id": 60
-      },
-      "minecraft:spear_fleeing_time": {
-        "protocol_id": 59
-      },
-      "minecraft:spear_status": {
-        "protocol_id": 63
-      },
-      "minecraft:temptation_cooldown_ticks": {
-        "protocol_id": 42
-      },
-      "minecraft:tempting_player": {
-        "protocol_id": 41
-      },
-      "minecraft:time_trying_to_reach_admire_item": {
-        "protocol_id": 67
-      },
-      "minecraft:touch_cooldown": {
-        "protocol_id": 96
-      },
-      "minecraft:transport_items_cooldown_ticks": {
-        "protocol_id": 56
-      },
-      "minecraft:universal_anger": {
-        "protocol_id": 65
-      },
-      "minecraft:unreachable_tongue_targets": {
-        "protocol_id": 53
-      },
-      "minecraft:unreachable_transport_block_positions": {
-        "protocol_id": 55
-      },
-      "minecraft:vibration_cooldown": {
         "protocol_id": 97
       },
+      "minecraft:sonic_boom_sound_cooldown": {
+        "protocol_id": 98
+      },
+      "minecraft:sonic_boom_sound_delay": {
+        "protocol_id": 99
+      },
+      "minecraft:spear_charge_position": {
+        "protocol_id": 60
+      },
+      "minecraft:spear_engage_time": {
+        "protocol_id": 61
+      },
+      "minecraft:spear_fleeing_position": {
+        "protocol_id": 59
+      },
+      "minecraft:spear_fleeing_time": {
+        "protocol_id": 58
+      },
+      "minecraft:spear_status": {
+        "protocol_id": 62
+      },
+      "minecraft:temptation_cooldown_ticks": {
+        "protocol_id": 41
+      },
+      "minecraft:tempting_player": {
+        "protocol_id": 40
+      },
+      "minecraft:time_trying_to_reach_admire_item": {
+        "protocol_id": 66
+      },
+      "minecraft:touch_cooldown": {
+        "protocol_id": 95
+      },
+      "minecraft:transport_items_cooldown_ticks": {
+        "protocol_id": 55
+      },
+      "minecraft:universal_anger": {
+        "protocol_id": 64
+      },
+      "minecraft:unreachable_tongue_targets": {
+        "protocol_id": 52
+      },
+      "minecraft:unreachable_transport_block_positions": {
+        "protocol_id": 54
+      },
+      "minecraft:vibration_cooldown": {
+        "protocol_id": 96
+      },
       "minecraft:visible_adult_hoglin_count": {
-        "protocol_id": 82
+        "protocol_id": 81
       },
       "minecraft:visible_adult_piglin_count": {
-        "protocol_id": 81
+        "protocol_id": 80
       },
       "minecraft:visible_mobs": {
         "protocol_id": 7
@@ -12661,7 +12658,7 @@
         "protocol_id": 8
       },
       "minecraft:visited_block_positions": {
-        "protocol_id": 54
+        "protocol_id": 53
       },
       "minecraft:walk_target": {
         "protocol_id": 13
@@ -19513,14 +19510,14 @@
       "minecraft:all_of": {
         "protocol_id": 0
       },
+      "minecraft:clock_time": {
+        "protocol_id": 2
+      },
       "minecraft:function": {
         "protocol_id": 4
       },
       "minecraft:game_rules": {
         "protocol_id": 1
-      },
-      "minecraft:time_of_day": {
-        "protocol_id": 2
       },
       "minecraft:weather": {
         "protocol_id": 3

@@ -12,7 +12,6 @@
     "minecraft:melon_slice"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:melon"
   },
   "type": "minecraft:crafting_shapeless"

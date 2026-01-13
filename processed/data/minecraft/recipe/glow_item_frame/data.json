@@ -5,7 +5,6 @@
     "minecraft:glow_ink_sac"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:glow_item_frame"
   },
   "type": "minecraft:crafting_shapeless"

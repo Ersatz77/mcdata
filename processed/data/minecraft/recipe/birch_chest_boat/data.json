@@ -6,7 +6,6 @@
     "minecraft:birch_boat"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:birch_chest_boat"
   },
   "type": "minecraft:crafting_shapeless"

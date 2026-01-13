@@ -6,7 +6,6 @@
     "minecraft:white_dye"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:white_candle"
   },
   "type": "minecraft:crafting_shapeless"

@@ -6,7 +6,6 @@
     "minecraft:moss_block"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:mossy_cobblestone"
   },
   "type": "minecraft:crafting_shapeless"

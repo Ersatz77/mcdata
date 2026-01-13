@@ -5,7 +5,6 @@
     "minecraft:minecart"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:chest_minecart"
   },
   "type": "minecraft:crafting_shapeless"

@@ -1,0 +1,30 @@
+{
+  "components": {
+    "minecraft:attribute_modifiers": [],
+    "minecraft:break_sound": "minecraft:entity.item.break",
+    "minecraft:consumable": {
+      "animation": "drink",
+      "has_consume_particles": false,
+      "on_consume_effects": [
+        {
+          "type": "minecraft:play_sound",
+          "sound": "minecraft:item.ominous_bottle.dispose"
+        }
+      ],
+      "sound": "minecraft:entity.generic.drink"
+    },
+    "minecraft:enchantments": {},
+    "minecraft:item_model": "minecraft:ominous_bottle",
+    "minecraft:item_name": {
+      "translate": "item.minecraft.ominous_bottle"
+    },
+    "minecraft:lore": [],
+    "minecraft:max_stack_size": 64,
+    "minecraft:ominous_bottle_amplifier": 0,
+    "minecraft:rarity": "uncommon",
+    "minecraft:repair_cost": 0,
+    "minecraft:swing_animation": {},
+    "minecraft:tooltip_display": {},
+    "minecraft:use_effects": {}
+  }
+}

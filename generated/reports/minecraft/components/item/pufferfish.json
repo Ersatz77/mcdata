@@ -1,0 +1,48 @@
+{
+  "components": {
+    "minecraft:attribute_modifiers": [],
+    "minecraft:break_sound": "minecraft:entity.item.break",
+    "minecraft:consumable": {
+      "on_consume_effects": [
+        {
+          "type": "minecraft:apply_effects",
+          "effects": [
+            {
+              "amplifier": 1,
+              "duration": 1200,
+              "id": "minecraft:poison",
+              "show_icon": true
+            },
+            {
+              "amplifier": 2,
+              "duration": 300,
+              "id": "minecraft:hunger",
+              "show_icon": true
+            },
+            {
+              "duration": 300,
+              "id": "minecraft:nausea",
+              "show_icon": true
+            }
+          ]
+        }
+      ]
+    },
+    "minecraft:enchantments": {},
+    "minecraft:food": {
+      "nutrition": 1,
+      "saturation": 0.2
+    },
+    "minecraft:item_model": "minecraft:pufferfish",
+    "minecraft:item_name": {
+      "translate": "item.minecraft.pufferfish"
+    },
+    "minecraft:lore": [],
+    "minecraft:max_stack_size": 64,
+    "minecraft:rarity": "common",
+    "minecraft:repair_cost": 0,
+    "minecraft:swing_animation": {},
+    "minecraft:tooltip_display": {},
+    "minecraft:use_effects": {}
+  }
+}

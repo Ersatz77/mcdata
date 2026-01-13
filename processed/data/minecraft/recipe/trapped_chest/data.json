@@ -5,7 +5,6 @@
     "minecraft:tripwire_hook"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:trapped_chest"
   },
   "type": "minecraft:crafting_shapeless"

@@ -5,7 +5,6 @@
     "minecraft:enchanted_golden_apple"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:mojang_banner_pattern"
   },
   "type": "minecraft:crafting_shapeless"

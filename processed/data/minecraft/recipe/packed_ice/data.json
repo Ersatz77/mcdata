@@ -12,7 +12,6 @@
     "minecraft:ice"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:packed_ice"
   },
   "type": "minecraft:crafting_shapeless"

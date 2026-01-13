@@ -1,7 +1,6 @@
 {
   "ingredient": "minecraft:tuff",
   "result": {
-    "count": 1,
     "id": "minecraft:tuff_wall"
   },
   "type": "minecraft:stonecutting"

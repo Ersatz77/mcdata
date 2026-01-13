@@ -544,6 +544,11 @@
       "stable": false,
       "tags": true
     },
+    "minecraft:world_clock": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:worldgen/biome": {
       "elements": true,
       "stable": false,

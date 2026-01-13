@@ -1,9 +1,9 @@
 {
   "values": [
     "minecraft:all_of",
+    "minecraft:clock_time",
     "minecraft:function",
     "minecraft:game_rules",
-    "minecraft:time_of_day",
     "minecraft:weather"
   ]
 }

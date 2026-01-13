@@ -1,7 +1,6 @@
 {
   "ingredient": "minecraft:mud_bricks",
   "result": {
-    "count": 1,
     "id": "minecraft:mud_brick_wall"
   },
   "type": "minecraft:stonecutting"

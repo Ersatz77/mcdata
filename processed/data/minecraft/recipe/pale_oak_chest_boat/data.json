@@ -6,7 +6,6 @@
     "minecraft:pale_oak_boat"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:pale_oak_chest_boat"
   },
   "type": "minecraft:crafting_shapeless"

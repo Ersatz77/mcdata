@@ -6,7 +6,6 @@
     "minecraft:purple_dye"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:purple_candle"
   },
   "type": "minecraft:crafting_shapeless"

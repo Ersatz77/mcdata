@@ -5,7 +5,6 @@
     "minecraft:jungle_planks"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:jungle_button"
   },
   "type": "minecraft:crafting_shapeless"

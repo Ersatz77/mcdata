@@ -11699,6 +11699,7 @@
               "type": "literal"
             }
           },
+          "executable": true,
           "parser": "minecraft:entity",
           "properties": {
             "amount": "multiple",
@@ -11707,6 +11708,7 @@
           "type": "argument"
         }
       },
+      "executable": true,
       "permissions": {
         "permission": {
           "level": "gamemasters",
@@ -12525,54 +12527,137 @@
               "executable": true,
               "parser": "minecraft:time",
               "properties": {
-                "min": 0
+                "min": -2147483648
               },
               "type": "argument"
             }
           },
           "type": "literal"
         },
-        "query": {
+        "of": {
           "children": {
-            "day": {
-              "executable": true,
-              "type": "literal"
-            },
-            "daytime": {
-              "executable": true,
-              "type": "literal"
-            },
-            "gametime": {
-              "executable": true,
-              "type": "literal"
+            "clock": {
+              "children": {
+                "add": {
+                  "children": {
+                    "time": {
+                      "executable": true,
+                      "parser": "minecraft:time",
+                      "properties": {
+                        "min": -2147483648
+                      },
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
+                },
+                "pause": {
+                  "executable": true,
+                  "type": "literal"
+                },
+                "query": {
+                  "children": {
+                    "time": {
+                      "executable": true,
+                      "type": "literal"
+                    },
+                    "timeline": {
+                      "children": {
+                        "repetition": {
+                          "executable": true,
+                          "type": "literal"
+                        }
+                      },
+                      "executable": true,
+                      "parser": "minecraft:resource",
+                      "properties": {
+                        "registry": "minecraft:timeline"
+                      },
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
+                },
+                "resume": {
+                  "executable": true,
+                  "type": "literal"
+                },
+                "set": {
+                  "children": {
+                    "time": {
+                      "executable": true,
+                      "parser": "minecraft:time",
+                      "properties": {
+                        "min": 0
+                      },
+                      "type": "argument"
+                    },
+                    "timemarker": {
+                      "executable": true,
+                      "parser": "minecraft:resource_location",
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
+                }
+              },
+              "parser": "minecraft:resource",
+              "properties": {
+                "registry": "minecraft:world_clock"
+              },
+              "type": "argument"
             }
           },
           "type": "literal"
         },
+        "pause": {
+          "executable": true,
+          "type": "literal"
+        },
+        "query": {
+          "children": {
+            "gametime": {
+              "executable": true,
+              "type": "literal"
+            },
+            "time": {
+              "executable": true,
+              "type": "literal"
+            },
+            "timeline": {
+              "children": {
+                "repetition": {
+                  "executable": true,
+                  "type": "literal"
+                }
+              },
+              "executable": true,
+              "parser": "minecraft:resource",
+              "properties": {
+                "registry": "minecraft:timeline"
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
+        "resume": {
+          "executable": true,
+          "type": "literal"
+        },
         "set": {
           "children": {
-            "day": {
-              "executable": true,
-              "type": "literal"
-            },
-            "midnight": {
-              "executable": true,
-              "type": "literal"
-            },
-            "night": {
-              "executable": true,
-              "type": "literal"
-            },
-            "noon": {
-              "executable": true,
-              "type": "literal"
-            },
             "time": {
               "executable": true,
               "parser": "minecraft:time",
               "properties": {
                 "min": 0
               },
+              "type": "argument"
+            },
+            "timemarker": {
+              "executable": true,
+              "parser": "minecraft:resource_location",
               "type": "argument"
             }
           },

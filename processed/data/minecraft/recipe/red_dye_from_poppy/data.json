@@ -5,7 +5,6 @@
     "minecraft:poppy"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:red_dye"
   },
   "type": "minecraft:crafting_shapeless"

@@ -6,7 +6,6 @@
     "minecraft:cherry_boat"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:cherry_chest_boat"
   },
   "type": "minecraft:crafting_shapeless"

@@ -4,7 +4,6 @@
     "minecraft:stone"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:stone_button"
   },
   "type": "minecraft:crafting_shapeless"

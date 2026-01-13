@@ -24,7 +24,6 @@
       "translate": "advancements.adventure.shoot_arrow.description"
     },
     "icon": {
-      "count": 1,
       "id": "minecraft:bow"
     },
     "title": {

@@ -5,7 +5,6 @@
     "minecraft:dandelion"
   ],
   "result": {
-    "count": 1,
     "id": "minecraft:yellow_dye"
   },
   "type": "minecraft:crafting_shapeless"
