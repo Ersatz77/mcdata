@@ -188,11 +188,14 @@ minecraft:supports_hanging_mangrove_propagule
 minecraft:supports_lily_pad
 minecraft:supports_mangrove_propagule
 minecraft:supports_melon_stem
+minecraft:supports_melon_stem_fruit
 minecraft:supports_nether_sprouts
 minecraft:supports_nether_wart
 minecraft:supports_pumpkin_stem
+minecraft:supports_pumpkin_stem_fruit
 minecraft:supports_small_dripleaf
 minecraft:supports_stem_crops
+minecraft:supports_stem_fruit
 minecraft:supports_sugar_cane
 minecraft:supports_sugar_cane_adjacently
 minecraft:supports_vegetation

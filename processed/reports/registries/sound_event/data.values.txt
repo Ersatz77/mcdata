@@ -865,6 +865,14 @@ minecraft:entity.baby_cat.hurt
 minecraft:entity.baby_cat.purr
 minecraft:entity.baby_cat.purreow
 minecraft:entity.baby_cat.stray_ambient
+minecraft:entity.baby_horse.ambient
+minecraft:entity.baby_horse.angry
+minecraft:entity.baby_horse.breathe
+minecraft:entity.baby_horse.death
+minecraft:entity.baby_horse.eat
+minecraft:entity.baby_horse.hurt
+minecraft:entity.baby_horse.land
+minecraft:entity.baby_horse.step
 minecraft:entity.baby_nautilus.ambient
 minecraft:entity.baby_nautilus.ambient_land
 minecraft:entity.baby_nautilus.death
