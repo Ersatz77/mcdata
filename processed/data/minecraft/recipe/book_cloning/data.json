@@ -1,4 +1,8 @@
 {
-  "category": "misc",
+  "material": "#minecraft:book_cloning_target",
+  "result": {
+    "id": "minecraft:written_book"
+  },
+  "source": "minecraft:written_book",
   "type": "minecraft:crafting_special_bookcloning"
 }

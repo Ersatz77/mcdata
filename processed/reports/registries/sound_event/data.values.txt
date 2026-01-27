@@ -865,6 +865,9 @@ minecraft:entity.baby_cat.hurt
 minecraft:entity.baby_cat.purr
 minecraft:entity.baby_cat.purreow
 minecraft:entity.baby_cat.stray_ambient
+minecraft:entity.baby_chicken.ambient
+minecraft:entity.baby_chicken.death
+minecraft:entity.baby_chicken.hurt
 minecraft:entity.baby_horse.ambient
 minecraft:entity.baby_horse.angry
 minecraft:entity.baby_horse.breathe
@@ -1752,6 +1755,8 @@ minecraft:item.goat_horn.sound.4
 minecraft:item.goat_horn.sound.5
 minecraft:item.goat_horn.sound.6
 minecraft:item.goat_horn.sound.7
+minecraft:item.golden_dandelion.unuse
+minecraft:item.golden_dandelion.use
 minecraft:item.hoe.till
 minecraft:item.honey_bottle.drink
 minecraft:item.honeycomb.wax_on

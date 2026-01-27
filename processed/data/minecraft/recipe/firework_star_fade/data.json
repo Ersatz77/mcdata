@@ -1,4 +1,8 @@
 {
-  "category": "misc",
+  "dye": "#minecraft:dyes",
+  "result": {
+    "id": "minecraft:firework_star"
+  },
+  "target": "minecraft:firework_star",
   "type": "minecraft:crafting_special_firework_star_fade"
 }

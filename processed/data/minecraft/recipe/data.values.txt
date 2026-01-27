@@ -23,7 +23,6 @@ minecraft:andesite_stairs_from_andesite_stonecutting
 minecraft:andesite_wall
 minecraft:andesite_wall_from_andesite_stonecutting
 minecraft:anvil
-minecraft:armor_dye
 minecraft:armor_stand
 minecraft:arrow
 minecraft:baked_potato
@@ -47,7 +46,6 @@ minecraft:bamboo_sign
 minecraft:bamboo_slab
 minecraft:bamboo_stairs
 minecraft:bamboo_trapdoor
-minecraft:banner_duplicate
 minecraft:barrel
 minecraft:beacon
 minecraft:beehive
@@ -68,6 +66,7 @@ minecraft:birch_stairs
 minecraft:birch_trapdoor
 minecraft:birch_wood
 minecraft:black_banner
+minecraft:black_banner_duplicate
 minecraft:black_bed
 minecraft:black_bundle
 minecraft:black_candle
@@ -91,6 +90,7 @@ minecraft:blackstone_wall_from_blackstone_stonecutting
 minecraft:blast_furnace
 minecraft:blaze_powder
 minecraft:blue_banner
+minecraft:blue_banner_duplicate
 minecraft:blue_bed
 minecraft:blue_bundle
 minecraft:blue_candle
@@ -128,6 +128,7 @@ minecraft:brick_wall
 minecraft:brick_wall_from_bricks_stonecutting
 minecraft:bricks
 minecraft:brown_banner
+minecraft:brown_banner_duplicate
 minecraft:brown_bed
 minecraft:brown_bundle
 minecraft:brown_candle
@@ -190,7 +191,7 @@ minecraft:chiseled_sandstone
 minecraft:chiseled_sandstone_from_sandstone_stonecutting
 minecraft:chiseled_stone_bricks
 minecraft:chiseled_stone_bricks_from_stone_bricks_stonecutting
-minecraft:chiseled_stone_bricks_stone_from_stonecutting
+minecraft:chiseled_stone_bricks_from_stone_stonecutting
 minecraft:chiseled_tuff
 minecraft:chiseled_tuff_bricks
 minecraft:chiseled_tuff_bricks_from_polished_tuff_stonecutting
@@ -321,6 +322,7 @@ minecraft:cut_sandstone_slab
 minecraft:cut_sandstone_slab_from_cut_sandstone_stonecutting
 minecraft:cut_sandstone_slab_from_sandstone_stonecutting
 minecraft:cyan_banner
+minecraft:cyan_banner_duplicate
 minecraft:cyan_bed
 minecraft:cyan_bundle
 minecraft:cyan_candle
@@ -502,13 +504,13 @@ minecraft:enchanting_table
 minecraft:end_crystal
 minecraft:end_rod
 minecraft:end_stone_brick_slab
-minecraft:end_stone_brick_slab_from_end_stone_brick_stonecutting
+minecraft:end_stone_brick_slab_from_end_stone_bricks_stonecutting
 minecraft:end_stone_brick_slab_from_end_stone_stonecutting
 minecraft:end_stone_brick_stairs
-minecraft:end_stone_brick_stairs_from_end_stone_brick_stonecutting
+minecraft:end_stone_brick_stairs_from_end_stone_bricks_stonecutting
 minecraft:end_stone_brick_stairs_from_end_stone_stonecutting
 minecraft:end_stone_brick_wall
-minecraft:end_stone_brick_wall_from_end_stone_brick_stonecutting
+minecraft:end_stone_brick_wall_from_end_stone_bricks_stonecutting
 minecraft:end_stone_brick_wall_from_end_stone_stonecutting
 minecraft:end_stone_bricks
 minecraft:end_stone_bricks_from_end_stone_stonecutting
@@ -571,6 +573,7 @@ minecraft:golden_axe
 minecraft:golden_boots
 minecraft:golden_carrot
 minecraft:golden_chestplate
+minecraft:golden_dandelion
 minecraft:golden_helmet
 minecraft:golden_hoe
 minecraft:golden_leggings
@@ -586,6 +589,7 @@ minecraft:granite_stairs_from_granite_stonecutting
 minecraft:granite_wall
 minecraft:granite_wall_from_granite_stonecutting
 minecraft:gray_banner
+minecraft:gray_banner_duplicate
 minecraft:gray_bed
 minecraft:gray_bundle
 minecraft:gray_candle
@@ -601,6 +605,7 @@ minecraft:gray_stained_glass_pane
 minecraft:gray_stained_glass_pane_from_glass_pane
 minecraft:gray_terracotta
 minecraft:green_banner
+minecraft:green_banner_duplicate
 minecraft:green_bed
 minecraft:green_bundle
 minecraft:green_candle
@@ -680,13 +685,19 @@ minecraft:lead
 minecraft:leaf_litter
 minecraft:leather
 minecraft:leather_boots
+minecraft:leather_boots_dyed
 minecraft:leather_chestplate
+minecraft:leather_chestplate_dyed
 minecraft:leather_helmet
+minecraft:leather_helmet_dyed
 minecraft:leather_horse_armor
+minecraft:leather_horse_armor_dyed
 minecraft:leather_leggings
+minecraft:leather_leggings_dyed
 minecraft:lectern
 minecraft:lever
 minecraft:light_blue_banner
+minecraft:light_blue_banner_duplicate
 minecraft:light_blue_bed
 minecraft:light_blue_bundle
 minecraft:light_blue_candle
@@ -702,6 +713,7 @@ minecraft:light_blue_stained_glass_pane
 minecraft:light_blue_stained_glass_pane_from_glass_pane
 minecraft:light_blue_terracotta
 minecraft:light_gray_banner
+minecraft:light_gray_banner_duplicate
 minecraft:light_gray_bed
 minecraft:light_gray_bundle
 minecraft:light_gray_candle
@@ -722,6 +734,7 @@ minecraft:light_gray_terracotta
 minecraft:light_weighted_pressure_plate
 minecraft:lightning_rod
 minecraft:lime_banner
+minecraft:lime_banner_duplicate
 minecraft:lime_bed
 minecraft:lime_bundle
 minecraft:lime_candle
@@ -740,6 +753,7 @@ minecraft:lodestone
 minecraft:loom
 minecraft:mace
 minecraft:magenta_banner
+minecraft:magenta_banner_duplicate
 minecraft:magenta_bed
 minecraft:magenta_bundle
 minecraft:magenta_candle
@@ -791,11 +805,11 @@ minecraft:mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting
 minecraft:mossy_cobblestone_wall
 minecraft:mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting
 minecraft:mossy_stone_brick_slab
-minecraft:mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting
+minecraft:mossy_stone_brick_slab_from_mossy_stone_bricks_stonecutting
 minecraft:mossy_stone_brick_stairs
-minecraft:mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting
+minecraft:mossy_stone_brick_stairs_from_mossy_stone_bricks_stonecutting
 minecraft:mossy_stone_brick_wall
-minecraft:mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting
+minecraft:mossy_stone_brick_wall_from_mossy_stone_bricks_stonecutting
 minecraft:mossy_stone_bricks_from_moss_block
 minecraft:mossy_stone_bricks_from_vine
 minecraft:mud_brick_slab
@@ -855,6 +869,7 @@ minecraft:oak_trapdoor
 minecraft:oak_wood
 minecraft:observer
 minecraft:orange_banner
+minecraft:orange_banner_duplicate
 minecraft:orange_bed
 minecraft:orange_bundle
 minecraft:orange_candle
@@ -906,6 +921,7 @@ minecraft:pale_oak_trapdoor
 minecraft:pale_oak_wood
 minecraft:paper
 minecraft:pink_banner
+minecraft:pink_banner_duplicate
 minecraft:pink_bed
 minecraft:pink_bundle
 minecraft:pink_candle
@@ -1004,9 +1020,9 @@ minecraft:popped_chorus_fruit
 minecraft:powered_rail
 minecraft:prismarine
 minecraft:prismarine_brick_slab
-minecraft:prismarine_brick_slab_from_prismarine_stonecutting
+minecraft:prismarine_brick_slab_from_prismarine_bricks_stonecutting
 minecraft:prismarine_brick_stairs
-minecraft:prismarine_brick_stairs_from_prismarine_stonecutting
+minecraft:prismarine_brick_stairs_from_prismarine_bricks_stonecutting
 minecraft:prismarine_bricks
 minecraft:prismarine_slab
 minecraft:prismarine_slab_from_prismarine_stonecutting
@@ -1017,6 +1033,7 @@ minecraft:prismarine_wall_from_prismarine_stonecutting
 minecraft:pumpkin_pie
 minecraft:pumpkin_seeds
 minecraft:purple_banner
+minecraft:purple_banner_duplicate
 minecraft:purple_bed
 minecraft:purple_bundle
 minecraft:purple_candle
@@ -1045,7 +1062,7 @@ minecraft:quartz_from_blasting
 minecraft:quartz_pillar
 minecraft:quartz_pillar_from_quartz_block_stonecutting
 minecraft:quartz_slab
-minecraft:quartz_slab_from_stonecutting
+minecraft:quartz_slab_from_quartz_block_stonecutting
 minecraft:quartz_stairs
 minecraft:quartz_stairs_from_quartz_block_stonecutting
 minecraft:rabbit_stew_from_brown_mushroom
@@ -1061,6 +1078,7 @@ minecraft:raw_iron
 minecraft:raw_iron_block
 minecraft:recovery_compass
 minecraft:red_banner
+minecraft:red_banner_duplicate
 minecraft:red_bed
 minecraft:red_bundle
 minecraft:red_candle
@@ -1198,7 +1216,7 @@ minecraft:stone_brick_stairs_from_stone_bricks_stonecutting
 minecraft:stone_brick_stairs_from_stone_stonecutting
 minecraft:stone_brick_wall
 minecraft:stone_brick_wall_from_stone_bricks_stonecutting
-minecraft:stone_brick_walls_from_stone_stonecutting
+minecraft:stone_brick_wall_from_stone_stonecutting
 minecraft:stone_bricks
 minecraft:stone_bricks_from_stone_stonecutting
 minecraft:stone_button
@@ -1232,6 +1250,7 @@ minecraft:suspicious_stew_from_blue_orchid
 minecraft:suspicious_stew_from_closed_eyeblossom
 minecraft:suspicious_stew_from_cornflower
 minecraft:suspicious_stew_from_dandelion
+minecraft:suspicious_stew_from_golden_dandelion
 minecraft:suspicious_stew_from_lily_of_the_valley
 minecraft:suspicious_stew_from_open_eyeblossom
 minecraft:suspicious_stew_from_orange_tulip
@@ -1427,6 +1446,7 @@ minecraft:weathered_cut_copper_stairs_from_weathered_copper_stonecutting
 minecraft:weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting
 minecraft:wheat
 minecraft:white_banner
+minecraft:white_banner_duplicate
 minecraft:white_bed
 minecraft:white_bundle
 minecraft:white_candle
@@ -1446,6 +1466,7 @@ minecraft:wild_armor_trim_smithing_template
 minecraft:wild_armor_trim_smithing_template_smithing_trim
 minecraft:wind_charge
 minecraft:wolf_armor
+minecraft:wolf_armor_dyed
 minecraft:wooden_axe
 minecraft:wooden_hoe
 minecraft:wooden_pickaxe
@@ -1454,12 +1475,14 @@ minecraft:wooden_spear
 minecraft:wooden_sword
 minecraft:writable_book
 minecraft:yellow_banner
+minecraft:yellow_banner_duplicate
 minecraft:yellow_bed
 minecraft:yellow_bundle
 minecraft:yellow_candle
 minecraft:yellow_carpet
 minecraft:yellow_concrete_powder
 minecraft:yellow_dye_from_dandelion
+minecraft:yellow_dye_from_golden_dandelion
 minecraft:yellow_dye_from_sunflower
 minecraft:yellow_dye_from_wildflowers
 minecraft:yellow_glazed_terracotta

@@ -1,4 +1,8 @@
 {
-  "category": "misc",
+  "banner": "#minecraft:banners",
+  "result": {
+    "id": "minecraft:shield"
+  },
+  "target": "minecraft:shield",
   "type": "minecraft:crafting_special_shielddecoration"
 }

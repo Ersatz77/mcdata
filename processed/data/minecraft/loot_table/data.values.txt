@@ -383,6 +383,7 @@ minecraft:blocks/glow_lichen
 minecraft:blocks/glowstone
 minecraft:blocks/gold_block
 minecraft:blocks/gold_ore
+minecraft:blocks/golden_dandelion
 minecraft:blocks/granite
 minecraft:blocks/granite_slab
 minecraft:blocks/granite_stairs
@@ -727,6 +728,7 @@ minecraft:blocks/potted_dark_oak_sapling
 minecraft:blocks/potted_dead_bush
 minecraft:blocks/potted_fern
 minecraft:blocks/potted_flowering_azalea_bush
+minecraft:blocks/potted_golden_dandelion
 minecraft:blocks/potted_jungle_sapling
 minecraft:blocks/potted_lily_of_the_valley
 minecraft:blocks/potted_mangrove_propagule

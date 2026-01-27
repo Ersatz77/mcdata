@@ -1,0 +1,16 @@
+{
+  "category": "misc",
+  "key": {
+    "#": "minecraft:gold_nugget",
+    "I": "minecraft:dandelion"
+  },
+  "pattern": [
+    "###",
+    "#I#",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:golden_dandelion"
+  },
+  "type": "minecraft:crafting_shaped"
+}

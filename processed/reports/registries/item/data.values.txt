@@ -560,6 +560,7 @@ minecraft:golden_axe
 minecraft:golden_boots
 minecraft:golden_carrot
 minecraft:golden_chestplate
+minecraft:golden_dandelion
 minecraft:golden_helmet
 minecraft:golden_hoe
 minecraft:golden_horse_armor

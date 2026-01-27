@@ -1,0 +1,10 @@
+{
+  "category": "misc",
+  "dye": "#minecraft:dyes",
+  "group": "dyed_armor",
+  "result": {
+    "id": "minecraft:leather_helmet"
+  },
+  "target": "minecraft:leather_helmet",
+  "type": "minecraft:crafting_dye"
+}

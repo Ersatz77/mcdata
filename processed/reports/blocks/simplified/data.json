@@ -6716,6 +6716,10 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:golden_dandelion": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:granite": {
     "default": {},
     "properties": {}
@@ -12552,6 +12556,10 @@
     "properties": {}
   },
   "minecraft:potted_flowering_azalea_bush": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:potted_golden_dandelion": {
     "default": {},
     "properties": {}
   },

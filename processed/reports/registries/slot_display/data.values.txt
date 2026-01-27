@@ -1,8 +1,11 @@
 minecraft:any_fuel
 minecraft:composite
+minecraft:dyed
 minecraft:empty
 minecraft:item
 minecraft:item_stack
+minecraft:only_with_component
 minecraft:smithing_trim
 minecraft:tag
+minecraft:with_any_potion
 minecraft:with_remainder
