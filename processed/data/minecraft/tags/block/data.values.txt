@@ -21,6 +21,8 @@ minecraft:beds
 minecraft:bee_attractive
 minecraft:bee_growables
 minecraft:beehives
+minecraft:beneath_bamboo_podzol_replaceable
+minecraft:beneath_tree_podzol_replaceable
 minecraft:birch_logs
 minecraft:blocks_wind_charge_explosions
 minecraft:buttons
@@ -30,6 +32,7 @@ minecraft:campfires
 minecraft:can_glide_through
 minecraft:candle_cakes
 minecraft:candles
+minecraft:cannot_replace_below_tree_trunk
 minecraft:cannot_support_kelp
 minecraft:cannot_support_seagrass
 minecraft:cannot_support_snow_layer
@@ -78,17 +81,22 @@ minecraft:fences
 minecraft:fire
 minecraft:flower_pots
 minecraft:flowers
+minecraft:forest_rock_can_place_on
 minecraft:foxes_spawnable_on
 minecraft:frog_prefer_jump_to
 minecraft:frogs_spawnable_on
 minecraft:geode_invalid_blocks
 minecraft:goats_spawnable_on
 minecraft:gold_ores
+minecraft:grass_blocks
 minecraft:grows_crops
 minecraft:guarded_by_piglins
 minecraft:happy_ghast_avoids
 minecraft:hoglin_repellents
+minecraft:huge_brown_mushroom_can_place_on
+minecraft:huge_red_mushroom_can_place_on
 minecraft:ice
+minecraft:ice_spike_replaceable
 minecraft:impermeable
 minecraft:incorrect_for_copper_tool
 minecraft:incorrect_for_diamond_tool
@@ -122,7 +130,9 @@ minecraft:mineable/pickaxe
 minecraft:mineable/shovel
 minecraft:mob_interactable_doors
 minecraft:mooshrooms_spawnable_on
+minecraft:moss_blocks
 minecraft:moss_replaceable
+minecraft:mud
 minecraft:needs_diamond_tool
 minecraft:needs_iron_tool
 minecraft:needs_stone_tool
@@ -170,6 +180,7 @@ minecraft:stone_buttons
 minecraft:stone_ore_replaceables
 minecraft:stone_pressure_plates
 minecraft:strider_warm_blocks
+minecraft:substrate_overworld
 minecraft:support_override_cactus_flower
 minecraft:support_override_snow_layer
 minecraft:supports_azalea

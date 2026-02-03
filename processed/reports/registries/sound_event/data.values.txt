@@ -868,6 +868,7 @@ minecraft:entity.baby_cat.stray_ambient
 minecraft:entity.baby_chicken.ambient
 minecraft:entity.baby_chicken.death
 minecraft:entity.baby_chicken.hurt
+minecraft:entity.baby_chicken.step
 minecraft:entity.baby_horse.ambient
 minecraft:entity.baby_horse.angry
 minecraft:entity.baby_horse.breathe

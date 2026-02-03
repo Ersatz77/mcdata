@@ -1,12 +1,6 @@
 {
   "config": {
     "decorators": [],
-    "dirt_provider": {
-      "state": {
-        "Name": "minecraft:dirt"
-      },
-      "type": "minecraft:simple_state_provider"
-    },
     "foliage_placer": {
       "corner_hole_chance": 0.25,
       "hanging_leaves_chance": 0.16666667,
@@ -28,7 +22,6 @@
       },
       "type": "minecraft:simple_state_provider"
     },
-    "force_dirt": false,
     "ignore_vines": true,
     "minimum_size": {
       "limit": 1,

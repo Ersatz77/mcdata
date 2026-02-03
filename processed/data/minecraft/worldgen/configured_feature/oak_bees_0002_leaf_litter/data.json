@@ -308,12 +308,6 @@
         "type": "minecraft:place_on_ground"
       }
     ],
-    "dirt_provider": {
-      "state": {
-        "Name": "minecraft:dirt"
-      },
-      "type": "minecraft:simple_state_provider"
-    },
     "foliage_placer": {
       "height": 3,
       "offset": 0,
@@ -331,7 +325,6 @@
       },
       "type": "minecraft:simple_state_provider"
     },
-    "force_dirt": false,
     "ignore_vines": true,
     "minimum_size": {
       "limit": 1,

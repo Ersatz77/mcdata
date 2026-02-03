@@ -9,12 +9,6 @@
         "type": "minecraft:leave_vine"
       }
     ],
-    "dirt_provider": {
-      "state": {
-        "Name": "minecraft:dirt"
-      },
-      "type": "minecraft:simple_state_provider"
-    },
     "foliage_placer": {
       "height": 2,
       "offset": 0,
@@ -32,7 +26,6 @@
       },
       "type": "minecraft:simple_state_provider"
     },
-    "force_dirt": false,
     "ignore_vines": false,
     "minimum_size": {
       "limit": 1,
