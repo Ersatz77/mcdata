@@ -59,12 +59,22 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:cat_sound_variant": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:cat_variant": {
       "elements": true,
       "stable": false,
       "tags": true
     },
     "minecraft:chat_type": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:chicken_sound_variant": {
       "elements": true,
       "stable": false,
       "tags": true
@@ -87,6 +97,11 @@
     "minecraft:consume_effect_type": {
       "elements": false,
       "stable": true,
+      "tags": true
+    },
+    "minecraft:cow_sound_variant": {
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:cow_variant": {
@@ -362,6 +377,11 @@
     "minecraft:permission_type": {
       "elements": false,
       "stable": true,
+      "tags": true
+    },
+    "minecraft:pig_sound_variant": {
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:pig_variant": {

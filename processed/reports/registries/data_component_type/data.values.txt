@@ -14,12 +14,15 @@ minecraft:bundle_contents
 minecraft:can_break
 minecraft:can_place_on
 minecraft:cat/collar
+minecraft:cat/sound_variant
 minecraft:cat/variant
 minecraft:charged_projectiles
+minecraft:chicken/sound_variant
 minecraft:chicken/variant
 minecraft:consumable
 minecraft:container
 minecraft:container_loot
+minecraft:cow/sound_variant
 minecraft:cow/variant
 minecraft:creative_slot_lock
 minecraft:custom_data
@@ -67,6 +70,7 @@ minecraft:ominous_bottle_amplifier
 minecraft:painting/variant
 minecraft:parrot/variant
 minecraft:piercing_weapon
+minecraft:pig/sound_variant
 minecraft:pig/variant
 minecraft:pot_decorations
 minecraft:potion_contents
