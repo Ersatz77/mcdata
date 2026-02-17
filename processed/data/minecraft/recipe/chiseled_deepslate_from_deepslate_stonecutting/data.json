@@ -1,0 +1,7 @@
+{
+  "ingredient": "minecraft:deepslate",
+  "result": {
+    "id": "minecraft:chiseled_deepslate"
+  },
+  "type": "minecraft:stonecutting"
+}

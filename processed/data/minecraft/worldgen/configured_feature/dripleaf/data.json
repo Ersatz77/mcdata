@@ -62,11 +62,17 @@
         "feature": {
           "config": {
             "allowed_placement": {
-              "blocks": [
-                "minecraft:air",
-                "minecraft:water"
+              "predicates": [
+                {
+                  "tag": "minecraft:air",
+                  "type": "minecraft:matching_block_tag"
+                },
+                {
+                  "blocks": "minecraft:water",
+                  "type": "minecraft:matching_blocks"
+                }
               ],
-              "type": "minecraft:matching_blocks"
+              "type": "minecraft:any_of"
             },
             "direction": "up",
             "layers": [
@@ -124,11 +130,17 @@
         "feature": {
           "config": {
             "allowed_placement": {
-              "blocks": [
-                "minecraft:air",
-                "minecraft:water"
+              "predicates": [
+                {
+                  "tag": "minecraft:air",
+                  "type": "minecraft:matching_block_tag"
+                },
+                {
+                  "blocks": "minecraft:water",
+                  "type": "minecraft:matching_blocks"
+                }
               ],
-              "type": "minecraft:matching_blocks"
+              "type": "minecraft:any_of"
             },
             "direction": "up",
             "layers": [
@@ -186,11 +198,17 @@
         "feature": {
           "config": {
             "allowed_placement": {
-              "blocks": [
-                "minecraft:air",
-                "minecraft:water"
+              "predicates": [
+                {
+                  "tag": "minecraft:air",
+                  "type": "minecraft:matching_block_tag"
+                },
+                {
+                  "blocks": "minecraft:water",
+                  "type": "minecraft:matching_blocks"
+                }
               ],
-              "type": "minecraft:matching_blocks"
+              "type": "minecraft:any_of"
             },
             "direction": "up",
             "layers": [
@@ -248,11 +266,17 @@
         "feature": {
           "config": {
             "allowed_placement": {
-              "blocks": [
-                "minecraft:air",
-                "minecraft:water"
+              "predicates": [
+                {
+                  "tag": "minecraft:air",
+                  "type": "minecraft:matching_block_tag"
+                },
+                {
+                  "blocks": "minecraft:water",
+                  "type": "minecraft:matching_blocks"
+                }
               ],
-              "type": "minecraft:matching_blocks"
+              "type": "minecraft:any_of"
             },
             "direction": "up",
             "layers": [

@@ -4,8 +4,8 @@
       "feature": {
         "config": {
           "allowed_placement": {
-            "blocks": "minecraft:air",
-            "type": "minecraft:matching_blocks"
+            "tag": "minecraft:air",
+            "type": "minecraft:matching_block_tag"
           },
           "direction": "up",
           "layers": [
@@ -35,8 +35,8 @@
           "predicate": {
             "predicates": [
               {
-                "blocks": "minecraft:air",
-                "type": "minecraft:matching_blocks"
+                "tag": "minecraft:air",
+                "type": "minecraft:matching_block_tag"
               },
               {
                 "state": {

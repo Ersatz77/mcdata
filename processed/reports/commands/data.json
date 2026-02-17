@@ -6530,6 +6530,20 @@
     },
     "fetchprofile": {
       "children": {
+        "entity": {
+          "children": {
+            "entity": {
+              "executable": true,
+              "parser": "minecraft:entity",
+              "properties": {
+                "amount": "single",
+                "type": "entities"
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
         "id": {
           "children": {
             "id": {

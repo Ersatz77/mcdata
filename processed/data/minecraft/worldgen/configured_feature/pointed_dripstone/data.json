@@ -14,11 +14,17 @@
         "placement": [
           {
             "allowed_search_condition": {
-              "blocks": [
-                "minecraft:air",
-                "minecraft:water"
+              "predicates": [
+                {
+                  "tag": "minecraft:air",
+                  "type": "minecraft:matching_block_tag"
+                },
+                {
+                  "blocks": "minecraft:water",
+                  "type": "minecraft:matching_blocks"
+                }
               ],
-              "type": "minecraft:matching_blocks"
+              "type": "minecraft:any_of"
             },
             "direction_of_search": "down",
             "max_steps": 12,
@@ -47,11 +53,17 @@
         "placement": [
           {
             "allowed_search_condition": {
-              "blocks": [
-                "minecraft:air",
-                "minecraft:water"
+              "predicates": [
+                {
+                  "tag": "minecraft:air",
+                  "type": "minecraft:matching_block_tag"
+                },
+                {
+                  "blocks": "minecraft:water",
+                  "type": "minecraft:matching_blocks"
+                }
               ],
-              "type": "minecraft:matching_blocks"
+              "type": "minecraft:any_of"
             },
             "direction_of_search": "up",
             "max_steps": 12,

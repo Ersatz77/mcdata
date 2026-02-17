@@ -22,8 +22,8 @@
               "placement": [
                 {
                   "predicate": {
-                    "blocks": "minecraft:air",
-                    "type": "minecraft:matching_blocks"
+                    "tag": "minecraft:air",
+                    "type": "minecraft:matching_block_tag"
                   },
                   "type": "minecraft:block_predicate_filter"
                 }
@@ -58,8 +58,8 @@
               "placement": [
                 {
                   "predicate": {
-                    "blocks": "minecraft:air",
-                    "type": "minecraft:matching_blocks"
+                    "tag": "minecraft:air",
+                    "type": "minecraft:matching_block_tag"
                   },
                   "type": "minecraft:block_predicate_filter"
                 }
@@ -94,8 +94,8 @@
               "placement": [
                 {
                   "predicate": {
-                    "blocks": "minecraft:air",
-                    "type": "minecraft:matching_blocks"
+                    "tag": "minecraft:air",
+                    "type": "minecraft:matching_block_tag"
                   },
                   "type": "minecraft:block_predicate_filter"
                 }
@@ -127,8 +127,8 @@
               "placement": [
                 {
                   "predicate": {
-                    "blocks": "minecraft:air",
-                    "type": "minecraft:matching_blocks"
+                    "tag": "minecraft:air",
+                    "type": "minecraft:matching_block_tag"
                   },
                   "type": "minecraft:block_predicate_filter"
                 }

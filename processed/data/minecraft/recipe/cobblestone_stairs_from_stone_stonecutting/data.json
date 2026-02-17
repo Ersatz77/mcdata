@@ -1,0 +1,7 @@
+{
+  "ingredient": "minecraft:stone",
+  "result": {
+    "id": "minecraft:cobblestone_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

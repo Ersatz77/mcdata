@@ -19,8 +19,8 @@
       "predicate": {
         "predicates": [
           {
-            "blocks": "minecraft:air",
-            "type": "minecraft:matching_blocks"
+            "tag": "minecraft:air",
+            "type": "minecraft:matching_block_tag"
           },
           {
             "state": {
