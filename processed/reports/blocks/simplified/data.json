@@ -118,7 +118,7 @@
   "minecraft:acacia_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -246,7 +246,7 @@
   },
   "minecraft:acacia_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -782,7 +782,7 @@
   "minecraft:bamboo_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -917,7 +917,7 @@
   },
   "minecraft:bamboo_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -1357,7 +1357,7 @@
   "minecraft:birch_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -1485,7 +1485,7 @@
   },
   "minecraft:birch_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -1644,7 +1644,7 @@
   },
   "minecraft:black_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -1932,7 +1932,7 @@
   },
   "minecraft:blue_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -2291,7 +2291,7 @@
   },
   "minecraft:brown_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -2956,7 +2956,7 @@
   "minecraft:cherry_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -3084,7 +3084,7 @@
   },
   "minecraft:cherry_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -4199,7 +4199,7 @@
   "minecraft:crimson_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -4298,7 +4298,7 @@
   },
   "minecraft:crimson_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -4555,7 +4555,7 @@
   },
   "minecraft:cyan_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -4867,7 +4867,7 @@
   "minecraft:dark_oak_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -4995,7 +4995,7 @@
   },
   "minecraft:dark_oak_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -6829,7 +6829,7 @@
   },
   "minecraft:gray_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -7007,7 +7007,7 @@
   },
   "minecraft:green_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -7658,7 +7658,7 @@
   "minecraft:jungle_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -7786,7 +7786,7 @@
   },
   "minecraft:jungle_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -8183,7 +8183,7 @@
   },
   "minecraft:light_blue_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -8361,7 +8361,7 @@
   },
   "minecraft:light_gray_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -8608,7 +8608,7 @@
   },
   "minecraft:lime_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -8803,7 +8803,7 @@
   },
   "minecraft:magenta_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -9102,7 +9102,7 @@
   "minecraft:mangrove_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -9259,7 +9259,7 @@
   },
   "minecraft:mangrove_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -10183,7 +10183,7 @@
   "minecraft:oak_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -10311,7 +10311,7 @@
   },
   "minecraft:oak_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -10510,7 +10510,7 @@
   },
   "minecraft:orange_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -11162,7 +11162,7 @@
   "minecraft:pale_oak_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -11290,7 +11290,7 @@
   },
   "minecraft:pale_oak_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -11537,7 +11537,7 @@
   },
   "minecraft:pink_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -12847,7 +12847,7 @@
   },
   "minecraft:purple_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -13193,7 +13193,7 @@
   },
   "minecraft:red_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -14749,7 +14749,7 @@
   "minecraft:spruce_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -14877,7 +14877,7 @@
   },
   "minecraft:spruce_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -16322,7 +16322,7 @@
   "minecraft:warped_hanging_sign": {
     "default": {
       "attached": "false",
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -16421,7 +16421,7 @@
   },
   "minecraft:warped_sign": {
     "default": {
-      "rotation": "0",
+      "rotation": "8",
       "waterlogged": "false"
     },
     "properties": {
@@ -18136,7 +18136,7 @@
   },
   "minecraft:white_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [
@@ -18390,7 +18390,7 @@
   },
   "minecraft:yellow_banner": {
     "default": {
-      "rotation": "0"
+      "rotation": "8"
     },
     "properties": {
       "rotation": [

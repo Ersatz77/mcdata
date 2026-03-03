@@ -4618,6 +4618,7 @@
       "minecraft:portals",
       "minecraft:pressure_plates",
       "minecraft:prevent_mob_spawning_inside",
+      "minecraft:prevents_nearby_leaf_decay",
       "minecraft:rabbits_spawnable_on",
       "minecraft:rails",
       "minecraft:redstone_ores",

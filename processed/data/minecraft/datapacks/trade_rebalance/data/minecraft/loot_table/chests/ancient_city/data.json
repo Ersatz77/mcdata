@@ -51,11 +51,6 @@
           "weight": 2
         },
         {
-          "name": "minecraft:name_tag",
-          "type": "minecraft:item",
-          "weight": 2
-        },
-        {
           "functions": [
             {
               "add": false,

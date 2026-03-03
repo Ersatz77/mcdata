@@ -891,6 +891,7 @@ minecraft:entity.baby_nautilus.hurt_land
 minecraft:entity.baby_nautilus.swim
 minecraft:entity.baby_pig.ambient
 minecraft:entity.baby_pig.death
+minecraft:entity.baby_pig.eat
 minecraft:entity.baby_pig.hurt
 minecraft:entity.baby_pig.step
 minecraft:entity.baby_wolf.ambient
@@ -1364,14 +1365,17 @@ minecraft:entity.phantom.hurt
 minecraft:entity.phantom.swoop
 minecraft:entity.pig.ambient
 minecraft:entity.pig.death
+minecraft:entity.pig.eat
 minecraft:entity.pig.hurt
 minecraft:entity.pig.saddle
 minecraft:entity.pig.step
 minecraft:entity.pig_big.ambient
 minecraft:entity.pig_big.death
+minecraft:entity.pig_big.eat
 minecraft:entity.pig_big.hurt
 minecraft:entity.pig_mini.ambient
 minecraft:entity.pig_mini.death
+minecraft:entity.pig_mini.eat
 minecraft:entity.pig_mini.hurt
 minecraft:entity.piglin.admiring_item
 minecraft:entity.piglin.ambient

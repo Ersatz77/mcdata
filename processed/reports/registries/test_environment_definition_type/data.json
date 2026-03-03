@@ -4,6 +4,7 @@
     "minecraft:clock_time",
     "minecraft:function",
     "minecraft:game_rules",
+    "minecraft:timeline_attributes",
     "minecraft:weather"
   ]
 }

@@ -1,5 +1,25 @@
 {
   "config": {
+    "below_trunk_provider": {
+      "rules": [
+        {
+          "if_true": {
+            "predicate": {
+              "tag": "minecraft:cannot_replace_below_tree_trunk",
+              "type": "minecraft:matching_block_tag"
+            },
+            "type": "minecraft:not"
+          },
+          "then": {
+            "state": {
+              "Name": "minecraft:dirt"
+            },
+            "type": "minecraft:simple_state_provider"
+          }
+        }
+      ],
+      "type": "minecraft:rule_based_state_provider"
+    },
     "decorators": [],
     "foliage_placer": {
       "offset": 0,

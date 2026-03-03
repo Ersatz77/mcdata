@@ -7,13 +7,10 @@
       "type": "minecraft:uniform"
     },
     "state_provider": {
-      "fallback": {
-        "state": {
-          "Name": "minecraft:gravel"
-        },
-        "type": "minecraft:simple_state_provider"
+      "state": {
+        "Name": "minecraft:gravel"
       },
-      "rules": []
+      "type": "minecraft:simple_state_provider"
     },
     "target": {
       "blocks": [

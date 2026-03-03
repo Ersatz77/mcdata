@@ -5,6 +5,7 @@
     "minecraft:noise_threshold_provider",
     "minecraft:randomized_int_state_provider",
     "minecraft:rotated_block_provider",
+    "minecraft:rule_based_state_provider",
     "minecraft:simple_state_provider",
     "minecraft:weighted_state_provider"
   ]

@@ -7,13 +7,10 @@
       "type": "minecraft:uniform"
     },
     "state_provider": {
-      "fallback": {
-        "state": {
-          "Name": "minecraft:clay"
-        },
-        "type": "minecraft:simple_state_provider"
+      "state": {
+        "Name": "minecraft:clay"
       },
-      "rules": []
+      "type": "minecraft:simple_state_provider"
     },
     "target": {
       "blocks": [
