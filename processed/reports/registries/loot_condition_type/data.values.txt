@@ -5,6 +5,7 @@ minecraft:damage_source_properties
 minecraft:enchantment_active_check
 minecraft:entity_properties
 minecraft:entity_scores
+minecraft:environment_attribute_check
 minecraft:inverted
 minecraft:killed_by_player
 minecraft:location_check

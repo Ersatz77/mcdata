@@ -20,6 +20,32 @@
     },
     {
       "type": "minecraft:biome"
+    },
+    {
+      "count": 64,
+      "type": "minecraft:count"
+    },
+    {
+      "type": "minecraft:random_offset",
+      "xz_spread": {
+        "max": 6,
+        "min": -6,
+        "plateau": 0,
+        "type": "minecraft:trapezoid"
+      },
+      "y_spread": {
+        "max": 2,
+        "min": -2,
+        "plateau": 0,
+        "type": "minecraft:trapezoid"
+      }
+    },
+    {
+      "predicate": {
+        "tag": "minecraft:air",
+        "type": "minecraft:matching_block_tag"
+      },
+      "type": "minecraft:block_predicate_filter"
     }
   ]
 }

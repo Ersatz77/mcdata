@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:patch_melon",
+  "feature": "minecraft:melon",
   "placement": [
     {
       "chance": 64,
@@ -14,6 +14,49 @@
     },
     {
       "type": "minecraft:biome"
+    },
+    {
+      "count": 64,
+      "type": "minecraft:count"
+    },
+    {
+      "type": "minecraft:random_offset",
+      "xz_spread": {
+        "max": 7,
+        "min": -7,
+        "plateau": 0,
+        "type": "minecraft:trapezoid"
+      },
+      "y_spread": {
+        "max": 3,
+        "min": -3,
+        "plateau": 0,
+        "type": "minecraft:trapezoid"
+      }
+    },
+    {
+      "predicate": {
+        "predicates": [
+          {
+            "type": "minecraft:replaceable"
+          },
+          {
+            "fluids": "minecraft:empty",
+            "type": "minecraft:matching_fluids"
+          },
+          {
+            "blocks": "minecraft:grass_block",
+            "offset": [
+              0,
+              -1,
+              0
+            ],
+            "type": "minecraft:matching_blocks"
+          }
+        ],
+        "type": "minecraft:all_of"
+      },
+      "type": "minecraft:block_predicate_filter"
     }
   ]
 }

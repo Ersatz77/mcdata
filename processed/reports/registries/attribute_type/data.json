@@ -9,6 +9,7 @@
     "minecraft:bed_rule",
     "minecraft:boolean",
     "minecraft:float",
+    "minecraft:integer",
     "minecraft:moon_phase",
     "minecraft:particle",
     "minecraft:rgb_color",

@@ -4,6 +4,7 @@
     "minecraft:clamped",
     "minecraft:clamped_normal",
     "minecraft:constant",
+    "minecraft:trapezoid",
     "minecraft:uniform",
     "minecraft:weighted_list"
   ]

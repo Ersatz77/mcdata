@@ -12592,6 +12592,20 @@
                   },
                   "type": "literal"
                 },
+                "rate": {
+                  "children": {
+                    "rate": {
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "properties": {
+                        "max": 1000.0,
+                        "min": 1e-05
+                      },
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
+                },
                 "resume": {
                   "executable": true,
                   "type": "literal"
@@ -12649,6 +12663,20 @@
               "parser": "minecraft:resource",
               "properties": {
                 "registry": "minecraft:timeline"
+              },
+              "type": "argument"
+            }
+          },
+          "type": "literal"
+        },
+        "rate": {
+          "children": {
+            "rate": {
+              "executable": true,
+              "parser": "brigadier:float",
+              "properties": {
+                "max": 1000.0,
+                "min": 1e-05
               },
               "type": "argument"
             }
