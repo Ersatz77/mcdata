@@ -4,7 +4,7 @@
       "function": "minecraft:enchant_with_levels",
       "include_additional_cost_component": true,
       "levels": {
-        "max": 20.0,
+        "max": 19.0,
         "min": 5.0,
         "type": "minecraft:uniform"
       },
