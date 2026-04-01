@@ -2,13 +2,23 @@
   "criteria": {
     "has_log": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "#minecraft:dark_oak_logs"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "#minecraft:dark_oak_logs"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

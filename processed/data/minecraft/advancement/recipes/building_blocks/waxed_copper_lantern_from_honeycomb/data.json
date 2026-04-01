@@ -2,13 +2,23 @@
   "criteria": {
     "has_copper_lantern": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:copper_lantern"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:copper_lantern"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

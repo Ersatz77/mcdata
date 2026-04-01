@@ -2,13 +2,23 @@
   "criteria": {
     "has_oxeye_daisy": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:oxeye_daisy"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:oxeye_daisy"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

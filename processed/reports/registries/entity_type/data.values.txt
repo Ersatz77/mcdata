@@ -29,6 +29,7 @@ minecraft:cod
 minecraft:command_block_minecart
 minecraft:copper_golem
 minecraft:cow
+minecraft:crafting_grid
 minecraft:creaking
 minecraft:creeper
 minecraft:dark_oak_boat
@@ -66,11 +67,11 @@ minecraft:happy_ghast
 minecraft:hoglin
 minecraft:hopper_minecart
 minecraft:horse
+minecraft:hovering_item
 minecraft:husk
 minecraft:illusioner
 minecraft:interaction
 minecraft:iron_golem
-minecraft:item
 minecraft:item_display
 minecraft:item_frame
 minecraft:jungle_boat
@@ -78,6 +79,8 @@ minecraft:jungle_chest_boat
 minecraft:leash_knot
 minecraft:lightning_bolt
 minecraft:lingering_potion
+minecraft:living_block
+minecraft:living_block_command
 minecraft:llama
 minecraft:llama_spit
 minecraft:magma_cube

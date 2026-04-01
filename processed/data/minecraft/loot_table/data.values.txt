@@ -216,6 +216,7 @@ minecraft:blocks/copper_grate
 minecraft:blocks/copper_lantern
 minecraft:blocks/copper_ore
 minecraft:blocks/copper_torch
+minecraft:blocks/copper_trap
 minecraft:blocks/copper_trapdoor
 minecraft:blocks/cornflower
 minecraft:blocks/cracked_deepslate_bricks
@@ -357,6 +358,7 @@ minecraft:blocks/exposed_copper_door
 minecraft:blocks/exposed_copper_golem_statue
 minecraft:blocks/exposed_copper_grate
 minecraft:blocks/exposed_copper_lantern
+minecraft:blocks/exposed_copper_trap
 minecraft:blocks/exposed_copper_trapdoor
 minecraft:blocks/exposed_cut_copper
 minecraft:blocks/exposed_cut_copper_slab
@@ -440,6 +442,7 @@ minecraft:blocks/iron_block
 minecraft:blocks/iron_chain
 minecraft:blocks/iron_door
 minecraft:blocks/iron_ore
+minecraft:blocks/iron_trap
 minecraft:blocks/iron_trapdoor
 minecraft:blocks/jack_o_lantern
 minecraft:blocks/jukebox
@@ -628,6 +631,7 @@ minecraft:blocks/oxidized_copper_door
 minecraft:blocks/oxidized_copper_golem_statue
 minecraft:blocks/oxidized_copper_grate
 minecraft:blocks/oxidized_copper_lantern
+minecraft:blocks/oxidized_copper_trap
 minecraft:blocks/oxidized_copper_trapdoor
 minecraft:blocks/oxidized_cut_copper
 minecraft:blocks/oxidized_cut_copper_slab
@@ -989,6 +993,7 @@ minecraft:blocks/waxed_copper_door
 minecraft:blocks/waxed_copper_golem_statue
 minecraft:blocks/waxed_copper_grate
 minecraft:blocks/waxed_copper_lantern
+minecraft:blocks/waxed_copper_trap
 minecraft:blocks/waxed_copper_trapdoor
 minecraft:blocks/waxed_cut_copper
 minecraft:blocks/waxed_cut_copper_slab
@@ -1003,6 +1008,7 @@ minecraft:blocks/waxed_exposed_copper_door
 minecraft:blocks/waxed_exposed_copper_golem_statue
 minecraft:blocks/waxed_exposed_copper_grate
 minecraft:blocks/waxed_exposed_copper_lantern
+minecraft:blocks/waxed_exposed_copper_trap
 minecraft:blocks/waxed_exposed_copper_trapdoor
 minecraft:blocks/waxed_exposed_cut_copper
 minecraft:blocks/waxed_exposed_cut_copper_slab
@@ -1019,6 +1025,7 @@ minecraft:blocks/waxed_oxidized_copper_door
 minecraft:blocks/waxed_oxidized_copper_golem_statue
 minecraft:blocks/waxed_oxidized_copper_grate
 minecraft:blocks/waxed_oxidized_copper_lantern
+minecraft:blocks/waxed_oxidized_copper_trap
 minecraft:blocks/waxed_oxidized_copper_trapdoor
 minecraft:blocks/waxed_oxidized_cut_copper
 minecraft:blocks/waxed_oxidized_cut_copper_slab
@@ -1034,6 +1041,7 @@ minecraft:blocks/waxed_weathered_copper_door
 minecraft:blocks/waxed_weathered_copper_golem_statue
 minecraft:blocks/waxed_weathered_copper_grate
 minecraft:blocks/waxed_weathered_copper_lantern
+minecraft:blocks/waxed_weathered_copper_trap
 minecraft:blocks/waxed_weathered_copper_trapdoor
 minecraft:blocks/waxed_weathered_cut_copper
 minecraft:blocks/waxed_weathered_cut_copper_slab
@@ -1049,6 +1057,7 @@ minecraft:blocks/weathered_copper_door
 minecraft:blocks/weathered_copper_golem_statue
 minecraft:blocks/weathered_copper_grate
 minecraft:blocks/weathered_copper_lantern
+minecraft:blocks/weathered_copper_trap
 minecraft:blocks/weathered_copper_trapdoor
 minecraft:blocks/weathered_cut_copper
 minecraft:blocks/weathered_cut_copper_slab

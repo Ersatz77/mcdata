@@ -8,13 +8,23 @@
     },
     "has_weathered_copper_door": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:weathered_copper_door"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:weathered_copper_door"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     }
   },
   "parent": "minecraft:recipes/root",

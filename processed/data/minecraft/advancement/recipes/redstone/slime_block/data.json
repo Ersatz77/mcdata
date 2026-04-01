@@ -2,13 +2,23 @@
   "criteria": {
     "has_slime_ball": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:slime_ball"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:slime_ball"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

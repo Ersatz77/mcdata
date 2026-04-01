@@ -2,13 +2,23 @@
   "criteria": {
     "has_chorus_fruit": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:chorus_fruit"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:chorus_fruit"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

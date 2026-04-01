@@ -2,13 +2,23 @@
   "criteria": {
     "has_nether_brick_slab": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:nether_brick_slab"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:nether_brick_slab"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

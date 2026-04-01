@@ -2,13 +2,23 @@
   "criteria": {
     "has_raw_copper": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:raw_copper"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:raw_copper"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

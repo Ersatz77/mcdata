@@ -37,6 +37,7 @@ minecraft:armadillo_spawn_egg
 minecraft:armor_stand
 minecraft:arms_up_pottery_sherd
 minecraft:arrow
+minecraft:attack_action
 minecraft:axolotl_bucket
 minecraft:axolotl_spawn_egg
 minecraft:azalea
@@ -184,6 +185,7 @@ minecraft:bubble_coral_block
 minecraft:bubble_coral_fan
 minecraft:bucket
 minecraft:budding_amethyst
+minecraft:build_action
 minecraft:bundle
 minecraft:burn_pottery_sherd
 minecraft:bush
@@ -309,6 +311,7 @@ minecraft:copper_shovel
 minecraft:copper_spear
 minecraft:copper_sword
 minecraft:copper_torch
+minecraft:copper_trap
 minecraft:copper_trapdoor
 minecraft:cornflower
 minecraft:cow_spawn_egg
@@ -318,6 +321,7 @@ minecraft:cracked_nether_bricks
 minecraft:cracked_polished_blackstone_bricks
 minecraft:cracked_stone_bricks
 minecraft:crafter
+minecraft:crafting_action
 minecraft:crafting_table
 minecraft:creaking_heart
 minecraft:creaking_spawn_egg
@@ -498,6 +502,7 @@ minecraft:exposed_copper_door
 minecraft:exposed_copper_golem_statue
 minecraft:exposed_copper_grate
 minecraft:exposed_copper_lantern
+minecraft:exposed_copper_trap
 minecraft:exposed_copper_trapdoor
 minecraft:exposed_cut_copper
 minecraft:exposed_cut_copper_slab
@@ -528,6 +533,7 @@ minecraft:flower_banner_pattern
 minecraft:flower_pot
 minecraft:flowering_azalea
 minecraft:flowering_azalea_leaves
+minecraft:follow_action
 minecraft:fox_spawn_egg
 minecraft:friend_pottery_sherd
 minecraft:frog_spawn_egg
@@ -607,6 +613,7 @@ minecraft:green_stained_glass_pane
 minecraft:green_terracotta
 minecraft:green_wool
 minecraft:grindstone
+minecraft:group_action
 minecraft:guardian_spawn_egg
 minecraft:gunpowder
 minecraft:guster_banner_pattern
@@ -619,6 +626,7 @@ minecraft:heart_pottery_sherd
 minecraft:heartbreak_pottery_sherd
 minecraft:heavy_core
 minecraft:heavy_weighted_pressure_plate
+minecraft:highlight_action
 minecraft:hoglin_spawn_egg
 minecraft:honey_block
 minecraft:honey_bottle
@@ -662,6 +670,7 @@ minecraft:iron_pickaxe
 minecraft:iron_shovel
 minecraft:iron_spear
 minecraft:iron_sword
+minecraft:iron_trap
 minecraft:iron_trapdoor
 minecraft:item_frame
 minecraft:jack_o_lantern
@@ -819,6 +828,7 @@ minecraft:mossy_stone_brick_stairs
 minecraft:mossy_stone_brick_wall
 minecraft:mossy_stone_bricks
 minecraft:mourner_pottery_sherd
+minecraft:move_action
 minecraft:mud
 minecraft:mud_brick_slab
 minecraft:mud_brick_stairs
@@ -936,6 +946,7 @@ minecraft:oxidized_copper_door
 minecraft:oxidized_copper_golem_statue
 minecraft:oxidized_copper_grate
 minecraft:oxidized_copper_lantern
+minecraft:oxidized_copper_trap
 minecraft:oxidized_copper_trapdoor
 minecraft:oxidized_cut_copper
 minecraft:oxidized_cut_copper_slab
@@ -1057,6 +1068,7 @@ minecraft:pufferfish_spawn_egg
 minecraft:pumpkin
 minecraft:pumpkin_pie
 minecraft:pumpkin_seeds
+minecraft:punch_action
 minecraft:purple_banner
 minecraft:purple_bed
 minecraft:purple_bundle
@@ -1378,6 +1390,7 @@ minecraft:waxed_copper_door
 minecraft:waxed_copper_golem_statue
 minecraft:waxed_copper_grate
 minecraft:waxed_copper_lantern
+minecraft:waxed_copper_trap
 minecraft:waxed_copper_trapdoor
 minecraft:waxed_cut_copper
 minecraft:waxed_cut_copper_slab
@@ -1392,6 +1405,7 @@ minecraft:waxed_exposed_copper_door
 minecraft:waxed_exposed_copper_golem_statue
 minecraft:waxed_exposed_copper_grate
 minecraft:waxed_exposed_copper_lantern
+minecraft:waxed_exposed_copper_trap
 minecraft:waxed_exposed_copper_trapdoor
 minecraft:waxed_exposed_cut_copper
 minecraft:waxed_exposed_cut_copper_slab
@@ -1408,6 +1422,7 @@ minecraft:waxed_oxidized_copper_door
 minecraft:waxed_oxidized_copper_golem_statue
 minecraft:waxed_oxidized_copper_grate
 minecraft:waxed_oxidized_copper_lantern
+minecraft:waxed_oxidized_copper_trap
 minecraft:waxed_oxidized_copper_trapdoor
 minecraft:waxed_oxidized_cut_copper
 minecraft:waxed_oxidized_cut_copper_slab
@@ -1423,6 +1438,7 @@ minecraft:waxed_weathered_copper_door
 minecraft:waxed_weathered_copper_golem_statue
 minecraft:waxed_weathered_copper_grate
 minecraft:waxed_weathered_copper_lantern
+minecraft:waxed_weathered_copper_trap
 minecraft:waxed_weathered_copper_trapdoor
 minecraft:waxed_weathered_cut_copper
 minecraft:waxed_weathered_cut_copper_slab
@@ -1439,6 +1455,7 @@ minecraft:weathered_copper_door
 minecraft:weathered_copper_golem_statue
 minecraft:weathered_copper_grate
 minecraft:weathered_copper_lantern
+minecraft:weathered_copper_trap
 minecraft:weathered_copper_trapdoor
 minecraft:weathered_cut_copper
 minecraft:weathered_cut_copper_slab

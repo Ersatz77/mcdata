@@ -42,6 +42,7 @@ minecraft:entity_data
 minecraft:equippable
 minecraft:firework_explosion
 minecraft:fireworks
+minecraft:follow
 minecraft:food
 minecraft:fox/variant
 minecraft:frog/variant

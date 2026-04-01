@@ -2,13 +2,23 @@
   "criteria": {
     "has_oxidized_copper_grate": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:oxidized_copper_grate"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:oxidized_copper_grate"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

@@ -2,13 +2,23 @@
   "criteria": {
     "has_leather_helmet": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:leather_helmet"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:leather_helmet"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

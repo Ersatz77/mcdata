@@ -2,13 +2,23 @@
   "criteria": {
     "has_pink_tulip": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:pink_tulip"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:pink_tulip"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

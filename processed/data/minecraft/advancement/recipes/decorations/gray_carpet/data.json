@@ -2,13 +2,23 @@
   "criteria": {
     "has_gray_wool": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:gray_wool"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:gray_wool"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

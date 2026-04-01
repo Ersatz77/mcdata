@@ -2,13 +2,23 @@
   "criteria": {
     "has_polished_blackstone_bricks": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:polished_blackstone_bricks"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:polished_blackstone_bricks"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

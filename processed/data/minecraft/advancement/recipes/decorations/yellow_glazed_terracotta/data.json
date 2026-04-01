@@ -8,13 +8,23 @@
     },
     "has_yellow_terracotta": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:yellow_terracotta"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:yellow_terracotta"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     }
   },
   "parent": "minecraft:recipes/root",

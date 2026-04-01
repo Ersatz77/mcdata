@@ -3900,6 +3900,10 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:copper_trap": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:copper_trapdoor": {
     "default": {
       "facing": "north",
@@ -6322,6 +6326,10 @@
       ]
     }
   },
+  "minecraft:exposed_copper_trap": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:exposed_copper_trapdoor": {
     "default": {
       "facing": "north",
@@ -7458,6 +7466,10 @@
     }
   },
   "minecraft:iron_ore": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:iron_trap": {
     "default": {},
     "properties": {}
   },
@@ -10874,6 +10886,10 @@
         "false"
       ]
     }
+  },
+  "minecraft:oxidized_copper_trap": {
+    "default": {},
+    "properties": {}
   },
   "minecraft:oxidized_copper_trapdoor": {
     "default": {
@@ -16800,6 +16816,10 @@
       ]
     }
   },
+  "minecraft:waxed_copper_trap": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:waxed_copper_trapdoor": {
     "default": {
       "facing": "north",
@@ -17065,6 +17085,10 @@
         "false"
       ]
     }
+  },
+  "minecraft:waxed_exposed_copper_trap": {
+    "default": {},
+    "properties": {}
   },
   "minecraft:waxed_exposed_copper_trapdoor": {
     "default": {
@@ -17382,6 +17406,10 @@
       ]
     }
   },
+  "minecraft:waxed_oxidized_copper_trap": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:waxed_oxidized_copper_trapdoor": {
     "default": {
       "facing": "north",
@@ -17673,6 +17701,10 @@
       ]
     }
   },
+  "minecraft:waxed_weathered_copper_trap": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:waxed_weathered_copper_trapdoor": {
     "default": {
       "facing": "north",
@@ -17963,6 +17995,10 @@
         "false"
       ]
     }
+  },
+  "minecraft:weathered_copper_trap": {
+    "default": {},
+    "properties": {}
   },
   "minecraft:weathered_copper_trapdoor": {
     "default": {

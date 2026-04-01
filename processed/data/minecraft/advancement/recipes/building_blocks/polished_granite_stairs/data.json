@@ -2,13 +2,23 @@
   "criteria": {
     "has_polished_granite": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:polished_granite"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:polished_granite"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

@@ -2,13 +2,23 @@
   "criteria": {
     "has_rose_bush": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:rose_bush"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:rose_bush"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

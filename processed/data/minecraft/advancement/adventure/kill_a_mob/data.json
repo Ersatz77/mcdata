@@ -586,7 +586,7 @@
       "translate": "advancements.adventure.kill_a_mob.title"
     }
   },
-  "parent": "minecraft:adventure/root",
+  "parent": "minecraft:adventure/craft_sword",
   "requirements": [
     [
       "minecraft:blaze",

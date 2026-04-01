@@ -2,13 +2,23 @@
   "criteria": {
     "has_oxidized_cut_copper_slab": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:oxidized_cut_copper_slab"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:oxidized_cut_copper_slab"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

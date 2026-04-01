@@ -1,14 +1,24 @@
 {
   "criteria": {
-    "has_lots_of_items": {
+    "has_planks": {
       "conditions": {
-        "slots": {
-          "occupied": {
-            "min": 10
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "#minecraft:planks"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
-        }
+        ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {
@@ -21,7 +31,7 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_lots_of_items"
+      "has_planks"
     ]
   ],
   "rewards": {

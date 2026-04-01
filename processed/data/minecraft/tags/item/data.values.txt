@@ -11,6 +11,7 @@ minecraft:beacon_payment_items
 minecraft:beds
 minecraft:bee_food
 minecraft:birch_logs
+minecraft:block_placers
 minecraft:boats
 minecraft:book_cloning_target
 minecraft:bookshelf_books

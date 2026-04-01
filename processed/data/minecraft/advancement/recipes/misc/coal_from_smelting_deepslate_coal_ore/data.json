@@ -2,13 +2,23 @@
   "criteria": {
     "has_deepslate_coal_ore": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:deepslate_coal_ore"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:deepslate_coal_ore"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

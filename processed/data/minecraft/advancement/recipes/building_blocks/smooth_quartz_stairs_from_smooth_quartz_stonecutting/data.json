@@ -2,13 +2,23 @@
   "criteria": {
     "has_smooth_quartz": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:smooth_quartz"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:smooth_quartz"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

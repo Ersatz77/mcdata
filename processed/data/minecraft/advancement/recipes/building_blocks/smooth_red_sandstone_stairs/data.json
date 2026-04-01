@@ -2,13 +2,23 @@
   "criteria": {
     "has_smooth_red_sandstone": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:smooth_red_sandstone"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:smooth_red_sandstone"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

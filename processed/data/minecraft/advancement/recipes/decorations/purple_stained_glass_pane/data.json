@@ -2,13 +2,23 @@
   "criteria": {
     "has_glass": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:purple_stained_glass"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:purple_stained_glass"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {

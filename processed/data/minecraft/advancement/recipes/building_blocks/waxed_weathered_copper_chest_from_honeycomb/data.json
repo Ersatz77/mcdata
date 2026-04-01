@@ -8,13 +8,23 @@
     },
     "has_weathered_copper_chest": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:weathered_copper_chest"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:weathered_copper_chest"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     }
   },
   "parent": "minecraft:recipes/root",

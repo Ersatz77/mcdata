@@ -2,13 +2,23 @@
   "criteria": {
     "has_packed_ice": {
       "conditions": {
-        "items": [
+        "entity": [
           {
-            "items": "minecraft:packed_ice"
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "item": {
+                  "items": "minecraft:packed_ice"
+                },
+                "type": "minecraft:living_block"
+              }
+            }
           }
         ]
       },
-      "trigger": "minecraft:inventory_changed"
+      "trigger": "minecraft:summoned_entity"
     },
     "has_the_recipe": {
       "conditions": {
