@@ -2,43 +2,23 @@
   "criteria": {
     "has_hay_block": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:hay_block"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:hay_block"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_redstone": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:redstone"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:redstone"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_the_recipe": {
       "conditions": {

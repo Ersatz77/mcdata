@@ -9,23 +9,13 @@
     },
     "has_wheat": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:wheat"
-                }
-              }
-            }
+            "items": "minecraft:wheat"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "requirements": [

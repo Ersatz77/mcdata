@@ -3,243 +3,123 @@
   "criteria": {
     "has_golden_axe": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_axe"
-                }
-              }
-            }
+            "items": "minecraft:golden_axe"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_golden_boots": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_boots"
-                }
-              }
-            }
+            "items": "minecraft:golden_boots"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_golden_chestplate": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_chestplate"
-                }
-              }
-            }
+            "items": "minecraft:golden_chestplate"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_golden_helmet": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_helmet"
-                }
-              }
-            }
+            "items": "minecraft:golden_helmet"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_golden_hoe": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_hoe"
-                }
-              }
-            }
+            "items": "minecraft:golden_hoe"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_golden_horse_armor": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_horse_armor"
-                }
-              }
-            }
+            "items": "minecraft:golden_horse_armor"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_golden_leggings": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_leggings"
-                }
-              }
-            }
+            "items": "minecraft:golden_leggings"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_golden_nautilus_armor": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_nautilus_armor"
-                }
-              }
-            }
+            "items": "minecraft:golden_nautilus_armor"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_golden_pickaxe": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_pickaxe"
-                }
-              }
-            }
+            "items": "minecraft:golden_pickaxe"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_golden_shovel": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_shovel"
-                }
-              }
-            }
+            "items": "minecraft:golden_shovel"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_golden_spear": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_spear"
-                }
-              }
-            }
+            "items": "minecraft:golden_spear"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_golden_sword": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:golden_sword"
-                }
-              }
-            }
+            "items": "minecraft:golden_sword"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_the_recipe": {
       "conditions": {

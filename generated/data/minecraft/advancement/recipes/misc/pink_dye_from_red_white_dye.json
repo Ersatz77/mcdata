@@ -3,23 +3,13 @@
   "criteria": {
     "has_red_dye": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:red_dye"
-                }
-              }
-            }
+            "items": "minecraft:red_dye"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_the_recipe": {
       "conditions": {
@@ -29,23 +19,13 @@
     },
     "has_white_dye": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:white_dye"
-                }
-              }
-            }
+            "items": "minecraft:white_dye"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "requirements": [

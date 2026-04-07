@@ -42,7 +42,6 @@ minecraft:entity_data
 minecraft:equippable
 minecraft:firework_explosion
 minecraft:fireworks
-minecraft:follow
 minecraft:food
 minecraft:fox/variant
 minecraft:frog/variant
@@ -88,6 +87,7 @@ minecraft:salmon/size
 minecraft:sheep/color
 minecraft:shulker/color
 minecraft:stored_enchantments
+minecraft:sulfur_cube_content
 minecraft:suspicious_stew_effects
 minecraft:swing_animation
 minecraft:tool

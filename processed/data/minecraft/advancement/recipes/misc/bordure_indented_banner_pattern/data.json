@@ -8,23 +8,13 @@
     },
     "has_vines": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:vine"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:vine"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "parent": "minecraft:recipes/root",

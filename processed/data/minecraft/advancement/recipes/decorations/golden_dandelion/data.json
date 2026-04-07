@@ -2,43 +2,23 @@
   "criteria": {
     "has_dandelion": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:dandelion"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:dandelion"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_gold_nugget": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:gold_nugget"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:gold_nugget"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_the_recipe": {
       "conditions": {

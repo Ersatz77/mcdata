@@ -3,23 +3,13 @@
   "criteria": {
     "has_leather_chestplate": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:leather_chestplate"
-                }
-              }
-            }
+            "items": "minecraft:leather_chestplate"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_the_recipe": {
       "conditions": {

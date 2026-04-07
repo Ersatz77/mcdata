@@ -204991,6 +204991,36 @@
       }
     },
     {
+      "biome": "minecraft:sulfur_caves",
+      "parameters": {
+        "continentalness": [
+          -1.0,
+          1.0
+        ],
+        "depth": [
+          0.2,
+          0.9
+        ],
+        "erosion": [
+          -1.0,
+          1.0
+        ],
+        "humidity": [
+          -1.0,
+          1.0
+        ],
+        "offset": 0.0,
+        "temperature": [
+          -1.0,
+          1.0
+        ],
+        "weirdness": [
+          -1.1,
+          -0.95
+        ]
+      }
+    },
+    {
       "biome": "minecraft:deep_dark",
       "parameters": {
         "continentalness": [

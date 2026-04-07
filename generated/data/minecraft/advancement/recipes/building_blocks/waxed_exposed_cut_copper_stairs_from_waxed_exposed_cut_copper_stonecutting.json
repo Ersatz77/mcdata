@@ -9,23 +9,13 @@
     },
     "has_waxed_exposed_cut_copper": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:waxed_exposed_cut_copper"
-                }
-              }
-            }
+            "items": "minecraft:waxed_exposed_cut_copper"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "requirements": [

@@ -1,0 +1,15 @@
+{
+  "category": "building",
+  "key": {
+    "#": "minecraft:polished_sulfur"
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:sulfur_bricks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

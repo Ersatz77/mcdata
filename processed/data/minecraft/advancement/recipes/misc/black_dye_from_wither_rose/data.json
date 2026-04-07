@@ -8,23 +8,13 @@
     },
     "has_wither_rose": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:wither_rose"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:wither_rose"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "parent": "minecraft:recipes/root",

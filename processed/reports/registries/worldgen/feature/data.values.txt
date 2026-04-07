@@ -13,7 +13,6 @@ minecraft:coral_tree
 minecraft:delta_feature
 minecraft:desert_well
 minecraft:disk
-minecraft:dripstone_cluster
 minecraft:end_gateway
 minecraft:end_island
 minecraft:end_platform
@@ -37,7 +36,6 @@ minecraft:nether_forest_vegetation
 minecraft:netherrack_replace_blobs
 minecraft:no_op
 minecraft:ore
-minecraft:pointed_dripstone
 minecraft:random_boolean_selector
 minecraft:random_selector
 minecraft:replace_single_block
@@ -46,10 +44,14 @@ minecraft:scattered_ore
 minecraft:sculk_patch
 minecraft:sea_pickle
 minecraft:seagrass
+minecraft:sequence
 minecraft:simple_block
 minecraft:simple_random_selector
+minecraft:speleothem
+minecraft:speleothem_cluster
 minecraft:spike
 minecraft:spring_feature
+minecraft:template
 minecraft:tree
 minecraft:twisting_vines
 minecraft:underwater_magma

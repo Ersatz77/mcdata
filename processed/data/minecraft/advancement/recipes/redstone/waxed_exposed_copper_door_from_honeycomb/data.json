@@ -2,23 +2,13 @@
   "criteria": {
     "has_exposed_copper_door": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:exposed_copper_door"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:exposed_copper_door"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_the_recipe": {
       "conditions": {

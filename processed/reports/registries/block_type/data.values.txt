@@ -156,6 +156,7 @@ minecraft:player_head
 minecraft:player_wall_head
 minecraft:pointed_dripstone
 minecraft:potato
+minecraft:potent_sulfur
 minecraft:powder_snow
 minecraft:powered
 minecraft:powered_rail
@@ -249,7 +250,7 @@ minecraft:weathering_copper_golem_statue
 minecraft:weathering_copper_grate
 minecraft:weathering_copper_slab
 minecraft:weathering_copper_stair
-minecraft:weathering_copper_trap_door
+minecraft:weathering_copper_trapdoor
 minecraft:weathering_lantern
 minecraft:weathering_lightning_rod
 minecraft:web

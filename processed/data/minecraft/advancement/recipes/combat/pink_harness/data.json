@@ -2,23 +2,13 @@
   "criteria": {
     "has_dried_ghast": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:dried_ghast"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:dried_ghast"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_the_recipe": {
       "conditions": {

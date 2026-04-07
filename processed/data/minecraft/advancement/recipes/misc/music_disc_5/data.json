@@ -2,23 +2,13 @@
   "criteria": {
     "has_disc_fragment_5": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:disc_fragment_5"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:disc_fragment_5"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_the_recipe": {
       "conditions": {

@@ -8,23 +8,13 @@
     },
     "has_wither_skeleton_skull": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:wither_skeleton_skull"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:wither_skeleton_skull"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "parent": "minecraft:recipes/root",

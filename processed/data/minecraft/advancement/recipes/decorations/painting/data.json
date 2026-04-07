@@ -8,23 +8,13 @@
     },
     "has_wool": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "#minecraft:wool"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "#minecraft:wool"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "parent": "minecraft:recipes/root",

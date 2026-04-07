@@ -8,23 +8,13 @@
     },
     "has_tuff_bricks": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:tuff_bricks"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:tuff_bricks"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "parent": "minecraft:recipes/root",

@@ -479,6 +479,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:sulfur_cube_archetype": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:test_environment": {
       "elements": true,
       "stable": false,

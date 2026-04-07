@@ -7,6 +7,7 @@ minecraft:block_destroy
 minecraft:block_detach
 minecraft:block_open
 minecraft:block_place
+minecraft:bounce
 minecraft:container_close
 minecraft:container_open
 minecraft:drink

@@ -3,23 +3,13 @@
   "criteria": {
     "has_cobbled_deepslate_slab": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "type": "minecraft:living_block",
-                "item": {
-                  "items": "minecraft:cobbled_deepslate_slab"
-                }
-              }
-            }
+            "items": "minecraft:cobbled_deepslate_slab"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_the_recipe": {
       "conditions": {

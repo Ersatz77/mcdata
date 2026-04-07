@@ -2,23 +2,13 @@
   "criteria": {
     "has_packed_mud": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:packed_mud"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:packed_mud"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_the_recipe": {
       "conditions": {

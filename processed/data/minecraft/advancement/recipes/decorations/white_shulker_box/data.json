@@ -2,23 +2,13 @@
   "criteria": {
     "has_shulker_box": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "#minecraft:shulker_boxes"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "#minecraft:shulker_boxes"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     },
     "has_the_recipe": {
       "conditions": {

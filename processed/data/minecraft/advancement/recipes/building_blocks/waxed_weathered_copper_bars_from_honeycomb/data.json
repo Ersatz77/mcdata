@@ -8,23 +8,13 @@
     },
     "has_weathered_copper_bars": {
       "conditions": {
-        "entity": [
+        "items": [
           {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type": "minecraft:living_block",
-              "type_specific": {
-                "item": {
-                  "items": "minecraft:weathered_copper_bars"
-                },
-                "type": "minecraft:living_block"
-              }
-            }
+            "items": "minecraft:weathered_copper_bars"
           }
         ]
       },
-      "trigger": "minecraft:summoned_entity"
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "parent": "minecraft:recipes/root",

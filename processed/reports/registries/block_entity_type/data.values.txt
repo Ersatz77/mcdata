@@ -33,6 +33,7 @@ minecraft:jukebox
 minecraft:lectern
 minecraft:mob_spawner
 minecraft:piston
+minecraft:potent_sulfur
 minecraft:sculk_catalyst
 minecraft:sculk_sensor
 minecraft:sculk_shrieker
