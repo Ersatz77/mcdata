@@ -10,9 +10,7 @@
       "minecraft:dripstone_block",
       "minecraft:calcite",
       "minecraft:tuff",
-      "minecraft:deepslate",
-      "minecraft:sulfur",
-      "minecraft:cinnabar"
+      "minecraft:deepslate"
     ],
     "can_place_on_ceiling": true,
     "can_place_on_floor": false,

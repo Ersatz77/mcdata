@@ -1,7 +1,0 @@
-{
-  "ingredient": "minecraft:sulfur",
-  "result": {
-    "id": "minecraft:chiseled_sulfur"
-  },
-  "type": "minecraft:stonecutting"
-}

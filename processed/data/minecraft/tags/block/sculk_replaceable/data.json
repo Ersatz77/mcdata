@@ -16,8 +16,6 @@
     "minecraft:dripstone_block",
     "minecraft:end_stone",
     "minecraft:red_sandstone",
-    "minecraft:sandstone",
-    "minecraft:sulfur",
-    "minecraft:cinnabar"
+    "minecraft:sandstone"
   ]
 }

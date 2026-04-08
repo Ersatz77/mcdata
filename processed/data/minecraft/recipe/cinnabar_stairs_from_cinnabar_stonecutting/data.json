@@ -1,7 +1,0 @@
-{
-  "ingredient": "minecraft:cinnabar",
-  "result": {
-    "id": "minecraft:cinnabar_stairs"
-  },
-  "type": "minecraft:stonecutting"
-}

@@ -1,5 +1,6 @@
 {
   "values": [
+    "minecraft:glass",
     "minecraft:white_stained_glass",
     "minecraft:orange_stained_glass",
     "minecraft:magenta_stained_glass",
@@ -16,7 +17,6 @@
     "minecraft:green_stained_glass",
     "minecraft:red_stained_glass",
     "minecraft:black_stained_glass",
-    "minecraft:glass",
     "minecraft:tinted_glass",
     "minecraft:barrier"
   ]

@@ -4,24 +4,12 @@
     "features": [
       {
         "feature": {
-          "type": "minecraft:speleothem",
+          "type": "minecraft:pointed_dripstone",
           "config": {
-            "base_block": {
-              "Name": "minecraft:dripstone_block"
-            },
             "chance_of_directional_spread": 0.7,
             "chance_of_spread_radius2": 0.5,
             "chance_of_spread_radius3": 0.5,
-            "chance_of_taller_generation": 0.2,
-            "pointed_block": {
-              "Name": "minecraft:pointed_dripstone",
-              "Properties": {
-                "thickness": "tip",
-                "vertical_direction": "up",
-                "waterlogged": "false"
-              }
-            },
-            "replaceable_blocks": "#minecraft:dripstone_replaceable_blocks"
+            "chance_of_taller_dripstone": 0.2
           }
         },
         "placement": [
@@ -55,24 +43,12 @@
       },
       {
         "feature": {
-          "type": "minecraft:speleothem",
+          "type": "minecraft:pointed_dripstone",
           "config": {
-            "base_block": {
-              "Name": "minecraft:dripstone_block"
-            },
             "chance_of_directional_spread": 0.7,
             "chance_of_spread_radius2": 0.5,
             "chance_of_spread_radius3": 0.5,
-            "chance_of_taller_generation": 0.2,
-            "pointed_block": {
-              "Name": "minecraft:pointed_dripstone",
-              "Properties": {
-                "thickness": "tip",
-                "vertical_direction": "up",
-                "waterlogged": "false"
-              }
-            },
-            "replaceable_blocks": "#minecraft:dripstone_replaceable_blocks"
+            "chance_of_taller_dripstone": 0.2
           }
         },
         "placement": [

@@ -1,7 +1,0 @@
-{
-  "ingredient": "minecraft:polished_cinnabar",
-  "result": {
-    "id": "minecraft:cinnabar_bricks"
-  },
-  "type": "minecraft:stonecutting"
-}

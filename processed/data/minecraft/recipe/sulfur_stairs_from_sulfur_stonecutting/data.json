@@ -1,7 +1,0 @@
-{
-  "ingredient": "minecraft:sulfur",
-  "result": {
-    "id": "minecraft:sulfur_stairs"
-  },
-  "type": "minecraft:stonecutting"
-}

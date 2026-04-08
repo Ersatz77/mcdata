@@ -22,15 +22,18 @@
           "speed": 15.0
         },
         {
-          "blocks": "#minecraft:shears_extreme_breaking_speed",
+          "blocks": "#minecraft:leaves",
           "speed": 15.0
         },
         {
-          "blocks": "#minecraft:shears_major_breaking_speed",
+          "blocks": "#minecraft:wool",
           "speed": 5.0
         },
         {
-          "blocks": "#minecraft:shears_minor_breaking_speed",
+          "blocks": [
+            "minecraft:vine",
+            "minecraft:glow_lichen"
+          ],
           "speed": 2.0
         }
       ]
