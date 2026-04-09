@@ -73,6 +73,8 @@ minecraft:lava
 minecraft:mycelium
 minecraft:nautilus
 minecraft:note
+minecraft:noxious_gas
+minecraft:noxious_gas_cloud
 minecraft:ominous_spawning
 minecraft:pale_oak_leaves
 minecraft:pause_mob_growth
@@ -99,6 +101,8 @@ minecraft:spit
 minecraft:splash
 minecraft:spore_blossom_air
 minecraft:squid_ink
+minecraft:sulfur_bubbles
+minecraft:sulfur_cube_goo
 minecraft:sweep_attack
 minecraft:tinted_leaves
 minecraft:totem_of_undying

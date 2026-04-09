@@ -130,6 +130,7 @@ minecraft:spruce_chest_boat
 minecraft:squid
 minecraft:stray
 minecraft:strider
+minecraft:sulfur_cube
 minecraft:tadpole
 minecraft:text_display
 minecraft:tnt

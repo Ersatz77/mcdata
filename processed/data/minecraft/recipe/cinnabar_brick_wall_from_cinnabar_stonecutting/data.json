@@ -1,0 +1,7 @@
+{
+  "ingredient": "minecraft:cinnabar",
+  "result": {
+    "id": "minecraft:cinnabar_brick_wall"
+  },
+  "type": "minecraft:stonecutting"
+}

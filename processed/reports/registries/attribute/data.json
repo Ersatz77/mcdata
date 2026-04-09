@@ -1,5 +1,6 @@
 {
   "values": [
+    "minecraft:air_drag_modifier",
     "minecraft:armor",
     "minecraft:armor_toughness",
     "minecraft:attack_damage",
@@ -7,6 +8,7 @@
     "minecraft:attack_speed",
     "minecraft:block_break_speed",
     "minecraft:block_interaction_range",
+    "minecraft:bounciness",
     "minecraft:burning_time",
     "minecraft:camera_distance",
     "minecraft:entity_interaction_range",
@@ -14,6 +16,7 @@
     "minecraft:fall_damage_multiplier",
     "minecraft:flying_speed",
     "minecraft:follow_range",
+    "minecraft:friction_modifier",
     "minecraft:gravity",
     "minecraft:jump_strength",
     "minecraft:knockback_resistance",

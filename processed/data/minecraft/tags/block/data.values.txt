@@ -45,7 +45,8 @@ minecraft:climbable
 minecraft:coal_ores
 minecraft:combination_step_sound_blocks
 minecraft:completes_find_tree_tutorial
-minecraft:concrete_powder
+minecraft:concrete
+minecraft:concrete_powders
 minecraft:convertable_to_mud
 minecraft:copper
 minecraft:copper_chests
@@ -86,6 +87,7 @@ minecraft:foxes_spawnable_on
 minecraft:frog_prefer_jump_to
 minecraft:frogs_spawnable_on
 minecraft:geode_invalid_blocks
+minecraft:glazed_terracotta
 minecraft:goats_spawnable_on
 minecraft:gold_ores
 minecraft:grass_blocks
@@ -162,6 +164,9 @@ minecraft:sand
 minecraft:saplings
 minecraft:sculk_replaceable
 minecraft:sculk_replaceable_world_gen
+minecraft:shears_extreme_breaking_speed
+minecraft:shears_major_breaking_speed
+minecraft:shears_minor_breaking_speed
 minecraft:shulker_boxes
 minecraft:signs
 minecraft:slabs
@@ -214,6 +219,7 @@ minecraft:supports_vegetation
 minecraft:supports_warped_fungus
 minecraft:supports_warped_roots
 minecraft:supports_wither_rose
+minecraft:suppresses_bounce
 minecraft:sword_efficient
 minecraft:sword_instantly_mines
 minecraft:terracotta
