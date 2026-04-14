@@ -7,12 +7,12 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "distance": {
+              "minecraft:distance": {
                 "horizontal": {
                   "min": 50.0
                 }
               },
-              "type": "minecraft:skeleton"
+              "minecraft:entity_type": "minecraft:skeleton"
             }
           }
         ],

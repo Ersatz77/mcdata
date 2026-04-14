@@ -1,0 +1,14 @@
+{
+  "category": "building",
+  "key": {
+    "#": "minecraft:sulfur_spike"
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "id": "minecraft:sulfur"
+  },
+  "type": "minecraft:crafting_shaped"
+}

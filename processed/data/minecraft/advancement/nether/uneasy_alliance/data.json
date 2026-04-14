@@ -7,10 +7,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "location": {
+              "minecraft:entity_type": "minecraft:ghast",
+              "minecraft:location": {
                 "dimension": "minecraft:overworld"
-              },
-              "type": "minecraft:ghast"
+              }
             }
           }
         ]

@@ -11,7 +11,7 @@
                 "condition": "minecraft:damage_source_properties",
                 "predicate": {
                   "source_entity": {
-                    "type": "minecraft:frog"
+                    "minecraft:entity_type": "minecraft:frog"
                   }
                 }
               }
@@ -20,11 +20,10 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
+                "minecraft:type_specific/slime": {
                   "size": {
                     "min": 2
-                  },
-                  "type": "minecraft:slime"
+                  }
                 }
               }
             }
@@ -58,10 +57,10 @@
               "condition": "minecraft:damage_source_properties",
               "predicate": {
                 "source_entity": {
-                  "components": {
+                  "minecraft:components": {
                     "minecraft:frog/variant": "minecraft:warm"
                   },
-                  "type": "minecraft:frog"
+                  "minecraft:entity_type": "minecraft:frog"
                 }
               }
             }
@@ -82,10 +81,10 @@
               "condition": "minecraft:damage_source_properties",
               "predicate": {
                 "source_entity": {
-                  "components": {
+                  "minecraft:components": {
                     "minecraft:frog/variant": "minecraft:cold"
                   },
-                  "type": "minecraft:frog"
+                  "minecraft:entity_type": "minecraft:frog"
                 }
               }
             }
@@ -106,10 +105,10 @@
               "condition": "minecraft:damage_source_properties",
               "predicate": {
                 "source_entity": {
-                  "components": {
+                  "minecraft:components": {
                     "minecraft:frog/variant": "minecraft:temperate"
                   },
-                  "type": "minecraft:frog"
+                  "minecraft:entity_type": "minecraft:frog"
                 }
               }
             }

@@ -7,7 +7,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "components": {
+              "minecraft:components": {
                 "minecraft:cat/variant": "minecraft:all_black"
               }
             }
@@ -23,7 +23,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "components": {
+              "minecraft:components": {
                 "minecraft:cat/variant": "minecraft:black"
               }
             }
@@ -39,7 +39,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "components": {
+              "minecraft:components": {
                 "minecraft:cat/variant": "minecraft:british_shorthair"
               }
             }
@@ -55,7 +55,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "components": {
+              "minecraft:components": {
                 "minecraft:cat/variant": "minecraft:calico"
               }
             }
@@ -71,7 +71,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "components": {
+              "minecraft:components": {
                 "minecraft:cat/variant": "minecraft:jellie"
               }
             }
@@ -87,7 +87,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "components": {
+              "minecraft:components": {
                 "minecraft:cat/variant": "minecraft:persian"
               }
             }
@@ -103,7 +103,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "components": {
+              "minecraft:components": {
                 "minecraft:cat/variant": "minecraft:ragdoll"
               }
             }
@@ -119,7 +119,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "components": {
+              "minecraft:components": {
                 "minecraft:cat/variant": "minecraft:red"
               }
             }
@@ -135,7 +135,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "components": {
+              "minecraft:components": {
                 "minecraft:cat/variant": "minecraft:siamese"
               }
             }
@@ -151,7 +151,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "components": {
+              "minecraft:components": {
                 "minecraft:cat/variant": "minecraft:tabby"
               }
             }
@@ -167,7 +167,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "components": {
+              "minecraft:components": {
                 "minecraft:cat/variant": "minecraft:white"
               }
             }

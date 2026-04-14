@@ -1313,7 +1313,6 @@ minecraft:stripped_spruce_wood
 minecraft:stripped_warped_hyphae
 minecraft:sugar_from_honey_bottle
 minecraft:sugar_from_sugar_cane
-minecraft:sulfur
 minecraft:sulfur_brick_slab
 minecraft:sulfur_brick_slab_from_polished_sulfur_stonecutting
 minecraft:sulfur_brick_slab_from_sulfur_bricks_stonecutting
@@ -1329,6 +1328,7 @@ minecraft:sulfur_brick_wall_from_sulfur_stonecutting
 minecraft:sulfur_bricks
 minecraft:sulfur_bricks_from_polished_sulfur_stonecutting
 minecraft:sulfur_bricks_from_sulfur_stonecutting
+minecraft:sulfur_from_sulfur_spikes
 minecraft:sulfur_slab
 minecraft:sulfur_slab_from_sulfur_stonecutting
 minecraft:sulfur_stairs

@@ -60,7 +60,7 @@
                 "condition": "minecraft:entity_properties",
                 "entity": "this",
                 "predicate": {
-                  "vehicle": {}
+                  "minecraft:vehicle": {}
                 }
               }
             },
@@ -68,7 +68,7 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "flags": {
+                "minecraft:flags": {
                   "is_fall_flying": false
                 }
               }
@@ -77,7 +77,7 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "flags": {
+                "minecraft:flags": {
                   "is_in_water": false
                 }
               }
@@ -91,9 +91,7 @@
                     "condition": "minecraft:entity_properties",
                     "entity": "this",
                     "predicate": {
-                      "type_specific": {
-                        "type": "minecraft:player"
-                      }
+                      "minecraft:type_specific/player": {}
                     }
                   }
                 },
@@ -101,11 +99,10 @@
                   "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
-                    "type_specific": {
+                    "minecraft:type_specific/player": {
                       "gamemode": [
                         "creative"
-                      ],
-                      "type": "minecraft:player"
+                      ]
                     }
                   }
                 },
@@ -113,13 +110,12 @@
                   "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
-                    "type_specific": {
+                    "minecraft:type_specific/player": {
                       "food": {
                         "level": {
                           "min": 7
                         }
-                      },
-                      "type": "minecraft:player"
+                      }
                     }
                   }
                 }

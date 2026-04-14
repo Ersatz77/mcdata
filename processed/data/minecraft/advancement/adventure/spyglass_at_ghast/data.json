@@ -10,11 +10,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:ghast"
-                },
-                "type": "minecraft:player"
+                  "minecraft:entity_type": "minecraft:ghast"
+                }
               }
             }
           }

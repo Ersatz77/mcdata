@@ -7,7 +7,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "location": {
+              "minecraft:location": {
                 "biomes": "minecraft:basalt_deltas"
               }
             }
@@ -23,7 +23,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "location": {
+              "minecraft:location": {
                 "biomes": "minecraft:crimson_forest"
               }
             }
@@ -39,7 +39,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "location": {
+              "minecraft:location": {
                 "biomes": "minecraft:nether_wastes"
               }
             }
@@ -55,7 +55,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "location": {
+              "minecraft:location": {
                 "biomes": "minecraft:soul_sand_valley"
               }
             }
@@ -71,7 +71,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "location": {
+              "minecraft:location": {
                 "biomes": "minecraft:warped_forest"
               }
             }

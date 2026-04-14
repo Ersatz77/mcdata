@@ -11,7 +11,7 @@
                   "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
-                    "type": "minecraft:piglin"
+                    "minecraft:entity_type": "minecraft:piglin"
                   }
                 }
               ],
@@ -24,7 +24,7 @@
                   "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
-                    "type": "minecraft:creeper"
+                    "minecraft:entity_type": "minecraft:creeper"
                   }
                 }
               ],
@@ -37,7 +37,7 @@
                   "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
-                    "type": "minecraft:skeleton"
+                    "minecraft:entity_type": "minecraft:skeleton"
                   }
                 }
               ],
@@ -50,7 +50,7 @@
                   "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
-                    "type": "minecraft:wither_skeleton"
+                    "minecraft:entity_type": "minecraft:wither_skeleton"
                   }
                 }
               ],
@@ -63,7 +63,7 @@
                   "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
-                    "type": "minecraft:zombie"
+                    "minecraft:entity_type": "minecraft:zombie"
                   }
                 }
               ],

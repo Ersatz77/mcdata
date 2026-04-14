@@ -178,6 +178,7 @@ minecraft:sniffer_egg_hatch_boost
 minecraft:snow
 minecraft:soul_fire_base_blocks
 minecraft:soul_speed_blocks
+minecraft:speleothems
 minecraft:spruce_logs
 minecraft:stairs
 minecraft:standing_signs
@@ -187,6 +188,7 @@ minecraft:stone_ore_replaceables
 minecraft:stone_pressure_plates
 minecraft:strider_warm_blocks
 minecraft:substrate_overworld
+minecraft:sulfur_spike_replaceable_blocks
 minecraft:support_override_cactus_flower
 minecraft:support_override_snow_layer
 minecraft:supports_azalea

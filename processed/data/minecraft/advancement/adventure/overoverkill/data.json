@@ -8,12 +8,12 @@
           },
           "type": {
             "direct_entity": {
-              "equipment": {
+              "minecraft:entity_type": "minecraft:player",
+              "minecraft:equipment": {
                 "mainhand": {
                   "items": "minecraft:mace"
                 }
-              },
-              "type": "minecraft:player"
+              }
             },
             "tags": [
               {

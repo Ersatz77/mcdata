@@ -10,6 +10,27 @@
               },
               "type": "minecraft:simple_state_provider"
             },
+            "can_place_feature": {
+              "predicate": {
+                "blocks": "minecraft:sulfur_spike",
+                "type": "minecraft:matching_blocks"
+              },
+              "type": "minecraft:not"
+            },
+            "can_replace_with_air_or_fluid": {
+              "predicate": {
+                "tag": "minecraft:features_cannot_replace",
+                "type": "minecraft:matching_block_tag"
+              },
+              "type": "minecraft:not"
+            },
+            "can_replace_with_barrier": {
+              "predicate": {
+                "tag": "minecraft:lava_pool_stone_cannot_replace",
+                "type": "minecraft:matching_block_tag"
+              },
+              "type": "minecraft:not"
+            },
             "fluid": {
               "state": {
                 "Name": "minecraft:water",

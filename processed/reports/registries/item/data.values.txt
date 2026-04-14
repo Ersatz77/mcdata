@@ -1318,6 +1318,7 @@ minecraft:sulfur_bricks
 minecraft:sulfur_cube_bucket
 minecraft:sulfur_cube_spawn_egg
 minecraft:sulfur_slab
+minecraft:sulfur_spike
 minecraft:sulfur_stairs
 minecraft:sulfur_wall
 minecraft:sunflower

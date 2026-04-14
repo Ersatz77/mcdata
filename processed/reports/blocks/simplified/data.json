@@ -16057,6 +16057,30 @@
       ]
     }
   },
+  "minecraft:sulfur_spike": {
+    "default": {
+      "thickness": "tip",
+      "vertical_direction": "up",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "thickness": [
+        "tip_merge",
+        "tip",
+        "frustum",
+        "middle",
+        "base"
+      ],
+      "vertical_direction": [
+        "up",
+        "down"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:sulfur_stairs": {
     "default": {
       "facing": "north",

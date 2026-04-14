@@ -7,15 +7,15 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "equipment": {
+              "minecraft:entity_type": "minecraft:wolf",
+              "minecraft:equipment": {
                 "body": {
                   "components": {
                     "minecraft:damage": 0
                   },
                   "items": "minecraft:wolf_armor"
                 }
-              },
-              "type": "minecraft:wolf"
+              }
             }
           }
         ],

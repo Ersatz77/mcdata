@@ -7,7 +7,8 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "equipment": {
+              "minecraft:entity_type": "#minecraft:raiders",
+              "minecraft:equipment": {
                 "head": {
                   "components": {
                     "minecraft:banner_patterns": [
@@ -50,8 +51,7 @@
                   },
                   "items": "minecraft:white_banner"
                 }
-              },
-              "type": "#minecraft:raiders"
+              }
             }
           }
         ]

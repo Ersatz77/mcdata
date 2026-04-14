@@ -208,6 +208,7 @@ minecraft:stonecutter
 minecraft:structure
 minecraft:structure_void
 minecraft:sugar_cane
+minecraft:sulfur_spike
 minecraft:sweet_berry_bush
 minecraft:tall_dry_grass
 minecraft:tall_flower

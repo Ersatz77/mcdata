@@ -39,8 +39,8 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "vehicle": {
-                  "type": "minecraft:camel_husk"
+                "minecraft:vehicle": {
+                  "minecraft:entity_type": "minecraft:camel_husk"
                 }
               }
             }
@@ -108,7 +108,7 @@
                       "condition": "minecraft:entity_properties",
                       "entity": "this",
                       "predicate": {
-                        "flags": {
+                        "minecraft:flags": {
                           "is_on_fire": true
                         }
                       }
@@ -117,7 +117,7 @@
                       "condition": "minecraft:entity_properties",
                       "entity": "direct_attacker",
                       "predicate": {
-                        "equipment": {
+                        "minecraft:equipment": {
                           "mainhand": {
                             "predicates": {
                               "minecraft:enchantments": [
