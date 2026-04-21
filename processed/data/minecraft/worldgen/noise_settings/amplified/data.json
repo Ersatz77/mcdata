@@ -479,9 +479,7 @@
                 "sequence": [
                   {
                     "if_true": {
-                      "biome_is": [
-                        "minecraft:wooded_badlands"
-                      ],
+                      "biome_is": "minecraft:wooded_badlands",
                       "type": "minecraft:biome"
                     },
                     "then_run": {
@@ -578,9 +576,7 @@
                   },
                   {
                     "if_true": {
-                      "biome_is": [
-                        "minecraft:swamp"
-                      ],
+                      "biome_is": "minecraft:swamp",
                       "type": "minecraft:biome"
                     },
                     "then_run": {
@@ -630,9 +626,7 @@
                   },
                   {
                     "if_true": {
-                      "biome_is": [
-                        "minecraft:mangrove_swamp"
-                      ],
+                      "biome_is": "minecraft:mangrove_swamp",
                       "type": "minecraft:biome"
                     },
                     "then_run": {
@@ -1043,9 +1037,7 @@
                       "sequence": [
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:frozen_peaks"
-                            ],
+                            "biome_is": "minecraft:frozen_peaks",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -1114,9 +1106,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:snowy_slopes"
-                            ],
+                            "biome_is": "minecraft:snowy_slopes",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -1179,9 +1169,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:jagged_peaks"
-                            ],
+                            "biome_is": "minecraft:jagged_peaks",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -1220,9 +1208,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:grove"
-                            ],
+                            "biome_is": "minecraft:grove",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -1275,9 +1261,7 @@
                           "sequence": [
                             {
                               "if_true": {
-                                "biome_is": [
-                                  "minecraft:stony_peaks"
-                                ],
+                                "biome_is": "minecraft:stony_peaks",
                                 "type": "minecraft:biome"
                               },
                               "then_run": {
@@ -1310,9 +1294,7 @@
                             },
                             {
                               "if_true": {
-                                "biome_is": [
-                                  "minecraft:stony_shore"
-                                ],
+                                "biome_is": "minecraft:stony_shore",
                                 "type": "minecraft:biome"
                               },
                               "then_run": {
@@ -1366,9 +1348,7 @@
                             },
                             {
                               "if_true": {
-                                "biome_is": [
-                                  "minecraft:windswept_hills"
-                                ],
+                                "biome_is": "minecraft:windswept_hills",
                                 "type": "minecraft:biome"
                               },
                               "then_run": {
@@ -1428,9 +1408,7 @@
                             },
                             {
                               "if_true": {
-                                "biome_is": [
-                                  "minecraft:desert"
-                                ],
+                                "biome_is": "minecraft:desert",
                                 "type": "minecraft:biome"
                               },
                               "then_run": {
@@ -1464,9 +1442,7 @@
                             },
                             {
                               "if_true": {
-                                "biome_is": [
-                                  "minecraft:dripstone_caves"
-                                ],
+                                "biome_is": "minecraft:dripstone_caves",
                                 "type": "minecraft:biome"
                               },
                               "then_run": {
@@ -1482,9 +1458,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:windswept_savanna"
-                            ],
+                            "biome_is": "minecraft:windswept_savanna",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -1526,9 +1500,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:windswept_gravelly_hills"
-                            ],
+                            "biome_is": "minecraft:windswept_gravelly_hills",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -1704,9 +1676,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:ice_spikes"
-                            ],
+                            "biome_is": "minecraft:ice_spikes",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -1728,9 +1698,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:mangrove_swamp"
-                            ],
+                            "biome_is": "minecraft:mangrove_swamp",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -1743,9 +1711,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:mushroom_fields"
-                            ],
+                            "biome_is": "minecraft:mushroom_fields",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -1854,9 +1820,7 @@
                       "sequence": [
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:frozen_peaks"
-                            ],
+                            "biome_is": "minecraft:frozen_peaks",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -1925,9 +1889,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:snowy_slopes"
-                            ],
+                            "biome_is": "minecraft:snowy_slopes",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -1990,9 +1952,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:jagged_peaks"
-                            ],
+                            "biome_is": "minecraft:jagged_peaks",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -2005,9 +1965,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:grove"
-                            ],
+                            "biome_is": "minecraft:grove",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -2051,9 +2009,7 @@
                           "sequence": [
                             {
                               "if_true": {
-                                "biome_is": [
-                                  "minecraft:stony_peaks"
-                                ],
+                                "biome_is": "minecraft:stony_peaks",
                                 "type": "minecraft:biome"
                               },
                               "then_run": {
@@ -2086,9 +2042,7 @@
                             },
                             {
                               "if_true": {
-                                "biome_is": [
-                                  "minecraft:stony_shore"
-                                ],
+                                "biome_is": "minecraft:stony_shore",
                                 "type": "minecraft:biome"
                               },
                               "then_run": {
@@ -2142,9 +2096,7 @@
                             },
                             {
                               "if_true": {
-                                "biome_is": [
-                                  "minecraft:windswept_hills"
-                                ],
+                                "biome_is": "minecraft:windswept_hills",
                                 "type": "minecraft:biome"
                               },
                               "then_run": {
@@ -2204,9 +2156,7 @@
                             },
                             {
                               "if_true": {
-                                "biome_is": [
-                                  "minecraft:desert"
-                                ],
+                                "biome_is": "minecraft:desert",
                                 "type": "minecraft:biome"
                               },
                               "then_run": {
@@ -2240,9 +2190,7 @@
                             },
                             {
                               "if_true": {
-                                "biome_is": [
-                                  "minecraft:dripstone_caves"
-                                ],
+                                "biome_is": "minecraft:dripstone_caves",
                                 "type": "minecraft:biome"
                               },
                               "then_run": {
@@ -2258,9 +2206,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:windswept_savanna"
-                            ],
+                            "biome_is": "minecraft:windswept_savanna",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -2282,9 +2228,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:windswept_gravelly_hills"
-                            ],
+                            "biome_is": "minecraft:windswept_gravelly_hills",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -2389,9 +2333,7 @@
                         },
                         {
                           "if_true": {
-                            "biome_is": [
-                              "minecraft:mangrove_swamp"
-                            ],
+                            "biome_is": "minecraft:mangrove_swamp",
                             "type": "minecraft:biome"
                           },
                           "then_run": {
@@ -2442,9 +2384,7 @@
                   },
                   {
                     "if_true": {
-                      "biome_is": [
-                        "minecraft:desert"
-                      ],
+                      "biome_is": "minecraft:desert",
                       "type": "minecraft:biome"
                     },
                     "then_run": {
@@ -2573,9 +2513,7 @@
       },
       {
         "if_true": {
-          "biome_is": [
-            "minecraft:sulfur_caves"
-          ],
+          "biome_is": "minecraft:sulfur_caves",
           "type": "minecraft:biome"
         },
         "then_run": {
@@ -2585,9 +2523,29 @@
             {},
             {},
             {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "state": {
+                "Name": "minecraft:tuff"
+              }
+            },
             {
               "state": {
                 "Name": "minecraft:cinnabar"
+              }
+            },
+            {
+              "state": {
+                "Name": "minecraft:cinnabar"
+              }
+            },
+            {
+              "state": {
+                "Name": "minecraft:granite"
               }
             },
             {
@@ -2597,17 +2555,27 @@
             },
             {
               "state": {
-                "Name": "minecraft:cinnabar"
+                "Name": "minecraft:sulfur"
               }
             },
             {
               "state": {
-                "Name": "minecraft:cinnabar"
+                "Name": "minecraft:sulfur"
               }
             },
             {
               "state": {
-                "Name": "minecraft:cinnabar"
+                "Name": "minecraft:sulfur"
+              }
+            },
+            {
+              "state": {
+                "Name": "minecraft:sulfur"
+              }
+            },
+            {
+              "state": {
+                "Name": "minecraft:sulfur"
               }
             }
           ],

@@ -1781,12 +1781,14 @@ minecraft:item.bucket.empty_axolotl
 minecraft:item.bucket.empty_fish
 minecraft:item.bucket.empty_lava
 minecraft:item.bucket.empty_powder_snow
+minecraft:item.bucket.empty_sulfur_cube
 minecraft:item.bucket.empty_tadpole
 minecraft:item.bucket.fill
 minecraft:item.bucket.fill_axolotl
 minecraft:item.bucket.fill_fish
 minecraft:item.bucket.fill_lava
 minecraft:item.bucket.fill_powder_snow
+minecraft:item.bucket.fill_sulfur_cube
 minecraft:item.bucket.fill_tadpole
 minecraft:item.bundle.drop_contents
 minecraft:item.bundle.insert

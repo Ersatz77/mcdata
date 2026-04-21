@@ -4,6 +4,7 @@ minecraft:armor_toughness
 minecraft:attack_damage
 minecraft:attack_knockback
 minecraft:attack_speed
+minecraft:below_name_distance
 minecraft:block_break_speed
 minecraft:block_interaction_range
 minecraft:bounciness
@@ -24,6 +25,7 @@ minecraft:max_health
 minecraft:mining_efficiency
 minecraft:movement_efficiency
 minecraft:movement_speed
+minecraft:nameplate_distance
 minecraft:oxygen_bonus
 minecraft:safe_fall_distance
 minecraft:scale

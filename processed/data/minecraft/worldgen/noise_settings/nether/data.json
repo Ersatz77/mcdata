@@ -164,9 +164,7 @@
       },
       {
         "if_true": {
-          "biome_is": [
-            "minecraft:basalt_deltas"
-          ],
+          "biome_is": "minecraft:basalt_deltas",
           "type": "minecraft:biome"
         },
         "then_run": {
@@ -276,9 +274,7 @@
       },
       {
         "if_true": {
-          "biome_is": [
-            "minecraft:soul_sand_valley"
-          ],
+          "biome_is": "minecraft:soul_sand_valley",
           "type": "minecraft:biome"
         },
         "then_run": {
@@ -441,9 +437,7 @@
             },
             {
               "if_true": {
-                "biome_is": [
-                  "minecraft:warped_forest"
-                ],
+                "biome_is": "minecraft:warped_forest",
                 "type": "minecraft:biome"
               },
               "then_run": {
@@ -499,9 +493,7 @@
             },
             {
               "if_true": {
-                "biome_is": [
-                  "minecraft:crimson_forest"
-                ],
+                "biome_is": "minecraft:crimson_forest",
                 "type": "minecraft:biome"
               },
               "then_run": {
@@ -562,9 +554,7 @@
       },
       {
         "if_true": {
-          "biome_is": [
-            "minecraft:nether_wastes"
-          ],
+          "biome_is": "minecraft:nether_wastes",
           "type": "minecraft:biome"
         },
         "then_run": {
