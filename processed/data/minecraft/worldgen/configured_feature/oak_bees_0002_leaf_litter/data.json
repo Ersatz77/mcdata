@@ -323,7 +323,6 @@
           "type": "minecraft:weighted_state_provider"
         },
         "height": 2,
-        "radius": 2,
         "tries": 150,
         "type": "minecraft:place_on_ground"
       }
@@ -347,10 +346,7 @@
     },
     "ignore_vines": true,
     "minimum_size": {
-      "limit": 1,
-      "lower_size": 0,
-      "type": "minecraft:two_layers_feature_size",
-      "upper_size": 1
+      "type": "minecraft:two_layers_feature_size"
     },
     "trunk_placer": {
       "base_height": 4,

@@ -18,7 +18,6 @@
       },
       "type": "minecraft:simple_state_provider"
     },
-    "foliage_radius": 2,
     "stem_provider": {
       "state": {
         "Name": "minecraft:mushroom_stem",

@@ -1,12 +1,10 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
             {
-              "add": false,
               "conditions": [
                 {
                   "block": "minecraft:wildflowers",
@@ -20,7 +18,6 @@
               "function": "minecraft:set_count"
             },
             {
-              "add": false,
               "conditions": [
                 {
                   "block": "minecraft:wildflowers",
@@ -34,7 +31,6 @@
               "function": "minecraft:set_count"
             },
             {
-              "add": false,
               "conditions": [
                 {
                   "block": "minecraft:wildflowers",
@@ -48,7 +44,6 @@
               "function": "minecraft:set_count"
             },
             {
-              "add": false,
               "conditions": [
                 {
                   "block": "minecraft:wildflowers",

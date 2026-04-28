@@ -1,12 +1,10 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 2.0,
                 "min": 1.0,

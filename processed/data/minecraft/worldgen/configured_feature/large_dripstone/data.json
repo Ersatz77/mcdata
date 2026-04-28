@@ -5,7 +5,6 @@
       "min_inclusive": 3,
       "type": "minecraft:uniform"
     },
-    "floor_to_ceiling_search_range": 30,
     "height_scale": {
       "max_exclusive": 2.0,
       "min_inclusive": 0.4,

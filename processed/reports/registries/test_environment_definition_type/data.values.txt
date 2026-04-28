@@ -1,5 +1,6 @@
 minecraft:all_of
 minecraft:clock_time
+minecraft:difficulty
 minecraft:function
 minecraft:game_rules
 minecraft:timeline_attributes

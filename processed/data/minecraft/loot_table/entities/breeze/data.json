@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "conditions": [
         {
           "condition": "minecraft:killed_by_player"
@@ -11,7 +10,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 2.0,
                 "min": 1.0,

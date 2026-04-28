@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "conditions": [
         {
           "condition": "minecraft:match_tool",
@@ -14,7 +13,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": 2.0,
               "function": "minecraft:set_count"
             }

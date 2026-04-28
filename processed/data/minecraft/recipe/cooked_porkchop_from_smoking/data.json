@@ -1,6 +1,5 @@
 {
   "category": "food",
-  "cookingtime": 100,
   "experience": 0.35,
   "ingredient": "minecraft:porkchop",
   "result": {

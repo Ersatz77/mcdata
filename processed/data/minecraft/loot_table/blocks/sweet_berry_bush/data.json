@@ -6,7 +6,6 @@
   ],
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "conditions": [
         {
           "block": "minecraft:sweet_berry_bush",
@@ -24,7 +23,6 @@
       ],
       "functions": [
         {
-          "add": false,
           "count": {
             "max": 3.0,
             "min": 2.0,
@@ -44,7 +42,6 @@
       "rolls": 1.0
     },
     {
-      "bonus_rolls": 0.0,
       "conditions": [
         {
           "block": "minecraft:sweet_berry_bush",
@@ -62,7 +59,6 @@
       ],
       "functions": [
         {
-          "add": false,
           "count": {
             "max": 2.0,
             "min": 1.0,

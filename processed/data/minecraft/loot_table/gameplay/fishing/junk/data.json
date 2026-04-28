@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "name": "minecraft:lily_pad",
@@ -11,7 +10,6 @@
         {
           "functions": [
             {
-              "add": false,
               "damage": {
                 "max": 0.9,
                 "min": 0.0,
@@ -53,7 +51,6 @@
         {
           "functions": [
             {
-              "add": false,
               "damage": {
                 "max": 0.9,
                 "min": 0.0,
@@ -79,7 +76,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": 10.0,
               "function": "minecraft:set_count"
             }

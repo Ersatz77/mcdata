@@ -1,8 +1,6 @@
 {
   "config": {
-    "hole_count": 1,
     "requires_block_below": false,
-    "rock_count": 4,
     "state": {
       "Name": "minecraft:lava",
       "Properties": {

@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "children": [
@@ -39,7 +38,6 @@
                   ],
                   "functions": [
                     {
-                      "add": false,
                       "count": 4.0,
                       "function": "minecraft:set_count"
                     },
@@ -55,7 +53,6 @@
                 {
                   "functions": [
                     {
-                      "add": false,
                       "count": 2.0,
                       "function": "minecraft:set_count"
                     },

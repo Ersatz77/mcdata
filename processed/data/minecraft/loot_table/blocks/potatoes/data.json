@@ -6,7 +6,6 @@
   ],
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "name": "minecraft:potato",
@@ -16,7 +15,6 @@
       "rolls": 1.0
     },
     {
-      "bonus_rolls": 0.0,
       "conditions": [
         {
           "block": "minecraft:potatoes",
@@ -46,7 +44,6 @@
       "rolls": 1.0
     },
     {
-      "bonus_rolls": 0.0,
       "conditions": [
         {
           "block": "minecraft:potatoes",

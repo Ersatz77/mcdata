@@ -6,7 +6,6 @@
   ],
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "children": [
@@ -34,7 +33,6 @@
       "rolls": 1.0
     },
     {
-      "bonus_rolls": 0.0,
       "conditions": [
         {
           "block": "minecraft:beetroots",

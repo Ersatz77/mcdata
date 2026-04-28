@@ -41,7 +41,6 @@
     "ignore_vines": false,
     "minimum_size": {
       "limit": 0,
-      "lower_size": 0,
       "type": "minecraft:two_layers_feature_size",
       "upper_size": 0
     },

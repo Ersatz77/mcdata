@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
@@ -27,7 +26,6 @@
               "function": "minecraft:set_stew_effect"
             },
             {
-              "add": false,
               "count": {
                 "max": 6.0,
                 "min": 2.0,
@@ -42,7 +40,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 10.0,
                 "min": 1.0,
@@ -57,7 +54,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 10.0,
                 "min": 1.0,
@@ -72,7 +68,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 6.0,
                 "min": 2.0,
@@ -88,7 +83,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 6.0,
                 "min": 2.0,

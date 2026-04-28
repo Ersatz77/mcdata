@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:loot_table",
@@ -11,7 +10,6 @@
       "rolls": 1.0
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "name": "minecraft:bow",
@@ -21,7 +19,6 @@
         {
           "functions": [
             {
-              "add": false,
               "enchantments": {
                 "minecraft:power": 1.0
               },
@@ -34,7 +31,6 @@
         {
           "functions": [
             {
-              "add": false,
               "enchantments": {
                 "minecraft:punch": 1.0
               },

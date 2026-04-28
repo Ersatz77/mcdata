@@ -26,9 +26,9 @@
     },
     "final_density": {
       "argument": {
-        "argument1": 0.64,
-        "argument2": {
-          "argument": {
+        "argument": {
+          "argument1": 0.64,
+          "argument2": {
             "argument": {
               "argument1": -0.234375,
               "argument2": {
@@ -68,9 +68,9 @@
             },
             "type": "minecraft:blend_density"
           },
-          "type": "minecraft:interpolated"
+          "type": "minecraft:mul"
         },
-        "type": "minecraft:mul"
+        "type": "minecraft:interpolated"
       },
       "type": "minecraft:squeeze"
     },

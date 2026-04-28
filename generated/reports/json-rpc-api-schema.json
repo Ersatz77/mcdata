@@ -210,7 +210,7 @@
   },
   "info": {
     "title": "Minecraft Server JSON-RPC",
-    "version": "2.0.0"
+    "version": "3.0.0"
   },
   "methods": [
     {
@@ -1526,7 +1526,7 @@
       ]
     },
     {
-      "description": "Server status heartbeat",
+      "description": "Server status heartbeat, including before the server has spun up",
       "name": "minecraft:notification/server/status",
       "params": [
         {

@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
@@ -42,7 +41,6 @@
               "function": "minecraft:furnace_smelt"
             },
             {
-              "add": false,
               "count": {
                 "max": 2.0,
                 "min": 0.0,
@@ -103,7 +101,6 @@
               "function": "minecraft:furnace_smelt"
             },
             {
-              "add": false,
               "count": {
                 "max": 2.0,
                 "min": 0.0,

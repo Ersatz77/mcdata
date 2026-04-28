@@ -6,7 +6,6 @@
     "hat_state": {
       "Name": "minecraft:warped_wart_block"
     },
-    "planted": false,
     "replaceable_blocks": {
       "blocks": [
         "minecraft:oak_sapling",

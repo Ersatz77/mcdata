@@ -12864,8 +12864,17 @@
     }
   },
   "minecraft:potent_sulfur": {
-    "default": {},
-    "properties": {}
+    "default": {
+      "potent_sulfur_state": "dry"
+    },
+    "properties": {
+      "potent_sulfur_state": [
+        "dry",
+        "wet",
+        "dormant",
+        "erupting"
+      ]
+    }
   },
   "minecraft:potted_acacia_sapling": {
     "default": {},

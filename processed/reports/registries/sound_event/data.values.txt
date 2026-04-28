@@ -577,6 +577,8 @@ minecraft:block.portal.travel
 minecraft:block.portal.trigger
 minecraft:block.potent_sulfur.break
 minecraft:block.potent_sulfur.fall
+minecraft:block.potent_sulfur.geyser_eruption
+minecraft:block.potent_sulfur.geyser_eruption_active
 minecraft:block.potent_sulfur.hit
 minecraft:block.potent_sulfur.noxious_gas
 minecraft:block.potent_sulfur.place
@@ -739,6 +741,12 @@ minecraft:block.sulfur.fall
 minecraft:block.sulfur.hit
 minecraft:block.sulfur.place
 minecraft:block.sulfur.step
+minecraft:block.sulfur_spike.break
+minecraft:block.sulfur_spike.fall
+minecraft:block.sulfur_spike.hit
+minecraft:block.sulfur_spike.land
+minecraft:block.sulfur_spike.place
+minecraft:block.sulfur_spike.step
 minecraft:block.suspicious_gravel.break
 minecraft:block.suspicious_gravel.fall
 minecraft:block.suspicious_gravel.hit

@@ -1,12 +1,10 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 2.0,
                 "min": 0.0,
@@ -30,7 +28,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 2.0,
                 "min": 0.0,
@@ -54,7 +51,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 2.0,
                 "min": 0.0,
@@ -78,7 +74,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 2.0,
                 "min": 0.0,
@@ -102,7 +97,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 2.0,
                 "min": 0.0,
@@ -126,7 +120,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 2.0,
                 "min": 0.0,
@@ -156,12 +149,10 @@
       }
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 8.0,
                 "min": 4.0,

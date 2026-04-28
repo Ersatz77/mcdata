@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "name": "minecraft:blue_ice",
@@ -15,7 +14,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 7.0,
                 "min": 1.0,
@@ -31,7 +29,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 4.0,
                 "min": 1.0,
@@ -47,7 +44,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 5.0,
                 "min": 1.0,
@@ -71,7 +67,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 4.0,
                 "min": 1.0,
@@ -86,7 +81,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 7.0,
                 "min": 1.0,
@@ -102,7 +96,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 4.0,
                 "min": 1.0,
@@ -123,12 +116,10 @@
       }
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
             {
-              "add": false,
               "count": 1.0,
               "function": "minecraft:set_count"
             }

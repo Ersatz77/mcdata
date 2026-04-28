@@ -1,12 +1,10 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
             {
-              "add": false,
               "damage": {
                 "max": 0.8,
                 "min": 0.15,
@@ -26,7 +24,6 @@
         {
           "functions": [
             {
-              "add": false,
               "damage": {
                 "max": 0.95,
                 "min": 0.15,
@@ -35,7 +32,6 @@
               "function": "minecraft:set_damage"
             },
             {
-              "add": false,
               "count": 1.0,
               "function": "minecraft:set_count"
             },
@@ -51,7 +47,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": 1.0,
               "function": "minecraft:set_count"
             }
@@ -63,7 +58,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": 1.0,
               "function": "minecraft:set_count"
             }
@@ -75,7 +69,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": 2.0,
               "function": "minecraft:set_count"
             }
@@ -87,7 +80,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": 1.0,
               "function": "minecraft:set_count"
             }
@@ -99,7 +91,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 4.0,
                 "min": 2.0,
@@ -115,7 +106,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 17.0,
                 "min": 8.0,
@@ -131,7 +121,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": 1.0,
               "function": "minecraft:set_count"
             }
@@ -144,12 +133,10 @@
       "rolls": 1.0
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
             {
-              "add": false,
               "count": 1.0,
               "function": "minecraft:set_count"
             },
@@ -164,7 +151,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 5.0,
                 "min": 1.0,
@@ -179,7 +165,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 6.0,
                 "min": 3.0,
@@ -194,7 +179,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 5.0,
                 "min": 2.0,
@@ -209,7 +193,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 7.0,
                 "min": 2.0,
@@ -224,7 +207,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 7.0,
                 "min": 2.0,
@@ -239,7 +221,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 8.0,
                 "min": 2.0,
@@ -254,7 +235,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 3.0,
                 "min": 1.0,
@@ -269,7 +249,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 17.0,
                 "min": 5.0,
@@ -284,7 +263,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 8.0,
                 "min": 3.0,
@@ -299,7 +277,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 5.0,
                 "min": 2.0,
@@ -314,7 +291,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 5.0,
                 "min": 2.0,
@@ -329,7 +305,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 7.0,
                 "min": 2.0,
@@ -344,7 +319,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 7.0,
                 "min": 2.0,
@@ -364,7 +338,6 @@
       }
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:empty",
@@ -378,7 +351,6 @@
       "rolls": 1.0
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:empty",

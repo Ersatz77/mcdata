@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "name": "minecraft:clay_ball",
@@ -14,7 +13,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 4.0,
                 "min": 1.0,
@@ -30,7 +28,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 7.0,
                 "min": 1.0,
@@ -46,7 +43,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 4.0,
                 "min": 1.0,
@@ -66,7 +62,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 3.0,
                 "min": 1.0,
@@ -82,7 +77,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 3.0,
                 "min": 1.0,
@@ -102,12 +96,10 @@
       }
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
             {
-              "add": false,
               "count": 1.0,
               "function": "minecraft:set_count"
             }

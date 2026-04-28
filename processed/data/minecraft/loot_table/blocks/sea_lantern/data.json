@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "children": [
@@ -29,7 +28,6 @@
             {
               "functions": [
                 {
-                  "add": false,
                   "count": {
                     "max": 3.0,
                     "min": 2.0,

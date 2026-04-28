@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "name": "minecraft:arrow",
@@ -11,7 +10,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -30,7 +28,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -49,7 +46,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -68,7 +64,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -87,7 +82,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -106,7 +100,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -125,7 +118,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -144,7 +136,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -163,7 +154,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -182,7 +172,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -201,7 +190,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -220,7 +208,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,
@@ -239,7 +226,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 1.0,
                 "min": 0.0,

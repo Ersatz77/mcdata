@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "name": "minecraft:crossbow",
@@ -15,12 +14,10 @@
       }
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 5.0,
                 "min": 3.0,
@@ -36,7 +33,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 5.0,
                 "min": 2.0,
@@ -52,7 +48,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 5.0,
                 "min": 3.0,
@@ -73,12 +68,10 @@
       }
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 3.0,
                 "min": 2.0,
@@ -98,7 +91,6 @@
       }
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "name": "minecraft:experience_bottle",
@@ -108,7 +100,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 6.0,
                 "min": 1.0,
@@ -124,7 +115,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 7.0,
                 "min": 2.0,
@@ -140,7 +130,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 3.0,
                 "min": 1.0,
@@ -156,7 +145,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": {
                 "max": 3.0,
                 "min": 1.0,
@@ -187,7 +175,6 @@
       }
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "name": "minecraft:goat_horn",
@@ -207,7 +194,6 @@
       }
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:empty",
@@ -216,7 +202,6 @@
         {
           "functions": [
             {
-              "add": false,
               "count": 2.0,
               "function": "minecraft:set_count"
             }
@@ -228,7 +213,6 @@
       "rolls": 1.0
     },
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:empty"

@@ -1,6 +1,5 @@
 {
   "category": "blocks",
-  "cookingtime": 200,
   "experience": 0.1,
   "ingredient": "minecraft:polished_blackstone_bricks",
   "result": {

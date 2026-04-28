@@ -25,7 +25,7 @@ minecraft:max_health
 minecraft:mining_efficiency
 minecraft:movement_efficiency
 minecraft:movement_speed
-minecraft:nameplate_distance
+minecraft:name_tag_distance
 minecraft:oxygen_bonus
 minecraft:safe_fall_distance
 minecraft:scale

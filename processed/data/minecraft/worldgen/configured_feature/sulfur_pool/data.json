@@ -50,7 +50,10 @@
           "config": {
             "to_place": {
               "state": {
-                "Name": "minecraft:potent_sulfur"
+                "Name": "minecraft:potent_sulfur",
+                "Properties": {
+                  "potent_sulfur_state": "dry"
+                }
               },
               "type": "minecraft:simple_state_provider"
             }

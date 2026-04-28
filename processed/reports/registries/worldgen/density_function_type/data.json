@@ -17,6 +17,7 @@
     "minecraft:flat_cache",
     "minecraft:half_negative",
     "minecraft:interpolated",
+    "minecraft:interval_select",
     "minecraft:invert",
     "minecraft:max",
     "minecraft:min",
@@ -32,7 +33,6 @@
     "minecraft:spline",
     "minecraft:square",
     "minecraft:squeeze",
-    "minecraft:weird_scaled_sampler",
     "minecraft:y_clamped_gradient"
   ]
 }

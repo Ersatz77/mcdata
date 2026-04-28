@@ -11887,9 +11887,13 @@
                 },
                 "color": {
                   "children": {
+                    "reset": {
+                      "executable": true,
+                      "type": "literal"
+                    },
                     "value": {
                       "executable": true,
-                      "parser": "minecraft:color",
+                      "parser": "minecraft:team_color",
                       "type": "argument"
                     }
                   },
@@ -12930,7 +12934,7 @@
                   "children": {
                     "color": {
                       "executable": true,
-                      "parser": "minecraft:color",
+                      "parser": "minecraft:team_color",
                       "type": "argument"
                     },
                     "hex": {
