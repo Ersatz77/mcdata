@@ -20677,7 +20677,7 @@
         "protocol_id": 14
       },
       "minecraft:geode": {
-        "protocol_id": 57
+        "protocol_id": 58
       },
       "minecraft:glowstone_blob": {
         "protocol_id": 13
@@ -20701,7 +20701,7 @@
         "protocol_id": 27
       },
       "minecraft:large_dripstone": {
-        "protocol_id": 59
+        "protocol_id": 60
       },
       "minecraft:monster_room": {
         "protocol_id": 22
@@ -20722,7 +20722,7 @@
         "protocol_id": 28
       },
       "minecraft:random_boolean_selector": {
-        "protocol_id": 54
+        "protocol_id": 55
       },
       "minecraft:random_selector": {
         "protocol_id": 52
@@ -20737,7 +20737,7 @@
         "protocol_id": 51
       },
       "minecraft:sculk_patch": {
-        "protocol_id": 61
+        "protocol_id": 62
       },
       "minecraft:sea_pickle": {
         "protocol_id": 38
@@ -20746,19 +20746,19 @@
         "protocol_id": 33
       },
       "minecraft:sequence": {
-        "protocol_id": 55
+        "protocol_id": 56
       },
       "minecraft:simple_block": {
         "protocol_id": 39
       },
       "minecraft:simple_random_selector": {
-        "protocol_id": 53
+        "protocol_id": 54
       },
       "minecraft:speleothem": {
-        "protocol_id": 60
+        "protocol_id": 61
       },
       "minecraft:speleothem_cluster": {
-        "protocol_id": 58
+        "protocol_id": 59
       },
       "minecraft:spike": {
         "protocol_id": 12
@@ -20767,7 +20767,7 @@
         "protocol_id": 4
       },
       "minecraft:template": {
-        "protocol_id": 56
+        "protocol_id": 57
       },
       "minecraft:tree": {
         "protocol_id": 1
@@ -20792,6 +20792,9 @@
       },
       "minecraft:weeping_vines": {
         "protocol_id": 43
+      },
+      "minecraft:weighted_random_selector": {
+        "protocol_id": 53
       }
     },
     "protocol_id": 40
@@ -20889,16 +20892,13 @@
         "protocol_id": 0
       },
       "minecraft:block": {
-        "protocol_id": 2
-      },
-      "minecraft:condition": {
-        "protocol_id": 4
-      },
-      "minecraft:noise_gradient": {
         "protocol_id": 1
       },
-      "minecraft:sequence": {
+      "minecraft:condition": {
         "protocol_id": 3
+      },
+      "minecraft:sequence": {
+        "protocol_id": 2
       }
     },
     "protocol_id": 54

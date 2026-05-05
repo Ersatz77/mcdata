@@ -60,3 +60,4 @@ minecraft:vines
 minecraft:void_start_platform
 minecraft:waterlogged_vegetation_patch
 minecraft:weeping_vines
+minecraft:weighted_random_selector

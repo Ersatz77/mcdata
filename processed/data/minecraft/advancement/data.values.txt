@@ -81,6 +81,7 @@ minecraft:husbandry/silk_touch_nest
 minecraft:husbandry/tactical_fishing
 minecraft:husbandry/tadpole_in_a_bucket
 minecraft:husbandry/tame_an_animal
+minecraft:husbandry/uh_oh
 minecraft:husbandry/wax_off
 minecraft:husbandry/wax_on
 minecraft:husbandry/whole_pack

@@ -2179,70 +2179,57 @@
           "type": "minecraft:biome"
         },
         "then_run": {
-          "gradient": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
+          "sequence": [
             {
-              "state": {
-                "Name": "minecraft:tuff"
-              }
+              "if_true": {
+                "is_3d": true,
+                "max_threshold": -0.10000000149011612,
+                "min_threshold": -0.4000000059604645,
+                "noise": "minecraft:sulfur_cave_gradient",
+                "type": "minecraft:noise_threshold"
+              },
+              "then_run": {
+                "result_state": {
+                  "Name": "minecraft:cinnabar"
+                },
+                "type": "minecraft:block"
+              },
+              "type": "minecraft:condition"
             },
             {
-              "state": {
-                "Name": "minecraft:cinnabar"
-              }
+              "if_true": {
+                "is_3d": true,
+                "max_threshold": 0.4000000059604645,
+                "min_threshold": 0.0,
+                "noise": "minecraft:sulfur_cave_gradient",
+                "type": "minecraft:noise_threshold"
+              },
+              "then_run": {
+                "result_state": {
+                  "Name": "minecraft:sulfur"
+                },
+                "type": "minecraft:block"
+              },
+              "type": "minecraft:condition"
             },
             {
-              "state": {
-                "Name": "minecraft:cinnabar"
-              }
-            },
-            {
-              "state": {
-                "Name": "minecraft:granite"
-              }
-            },
-            {
-              "state": {
-                "Name": "minecraft:sulfur"
-              }
-            },
-            {
-              "state": {
-                "Name": "minecraft:sulfur"
-              }
-            },
-            {
-              "state": {
-                "Name": "minecraft:sulfur"
-              }
-            },
-            {
-              "state": {
-                "Name": "minecraft:sulfur"
-              }
-            },
-            {
-              "state": {
-                "Name": "minecraft:sulfur"
-              }
-            },
-            {
-              "state": {
-                "Name": "minecraft:sulfur"
-              }
+              "if_true": {
+                "is_3d": true,
+                "max_threshold": 1.7976931348623157e+308,
+                "min_threshold": 0.4000000059604645,
+                "noise": "minecraft:sulfur_cave_gradient",
+                "type": "minecraft:noise_threshold"
+              },
+              "then_run": {
+                "result_state": {
+                  "Name": "minecraft:cinnabar"
+                },
+                "type": "minecraft:block"
+              },
+              "type": "minecraft:condition"
             }
           ],
-          "noise": "minecraft:sulfur_cave_gradient",
-          "type": "minecraft:noise_gradient"
+          "type": "minecraft:sequence"
         },
         "type": "minecraft:condition"
       },

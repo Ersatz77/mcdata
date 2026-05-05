@@ -1,9 +1,14 @@
 {
   "config": {
     "column_radius": {
-      "max_inclusive": 19,
+      "max_inclusive": 16,
       "min_inclusive": 3,
-      "type": "minecraft:uniform"
+      "source": {
+        "max_inclusive": 19,
+        "min_inclusive": 3,
+        "type": "minecraft:uniform"
+      },
+      "type": "minecraft:clamped"
     },
     "height_scale": {
       "max_exclusive": 2.0,
