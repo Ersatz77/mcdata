@@ -577,6 +577,8 @@ minecraft:block.portal.travel
 minecraft:block.portal.trigger
 minecraft:block.potent_sulfur.break
 minecraft:block.potent_sulfur.fall
+minecraft:block.potent_sulfur.geyser_continuous_eruption
+minecraft:block.potent_sulfur.geyser_continuous_eruption_active
 minecraft:block.potent_sulfur.geyser_eruption
 minecraft:block.potent_sulfur.geyser_eruption_active
 minecraft:block.potent_sulfur.hit
@@ -1902,12 +1904,14 @@ minecraft:music.overworld.old_growth_taiga
 minecraft:music.overworld.snowy_slopes
 minecraft:music.overworld.sparse_jungle
 minecraft:music.overworld.stony_peaks
+minecraft:music.overworld.sulfur_caves
 minecraft:music.overworld.swamp
 minecraft:music.under_water
 minecraft:music_disc.11
 minecraft:music_disc.13
 minecraft:music_disc.5
 minecraft:music_disc.blocks
+minecraft:music_disc.bounce
 minecraft:music_disc.cat
 minecraft:music_disc.chirp
 minecraft:music_disc.creator

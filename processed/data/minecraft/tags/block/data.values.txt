@@ -37,6 +37,8 @@ minecraft:cannot_support_kelp
 minecraft:cannot_support_seagrass
 minecraft:cannot_support_snow_layer
 minecraft:cauldrons
+minecraft:causes_continuous_geyser_eruptions
+minecraft:causes_periodic_geyser_eruptions
 minecraft:cave_vines
 minecraft:ceiling_hanging_signs
 minecraft:chains
