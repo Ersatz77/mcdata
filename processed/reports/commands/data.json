@@ -10318,22 +10318,29 @@
     },
     "publish": {
       "children": {
-        "allowCommands": {
+        "online": {
           "children": {
-            "gamemode": {
+            "allowCommands": {
               "children": {
-                "port": {
-                  "executable": true,
-                  "parser": "brigadier:integer",
-                  "properties": {
-                    "max": 65535,
-                    "min": 0
+                "gamemode": {
+                  "children": {
+                    "port": {
+                      "executable": true,
+                      "parser": "brigadier:integer",
+                      "properties": {
+                        "max": 65535,
+                        "min": 0
+                      },
+                      "type": "argument"
+                    }
                   },
+                  "executable": true,
+                  "parser": "minecraft:gamemode",
                   "type": "argument"
                 }
               },
               "executable": true,
-              "parser": "minecraft:gamemode",
+              "parser": "brigadier:bool",
               "type": "argument"
             }
           },
@@ -12900,6 +12907,17 @@
           "parser": "minecraft:objective",
           "type": "argument"
         }
+      },
+      "type": "literal"
+    },
+    "unpublish": {
+      "executable": true,
+      "permissions": {
+        "permission": {
+          "level": "owners",
+          "type": "minecraft:command_level"
+        },
+        "type": "minecraft:require"
       },
       "type": "literal"
     },
