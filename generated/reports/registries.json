@@ -15974,7 +15974,7 @@
         "protocol_id": 1920
       },
       "minecraft:block.potent_sulfur.noxious_gas": {
-        "protocol_id": 1940
+        "protocol_id": 1962
       },
       "minecraft:block.potent_sulfur.place": {
         "protocol_id": 1919
@@ -18773,16 +18773,19 @@
         "protocol_id": 1549
       },
       "minecraft:entity.small_sulfur_cube.death": {
-        "protocol_id": 1941
+        "protocol_id": 1963
+      },
+      "minecraft:entity.small_sulfur_cube.eat": {
+        "protocol_id": 1967
       },
       "minecraft:entity.small_sulfur_cube.hurt": {
-        "protocol_id": 1942
+        "protocol_id": 1964
       },
       "minecraft:entity.small_sulfur_cube.jump": {
-        "protocol_id": 1943
+        "protocol_id": 1965
       },
       "minecraft:entity.small_sulfur_cube.squish": {
-        "protocol_id": 1944
+        "protocol_id": 1966
       },
       "minecraft:entity.sniffer.death": {
         "protocol_id": 1556
@@ -18913,26 +18916,92 @@
       "minecraft:entity.sulfur_cube.bounce": {
         "protocol_id": 1932
       },
+      "minecraft:entity.sulfur_cube.bouncy.hit": {
+        "protocol_id": 1939
+      },
+      "minecraft:entity.sulfur_cube.bouncy.push": {
+        "protocol_id": 1940
+      },
       "minecraft:entity.sulfur_cube.death": {
         "protocol_id": 1933
       },
       "minecraft:entity.sulfur_cube.eject": {
         "protocol_id": 1934
       },
-      "minecraft:entity.sulfur_cube.hit": {
-        "protocol_id": 1935
+      "minecraft:entity.sulfur_cube.explosive.hit": {
+        "protocol_id": 1957
+      },
+      "minecraft:entity.sulfur_cube.explosive.push": {
+        "protocol_id": 1958
+      },
+      "minecraft:entity.sulfur_cube.fast_flat.hit": {
+        "protocol_id": 1945
+      },
+      "minecraft:entity.sulfur_cube.fast_flat.push": {
+        "protocol_id": 1946
+      },
+      "minecraft:entity.sulfur_cube.fast_sliding.hit": {
+        "protocol_id": 1949
+      },
+      "minecraft:entity.sulfur_cube.fast_sliding.push": {
+        "protocol_id": 1950
+      },
+      "minecraft:entity.sulfur_cube.high_resistance.hit": {
+        "protocol_id": 1955
+      },
+      "minecraft:entity.sulfur_cube.high_resistance.push": {
+        "protocol_id": 1956
+      },
+      "minecraft:entity.sulfur_cube.hot.hit": {
+        "protocol_id": 1959
+      },
+      "minecraft:entity.sulfur_cube.hot.push": {
+        "protocol_id": 1960
       },
       "minecraft:entity.sulfur_cube.hurt": {
-        "protocol_id": 1936
+        "protocol_id": 1935
       },
       "minecraft:entity.sulfur_cube.jump": {
+        "protocol_id": 1936
+      },
+      "minecraft:entity.sulfur_cube.light.hit": {
+        "protocol_id": 1947
+      },
+      "minecraft:entity.sulfur_cube.light.push": {
+        "protocol_id": 1948
+      },
+      "minecraft:entity.sulfur_cube.regular.hit": {
         "protocol_id": 1937
       },
-      "minecraft:entity.sulfur_cube.push": {
+      "minecraft:entity.sulfur_cube.regular.push": {
         "protocol_id": 1938
       },
+      "minecraft:entity.sulfur_cube.slow_bouncy.hit": {
+        "protocol_id": 1941
+      },
+      "minecraft:entity.sulfur_cube.slow_bouncy.push": {
+        "protocol_id": 1942
+      },
+      "minecraft:entity.sulfur_cube.slow_flat.hit": {
+        "protocol_id": 1943
+      },
+      "minecraft:entity.sulfur_cube.slow_flat.push": {
+        "protocol_id": 1944
+      },
+      "minecraft:entity.sulfur_cube.slow_sliding.hit": {
+        "protocol_id": 1951
+      },
+      "minecraft:entity.sulfur_cube.slow_sliding.push": {
+        "protocol_id": 1952
+      },
       "minecraft:entity.sulfur_cube.squish": {
-        "protocol_id": 1939
+        "protocol_id": 1961
+      },
+      "minecraft:entity.sulfur_cube.sticky.hit": {
+        "protocol_id": 1953
+      },
+      "minecraft:entity.sulfur_cube.sticky.push": {
+        "protocol_id": 1954
       },
       "minecraft:entity.tadpole.death": {
         "protocol_id": 1618

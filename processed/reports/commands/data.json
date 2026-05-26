@@ -10318,29 +10318,22 @@
     },
     "publish": {
       "children": {
-        "online": {
+        "allowCommands": {
           "children": {
-            "allowCommands": {
+            "gamemode": {
               "children": {
-                "gamemode": {
-                  "children": {
-                    "port": {
-                      "executable": true,
-                      "parser": "brigadier:integer",
-                      "properties": {
-                        "max": 65535,
-                        "min": 0
-                      },
-                      "type": "argument"
-                    }
-                  },
+                "port": {
                   "executable": true,
-                  "parser": "minecraft:gamemode",
+                  "parser": "brigadier:integer",
+                  "properties": {
+                    "max": 65535,
+                    "min": 0
+                  },
                   "type": "argument"
                 }
               },
               "executable": true,
-              "parser": "brigadier:bool",
+              "parser": "minecraft:gamemode",
               "type": "argument"
             }
           },
