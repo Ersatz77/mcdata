@@ -106,6 +106,8 @@ minecraft:piglin_brute
 minecraft:pillager
 minecraft:player
 minecraft:polar_bear
+minecraft:poplar_boat
+minecraft:poplar_chest_boat
 minecraft:pufferfish
 minecraft:rabbit
 minecraft:ravager

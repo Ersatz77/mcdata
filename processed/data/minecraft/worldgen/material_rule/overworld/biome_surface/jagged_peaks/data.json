@@ -1,0 +1,27 @@
+{
+  "sequence": [
+    {
+      "if_true": {
+        "type": "minecraft:steep"
+      },
+      "then_run": {
+        "result_state": {
+          "Name": "minecraft:stone"
+        },
+        "type": "minecraft:block"
+      },
+      "type": "minecraft:condition"
+    },
+    {
+      "if_true": "minecraft:above_water",
+      "then_run": {
+        "result_state": {
+          "Name": "minecraft:snow_block"
+        },
+        "type": "minecraft:block"
+      },
+      "type": "minecraft:condition"
+    }
+  ],
+  "type": "minecraft:sequence"
+}

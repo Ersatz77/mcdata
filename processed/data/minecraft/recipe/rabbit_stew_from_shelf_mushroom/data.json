@@ -1,0 +1,14 @@
+{
+  "group": "rabbit_stew",
+  "ingredients": [
+    "minecraft:baked_potato",
+    "minecraft:cooked_rabbit",
+    "minecraft:bowl",
+    "minecraft:carrot",
+    "minecraft:shelf_mushroom"
+  ],
+  "result": {
+    "id": "minecraft:rabbit_stew"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

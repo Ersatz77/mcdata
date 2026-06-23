@@ -1,0 +1,16 @@
+{
+  "category": "building",
+  "key": {
+    "#": "minecraft:black_wool"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:black_wool_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -47,6 +47,7 @@
     "minecraft:rotation",
     "minecraft:score_holder",
     "minecraft:scoreboard_slot",
+    "minecraft:slot_source",
     "minecraft:style",
     "minecraft:swizzle",
     "minecraft:team",

@@ -125,6 +125,7 @@ minecraft:meat
 minecraft:metal_nuggets
 minecraft:moss_blocks
 minecraft:mud
+minecraft:mushrooms
 minecraft:nautilus_bucket_food
 minecraft:nautilus_food
 minecraft:nautilus_taming_items
@@ -133,6 +134,7 @@ minecraft:non_flammable_wood
 minecraft:noteblock_top_instruments
 minecraft:oak_logs
 minecraft:ocelot_food
+minecraft:ores
 minecraft:pale_oak_logs
 minecraft:panda_eats_from_ground
 minecraft:panda_food
@@ -147,6 +149,7 @@ minecraft:piglin_repellents
 minecraft:piglin_safe_armor
 minecraft:pillager_preferred_weapons
 minecraft:planks
+minecraft:poplar_logs
 minecraft:rabbit_food
 minecraft:rails
 minecraft:redstone_ores
@@ -221,4 +224,6 @@ minecraft:wooden_tool_materials
 minecraft:wooden_trapdoors
 minecraft:wool
 minecraft:wool_carpets
+minecraft:wool_slabs
+minecraft:wool_stairs
 minecraft:zombie_horse_food

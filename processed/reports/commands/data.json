@@ -1311,7 +1311,7 @@
           "children": {
             "block": {
               "children": {
-                "targetPos": {
+                "target": {
                   "children": {
                     "path": {
                       "children": {
@@ -1392,7 +1392,7 @@
           "children": {
             "block": {
               "children": {
-                "targetPos": {
+                "target": {
                   "children": {
                     "nbt": {
                       "executable": true,
@@ -1449,7 +1449,7 @@
           "children": {
             "block": {
               "children": {
-                "targetPos": {
+                "target": {
                   "children": {
                     "targetPath": {
                       "children": {
@@ -1459,7 +1459,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -1519,7 +1519,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -1638,7 +1638,7 @@
                                   "children": {
                                     "block": {
                                       "children": {
-                                        "sourcePos": {
+                                        "source": {
                                           "children": {
                                             "sourcePath": {
                                               "executable": true,
@@ -1698,7 +1698,7 @@
                                   "children": {
                                     "block": {
                                       "children": {
-                                        "sourcePos": {
+                                        "source": {
                                           "children": {
                                             "sourcePath": {
                                               "children": {
@@ -1819,7 +1819,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -1879,7 +1879,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -1996,7 +1996,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -2056,7 +2056,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -2173,7 +2173,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -2233,7 +2233,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -2367,7 +2367,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -2427,7 +2427,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -2546,7 +2546,7 @@
                                   "children": {
                                     "block": {
                                       "children": {
-                                        "sourcePos": {
+                                        "source": {
                                           "children": {
                                             "sourcePath": {
                                               "executable": true,
@@ -2606,7 +2606,7 @@
                                   "children": {
                                     "block": {
                                       "children": {
-                                        "sourcePos": {
+                                        "source": {
                                           "children": {
                                             "sourcePath": {
                                               "children": {
@@ -2727,7 +2727,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -2787,7 +2787,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -2904,7 +2904,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -2964,7 +2964,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -3081,7 +3081,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -3141,7 +3141,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -3279,7 +3279,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -3339,7 +3339,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -3458,7 +3458,7 @@
                                   "children": {
                                     "block": {
                                       "children": {
-                                        "sourcePos": {
+                                        "source": {
                                           "children": {
                                             "sourcePath": {
                                               "executable": true,
@@ -3518,7 +3518,7 @@
                                   "children": {
                                     "block": {
                                       "children": {
-                                        "sourcePos": {
+                                        "source": {
                                           "children": {
                                             "sourcePath": {
                                               "children": {
@@ -3639,7 +3639,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -3699,7 +3699,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -3816,7 +3816,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -3876,7 +3876,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -3993,7 +3993,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "executable": true,
@@ -4053,7 +4053,7 @@
                               "children": {
                                 "block": {
                                   "children": {
-                                    "sourcePos": {
+                                    "source": {
                                       "children": {
                                         "sourcePath": {
                                           "children": {
@@ -4182,7 +4182,7 @@
           "children": {
             "block": {
               "children": {
-                "targetPos": {
+                "target": {
                   "children": {
                     "path": {
                       "executable": true,
@@ -4832,7 +4832,7 @@
               "children": {
                 "block": {
                   "children": {
-                    "sourcePos": {
+                    "source": {
                       "children": {
                         "path": {
                           "executable": true,
@@ -4940,7 +4940,7 @@
               "children": {
                 "block": {
                   "children": {
-                    "pos": {
+                    "source": {
                       "children": {
                         "slots": {
                           "children": {
@@ -4953,7 +4953,7 @@
                               "type": "argument"
                             }
                           },
-                          "parser": "minecraft:item_slots",
+                          "parser": "minecraft:slot_source",
                           "type": "argument"
                         }
                       },
@@ -4965,7 +4965,7 @@
                 },
                 "entity": {
                   "children": {
-                    "entities": {
+                    "source": {
                       "children": {
                         "slots": {
                           "children": {
@@ -4978,7 +4978,7 @@
                               "type": "argument"
                             }
                           },
-                          "parser": "minecraft:item_slots",
+                          "parser": "minecraft:slot_source",
                           "type": "argument"
                         }
                       },
@@ -5164,6 +5164,53 @@
               },
               "type": "literal"
             },
+            "slots": {
+              "children": {
+                "block": {
+                  "children": {
+                    "source": {
+                      "children": {
+                        "slots": {
+                          "executable": true,
+                          "parser": "minecraft:slot_source",
+                          "redirect": [
+                            "execute"
+                          ],
+                          "type": "argument"
+                        }
+                      },
+                      "parser": "minecraft:block_pos",
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
+                },
+                "entity": {
+                  "children": {
+                    "source": {
+                      "children": {
+                        "slots": {
+                          "executable": true,
+                          "parser": "minecraft:slot_source",
+                          "redirect": [
+                            "execute"
+                          ],
+                          "type": "argument"
+                        }
+                      },
+                      "parser": "minecraft:entity",
+                      "properties": {
+                        "amount": "multiple",
+                        "type": "entities"
+                      },
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
+                }
+              },
+              "type": "literal"
+            },
             "stopwatch": {
               "children": {
                 "id": {
@@ -5328,7 +5375,7 @@
               "children": {
                 "block": {
                   "children": {
-                    "targetPos": {
+                    "target": {
                       "children": {
                         "path": {
                           "children": {
@@ -5648,7 +5695,7 @@
               "children": {
                 "block": {
                   "children": {
-                    "targetPos": {
+                    "target": {
                       "children": {
                         "path": {
                           "children": {
@@ -6066,7 +6113,7 @@
               "children": {
                 "block": {
                   "children": {
-                    "sourcePos": {
+                    "source": {
                       "children": {
                         "path": {
                           "executable": true,
@@ -6174,7 +6221,7 @@
               "children": {
                 "block": {
                   "children": {
-                    "pos": {
+                    "source": {
                       "children": {
                         "slots": {
                           "children": {
@@ -6187,7 +6234,7 @@
                               "type": "argument"
                             }
                           },
-                          "parser": "minecraft:item_slots",
+                          "parser": "minecraft:slot_source",
                           "type": "argument"
                         }
                       },
@@ -6199,7 +6246,7 @@
                 },
                 "entity": {
                   "children": {
-                    "entities": {
+                    "source": {
                       "children": {
                         "slots": {
                           "children": {
@@ -6212,7 +6259,7 @@
                               "type": "argument"
                             }
                           },
-                          "parser": "minecraft:item_slots",
+                          "parser": "minecraft:slot_source",
                           "type": "argument"
                         }
                       },
@@ -6394,6 +6441,53 @@
                     "amount": "single"
                   },
                   "type": "argument"
+                }
+              },
+              "type": "literal"
+            },
+            "slots": {
+              "children": {
+                "block": {
+                  "children": {
+                    "source": {
+                      "children": {
+                        "slots": {
+                          "executable": true,
+                          "parser": "minecraft:slot_source",
+                          "redirect": [
+                            "execute"
+                          ],
+                          "type": "argument"
+                        }
+                      },
+                      "parser": "minecraft:block_pos",
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
+                },
+                "entity": {
+                  "children": {
+                    "source": {
+                      "children": {
+                        "slots": {
+                          "executable": true,
+                          "parser": "minecraft:slot_source",
+                          "redirect": [
+                            "execute"
+                          ],
+                          "type": "argument"
+                        }
+                      },
+                      "parser": "minecraft:entity",
+                      "properties": {
+                        "amount": "multiple",
+                        "type": "entities"
+                      },
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
                 }
               },
               "type": "literal"
@@ -6778,7 +6872,7 @@
               "children": {
                 "block": {
                   "children": {
-                    "sourcePos": {
+                    "source": {
                       "children": {
                         "path": {
                           "executable": true,
@@ -8316,21 +8410,92 @@
     },
     "item": {
       "children": {
-        "modify": {
+        "fill": {
           "children": {
             "block": {
               "children": {
-                "pos": {
+                "target": {
                   "children": {
-                    "slot": {
+                    "slots": {
                       "children": {
-                        "modifier": {
-                          "executable": true,
-                          "parser": "minecraft:loot_modifier",
-                          "type": "argument"
+                        "from": {
+                          "children": {
+                            "block": {
+                              "children": {
+                                "source": {
+                                  "children": {
+                                    "sourceSlots": {
+                                      "children": {
+                                        "modifier": {
+                                          "executable": true,
+                                          "parser": "minecraft:loot_modifier",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:slot_source",
+                                      "type": "argument"
+                                    }
+                                  },
+                                  "parser": "minecraft:block_pos",
+                                  "type": "argument"
+                                }
+                              },
+                              "type": "literal"
+                            },
+                            "entity": {
+                              "children": {
+                                "source": {
+                                  "children": {
+                                    "sourceSlots": {
+                                      "children": {
+                                        "modifier": {
+                                          "executable": true,
+                                          "parser": "minecraft:loot_modifier",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:slot_source",
+                                      "type": "argument"
+                                    }
+                                  },
+                                  "parser": "minecraft:entity",
+                                  "properties": {
+                                    "amount": "multiple",
+                                    "type": "entities"
+                                  },
+                                  "type": "argument"
+                                }
+                              },
+                              "type": "literal"
+                            }
+                          },
+                          "type": "literal"
+                        },
+                        "with": {
+                          "children": {
+                            "item": {
+                              "children": {
+                                "count": {
+                                  "executable": true,
+                                  "parser": "brigadier:integer",
+                                  "properties": {
+                                    "max": 99,
+                                    "min": 1
+                                  },
+                                  "type": "argument"
+                                }
+                              },
+                              "executable": true,
+                              "parser": "minecraft:item_stack",
+                              "type": "argument"
+                            }
+                          },
+                          "type": "literal"
                         }
                       },
-                      "parser": "minecraft:item_slot",
+                      "parser": "minecraft:slot_source",
                       "type": "argument"
                     }
                   },
@@ -8342,9 +8507,111 @@
             },
             "entity": {
               "children": {
-                "targets": {
+                "target": {
                   "children": {
-                    "slot": {
+                    "slots": {
+                      "children": {
+                        "from": {
+                          "children": {
+                            "block": {
+                              "children": {
+                                "source": {
+                                  "children": {
+                                    "sourceSlots": {
+                                      "children": {
+                                        "modifier": {
+                                          "executable": true,
+                                          "parser": "minecraft:loot_modifier",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:slot_source",
+                                      "type": "argument"
+                                    }
+                                  },
+                                  "parser": "minecraft:block_pos",
+                                  "type": "argument"
+                                }
+                              },
+                              "type": "literal"
+                            },
+                            "entity": {
+                              "children": {
+                                "source": {
+                                  "children": {
+                                    "sourceSlots": {
+                                      "children": {
+                                        "modifier": {
+                                          "executable": true,
+                                          "parser": "minecraft:loot_modifier",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:slot_source",
+                                      "type": "argument"
+                                    }
+                                  },
+                                  "parser": "minecraft:entity",
+                                  "properties": {
+                                    "amount": "multiple",
+                                    "type": "entities"
+                                  },
+                                  "type": "argument"
+                                }
+                              },
+                              "type": "literal"
+                            }
+                          },
+                          "type": "literal"
+                        },
+                        "with": {
+                          "children": {
+                            "item": {
+                              "children": {
+                                "count": {
+                                  "executable": true,
+                                  "parser": "brigadier:integer",
+                                  "properties": {
+                                    "max": 99,
+                                    "min": 1
+                                  },
+                                  "type": "argument"
+                                }
+                              },
+                              "executable": true,
+                              "parser": "minecraft:item_stack",
+                              "type": "argument"
+                            }
+                          },
+                          "type": "literal"
+                        }
+                      },
+                      "parser": "minecraft:slot_source",
+                      "type": "argument"
+                    }
+                  },
+                  "parser": "minecraft:entity",
+                  "properties": {
+                    "amount": "multiple",
+                    "type": "entities"
+                  },
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
+            }
+          },
+          "type": "literal"
+        },
+        "modify": {
+          "children": {
+            "block": {
+              "children": {
+                "target": {
+                  "children": {
+                    "slots": {
                       "children": {
                         "modifier": {
                           "executable": true,
@@ -8352,7 +8619,224 @@
                           "type": "argument"
                         }
                       },
-                      "parser": "minecraft:item_slot",
+                      "parser": "minecraft:slot_source",
+                      "type": "argument"
+                    }
+                  },
+                  "parser": "minecraft:block_pos",
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
+            },
+            "entity": {
+              "children": {
+                "target": {
+                  "children": {
+                    "slots": {
+                      "children": {
+                        "modifier": {
+                          "executable": true,
+                          "parser": "minecraft:loot_modifier",
+                          "type": "argument"
+                        }
+                      },
+                      "parser": "minecraft:slot_source",
+                      "type": "argument"
+                    }
+                  },
+                  "parser": "minecraft:entity",
+                  "properties": {
+                    "amount": "multiple",
+                    "type": "entities"
+                  },
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
+            }
+          },
+          "type": "literal"
+        },
+        "override": {
+          "children": {
+            "block": {
+              "children": {
+                "target": {
+                  "children": {
+                    "slots": {
+                      "children": {
+                        "from": {
+                          "children": {
+                            "block": {
+                              "children": {
+                                "source": {
+                                  "children": {
+                                    "sourceSlots": {
+                                      "children": {
+                                        "modifier": {
+                                          "executable": true,
+                                          "parser": "minecraft:loot_modifier",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:slot_source",
+                                      "type": "argument"
+                                    }
+                                  },
+                                  "parser": "minecraft:block_pos",
+                                  "type": "argument"
+                                }
+                              },
+                              "type": "literal"
+                            },
+                            "entity": {
+                              "children": {
+                                "source": {
+                                  "children": {
+                                    "sourceSlots": {
+                                      "children": {
+                                        "modifier": {
+                                          "executable": true,
+                                          "parser": "minecraft:loot_modifier",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:slot_source",
+                                      "type": "argument"
+                                    }
+                                  },
+                                  "parser": "minecraft:entity",
+                                  "properties": {
+                                    "amount": "multiple",
+                                    "type": "entities"
+                                  },
+                                  "type": "argument"
+                                }
+                              },
+                              "type": "literal"
+                            }
+                          },
+                          "type": "literal"
+                        },
+                        "with": {
+                          "children": {
+                            "item": {
+                              "children": {
+                                "count": {
+                                  "executable": true,
+                                  "parser": "brigadier:integer",
+                                  "properties": {
+                                    "max": 99,
+                                    "min": 1
+                                  },
+                                  "type": "argument"
+                                }
+                              },
+                              "executable": true,
+                              "parser": "minecraft:item_stack",
+                              "type": "argument"
+                            }
+                          },
+                          "type": "literal"
+                        }
+                      },
+                      "parser": "minecraft:slot_source",
+                      "type": "argument"
+                    }
+                  },
+                  "parser": "minecraft:block_pos",
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
+            },
+            "entity": {
+              "children": {
+                "target": {
+                  "children": {
+                    "slots": {
+                      "children": {
+                        "from": {
+                          "children": {
+                            "block": {
+                              "children": {
+                                "source": {
+                                  "children": {
+                                    "sourceSlots": {
+                                      "children": {
+                                        "modifier": {
+                                          "executable": true,
+                                          "parser": "minecraft:loot_modifier",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:slot_source",
+                                      "type": "argument"
+                                    }
+                                  },
+                                  "parser": "minecraft:block_pos",
+                                  "type": "argument"
+                                }
+                              },
+                              "type": "literal"
+                            },
+                            "entity": {
+                              "children": {
+                                "source": {
+                                  "children": {
+                                    "sourceSlots": {
+                                      "children": {
+                                        "modifier": {
+                                          "executable": true,
+                                          "parser": "minecraft:loot_modifier",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "executable": true,
+                                      "parser": "minecraft:slot_source",
+                                      "type": "argument"
+                                    }
+                                  },
+                                  "parser": "minecraft:entity",
+                                  "properties": {
+                                    "amount": "multiple",
+                                    "type": "entities"
+                                  },
+                                  "type": "argument"
+                                }
+                              },
+                              "type": "literal"
+                            }
+                          },
+                          "type": "literal"
+                        },
+                        "with": {
+                          "children": {
+                            "item": {
+                              "children": {
+                                "count": {
+                                  "executable": true,
+                                  "parser": "brigadier:integer",
+                                  "properties": {
+                                    "max": 99,
+                                    "min": 1
+                                  },
+                                  "type": "argument"
+                                }
+                              },
+                              "executable": true,
+                              "parser": "minecraft:item_stack",
+                              "type": "argument"
+                            }
+                          },
+                          "type": "literal"
+                        }
+                      },
+                      "parser": "minecraft:slot_source",
                       "type": "argument"
                     }
                   },
@@ -8373,9 +8857,9 @@
           "children": {
             "block": {
               "children": {
-                "pos": {
+                "target": {
                   "children": {
-                    "slot": {
+                    "slots": {
                       "children": {
                         "from": {
                           "children": {
@@ -8383,7 +8867,7 @@
                               "children": {
                                 "source": {
                                   "children": {
-                                    "sourceSlot": {
+                                    "sourceSlots": {
                                       "children": {
                                         "modifier": {
                                           "executable": true,
@@ -8392,7 +8876,7 @@
                                         }
                                       },
                                       "executable": true,
-                                      "parser": "minecraft:item_slot",
+                                      "parser": "minecraft:slot_source",
                                       "type": "argument"
                                     }
                                   },
@@ -8406,7 +8890,7 @@
                               "children": {
                                 "source": {
                                   "children": {
-                                    "sourceSlot": {
+                                    "sourceSlots": {
                                       "children": {
                                         "modifier": {
                                           "executable": true,
@@ -8415,13 +8899,13 @@
                                         }
                                       },
                                       "executable": true,
-                                      "parser": "minecraft:item_slot",
+                                      "parser": "minecraft:slot_source",
                                       "type": "argument"
                                     }
                                   },
                                   "parser": "minecraft:entity",
                                   "properties": {
-                                    "amount": "single",
+                                    "amount": "multiple",
                                     "type": "entities"
                                   },
                                   "type": "argument"
@@ -8454,7 +8938,7 @@
                           "type": "literal"
                         }
                       },
-                      "parser": "minecraft:item_slot",
+                      "parser": "minecraft:slot_source",
                       "type": "argument"
                     }
                   },
@@ -8466,9 +8950,9 @@
             },
             "entity": {
               "children": {
-                "targets": {
+                "target": {
                   "children": {
-                    "slot": {
+                    "slots": {
                       "children": {
                         "from": {
                           "children": {
@@ -8476,7 +8960,7 @@
                               "children": {
                                 "source": {
                                   "children": {
-                                    "sourceSlot": {
+                                    "sourceSlots": {
                                       "children": {
                                         "modifier": {
                                           "executable": true,
@@ -8485,7 +8969,7 @@
                                         }
                                       },
                                       "executable": true,
-                                      "parser": "minecraft:item_slot",
+                                      "parser": "minecraft:slot_source",
                                       "type": "argument"
                                     }
                                   },
@@ -8499,7 +8983,7 @@
                               "children": {
                                 "source": {
                                   "children": {
-                                    "sourceSlot": {
+                                    "sourceSlots": {
                                       "children": {
                                         "modifier": {
                                           "executable": true,
@@ -8508,13 +8992,13 @@
                                         }
                                       },
                                       "executable": true,
-                                      "parser": "minecraft:item_slot",
+                                      "parser": "minecraft:slot_source",
                                       "type": "argument"
                                     }
                                   },
                                   "parser": "minecraft:entity",
                                   "properties": {
-                                    "amount": "single",
+                                    "amount": "multiple",
                                     "type": "entities"
                                   },
                                   "type": "argument"
@@ -8547,7 +9031,7 @@
                           "type": "literal"
                         }
                       },
-                      "parser": "minecraft:item_slot",
+                      "parser": "minecraft:slot_source",
                       "type": "argument"
                     }
                   },
@@ -9575,7 +10059,7 @@
               "executable": true,
               "parser": "minecraft:resource_key",
               "properties": {
-                "registry": "minecraft:worldgen/configured_feature"
+                "registry": "minecraft:worldgen/feature"
               },
               "type": "argument"
             }

@@ -79,6 +79,7 @@
     "minecraft:potion_duration_scale",
     "minecraft:profile",
     "minecraft:provides_banner_patterns",
+    "minecraft:provides_pottery_pattern",
     "minecraft:provides_trim_material",
     "minecraft:rabbit/variant",
     "minecraft:rarity",

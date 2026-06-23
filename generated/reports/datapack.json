@@ -140,8 +140,8 @@
       "tags": true
     },
     "minecraft:decorated_pot_pattern": {
-      "elements": false,
-      "stable": true,
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:dialog": {
@@ -459,6 +459,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:slot_source": {
+      "elements": true,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:slot_source_type": {
       "elements": false,
       "stable": true,
@@ -604,11 +609,6 @@
       "stable": false,
       "tags": true
     },
-    "minecraft:worldgen/configured_feature": {
-      "elements": true,
-      "stable": false,
-      "tags": true
-    },
     "minecraft:worldgen/density_function": {
       "elements": true,
       "stable": false,
@@ -620,11 +620,16 @@
       "tags": true
     },
     "minecraft:worldgen/feature": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:worldgen/feature_size_type": {
       "elements": false,
       "stable": true,
       "tags": true
     },
-    "minecraft:worldgen/feature_size_type": {
+    "minecraft:worldgen/feature_type": {
       "elements": false,
       "stable": true,
       "tags": true
@@ -640,11 +645,21 @@
       "tags": true
     },
     "minecraft:worldgen/material_condition": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:worldgen/material_condition_type": {
       "elements": false,
       "stable": true,
       "tags": true
     },
     "minecraft:worldgen/material_rule": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:worldgen/material_rule_type": {
       "elements": false,
       "stable": true,
       "tags": true

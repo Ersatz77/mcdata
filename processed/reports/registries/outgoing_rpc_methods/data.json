@@ -16,6 +16,10 @@
     "minecraft:notification/server/saving",
     "minecraft:notification/server/started",
     "minecraft:notification/server/status",
-    "minecraft:notification/server/stopping"
+    "minecraft:notification/server/stopping",
+    "minecraft:notification/world/upgrade_failed",
+    "minecraft:notification/world/upgrade_finished",
+    "minecraft:notification/world/upgrade_progress",
+    "minecraft:notification/world/upgrade_started"
   ]
 }

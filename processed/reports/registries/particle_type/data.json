@@ -82,12 +82,14 @@
     "minecraft:noxious_gas",
     "minecraft:noxious_gas_cloud",
     "minecraft:ominous_spawning",
+    "minecraft:orange_poplar_leaves",
     "minecraft:pale_oak_leaves",
     "minecraft:pause_mob_growth",
     "minecraft:poof",
     "minecraft:portal",
     "minecraft:raid_omen",
     "minecraft:rain",
+    "minecraft:red_poplar_leaves",
     "minecraft:reset_mob_growth",
     "minecraft:reverse_portal",
     "minecraft:scrape",
@@ -124,6 +126,7 @@
     "minecraft:wax_on",
     "minecraft:white_ash",
     "minecraft:white_smoke",
-    "minecraft:witch"
+    "minecraft:witch",
+    "minecraft:yellow_poplar_leaves"
   ]
 }

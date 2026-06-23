@@ -24,6 +24,13 @@ minecraft:beehives
 minecraft:beneath_bamboo_podzol_replaceable
 minecraft:beneath_tree_podzol_replaceable
 minecraft:birch_logs
+minecraft:blocks_dolphin_jump
+minecraft:blocks_fluid_flow
+minecraft:blocks_lava_fire_spread
+minecraft:blocks_motion
+minecraft:blocks_motion_in_heightmap
+minecraft:blocks_motion_in_heightmap_no_leaves
+minecraft:blocks_motion_no_leaves
 minecraft:blocks_wind_charge_explosions
 minecraft:buttons
 minecraft:camel_sand_step_sound_blocks
@@ -39,6 +46,7 @@ minecraft:cannot_support_snow_layer
 minecraft:cauldrons
 minecraft:causes_continuous_geyser_eruptions
 minecraft:causes_periodic_geyser_eruptions
+minecraft:causes_suffocation
 minecraft:cave_vines
 minecraft:ceiling_hanging_signs
 minecraft:chains
@@ -78,6 +86,7 @@ minecraft:enables_bubble_column_push_up
 minecraft:enchantment_power_provider
 minecraft:enchantment_power_transmitter
 minecraft:enderman_holdable
+minecraft:entities_can_teleport_to
 minecraft:fall_damage_resetting
 minecraft:features_cannot_replace
 minecraft:fence_gates
@@ -102,6 +111,7 @@ minecraft:hoglin_repellents
 minecraft:huge_brown_mushroom_can_place_on
 minecraft:huge_red_mushroom_can_place_on
 minecraft:ice
+minecraft:ice_melts_when_destroyed_above
 minecraft:ice_spike_replaceable
 minecraft:impermeable
 minecraft:incorrect_for_copper_tool
@@ -146,6 +156,7 @@ minecraft:nether_carver_replaceables
 minecraft:nylium
 minecraft:oak_logs
 minecraft:occludes_vibration_signals
+minecraft:ores
 minecraft:overrides_mushroom_light_requirement
 minecraft:overworld_carver_replaceables
 minecraft:overworld_natural_logs
@@ -155,6 +166,7 @@ minecraft:piglin_repellents
 minecraft:planks
 minecraft:polar_bear_immune_to
 minecraft:polar_bears_spawnable_on_alternate
+minecraft:poplar_logs
 minecraft:portals
 minecraft:pressure_plates
 minecraft:prevent_mob_spawning_inside
@@ -165,6 +177,7 @@ minecraft:redstone_ores
 minecraft:replaceable
 minecraft:replaceable_by_mushrooms
 minecraft:replaceable_by_trees
+minecraft:required_for_poplar_leaf_ambience
 minecraft:sand
 minecraft:saplings
 minecraft:sculk_replaceable
@@ -174,6 +187,7 @@ minecraft:shears_major_breaking_speed
 minecraft:shears_minor_breaking_speed
 minecraft:shulker_boxes
 minecraft:signs
+minecraft:skulls
 minecraft:slabs
 minecraft:small_flowers
 minecraft:smelts_to_glass
@@ -248,6 +262,7 @@ minecraft:wall_signs
 minecraft:walls
 minecraft:warped_stems
 minecraft:wart_blocks
+minecraft:washed_away_by_fluids
 minecraft:wither_immune
 minecraft:wither_immune_to
 minecraft:wither_skeleton_immune_to
@@ -263,3 +278,5 @@ minecraft:wooden_stairs
 minecraft:wooden_trapdoors
 minecraft:wool
 minecraft:wool_carpets
+minecraft:wool_slabs
+minecraft:wool_stairs

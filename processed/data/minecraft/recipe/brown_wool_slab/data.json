@@ -1,0 +1,14 @@
+{
+  "category": "building",
+  "key": {
+    "#": "minecraft:brown_wool"
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:brown_wool_slab"
+  },
+  "type": "minecraft:crafting_shaped"
+}

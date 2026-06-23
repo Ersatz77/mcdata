@@ -1820,6 +1820,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:black_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:black_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:blackstone": {
     "default": {},
     "properties": {}
@@ -2115,6 +2163,54 @@
   "minecraft:blue_wool": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:blue_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:blue_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:bone_block": {
     "default": {
@@ -2506,6 +2602,54 @@
   "minecraft:brown_wool": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:brown_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:brown_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:bubble_column": {
     "default": {
@@ -4923,6 +5067,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:cyan_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:cyan_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:damaged_anvil": {
     "default": {
       "facing": "north"
@@ -7197,6 +7389,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:gray_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:gray_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:green_banner": {
     "default": {
       "rotation": "8"
@@ -7374,6 +7614,54 @@
   "minecraft:green_wool": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:green_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:green_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:grindstone": {
     "default": {
@@ -8551,6 +8839,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:light_blue_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:light_blue_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:light_gray_banner": {
     "default": {
       "rotation": "8"
@@ -8728,6 +9064,54 @@
   "minecraft:light_gray_wool": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:light_gray_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:light_gray_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:light_weighted_pressure_plate": {
     "default": {
@@ -8976,6 +9360,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:lime_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:lime_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:lodestone": {
     "default": {},
     "properties": {}
@@ -9170,6 +9602,54 @@
   "minecraft:magenta_wool": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:magenta_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:magenta_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:magma_block": {
     "default": {},
@@ -10807,6 +11287,32 @@
       ]
     }
   },
+  "minecraft:orange_poplar_leaves": {
+    "default": {
+      "distance": "7",
+      "persistent": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "distance": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "persistent": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:orange_shulker_box": {
     "default": {
       "facing": "up"
@@ -10881,6 +11387,54 @@
   "minecraft:orange_wool": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:orange_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:orange_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:oxeye_daisy": {
     "default": {},
@@ -11929,6 +12483,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:pink_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pink_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:piston": {
     "default": {
       "extended": "false",
@@ -12842,6 +13444,384 @@
       ]
     }
   },
+  "minecraft:poplar_button": {
+    "default": {
+      "face": "wall",
+      "facing": "north",
+      "powered": "false"
+    },
+    "properties": {
+      "face": [
+        "floor",
+        "wall",
+        "ceiling"
+      ],
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_door": {
+    "default": {
+      "facing": "north",
+      "half": "lower",
+      "hinge": "left",
+      "open": "false",
+      "powered": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "upper",
+        "lower"
+      ],
+      "hinge": [
+        "left",
+        "right"
+      ],
+      "open": [
+        "true",
+        "false"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_fence": {
+    "default": {
+      "east": "false",
+      "north": "false",
+      "south": "false",
+      "waterlogged": "false",
+      "west": "false"
+    },
+    "properties": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_fence_gate": {
+    "default": {
+      "facing": "north",
+      "in_wall": "false",
+      "open": "false",
+      "powered": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "in_wall": [
+        "true",
+        "false"
+      ],
+      "open": [
+        "true",
+        "false"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_hanging_sign": {
+    "default": {
+      "attached": "false",
+      "rotation": "8",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_log": {
+    "default": {
+      "axis": "y"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  },
+  "minecraft:poplar_planks": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:poplar_pressure_plate": {
+    "default": {
+      "powered": "false"
+    },
+    "properties": {
+      "powered": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_sapling": {
+    "default": {
+      "stage": "0"
+    },
+    "properties": {
+      "stage": [
+        "0",
+        "1"
+      ]
+    }
+  },
+  "minecraft:poplar_shelf": {
+    "default": {
+      "facing": "north",
+      "powered": "false",
+      "side_chain": "unconnected",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ],
+      "side_chain": [
+        "unconnected",
+        "right",
+        "center",
+        "left"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_sign": {
+    "default": {
+      "rotation": "8",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "rotation": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_trapdoor": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "open": "false",
+      "powered": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "open": [
+        "true",
+        "false"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_wall_hanging_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_wall_sign": {
+    "default": {
+      "facing": "north",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:poplar_wood": {
+    "default": {
+      "axis": "y"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  },
   "minecraft:poppy": {
     "default": {},
     "properties": {}
@@ -12990,6 +13970,10 @@
     "properties": {}
   },
   "minecraft:potted_pink_tulip": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:potted_poplar_sapling": {
     "default": {},
     "properties": {}
   },
@@ -13413,6 +14397,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:purple_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:purple_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:purpur_block": {
     "default": {},
     "properties": {}
@@ -13820,6 +14852,32 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:red_poplar_leaves": {
+    "default": {
+      "distance": "7",
+      "persistent": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "distance": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "persistent": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:red_sand": {
     "default": {},
     "properties": {}
@@ -13916,6 +14974,10 @@
       ]
     }
   },
+  "minecraft:red_shrub": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:red_shulker_box": {
     "default": {
       "facing": "up"
@@ -13990,6 +15052,54 @@
   "minecraft:red_wool": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:red_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:red_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:redstone_block": {
     "default": {},
@@ -14576,6 +15686,24 @@
   "minecraft:seagrass": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:shelf_mushroom": {
+    "default": {
+      "age": "0",
+      "facing": "north"
+    },
+    "properties": {
+      "age": [
+        "0",
+        "1"
+      ],
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ]
+    }
   },
   "minecraft:short_dry_grass": {
     "default": {},
@@ -15853,6 +16981,30 @@
     }
   },
   "minecraft:stripped_pale_oak_wood": {
+    "default": {
+      "axis": "y"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  },
+  "minecraft:stripped_poplar_log": {
+    "default": {
+      "axis": "y"
+    },
+    "properties": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    }
+  },
+  "minecraft:stripped_poplar_wood": {
     "default": {
       "axis": "y"
     },
@@ -18914,6 +20066,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:white_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:white_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:wildflowers": {
     "default": {
       "facing": "north",
@@ -19093,6 +20293,32 @@
       ]
     }
   },
+  "minecraft:yellow_poplar_leaves": {
+    "default": {
+      "distance": "7",
+      "persistent": "false",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "distance": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "persistent": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:yellow_shulker_box": {
     "default": {
       "facing": "up"
@@ -19163,6 +20389,54 @@
   "minecraft:yellow_wool": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:yellow_wool_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:yellow_wool_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:zombie_head": {
     "default": {

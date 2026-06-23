@@ -1,0 +1,11 @@
+{
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    "minecraft:poplar_planks"
+  ],
+  "result": {
+    "id": "minecraft:poplar_button"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

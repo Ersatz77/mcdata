@@ -1,0 +1,15 @@
+{
+  "if_true": {
+    "max_threshold": 1.7976931348623157e+308,
+    "min_threshold": 1.2000000476837158,
+    "noise": "minecraft:small_patch",
+    "type": "minecraft:noise_threshold"
+  },
+  "then_run": {
+    "result_state": {
+      "Name": "minecraft:coarse_dirt"
+    },
+    "type": "minecraft:block"
+  },
+  "type": "minecraft:condition"
+}

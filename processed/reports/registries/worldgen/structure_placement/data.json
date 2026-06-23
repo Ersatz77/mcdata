@@ -1,6 +1,7 @@
 {
   "values": [
     "minecraft:concentric_rings",
+    "minecraft:dimension_origin",
     "minecraft:random_spread"
   ]
 }
