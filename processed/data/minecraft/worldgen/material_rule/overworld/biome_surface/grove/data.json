@@ -2,7 +2,7 @@
   "sequence": [
     "minecraft:overworld/powder_snow_surface",
     {
-      "if_true": "minecraft:above_water",
+      "if_true": "minecraft:not_underwater",
       "then_run": {
         "result_state": {
           "Name": "minecraft:snow_block"

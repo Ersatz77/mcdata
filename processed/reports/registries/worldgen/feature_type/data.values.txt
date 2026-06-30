@@ -1,6 +1,4 @@
 minecraft:bamboo
-minecraft:basalt_columns
-minecraft:basalt_pillar
 minecraft:block_blob
 minecraft:block_column
 minecraft:block_pile
@@ -23,7 +21,6 @@ minecraft:fill_layer
 minecraft:fossil
 minecraft:freeze_top_layer
 minecraft:geode
-minecraft:glowstone_blob
 minecraft:huge_brown_mushroom
 minecraft:huge_fungus
 minecraft:huge_red_mushroom
@@ -37,7 +34,10 @@ minecraft:nether_forest_vegetation
 minecraft:netherrack_replace_blobs
 minecraft:no_op
 minecraft:ore
+minecraft:overlay
+minecraft:projected_random_patchy_square
 minecraft:random_boolean_selector
+minecraft:random_neighbor_spread
 minecraft:random_selector
 minecraft:replace_single_block
 minecraft:root_system
@@ -48,10 +48,12 @@ minecraft:seagrass
 minecraft:sequence
 minecraft:simple_block
 minecraft:simple_random_selector
+minecraft:single_block_pillar
 minecraft:speleothem
 minecraft:speleothem_cluster
 minecraft:spike
 minecraft:spring_feature
+minecraft:stepped_column_cluster
 minecraft:template
 minecraft:tree
 minecraft:twisting_vines

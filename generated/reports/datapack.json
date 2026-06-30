@@ -54,11 +54,6 @@
       "stable": true,
       "tags": true
     },
-    "minecraft:block_type": {
-      "elements": false,
-      "stable": true,
-      "tags": true
-    },
     "minecraft:cat_sound_variant": {
       "elements": true,
       "stable": false,
@@ -595,6 +590,11 @@
       "tags": true
     },
     "minecraft:worldgen/carver": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
+    "minecraft:worldgen/carver_type": {
       "elements": false,
       "stable": true,
       "tags": true
@@ -602,11 +602,6 @@
     "minecraft:worldgen/chunk_generator": {
       "elements": false,
       "stable": true,
-      "tags": true
-    },
-    "minecraft:worldgen/configured_carver": {
-      "elements": true,
-      "stable": false,
       "tags": true
     },
     "minecraft:worldgen/density_function": {

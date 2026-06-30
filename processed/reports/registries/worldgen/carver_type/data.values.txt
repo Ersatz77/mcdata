@@ -1,0 +1,2 @@
+minecraft:canyon
+minecraft:cave

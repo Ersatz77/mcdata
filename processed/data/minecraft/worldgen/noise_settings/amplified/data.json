@@ -312,24 +312,8 @@
       }
     },
     "ridges": "minecraft:overworld/ridges",
-    "temperature": {
-      "noise": "minecraft:temperature",
-      "shift_x": "minecraft:shift_x",
-      "shift_y": 0.0,
-      "shift_z": "minecraft:shift_z",
-      "type": "minecraft:shifted_noise",
-      "xz_scale": 0.25,
-      "y_scale": 0.0
-    },
-    "vegetation": {
-      "noise": "minecraft:vegetation",
-      "shift_x": "minecraft:shift_x",
-      "shift_y": 0.0,
-      "shift_z": "minecraft:shift_z",
-      "type": "minecraft:shifted_noise",
-      "xz_scale": 0.25,
-      "y_scale": 0.0
-    },
+    "temperature": "minecraft:overworld/temperature",
+    "vegetation": "minecraft:overworld/vegetation",
     "vein_gap": {
       "noise": "minecraft:ore_gap",
       "type": "minecraft:noise",
@@ -402,50 +386,46 @@
   "sea_level": 63,
   "spawn_target": [
     {
-      "continentalness": [
+      "minecraft:overworld/continents": [
         -0.11,
         1.0
       ],
-      "depth": 0.0,
-      "erosion": [
+      "minecraft:overworld/erosion": [
         -1.0,
         1.0
       ],
-      "humidity": [
-        -1.0,
-        1.0
-      ],
-      "offset": 0.0,
-      "temperature": [
-        -1.0,
-        1.0
-      ],
-      "weirdness": [
+      "minecraft:overworld/ridges": [
         -1.0,
         -0.16
+      ],
+      "minecraft:overworld/temperature": [
+        -1.0,
+        1.0
+      ],
+      "minecraft:overworld/vegetation": [
+        -1.0,
+        1.0
       ]
     },
     {
-      "continentalness": [
+      "minecraft:overworld/continents": [
         -0.11,
         1.0
       ],
-      "depth": 0.0,
-      "erosion": [
+      "minecraft:overworld/erosion": [
         -1.0,
         1.0
       ],
-      "humidity": [
-        -1.0,
-        1.0
-      ],
-      "offset": 0.0,
-      "temperature": [
-        -1.0,
-        1.0
-      ],
-      "weirdness": [
+      "minecraft:overworld/ridges": [
         0.16,
+        1.0
+      ],
+      "minecraft:overworld/temperature": [
+        -1.0,
+        1.0
+      ],
+      "minecraft:overworld/vegetation": [
+        -1.0,
         1.0
       ]
     }

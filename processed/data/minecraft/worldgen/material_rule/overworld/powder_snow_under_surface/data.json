@@ -6,7 +6,7 @@
     "type": "minecraft:noise_threshold"
   },
   "then_run": {
-    "if_true": "minecraft:above_water",
+    "if_true": "minecraft:not_underwater",
     "then_run": {
       "result_state": {
         "Name": "minecraft:powder_snow"

@@ -1,3 +1,26 @@
 {
-  "type": "minecraft:glowstone_blob"
+  "accepted_neighbors": "minecraft:glowstone",
+  "attempts": 1500,
+  "block": {
+    "state": {
+      "Name": "minecraft:glowstone"
+    },
+    "type": "minecraft:simple_state_provider"
+  },
+  "can_replace": {
+    "tag": "minecraft:air",
+    "type": "minecraft:matching_block_tag"
+  },
+  "type": "minecraft:random_neighbor_spread",
+  "xy_offset": {
+    "max": 7,
+    "min": -7,
+    "plateau": 0,
+    "type": "minecraft:trapezoid"
+  },
+  "y_offset": {
+    "max_inclusive": 0,
+    "min_inclusive": -11,
+    "type": "minecraft:uniform"
+  }
 }

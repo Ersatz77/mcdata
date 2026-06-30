@@ -1,5 +1,6 @@
 {
   "values": [
+    "minecraft:copy_properties_provider",
     "minecraft:dual_noise_provider",
     "minecraft:noise_provider",
     "minecraft:noise_threshold_provider",

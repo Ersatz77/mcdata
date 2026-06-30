@@ -6,6 +6,7 @@
     "minecraft:constant",
     "minecraft:trapezoid",
     "minecraft:uniform",
+    "minecraft:very_biased_to_bottom",
     "minecraft:weighted_list"
   ]
 }

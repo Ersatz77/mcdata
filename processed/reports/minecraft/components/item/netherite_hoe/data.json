@@ -16,6 +16,110 @@
         "type": "minecraft:attack_speed"
       }
     ],
+    "minecraft:block_transformer": [
+      {
+        "block_state_provider": {
+          "rules": [
+            {
+              "if_true": {
+                "predicates": [
+                  {
+                    "tag": "minecraft:turns_into_farmland",
+                    "type": "minecraft:matching_block_tag"
+                  },
+                  {
+                    "offset": [
+                      0,
+                      1,
+                      0
+                    ],
+                    "tag": "minecraft:air",
+                    "type": "minecraft:matching_block_tag"
+                  }
+                ],
+                "type": "minecraft:all_of"
+              },
+              "then": {
+                "state": {
+                  "Name": "minecraft:farmland",
+                  "Properties": {
+                    "moisture": "0"
+                  }
+                },
+                "type": "minecraft:simple_state_provider"
+              }
+            }
+          ],
+          "type": "minecraft:rule_based_state_provider"
+        },
+        "disallowed_faces": [
+          "down"
+        ],
+        "item_damage_per_use": 1,
+        "sound": "minecraft:item.hoe.till"
+      },
+      {
+        "block_state_provider": {
+          "rules": [
+            {
+              "if_true": {
+                "predicates": [
+                  {
+                    "blocks": "minecraft:coarse_dirt",
+                    "type": "minecraft:matching_blocks"
+                  },
+                  {
+                    "offset": [
+                      0,
+                      1,
+                      0
+                    ],
+                    "tag": "minecraft:air",
+                    "type": "minecraft:matching_block_tag"
+                  }
+                ],
+                "type": "minecraft:all_of"
+              },
+              "then": {
+                "state": {
+                  "Name": "minecraft:dirt"
+                },
+                "type": "minecraft:simple_state_provider"
+              }
+            }
+          ],
+          "type": "minecraft:rule_based_state_provider"
+        },
+        "disallowed_faces": [
+          "down"
+        ],
+        "item_damage_per_use": 1,
+        "sound": "minecraft:item.hoe.till"
+      },
+      {
+        "block_state_provider": {
+          "rules": [
+            {
+              "if_true": {
+                "blocks": "minecraft:rooted_dirt",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "state": {
+                  "Name": "minecraft:dirt"
+                },
+                "type": "minecraft:simple_state_provider"
+              }
+            }
+          ],
+          "type": "minecraft:rule_based_state_provider"
+        },
+        "drop_strategy": "clicked_face",
+        "item_damage_per_use": 1,
+        "loot": "minecraft:till/rooted_dirt",
+        "sound": "minecraft:item.hoe.till"
+      }
+    ],
     "minecraft:break_sound": "minecraft:entity.item.break",
     "minecraft:damage": 0,
     "minecraft:damage_resistant": {

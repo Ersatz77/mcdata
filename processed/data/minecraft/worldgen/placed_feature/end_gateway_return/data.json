@@ -13,13 +13,14 @@
       "type": "minecraft:heightmap"
     },
     {
-      "type": "minecraft:random_offset",
-      "xz_spread": 0,
-      "y_spread": {
+      "type": "minecraft:offset",
+      "x": 0,
+      "y": {
         "max_inclusive": 9,
         "min_inclusive": 3,
         "type": "minecraft:uniform"
-      }
+      },
+      "z": 0
     },
     {
       "type": "minecraft:biome"

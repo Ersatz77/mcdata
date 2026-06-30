@@ -9,7 +9,7 @@ minecraft:heightmap
 minecraft:in_square
 minecraft:noise_based_count
 minecraft:noise_threshold_count
-minecraft:random_offset
+minecraft:offset
 minecraft:rarity_filter
 minecraft:surface_relative_threshold_filter
 minecraft:surface_water_depth_filter

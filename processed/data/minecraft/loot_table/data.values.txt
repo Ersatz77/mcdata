@@ -1411,3 +1411,4 @@ minecraft:spawners/ominous/trial_chamber/key
 minecraft:spawners/trial_chamber/consumables
 minecraft:spawners/trial_chamber/items_to_drop_when_ominous
 minecraft:spawners/trial_chamber/key
+minecraft:till/rooted_dirt

@@ -9,6 +9,7 @@
     "minecraft:bees",
     "minecraft:block_entity_data",
     "minecraft:block_state",
+    "minecraft:block_transformer",
     "minecraft:blocks_attacks",
     "minecraft:break_sound",
     "minecraft:bucket_entity_data",
