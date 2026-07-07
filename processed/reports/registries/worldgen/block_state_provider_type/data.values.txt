@@ -2,6 +2,7 @@ minecraft:copy_properties_provider
 minecraft:dual_noise_provider
 minecraft:noise_provider
 minecraft:noise_threshold_provider
+minecraft:random_block_provider
 minecraft:randomized_int_state_provider
 minecraft:rotated_block_provider
 minecraft:rule_based_state_provider

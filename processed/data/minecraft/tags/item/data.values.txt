@@ -45,6 +45,7 @@ minecraft:cow_food
 minecraft:creeper_drop_music_discs
 minecraft:creeper_igniters
 minecraft:crimson_stems
+minecraft:cushions
 minecraft:dampens_vibrations
 minecraft:dark_oak_logs
 minecraft:decorated_pot_ingredients
@@ -53,7 +54,7 @@ minecraft:diamond_ores
 minecraft:diamond_tool_materials
 minecraft:dirt
 minecraft:doors
-minecraft:dowses_campfires
+minecraft:douses_campfires
 minecraft:drowned_preferred_weapons
 minecraft:duplicates_allays
 minecraft:dyes

@@ -969,6 +969,7 @@ minecraft:blocks/stone_pressure_plate
 minecraft:blocks/stone_slab
 minecraft:blocks/stone_stairs
 minecraft:blocks/stonecutter
+minecraft:blocks/straw_bed
 minecraft:blocks/stripped_acacia_log
 minecraft:blocks/stripped_acacia_wood
 minecraft:blocks/stripped_bamboo_block

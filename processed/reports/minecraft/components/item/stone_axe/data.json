@@ -26,7 +26,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_oak_wood",
                     "Properties": {
@@ -53,7 +53,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_oak_log",
                     "Properties": {
@@ -80,7 +80,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_dark_oak_wood",
                     "Properties": {
@@ -107,7 +107,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_dark_oak_log",
                     "Properties": {
@@ -134,7 +134,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_pale_oak_wood",
                     "Properties": {
@@ -161,7 +161,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_pale_oak_log",
                     "Properties": {
@@ -188,7 +188,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_poplar_wood",
                     "Properties": {
@@ -215,7 +215,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_poplar_log",
                     "Properties": {
@@ -242,7 +242,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_acacia_wood",
                     "Properties": {
@@ -269,7 +269,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_acacia_log",
                     "Properties": {
@@ -296,7 +296,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_cherry_wood",
                     "Properties": {
@@ -323,7 +323,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_cherry_log",
                     "Properties": {
@@ -350,7 +350,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_birch_wood",
                     "Properties": {
@@ -377,7 +377,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_birch_log",
                     "Properties": {
@@ -404,7 +404,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_jungle_wood",
                     "Properties": {
@@ -431,7 +431,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_jungle_log",
                     "Properties": {
@@ -458,7 +458,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_spruce_wood",
                     "Properties": {
@@ -485,7 +485,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_spruce_log",
                     "Properties": {
@@ -512,7 +512,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_warped_stem",
                     "Properties": {
@@ -539,7 +539,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_warped_hyphae",
                     "Properties": {
@@ -566,7 +566,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_crimson_stem",
                     "Properties": {
@@ -593,7 +593,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_crimson_hyphae",
                     "Properties": {
@@ -620,7 +620,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_mangrove_wood",
                     "Properties": {
@@ -647,7 +647,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_mangrove_log",
                     "Properties": {
@@ -674,7 +674,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:stripped_bamboo_block",
                     "Properties": {
@@ -701,7 +701,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_block"
                   },
@@ -726,7 +726,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper"
                   },
@@ -751,7 +751,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper"
                   },
@@ -776,7 +776,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:cut_copper"
                   },
@@ -801,7 +801,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_cut_copper"
                   },
@@ -826,7 +826,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_cut_copper"
                   },
@@ -851,7 +851,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:chiseled_copper"
                   },
@@ -876,7 +876,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_chiseled_copper"
                   },
@@ -901,7 +901,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_chiseled_copper"
                   },
@@ -926,7 +926,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:cut_copper_slab",
                     "Properties": {
@@ -955,7 +955,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_cut_copper_slab",
                     "Properties": {
@@ -984,7 +984,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_cut_copper_slab",
                     "Properties": {
@@ -1013,7 +1013,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:cut_copper_stairs",
                     "Properties": {
@@ -1044,7 +1044,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_cut_copper_stairs",
                     "Properties": {
@@ -1075,7 +1075,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_cut_copper_stairs",
                     "Properties": {
@@ -1106,7 +1106,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_door",
                     "Properties": {
@@ -1127,7 +1127,8 @@
         },
         "item_damage_per_use": 1,
         "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
+        "sound": "minecraft:item.axe.scrape",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -1138,7 +1139,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_door",
                     "Properties": {
@@ -1159,7 +1160,8 @@
         },
         "item_damage_per_use": 1,
         "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
+        "sound": "minecraft:item.axe.scrape",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -1170,7 +1172,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_door",
                     "Properties": {
@@ -1191,7 +1193,8 @@
         },
         "item_damage_per_use": 1,
         "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
+        "sound": "minecraft:item.axe.scrape",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -1202,7 +1205,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_trapdoor",
                     "Properties": {
@@ -1234,7 +1237,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_trapdoor",
                     "Properties": {
@@ -1266,7 +1269,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_trapdoor",
                     "Properties": {
@@ -1298,7 +1301,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_bars",
                     "Properties": {
@@ -1330,7 +1333,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_bars",
                     "Properties": {
@@ -1362,7 +1365,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_bars",
                     "Properties": {
@@ -1394,7 +1397,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_grate",
                     "Properties": {
@@ -1422,7 +1425,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_grate",
                     "Properties": {
@@ -1450,7 +1453,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_grate",
                     "Properties": {
@@ -1478,7 +1481,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_bulb",
                     "Properties": {
@@ -1507,7 +1510,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_bulb",
                     "Properties": {
@@ -1536,7 +1539,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_bulb",
                     "Properties": {
@@ -1565,7 +1568,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_lantern",
                     "Properties": {
@@ -1594,7 +1597,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_lantern",
                     "Properties": {
@@ -1623,7 +1626,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_lantern",
                     "Properties": {
@@ -1652,7 +1655,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_chest",
                     "Properties": {
@@ -1672,7 +1675,8 @@
         "item_damage_per_use": 1,
         "particle": "scrape",
         "sound": "minecraft:item.axe.scrape",
-        "transform_type": "copper_chest"
+        "transform_type": "copper_chest",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -1683,7 +1687,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_chest",
                     "Properties": {
@@ -1703,7 +1707,8 @@
         "item_damage_per_use": 1,
         "particle": "scrape",
         "sound": "minecraft:item.axe.scrape",
-        "transform_type": "copper_chest"
+        "transform_type": "copper_chest",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -1714,7 +1719,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_chest",
                     "Properties": {
@@ -1734,7 +1739,8 @@
         "item_damage_per_use": 1,
         "particle": "scrape",
         "sound": "minecraft:item.axe.scrape",
-        "transform_type": "copper_chest"
+        "transform_type": "copper_chest",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -1745,7 +1751,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_golem_statue",
                     "Properties": {
@@ -1775,7 +1781,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_golem_statue",
                     "Properties": {
@@ -1805,7 +1811,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_golem_statue",
                     "Properties": {
@@ -1835,7 +1841,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:lightning_rod",
                     "Properties": {
@@ -1865,7 +1871,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_lightning_rod",
                     "Properties": {
@@ -1895,7 +1901,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_lightning_rod",
                     "Properties": {
@@ -1925,7 +1931,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_chain",
                     "Properties": {
@@ -1954,7 +1960,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_chain",
                     "Properties": {
@@ -1983,7 +1989,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_chain",
                     "Properties": {
@@ -2012,7 +2018,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_block"
                   },
@@ -2037,7 +2043,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper"
                   },
@@ -2062,7 +2068,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper"
                   },
@@ -2087,7 +2093,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_copper"
                   },
@@ -2112,7 +2118,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:cut_copper"
                   },
@@ -2137,7 +2143,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_cut_copper"
                   },
@@ -2162,7 +2168,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_cut_copper"
                   },
@@ -2187,7 +2193,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_cut_copper"
                   },
@@ -2212,7 +2218,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:cut_copper_slab",
                     "Properties": {
@@ -2241,7 +2247,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_cut_copper_slab",
                     "Properties": {
@@ -2270,7 +2276,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_cut_copper_slab",
                     "Properties": {
@@ -2299,7 +2305,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_cut_copper_slab",
                     "Properties": {
@@ -2328,7 +2334,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:cut_copper_stairs",
                     "Properties": {
@@ -2359,7 +2365,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_cut_copper_stairs",
                     "Properties": {
@@ -2390,7 +2396,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_cut_copper_stairs",
                     "Properties": {
@@ -2421,7 +2427,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_cut_copper_stairs",
                     "Properties": {
@@ -2452,7 +2458,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:chiseled_copper"
                   },
@@ -2477,7 +2483,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_chiseled_copper"
                   },
@@ -2502,7 +2508,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_chiseled_copper"
                   },
@@ -2527,7 +2533,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_chiseled_copper"
                   },
@@ -2552,7 +2558,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_door",
                     "Properties": {
@@ -2573,7 +2579,8 @@
         },
         "item_damage_per_use": 1,
         "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
+        "sound": "minecraft:item.axe.wax_off",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -2584,7 +2591,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_door",
                     "Properties": {
@@ -2605,7 +2612,8 @@
         },
         "item_damage_per_use": 1,
         "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
+        "sound": "minecraft:item.axe.wax_off",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -2616,7 +2624,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_door",
                     "Properties": {
@@ -2637,7 +2645,8 @@
         },
         "item_damage_per_use": 1,
         "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
+        "sound": "minecraft:item.axe.wax_off",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -2648,7 +2657,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_copper_door",
                     "Properties": {
@@ -2669,7 +2678,8 @@
         },
         "item_damage_per_use": 1,
         "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
+        "sound": "minecraft:item.axe.wax_off",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -2680,7 +2690,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_trapdoor",
                     "Properties": {
@@ -2712,7 +2722,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_trapdoor",
                     "Properties": {
@@ -2744,7 +2754,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_trapdoor",
                     "Properties": {
@@ -2776,7 +2786,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_copper_trapdoor",
                     "Properties": {
@@ -2808,7 +2818,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_bars",
                     "Properties": {
@@ -2840,7 +2850,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_bars",
                     "Properties": {
@@ -2872,7 +2882,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_bars",
                     "Properties": {
@@ -2904,7 +2914,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_copper_bars",
                     "Properties": {
@@ -2936,7 +2946,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_grate",
                     "Properties": {
@@ -2964,7 +2974,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_grate",
                     "Properties": {
@@ -2992,7 +3002,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_grate",
                     "Properties": {
@@ -3020,7 +3030,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_copper_grate",
                     "Properties": {
@@ -3048,7 +3058,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_bulb",
                     "Properties": {
@@ -3077,7 +3087,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_bulb",
                     "Properties": {
@@ -3106,7 +3116,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_bulb",
                     "Properties": {
@@ -3135,7 +3145,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_copper_bulb",
                     "Properties": {
@@ -3164,7 +3174,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_chest",
                     "Properties": {
@@ -3184,7 +3194,8 @@
         "item_damage_per_use": 1,
         "particle": "wax_off",
         "sound": "minecraft:item.axe.wax_off",
-        "transform_type": "copper_chest"
+        "transform_type": "copper_chest",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -3195,7 +3206,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_chest",
                     "Properties": {
@@ -3215,7 +3226,8 @@
         "item_damage_per_use": 1,
         "particle": "wax_off",
         "sound": "minecraft:item.axe.wax_off",
-        "transform_type": "copper_chest"
+        "transform_type": "copper_chest",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -3226,7 +3238,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_chest",
                     "Properties": {
@@ -3246,7 +3258,8 @@
         "item_damage_per_use": 1,
         "particle": "wax_off",
         "sound": "minecraft:item.axe.wax_off",
-        "transform_type": "copper_chest"
+        "transform_type": "copper_chest",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -3257,7 +3270,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_copper_chest",
                     "Properties": {
@@ -3277,7 +3290,8 @@
         "item_damage_per_use": 1,
         "particle": "wax_off",
         "sound": "minecraft:item.axe.wax_off",
-        "transform_type": "copper_chest"
+        "transform_type": "copper_chest",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -3288,7 +3302,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_golem_statue",
                     "Properties": {
@@ -3318,7 +3332,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_golem_statue",
                     "Properties": {
@@ -3348,7 +3362,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_golem_statue",
                     "Properties": {
@@ -3378,7 +3392,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_copper_golem_statue",
                     "Properties": {
@@ -3408,7 +3422,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:lightning_rod",
                     "Properties": {
@@ -3438,7 +3452,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_lightning_rod",
                     "Properties": {
@@ -3468,7 +3482,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_lightning_rod",
                     "Properties": {
@@ -3498,7 +3512,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_lightning_rod",
                     "Properties": {
@@ -3528,7 +3542,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_lantern",
                     "Properties": {
@@ -3557,7 +3571,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_lantern",
                     "Properties": {
@@ -3586,7 +3600,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_lantern",
                     "Properties": {
@@ -3615,7 +3629,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_copper_lantern",
                     "Properties": {
@@ -3644,7 +3658,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:copper_chain",
                     "Properties": {
@@ -3673,7 +3687,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:exposed_copper_chain",
                     "Properties": {
@@ -3702,7 +3716,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:weathered_copper_chain",
                     "Properties": {
@@ -3731,7 +3745,7 @@
                 "type": "minecraft:matching_blocks"
               },
               "then": {
-                "source_block_state_provider": {
+                "source": {
                   "state": {
                     "Name": "minecraft:oxidized_copper_chain",
                     "Properties": {

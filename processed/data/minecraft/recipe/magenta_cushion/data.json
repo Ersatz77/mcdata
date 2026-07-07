@@ -1,0 +1,13 @@
+{
+  "group": "cushion",
+  "key": {
+    "#": "minecraft:magenta_wool_slab"
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:magenta_cushion"
+  },
+  "type": "minecraft:crafting_shaped"
+}

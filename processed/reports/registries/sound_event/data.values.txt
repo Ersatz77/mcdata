@@ -573,6 +573,11 @@ minecraft:block.polished_tuff.hit
 minecraft:block.polished_tuff.place
 minecraft:block.polished_tuff.step
 minecraft:block.poplar_leaves.ambient
+minecraft:block.poplar_leaves.break
+minecraft:block.poplar_leaves.fall
+minecraft:block.poplar_leaves.hit
+minecraft:block.poplar_leaves.place
+minecraft:block.poplar_leaves.step
 minecraft:block.portal.ambient
 minecraft:block.portal.travel
 minecraft:block.portal.trigger
@@ -592,6 +597,8 @@ minecraft:block.powder_snow.hit
 minecraft:block.powder_snow.place
 minecraft:block.powder_snow.step
 minecraft:block.pumpkin.carve
+minecraft:block.red_shrub.break
+minecraft:block.red_shrub.place
 minecraft:block.redstone_torch.burnout
 minecraft:block.resin.break
 minecraft:block.resin.fall
@@ -744,6 +751,12 @@ minecraft:block.stone_button.click_off
 minecraft:block.stone_button.click_on
 minecraft:block.stone_pressure_plate.click_off
 minecraft:block.stone_pressure_plate.click_on
+minecraft:block.straw_bed.break
+minecraft:block.straw_bed.break_leave
+minecraft:block.straw_bed.fall
+minecraft:block.straw_bed.hit
+minecraft:block.straw_bed.place
+minecraft:block.straw_bed.step
 minecraft:block.sulfur.break
 minecraft:block.sulfur.fall
 minecraft:block.sulfur.hit
@@ -1063,6 +1076,10 @@ minecraft:entity.creaking.unfreeze
 minecraft:entity.creeper.death
 minecraft:entity.creeper.hurt
 minecraft:entity.creeper.primed
+minecraft:entity.cushion.break
+minecraft:entity.cushion.get_up
+minecraft:entity.cushion.place
+minecraft:entity.cushion.sit
 minecraft:entity.dolphin.ambient
 minecraft:entity.dolphin.ambient_water
 minecraft:entity.dolphin.attack

@@ -6,7 +6,6 @@ minecraft:blue_ice
 minecraft:bonus_chest
 minecraft:chorus_plant
 minecraft:coral_claw
-minecraft:coral_mushroom
 minecraft:coral_tree
 minecraft:delta_feature
 minecraft:desert_well
@@ -25,7 +24,6 @@ minecraft:huge_brown_mushroom
 minecraft:huge_fungus
 minecraft:huge_red_mushroom
 minecraft:iceberg
-minecraft:kelp
 minecraft:lake
 minecraft:large_dripstone
 minecraft:monster_room
@@ -43,8 +41,6 @@ minecraft:replace_single_block
 minecraft:root_system
 minecraft:scattered_ore
 minecraft:sculk_patch
-minecraft:sea_pickle
-minecraft:seagrass
 minecraft:sequence
 minecraft:simple_block
 minecraft:simple_random_selector

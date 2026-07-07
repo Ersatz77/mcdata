@@ -349,6 +349,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:number_provider": {
+      "elements": true,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:outgoing_rpc_methods": {
       "elements": false,
       "stable": true,

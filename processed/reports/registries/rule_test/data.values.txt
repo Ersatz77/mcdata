@@ -1,8 +1,10 @@
 minecraft:all_of
 minecraft:always_true
+minecraft:any_of
 minecraft:block_match
 minecraft:blockstate_match
 minecraft:height_match
+minecraft:not
 minecraft:random_block_match
 minecraft:random_blockstate_match
 minecraft:tag_match

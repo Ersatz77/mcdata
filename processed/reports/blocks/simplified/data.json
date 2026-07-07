@@ -16764,6 +16764,29 @@
       ]
     }
   },
+  "minecraft:straw_bed": {
+    "default": {
+      "facing": "north",
+      "occupied": "false",
+      "part": "foot"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "occupied": [
+        "true",
+        "false"
+      ],
+      "part": [
+        "head",
+        "foot"
+      ]
+    }
+  },
   "minecraft:stripped_acacia_log": {
     "default": {
       "axis": "y"

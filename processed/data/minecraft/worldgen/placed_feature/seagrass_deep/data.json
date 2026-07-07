@@ -5,12 +5,40 @@
       "type": "minecraft:in_square"
     },
     {
-      "heightmap": "OCEAN_FLOOR_WG",
+      "count": 48,
+      "type": "minecraft:count"
+    },
+    {
+      "type": "minecraft:offset",
+      "x": {
+        "max": 7,
+        "min": -7,
+        "plateau": 0,
+        "type": "minecraft:trapezoid"
+      },
+      "y": {
+        "max": 0,
+        "min": 0,
+        "plateau": 0,
+        "type": "minecraft:trapezoid"
+      },
+      "z": {
+        "max": 7,
+        "min": -7,
+        "plateau": 0,
+        "type": "minecraft:trapezoid"
+      }
+    },
+    {
+      "heightmap": "OCEAN_FLOOR",
       "type": "minecraft:heightmap"
     },
     {
-      "count": 48,
-      "type": "minecraft:count"
+      "predicate": {
+        "blocks": "minecraft:water",
+        "type": "minecraft:matching_blocks"
+      },
+      "type": "minecraft:block_predicate_filter"
     },
     {
       "type": "minecraft:biome"

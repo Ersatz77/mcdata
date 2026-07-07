@@ -18,6 +18,7 @@ minecraft:gameplay/piglins_zombify
 minecraft:gameplay/respawn_anchor_works
 minecraft:gameplay/sky_light_level
 minecraft:gameplay/snow_golem_melts
+minecraft:gameplay/straw_bed_rule
 minecraft:gameplay/surface_slime_spawn_chance
 minecraft:gameplay/turtle_egg_hatch_chance
 minecraft:gameplay/villager_activity

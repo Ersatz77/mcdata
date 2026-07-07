@@ -1033,6 +1033,7 @@ minecraft:stone_pressure_plate
 minecraft:stone_slab
 minecraft:stone_stairs
 minecraft:stonecutter
+minecraft:straw_bed
 minecraft:stripped_acacia_log
 minecraft:stripped_acacia_wood
 minecraft:stripped_bamboo_block

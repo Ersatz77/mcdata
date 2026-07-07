@@ -59,6 +59,7 @@ minecraft:pot_flower
 minecraft:raid_trigger
 minecraft:raid_win
 minecraft:sleep_in_bed
+minecraft:sleep_in_straw_bed
 minecraft:sneak_time
 minecraft:sprint_one_cm
 minecraft:strider_one_cm

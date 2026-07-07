@@ -12,7 +12,7 @@
     "type": "minecraft:matching_block_tag"
   },
   "type": "minecraft:random_neighbor_spread",
-  "xy_offset": {
+  "xz_offset": {
     "max": 7,
     "min": -7,
     "plateau": 0,

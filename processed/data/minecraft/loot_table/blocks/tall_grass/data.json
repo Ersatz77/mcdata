@@ -28,10 +28,8 @@
             {
               "conditions": [
                 {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "items": "minecraft:shears"
-                  }
+                  "condition": "minecraft:reference",
+                  "name": "minecraft:tool/can_shear"
                 }
               ],
               "functions": [
@@ -90,10 +88,8 @@
             {
               "conditions": [
                 {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "items": "minecraft:shears"
-                  }
+                  "condition": "minecraft:reference",
+                  "name": "minecraft:tool/can_shear"
                 }
               ],
               "functions": [

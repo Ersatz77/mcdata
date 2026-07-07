@@ -2,6 +2,7 @@ minecraft:biome
 minecraft:block_predicate_filter
 minecraft:count
 minecraft:count_on_every_layer
+minecraft:cuboid
 minecraft:environment_scan
 minecraft:fixed_placement
 minecraft:height_range
@@ -10,6 +11,7 @@ minecraft:in_square
 minecraft:noise_based_count
 minecraft:noise_threshold_count
 minecraft:offset
+minecraft:random_chance
 minecraft:rarity_filter
 minecraft:surface_relative_threshold_filter
 minecraft:surface_water_depth_filter

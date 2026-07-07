@@ -14,6 +14,7 @@ minecraft:dialog
 minecraft:dimension
 minecraft:entity
 minecraft:entity_anchor
+minecraft:feature
 minecraft:float_range
 minecraft:function
 minecraft:game_profile
