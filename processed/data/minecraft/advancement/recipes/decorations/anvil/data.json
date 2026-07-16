@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:anvil"
+        "recipes": "minecraft:anvil"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

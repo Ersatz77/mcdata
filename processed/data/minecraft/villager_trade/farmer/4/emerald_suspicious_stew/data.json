@@ -1,35 +1,33 @@
 {
-  "given_item_modifiers": [
-    {
-      "effects": [
-        {
-          "duration": 5.0,
-          "type": "minecraft:night_vision"
-        },
-        {
-          "duration": 8.0,
-          "type": "minecraft:jump_boost"
-        },
-        {
-          "duration": 7.0,
-          "type": "minecraft:weakness"
-        },
-        {
-          "duration": 6.0,
-          "type": "minecraft:blindness"
-        },
-        {
-          "duration": 14.0,
-          "type": "minecraft:poison"
-        },
-        {
-          "duration": 7.0,
-          "type": "minecraft:saturation"
-        }
-      ],
-      "function": "minecraft:set_stew_effect"
-    }
-  ],
+  "given_item_modifier": {
+    "effects": [
+      {
+        "duration": 5.0,
+        "type": "minecraft:night_vision"
+      },
+      {
+        "duration": 8.0,
+        "type": "minecraft:jump_boost"
+      },
+      {
+        "duration": 7.0,
+        "type": "minecraft:weakness"
+      },
+      {
+        "duration": 6.0,
+        "type": "minecraft:blindness"
+      },
+      {
+        "duration": 14.0,
+        "type": "minecraft:poison"
+      },
+      {
+        "duration": 7.0,
+        "type": "minecraft:saturation"
+      }
+    ],
+    "type": "minecraft:set_stew_effect"
+  },
   "gives": {
     "id": "minecraft:suspicious_stew"
   },

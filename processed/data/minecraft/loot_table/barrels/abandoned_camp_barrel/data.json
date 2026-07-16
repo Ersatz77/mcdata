@@ -3,196 +3,166 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:arrow",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:bone",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 2.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 2.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:bowl",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:bread",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:coal",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:cobweb",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:fishing_rod",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:glass_bottle",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:leather",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:bundle",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:rabbit_hide",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 2.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 2.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:string",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:wheat",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:white_candle",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:wooden_axe",
           "type": "minecraft:item"
         }

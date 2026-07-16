@@ -1,0 +1,6 @@
+{
+  "condition": "minecraft:block/fast_cooking",
+  "on_false": 800.0,
+  "on_true": 400.0,
+  "type": "minecraft:conditional"
+}

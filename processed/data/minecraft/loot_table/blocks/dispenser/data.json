@@ -1,22 +1,18 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ],
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
       "entries": [
         {
-          "functions": [
-            {
-              "function": "minecraft:copy_components",
-              "include": [
-                "minecraft:custom_name"
-              ],
-              "source": "block_entity"
-            }
-          ],
+          "modifier": {
+            "include": [
+              "minecraft:custom_name"
+            ],
+            "source": "block_entity",
+            "type": "minecraft:copy_components"
+          },
           "name": "minecraft:dispenser",
           "type": "minecraft:item"
         }

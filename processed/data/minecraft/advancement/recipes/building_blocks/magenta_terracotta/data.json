@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:magenta_terracotta"
+        "recipes": "minecraft:magenta_terracotta"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

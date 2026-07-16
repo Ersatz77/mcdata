@@ -3,10 +3,10 @@
     {
       "entries": [
         {
-          "functions": [
+          "modifier": [
             {
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "damage": {
@@ -14,35 +14,33 @@
                 "min": 0.4,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_damage"
+              "type": "minecraft:set_damage"
             },
             {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:on_random_loot"
+              "options": "#minecraft:on_random_loot",
+              "type": "minecraft:enchant_randomly"
             }
           ],
           "name": "minecraft:iron_axe",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 8.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 8.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:honeycomb",
           "type": "minecraft:item"
         },
         {
-          "functions": [
+          "modifier": [
             {
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "damage": {
@@ -50,7 +48,7 @@
                 "min": 0.15,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_damage"
+              "type": "minecraft:set_damage"
             }
           ],
           "name": "minecraft:stone_axe",
@@ -58,10 +56,10 @@
           "weight": 2
         },
         {
-          "functions": [
+          "modifier": [
             {
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "damage": {
@@ -69,7 +67,7 @@
                 "min": 0.15,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_damage"
+              "type": "minecraft:set_damage"
             }
           ],
           "name": "minecraft:stone_pickaxe",
@@ -77,91 +75,79 @@
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 2.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 2.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:ender_pearl",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:bamboo_hanging_sign",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 6.0,
-                "min": 3.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 6.0,
+              "min": 3.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:bamboo_planks",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 10.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 10.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:scaffolding",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 6.0,
-                "min": 3.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 6.0,
+              "min": 3.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:torch",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 20.0,
-                "min": 8.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 20.0,
+              "min": 8.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:tuff",
           "type": "minecraft:item",
           "weight": 3

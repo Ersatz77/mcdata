@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:pink_cushion"
+        "recipes": "minecraft:pink_cushion"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

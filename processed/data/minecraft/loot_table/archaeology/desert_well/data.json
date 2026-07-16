@@ -25,61 +25,59 @@
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "effects": [
-                {
-                  "duration": {
-                    "max": 10.0,
-                    "min": 7.0,
-                    "type": "minecraft:uniform"
-                  },
-                  "type": "minecraft:night_vision"
+          "modifier": {
+            "effects": [
+              {
+                "duration": {
+                  "max": 10.0,
+                  "min": 7.0,
+                  "type": "minecraft:uniform"
                 },
-                {
-                  "duration": {
-                    "max": 10.0,
-                    "min": 7.0,
-                    "type": "minecraft:uniform"
-                  },
-                  "type": "minecraft:jump_boost"
+                "type": "minecraft:night_vision"
+              },
+              {
+                "duration": {
+                  "max": 10.0,
+                  "min": 7.0,
+                  "type": "minecraft:uniform"
                 },
-                {
-                  "duration": {
-                    "max": 8.0,
-                    "min": 6.0,
-                    "type": "minecraft:uniform"
-                  },
-                  "type": "minecraft:weakness"
+                "type": "minecraft:jump_boost"
+              },
+              {
+                "duration": {
+                  "max": 8.0,
+                  "min": 6.0,
+                  "type": "minecraft:uniform"
                 },
-                {
-                  "duration": {
-                    "max": 7.0,
-                    "min": 5.0,
-                    "type": "minecraft:uniform"
-                  },
-                  "type": "minecraft:blindness"
+                "type": "minecraft:weakness"
+              },
+              {
+                "duration": {
+                  "max": 7.0,
+                  "min": 5.0,
+                  "type": "minecraft:uniform"
                 },
-                {
-                  "duration": {
-                    "max": 20.0,
-                    "min": 10.0,
-                    "type": "minecraft:uniform"
-                  },
-                  "type": "minecraft:poison"
+                "type": "minecraft:blindness"
+              },
+              {
+                "duration": {
+                  "max": 20.0,
+                  "min": 10.0,
+                  "type": "minecraft:uniform"
                 },
-                {
-                  "duration": {
-                    "max": 10.0,
-                    "min": 7.0,
-                    "type": "minecraft:uniform"
-                  },
-                  "type": "minecraft:saturation"
-                }
-              ],
-              "function": "minecraft:set_stew_effect"
-            }
-          ],
+                "type": "minecraft:poison"
+              },
+              {
+                "duration": {
+                  "max": 10.0,
+                  "min": 7.0,
+                  "type": "minecraft:uniform"
+                },
+                "type": "minecraft:saturation"
+              }
+            ],
+            "type": "minecraft:set_stew_effect"
+          },
           "name": "minecraft:suspicious_stew",
           "type": "minecraft:item"
         }

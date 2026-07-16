@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:spruce_pressure_plate"
+        "recipes": "minecraft:spruce_pressure_plate"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

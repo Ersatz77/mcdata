@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:stone_sword"
+        "recipes": "minecraft:stone_sword"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

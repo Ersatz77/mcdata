@@ -3,14 +3,14 @@
     {
       "entries": [
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 2.0,
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -19,7 +19,7 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
+              "type": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:arrow",
@@ -31,14 +31,14 @@
     {
       "entries": [
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 2.0,
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -47,7 +47,7 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
+              "type": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:bone",
@@ -57,21 +57,19 @@
       "rolls": 1.0
     },
     {
-      "conditions": [
-        {
-          "condition": "minecraft:killed_by_player"
-        }
-      ],
+      "condition": {
+        "type": "minecraft:killed_by_player"
+      },
       "entries": [
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 1.0,
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -80,12 +78,12 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase",
-              "limit": 1
+              "limit": 1,
+              "type": "minecraft:enchanted_count_increase"
             },
             {
-              "function": "minecraft:set_potion",
-              "id": "minecraft:weakness"
+              "id": "minecraft:weakness",
+              "type": "minecraft:set_potion"
             }
           ],
           "name": "minecraft:tipped_arrow",

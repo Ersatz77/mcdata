@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:emerald"
+        "recipes": "minecraft:emerald"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -28,7 +28,6 @@ minecraft:lake
 minecraft:large_dripstone
 minecraft:monster_room
 minecraft:multiface_growth
-minecraft:nether_forest_vegetation
 minecraft:netherrack_replace_blobs
 minecraft:no_op
 minecraft:ore
@@ -52,11 +51,9 @@ minecraft:spring_feature
 minecraft:stepped_column_cluster
 minecraft:template
 minecraft:tree
-minecraft:twisting_vines
 minecraft:underwater_magma
 minecraft:vegetation_patch
 minecraft:vines
 minecraft:void_start_platform
 minecraft:waterlogged_vegetation_patch
-minecraft:weeping_vines
 minecraft:weighted_random_selector

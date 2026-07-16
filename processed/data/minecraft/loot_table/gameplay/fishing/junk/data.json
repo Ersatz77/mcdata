@@ -8,16 +8,14 @@
           "weight": 17
         },
         {
-          "functions": [
-            {
-              "damage": {
-                "max": 0.9,
-                "min": 0.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_damage"
-            }
-          ],
+          "modifier": {
+            "damage": {
+              "max": 0.9,
+              "min": 0.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_damage"
+          },
           "name": "minecraft:leather_boots",
           "type": "minecraft:item",
           "weight": 10
@@ -33,12 +31,10 @@
           "weight": 10
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:set_potion",
-              "id": "minecraft:water"
-            }
-          ],
+          "modifier": {
+            "id": "minecraft:water",
+            "type": "minecraft:set_potion"
+          },
           "name": "minecraft:potion",
           "type": "minecraft:item",
           "weight": 10
@@ -49,16 +45,14 @@
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "damage": {
-                "max": 0.9,
-                "min": 0.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_damage"
-            }
-          ],
+          "modifier": {
+            "damage": {
+              "max": 0.9,
+              "min": 0.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_damage"
+          },
           "name": "minecraft:fishing_rod",
           "type": "minecraft:item",
           "weight": 2
@@ -74,12 +68,10 @@
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": 10.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 10.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:ink_sac",
           "type": "minecraft:item"
         },
@@ -94,18 +86,16 @@
           "weight": 10
         },
         {
-          "conditions": [
-            {
-              "condition": "minecraft:location_check",
-              "predicate": {
-                "biomes": [
-                  "minecraft:jungle",
-                  "minecraft:sparse_jungle",
-                  "minecraft:bamboo_jungle"
-                ]
-              }
-            }
-          ],
+          "condition": {
+            "predicate": {
+              "biomes": [
+                "minecraft:jungle",
+                "minecraft:sparse_jungle",
+                "minecraft:bamboo_jungle"
+              ]
+            },
+            "type": "minecraft:location_check"
+          },
           "name": "minecraft:bamboo",
           "type": "minecraft:item",
           "weight": 10

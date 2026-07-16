@@ -29,12 +29,10 @@
       }
     },
     {
-      "conditions": [
-        {
-          "chance": 0.25,
-          "condition": "minecraft:random_chance"
-        }
-      ],
+      "condition": {
+        "chance": 0.25,
+        "type": "minecraft:random_chance"
+      },
       "entries": [
         {
           "type": "minecraft:loot_table",

@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:andesite_slab_from_andesite_stonecutting"
+        "recipes": "minecraft:andesite_slab_from_andesite_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

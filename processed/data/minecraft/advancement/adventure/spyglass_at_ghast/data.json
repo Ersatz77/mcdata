@@ -5,19 +5,17 @@
         "item": {
           "items": "minecraft:spyglass"
         },
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:ghast"
-                }
+        "player": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:ghast"
               }
             }
-          }
-        ]
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:using_item"
     }

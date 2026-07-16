@@ -2,18 +2,16 @@
   "criteria": {
     "give_tnt_directly": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:sulfur_cube",
-              "minecraft:flags": {
-                "is_baby": false
-              }
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:sulfur_cube",
+            "minecraft:flags": {
+              "is_baby": false
             }
-          }
-        ],
+          },
+          "type": "minecraft:entity_properties"
+        },
         "item": {
           "items": "#minecraft:sulfur_cube_archetype/explosive"
         }
@@ -22,18 +20,16 @@
     },
     "pick_up_dropped_tnt": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:sulfur_cube",
-              "minecraft:flags": {
-                "is_baby": false
-              }
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:sulfur_cube",
+            "minecraft:flags": {
+              "is_baby": false
             }
-          }
-        ],
+          },
+          "type": "minecraft:entity_properties"
+        },
         "item": {
           "items": "#minecraft:sulfur_cube_archetype/explosive"
         }

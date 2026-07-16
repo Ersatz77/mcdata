@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:cyan_glazed_terracotta"
+        "recipes": "minecraft:cyan_glazed_terracotta"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -71,6 +71,7 @@ minecraft:corals
 minecraft:crimson_stems
 minecraft:crops
 minecraft:crystal_sound_blocks
+minecraft:cushion_uses_collision_shape
 minecraft:dampens_vibrations
 minecraft:dark_oak_logs
 minecraft:deepslate_ore_replaceables

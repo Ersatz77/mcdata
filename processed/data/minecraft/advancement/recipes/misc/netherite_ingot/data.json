@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:netherite_ingot"
+        "recipes": "minecraft:netherite_ingot"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -3,16 +3,14 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": {
-                "max": 7.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 7.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:arrow",
           "type": "minecraft:item",
           "weight": 30

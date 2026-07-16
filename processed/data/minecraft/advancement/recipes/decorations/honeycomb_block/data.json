@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:honeycomb_block"
+        "recipes": "minecraft:honeycomb_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

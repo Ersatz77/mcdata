@@ -3,18 +3,16 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "function": "minecraft:copy_components",
-              "include": [
-                "minecraft:custom_name",
-                "minecraft:container",
-                "minecraft:lock",
-                "minecraft:container_loot"
-              ],
-              "source": "block_entity"
-            }
-          ],
+          "modifier": {
+            "include": [
+              "minecraft:custom_name",
+              "minecraft:container",
+              "minecraft:lock",
+              "minecraft:container_loot"
+            ],
+            "source": "block_entity",
+            "type": "minecraft:copy_components"
+          },
           "name": "minecraft:light_gray_shulker_box",
           "type": "minecraft:item"
         }

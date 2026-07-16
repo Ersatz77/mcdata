@@ -9,10 +9,12 @@ minecraft:gameplay/can_pillager_patrol_spawn
 minecraft:gameplay/can_start_raid
 minecraft:gameplay/cat_waking_up_gift_chance
 minecraft:gameplay/creaking_active
+minecraft:gameplay/creature_world_gen_spawn_probability
 minecraft:gameplay/eyeblossom_open
 minecraft:gameplay/fast_lava
 minecraft:gameplay/increased_fire_burnout
 minecraft:gameplay/monsters_burn
+minecraft:gameplay/natural_mob_spawns
 minecraft:gameplay/nether_portal_spawns_piglin
 minecraft:gameplay/piglins_zombify
 minecraft:gameplay/respawn_anchor_works

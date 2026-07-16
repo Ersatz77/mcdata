@@ -1,9 +1,9 @@
 {
-  "argument": {
-    "argument1": {
-      "argument1": {
-        "argument1": 2.0,
-        "argument2": {
+  "input": {
+    "left": {
+      "left": {
+        "left": 2.0,
+        "right": {
           "noise": "minecraft:pillar",
           "type": "minecraft:noise",
           "xz_scale": 25.0,
@@ -11,11 +11,11 @@
         },
         "type": "minecraft:mul"
       },
-      "argument2": {
-        "argument1": -1.0,
-        "argument2": {
-          "argument1": -1.0,
-          "argument2": {
+      "right": {
+        "left": -1.0,
+        "right": {
+          "left": -1.0,
+          "right": {
             "noise": "minecraft:pillar_rareness",
             "type": "minecraft:noise",
             "xz_scale": 1.0,
@@ -27,12 +27,12 @@
       },
       "type": "minecraft:add"
     },
-    "argument2": {
-      "argument": {
-        "argument1": 0.55,
-        "argument2": {
-          "argument1": 0.55,
-          "argument2": {
+    "right": {
+      "input": {
+        "left": 0.55,
+        "right": {
+          "left": 0.55,
+          "right": {
             "noise": "minecraft:pillar_thickness",
             "type": "minecraft:noise",
             "xz_scale": 1.0,

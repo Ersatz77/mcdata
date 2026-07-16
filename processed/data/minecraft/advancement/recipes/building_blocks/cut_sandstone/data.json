@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:cut_sandstone"
+        "recipes": "minecraft:cut_sandstone"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

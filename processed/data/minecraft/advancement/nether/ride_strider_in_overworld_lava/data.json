@@ -7,20 +7,18 @@
             "min": 50.0
           }
         },
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:location": {
-                "dimension": "minecraft:overworld"
-              },
-              "minecraft:vehicle": {
-                "minecraft:entity_type": "minecraft:strider"
-              }
+        "player": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:location": {
+              "dimension": "minecraft:overworld"
+            },
+            "minecraft:vehicle": {
+              "minecraft:entity_type": "minecraft:strider"
             }
-          }
-        ]
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:ride_entity_in_lava"
     }

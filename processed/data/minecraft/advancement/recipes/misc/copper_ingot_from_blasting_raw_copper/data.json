@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:copper_ingot_from_blasting_raw_copper"
+        "recipes": "minecraft:copper_ingot_from_blasting_raw_copper"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

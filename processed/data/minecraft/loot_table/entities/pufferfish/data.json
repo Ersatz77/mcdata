@@ -3,12 +3,10 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:pufferfish",
           "type": "minecraft:item"
         }
@@ -16,12 +14,10 @@
       "rolls": 1.0
     },
     {
-      "conditions": [
-        {
-          "chance": 0.05,
-          "condition": "minecraft:random_chance"
-        }
-      ],
+      "condition": {
+        "chance": 0.05,
+        "type": "minecraft:random_chance"
+      },
       "entries": [
         {
           "name": "minecraft:bone_meal",

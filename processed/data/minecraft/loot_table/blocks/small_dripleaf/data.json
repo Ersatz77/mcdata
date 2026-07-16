@@ -1,12 +1,7 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:reference",
-          "name": "minecraft:tool/can_shear"
-        }
-      ],
+      "condition": "minecraft:tool/can_shear",
       "entries": [
         {
           "name": "minecraft:small_dripleaf",

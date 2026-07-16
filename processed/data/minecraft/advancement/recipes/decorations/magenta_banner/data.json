@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:magenta_banner"
+        "recipes": "minecraft:magenta_banner"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

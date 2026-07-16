@@ -1,17 +1,16 @@
 {
-  "given_item_modifiers": [
+  "given_item_modifier": [
     {
-      "function": "minecraft:enchant_with_levels",
       "include_additional_cost_component": true,
       "levels": {
         "max": 19.0,
         "min": 5.0,
         "type": "minecraft:uniform"
       },
-      "options": "#minecraft:on_traded_equipment"
+      "options": "#minecraft:on_traded_equipment",
+      "type": "minecraft:enchant_with_levels"
     },
     {
-      "function": "minecraft:filtered",
       "item_filter": {
         "items": "minecraft:iron_pickaxe",
         "predicates": {
@@ -21,8 +20,9 @@
         }
       },
       "on_fail": {
-        "function": "minecraft:discard"
-      }
+        "type": "minecraft:discard"
+      },
+      "type": "minecraft:filtered"
     }
   ],
   "gives": {

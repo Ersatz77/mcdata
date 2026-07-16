@@ -2,25 +2,28 @@
   "criteria": {
     "play_jukebox_in_meadows": {
       "conditions": {
-        "location": [
-          {
-            "condition": "minecraft:location_check",
-            "predicate": {
-              "biomes": "minecraft:meadow",
-              "block": {
-                "blocks": "minecraft:jukebox"
-              }
+        "location": {
+          "terms": [
+            {
+              "predicate": {
+                "biomes": "minecraft:meadow",
+                "block": {
+                  "blocks": "minecraft:jukebox"
+                }
+              },
+              "type": "minecraft:location_check"
+            },
+            {
+              "predicate": {
+                "predicates": {
+                  "minecraft:jukebox_playable": {}
+                }
+              },
+              "type": "minecraft:match_tool"
             }
-          },
-          {
-            "condition": "minecraft:match_tool",
-            "predicate": {
-              "predicates": {
-                "minecraft:jukebox_playable": {}
-              }
-            }
-          }
-        ]
+          ],
+          "type": "minecraft:all_of"
+        }
       },
       "trigger": "minecraft:item_used_on_block"
     }

@@ -6,24 +6,20 @@
           "items": "minecraft:crossbow"
         },
         "victims": [
-          [
-            {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "minecraft:entity_type": "minecraft:phantom"
-              }
-            }
-          ],
-          [
-            {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "minecraft:entity_type": "minecraft:phantom"
-              }
-            }
-          ]
+          {
+            "entity": "this",
+            "predicate": {
+              "minecraft:entity_type": "minecraft:phantom"
+            },
+            "type": "minecraft:entity_properties"
+          },
+          {
+            "entity": "this",
+            "predicate": {
+              "minecraft:entity_type": "minecraft:phantom"
+            },
+            "type": "minecraft:entity_properties"
+          }
         ]
       },
       "trigger": "minecraft:killed_by_arrow"

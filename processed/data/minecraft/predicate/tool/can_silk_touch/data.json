@@ -1,5 +1,4 @@
 {
-  "condition": "minecraft:match_tool",
   "predicate": {
     "predicates": {
       "minecraft:enchantments": [
@@ -11,5 +10,6 @@
         }
       ]
     }
-  }
+  },
+  "type": "minecraft:match_tool"
 }

@@ -3,67 +3,57 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:trial_key",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 5.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 5.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:stick",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:wooden_axe",
           "type": "minecraft:item",
           "weight": 10
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 8.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 8.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:honeycomb",
           "type": "minecraft:item",
           "weight": 10
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 10.0,
-                "min": 5.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 10.0,
+              "min": 5.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:arrow",
           "type": "minecraft:item",
           "weight": 10

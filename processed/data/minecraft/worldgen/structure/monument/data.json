@@ -9,8 +9,11 @@
       "bounding_box": "full",
       "spawns": [
         {
-          "maxCount": 4,
-          "minCount": 2,
+          "count": {
+            "max_inclusive": 4,
+            "min_inclusive": 2,
+            "type": "minecraft:uniform"
+          },
           "type": "minecraft:guardian",
           "weight": 1
         }

@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:creeper_banner_pattern"
+        "recipes": "minecraft:creeper_banner_pattern"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

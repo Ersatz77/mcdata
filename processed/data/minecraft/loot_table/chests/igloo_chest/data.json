@@ -3,46 +3,40 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:apple",
           "type": "minecraft:item",
           "weight": 15
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:coal",
           "type": "minecraft:item",
           "weight": 15
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:gold_nugget",
           "type": "minecraft:item",
           "weight": 10
@@ -62,16 +56,14 @@
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:wheat",
           "type": "minecraft:item",
           "weight": 10

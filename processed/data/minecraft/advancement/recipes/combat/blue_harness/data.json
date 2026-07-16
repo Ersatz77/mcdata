@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:blue_harness"
+        "recipes": "minecraft:blue_harness"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

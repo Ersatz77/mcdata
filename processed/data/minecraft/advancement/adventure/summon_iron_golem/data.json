@@ -2,15 +2,13 @@
   "criteria": {
     "summoned_golem": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:iron_golem"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:iron_golem"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:summoned_entity"
     }

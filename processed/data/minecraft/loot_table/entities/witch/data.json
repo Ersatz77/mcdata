@@ -3,14 +3,14 @@
     {
       "entries": [
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 2.0,
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -19,21 +19,21 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
+              "type": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:glowstone_dust",
           "type": "minecraft:item"
         },
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 2.0,
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -42,21 +42,21 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
+              "type": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:sugar",
           "type": "minecraft:item"
         },
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 2.0,
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -65,21 +65,21 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
+              "type": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:spider_eye",
           "type": "minecraft:item"
         },
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 2.0,
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -88,21 +88,21 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
+              "type": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:glass_bottle",
           "type": "minecraft:item"
         },
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 2.0,
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -111,21 +111,21 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
+              "type": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:gunpowder",
           "type": "minecraft:item"
         },
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 2.0,
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -134,7 +134,7 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
+              "type": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:stick",
@@ -151,14 +151,14 @@
     {
       "entries": [
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 8.0,
                 "min": 4.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -167,7 +167,7 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
+              "type": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:redstone",

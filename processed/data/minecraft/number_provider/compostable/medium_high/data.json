@@ -2,11 +2,11 @@
   "cases": [
     {
       "condition": {
-        "block": "minecraft:composter",
-        "condition": "minecraft:block_state_property",
-        "properties": {
+        "blocks": "minecraft:composter",
+        "state": {
           "level": "0"
-        }
+        },
+        "type": "minecraft:match_block"
       },
       "number_provider": 1.0
     }

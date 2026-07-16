@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:netherite_boots_smithing"
+        "recipes": "minecraft:netherite_boots_smithing"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

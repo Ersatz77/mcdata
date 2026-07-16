@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:smoker"
+        "recipes": "minecraft:smoker"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

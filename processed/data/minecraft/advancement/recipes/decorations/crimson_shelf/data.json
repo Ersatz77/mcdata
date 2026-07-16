@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:crimson_shelf"
+        "recipes": "minecraft:crimson_shelf"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

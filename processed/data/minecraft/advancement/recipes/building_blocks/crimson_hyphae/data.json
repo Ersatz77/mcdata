@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:crimson_hyphae"
+        "recipes": "minecraft:crimson_hyphae"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

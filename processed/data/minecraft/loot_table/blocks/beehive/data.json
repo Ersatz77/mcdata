@@ -5,26 +5,21 @@
         {
           "children": [
             {
-              "conditions": [
+              "condition": "minecraft:tool/can_silk_touch",
+              "modifier": [
                 {
-                  "condition": "minecraft:reference",
-                  "name": "minecraft:tool/can_silk_touch"
-                }
-              ],
-              "functions": [
-                {
-                  "function": "minecraft:copy_components",
                   "include": [
                     "minecraft:bees"
                   ],
-                  "source": "block_entity"
+                  "source": "block_entity",
+                  "type": "minecraft:copy_components"
                 },
                 {
                   "block": "minecraft:beehive",
-                  "function": "minecraft:copy_state",
                   "properties": [
                     "honey_level"
-                  ]
+                  ],
+                  "type": "minecraft:copy_state"
                 }
               ],
               "name": "minecraft:beehive",

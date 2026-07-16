@@ -22,29 +22,29 @@
           "type": "minecraft:all_of"
         },
         "requirements": {
-          "condition": "minecraft:all_of",
           "terms": [
             {
-              "condition": "minecraft:weather_check",
-              "thundering": true
+              "thundering": true,
+              "type": "minecraft:weather_check"
             },
             {
-              "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
                 "minecraft:entity_type": "minecraft:trident"
-              }
+              },
+              "type": "minecraft:entity_properties"
             },
             {
-              "condition": "minecraft:location_check",
               "predicate": {
                 "block": {
                   "blocks": "#minecraft:lightning_rods"
                 },
                 "can_see_sky": true
-              }
+              },
+              "type": "minecraft:location_check"
             }
-          ]
+          ],
+          "type": "minecraft:all_of"
         }
       }
     ],
@@ -68,29 +68,29 @@
         },
         "enchanted": "attacker",
         "requirements": {
-          "condition": "minecraft:all_of",
           "terms": [
             {
-              "condition": "minecraft:weather_check",
-              "thundering": true
+              "thundering": true,
+              "type": "minecraft:weather_check"
             },
             {
-              "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
                 "minecraft:location": {
                   "can_see_sky": true
                 }
-              }
+              },
+              "type": "minecraft:entity_properties"
             },
             {
-              "condition": "minecraft:entity_properties",
               "entity": "direct_attacker",
               "predicate": {
                 "minecraft:entity_type": "minecraft:trident"
-              }
+              },
+              "type": "minecraft:entity_properties"
             }
-          ]
+          ],
+          "type": "minecraft:all_of"
         }
       }
     ]

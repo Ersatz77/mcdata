@@ -2,7 +2,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:tuff_slab"
+        "recipes": "minecraft:tuff_slab"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

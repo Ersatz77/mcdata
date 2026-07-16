@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:gold_block"
+        "recipes": "minecraft:gold_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

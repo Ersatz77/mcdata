@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:muddy_mangrove_roots"
+        "recipes": "minecraft:muddy_mangrove_roots"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

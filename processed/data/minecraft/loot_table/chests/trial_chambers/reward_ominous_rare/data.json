@@ -13,17 +13,15 @@
           "weight": 4
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "max": 20.0,
-                "min": 5.0,
-                "type": "minecraft:uniform"
-              },
-              "options": "#minecraft:on_random_loot"
-            }
-          ],
+          "modifier": {
+            "levels": {
+              "max": 20.0,
+              "min": 5.0,
+              "type": "minecraft:uniform"
+            },
+            "options": "#minecraft:on_random_loot",
+            "type": "minecraft:enchant_with_levels"
+          },
           "name": "minecraft:crossbow",
           "type": "minecraft:item",
           "weight": 4
@@ -34,77 +32,67 @@
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "max": 20.0,
-                "min": 10.0,
-                "type": "minecraft:uniform"
-              },
-              "options": "#minecraft:on_random_loot"
-            }
-          ],
+          "modifier": {
+            "levels": {
+              "max": 20.0,
+              "min": 10.0,
+              "type": "minecraft:uniform"
+            },
+            "options": "#minecraft:on_random_loot",
+            "type": "minecraft:enchant_with_levels"
+          },
           "name": "minecraft:diamond_axe",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "max": 20.0,
-                "min": 10.0,
-                "type": "minecraft:uniform"
-              },
-              "options": "#minecraft:on_random_loot"
-            }
-          ],
+          "modifier": {
+            "levels": {
+              "max": 20.0,
+              "min": 10.0,
+              "type": "minecraft:uniform"
+            },
+            "options": "#minecraft:on_random_loot",
+            "type": "minecraft:enchant_with_levels"
+          },
           "name": "minecraft:diamond_chestplate",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": [
-                "minecraft:knockback",
-                "minecraft:punch",
-                "minecraft:smite",
-                "minecraft:looting",
-                "minecraft:multishot"
-              ]
-            }
-          ],
+          "modifier": {
+            "options": [
+              "minecraft:knockback",
+              "minecraft:punch",
+              "minecraft:smite",
+              "minecraft:looting",
+              "minecraft:multishot"
+            ],
+            "type": "minecraft:enchant_randomly"
+          },
           "name": "minecraft:book",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": [
-                "minecraft:breach",
-                "minecraft:density"
-              ]
-            }
-          ],
+          "modifier": {
+            "options": [
+              "minecraft:breach",
+              "minecraft:density"
+            ],
+            "type": "minecraft:enchant_randomly"
+          },
           "name": "minecraft:book",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "enchantments": {
-                "minecraft:wind_burst": 1.0
-              },
-              "function": "minecraft:set_enchantments"
-            }
-          ],
+          "modifier": {
+            "enchantments": {
+              "minecraft:wind_burst": 1.0
+            },
+            "type": "minecraft:set_enchantments"
+          },
           "name": "minecraft:book",
           "type": "minecraft:item",
           "weight": 2

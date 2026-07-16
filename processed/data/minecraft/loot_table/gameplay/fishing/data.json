@@ -9,17 +9,15 @@
           "weight": 10
         },
         {
-          "conditions": [
-            {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "minecraft:type_specific/fishing_hook": {
-                  "in_open_water": true
-                }
+          "condition": {
+            "entity": "this",
+            "predicate": {
+              "minecraft:type_specific/fishing_hook": {
+                "in_open_water": true
               }
-            }
-          ],
+            },
+            "type": "minecraft:entity_properties"
+          },
           "quality": 2,
           "type": "minecraft:loot_table",
           "value": "minecraft:gameplay/fishing/treasure",

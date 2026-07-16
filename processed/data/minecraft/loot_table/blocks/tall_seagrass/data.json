@@ -1,20 +1,13 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:reference",
-          "name": "minecraft:tool/can_shear"
-        }
-      ],
+      "condition": "minecraft:tool/can_shear",
       "entries": [
         {
-          "functions": [
-            {
-              "count": 2.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 2.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:seagrass",
           "type": "minecraft:item"
         }

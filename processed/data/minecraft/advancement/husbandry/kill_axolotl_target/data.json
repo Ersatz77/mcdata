@@ -2,15 +2,13 @@
   "criteria": {
     "kill_axolotl_target": {
       "conditions": {
-        "source": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:axolotl"
-            }
-          }
-        ]
+        "source": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:axolotl"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:effects_changed"
     }

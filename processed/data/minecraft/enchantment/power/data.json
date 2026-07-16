@@ -15,11 +15,11 @@
           }
         },
         "requirements": {
-          "condition": "minecraft:entity_properties",
           "entity": "direct_attacker",
           "predicate": {
             "minecraft:entity_type": "#minecraft:arrows"
-          }
+          },
+          "type": "minecraft:entity_properties"
         }
       }
     ]

@@ -1,6 +1,6 @@
 {
   "input": {
-    "argument": {
+    "input": {
       "input": "minecraft:y",
       "max_exclusive": 321.0,
       "min_inclusive": -60.0,
@@ -20,17 +20,17 @@
   "type": "minecraft:range_choice",
   "when_in_range": 64.0,
   "when_out_of_range": {
-    "argument1": {
-      "argument": {
+    "left": {
+      "input": {
         "input": "minecraft:y",
         "max_exclusive": 321.0,
         "min_inclusive": -60.0,
         "type": "minecraft:range_choice",
         "when_in_range": {
-          "argument1": -0.07500000000000001,
-          "argument2": {
-            "argument1": -0.025,
-            "argument2": {
+          "left": -0.07500000000000001,
+          "right": {
+            "left": -0.025,
+            "right": {
               "noise": "minecraft:noodle_thickness",
               "type": "minecraft:noise",
               "xz_scale": 1.0,
@@ -44,12 +44,12 @@
       },
       "type": "minecraft:interpolated"
     },
-    "argument2": {
-      "argument1": 1.5,
-      "argument2": {
-        "argument1": {
-          "argument": {
-            "argument": {
+    "right": {
+      "left": 1.5,
+      "right": {
+        "left": {
+          "input": {
+            "input": {
               "input": "minecraft:y",
               "max_exclusive": 321.0,
               "min_inclusive": -60.0,
@@ -66,9 +66,9 @@
           },
           "type": "minecraft:abs"
         },
-        "argument2": {
-          "argument": {
-            "argument": {
+        "right": {
+          "input": {
+            "input": {
               "input": "minecraft:y",
               "max_exclusive": 321.0,
               "min_inclusive": -60.0,

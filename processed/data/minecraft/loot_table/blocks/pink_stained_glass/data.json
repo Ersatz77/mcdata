@@ -1,12 +1,7 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:reference",
-          "name": "minecraft:tool/can_silk_touch"
-        }
-      ],
+      "condition": "minecraft:tool/can_silk_touch",
       "entries": [
         {
           "name": "minecraft:pink_stained_glass",

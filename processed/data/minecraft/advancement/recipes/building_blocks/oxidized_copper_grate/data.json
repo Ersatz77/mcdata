@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:oxidized_copper_grate"
+        "recipes": "minecraft:oxidized_copper_grate"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

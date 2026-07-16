@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:bamboo_hanging_sign"
+        "recipes": "minecraft:bamboo_hanging_sign"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

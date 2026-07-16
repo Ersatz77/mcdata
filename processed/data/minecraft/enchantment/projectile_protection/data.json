@@ -15,19 +15,19 @@
           }
         },
         "requirements": {
-          "condition": "minecraft:damage_source_properties",
           "predicate": {
             "tags": [
               {
                 "expected": true,
-                "id": "minecraft:is_projectile"
+                "id": "#minecraft:is_projectile"
               },
               {
                 "expected": false,
-                "id": "minecraft:bypasses_invulnerability"
+                "id": "#minecraft:bypasses_invulnerability"
               }
             ]
-          }
+          },
+          "type": "minecraft:damage_source_properties"
         }
       }
     ]

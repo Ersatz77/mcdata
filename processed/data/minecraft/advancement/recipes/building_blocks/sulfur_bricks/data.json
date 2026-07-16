@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:sulfur_bricks"
+        "recipes": "minecraft:sulfur_bricks"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

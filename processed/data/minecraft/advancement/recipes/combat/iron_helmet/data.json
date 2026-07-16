@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:iron_helmet"
+        "recipes": "minecraft:iron_helmet"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

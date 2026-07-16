@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:red_sandstone"
+        "recipes": "minecraft:red_sandstone"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

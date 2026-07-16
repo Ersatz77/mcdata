@@ -3,17 +3,15 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "function": "minecraft:copy_components",
-              "include": [
-                "minecraft:profile",
-                "minecraft:note_block_sound",
-                "minecraft:custom_name"
-              ],
-              "source": "block_entity"
-            }
-          ],
+          "modifier": {
+            "include": [
+              "minecraft:profile",
+              "minecraft:note_block_sound",
+              "minecraft:custom_name"
+            ],
+            "source": "block_entity",
+            "type": "minecraft:copy_components"
+          },
           "name": "minecraft:player_head",
           "type": "minecraft:item"
         }

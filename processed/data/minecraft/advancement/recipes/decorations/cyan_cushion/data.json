@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:cyan_cushion"
+        "recipes": "minecraft:cyan_cushion"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:red_harness"
+        "recipes": "minecraft:red_harness"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -1,22 +1,18 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ],
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
       "entries": [
         {
-          "conditions": [
-            {
-              "block": "minecraft:rose_bush",
-              "condition": "minecraft:block_state_property",
-              "properties": {
-                "half": "lower"
-              }
-            }
-          ],
+          "condition": {
+            "blocks": "minecraft:rose_bush",
+            "state": {
+              "half": "lower"
+            },
+            "type": "minecraft:match_block"
+          },
           "name": "minecraft:rose_bush",
           "type": "minecraft:item"
         }

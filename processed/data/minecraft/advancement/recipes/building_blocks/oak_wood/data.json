@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:oak_wood"
+        "recipes": "minecraft:oak_wood"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -1,10 +1,8 @@
 {
-  "given_item_modifiers": [
-    {
-      "function": "minecraft:set_potion",
-      "id": "minecraft:long_invisibility"
-    }
-  ],
+  "given_item_modifier": {
+    "id": "minecraft:long_invisibility",
+    "type": "minecraft:set_potion"
+  },
   "gives": {
     "id": "minecraft:potion"
   },

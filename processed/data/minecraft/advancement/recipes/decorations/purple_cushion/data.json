@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:purple_cushion"
+        "recipes": "minecraft:purple_cushion"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

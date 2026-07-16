@@ -17,26 +17,22 @@
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "enchantments": {
-                "minecraft:power": 1.0
-              },
-              "function": "minecraft:set_enchantments"
-            }
-          ],
+          "modifier": {
+            "enchantments": {
+              "minecraft:power": 1.0
+            },
+            "type": "minecraft:set_enchantments"
+          },
           "name": "minecraft:bow",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "enchantments": {
-                "minecraft:punch": 1.0
-              },
-              "function": "minecraft:set_enchantments"
-            }
-          ],
+          "modifier": {
+            "enchantments": {
+              "minecraft:punch": 1.0
+            },
+            "type": "minecraft:set_enchantments"
+          },
           "name": "minecraft:bow",
           "type": "minecraft:item"
         }

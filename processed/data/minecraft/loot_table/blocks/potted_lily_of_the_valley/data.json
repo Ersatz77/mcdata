@@ -1,11 +1,9 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ],
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
       "entries": [
         {
           "name": "minecraft:flower_pot",
@@ -15,11 +13,9 @@
       "rolls": 1.0
     },
     {
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ],
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
       "entries": [
         {
           "name": "minecraft:lily_of_the_valley",

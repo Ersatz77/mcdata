@@ -3,16 +3,14 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": {
-                "max": 2.0,
-                "min": 0.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 2.0,
+              "min": 0.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:poppy",
           "type": "minecraft:item"
         }
@@ -22,16 +20,14 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": {
-                "max": 5.0,
-                "min": 3.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 5.0,
+              "min": 3.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:iron_ingot",
           "type": "minecraft:item"
         }

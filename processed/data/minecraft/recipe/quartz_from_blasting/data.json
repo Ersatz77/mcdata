@@ -1,4 +1,5 @@
 {
+  "cookingtime": 200,
   "experience": 0.2,
   "ingredient": "minecraft:nether_quartz_ore",
   "result": {

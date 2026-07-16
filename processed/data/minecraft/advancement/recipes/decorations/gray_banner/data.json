@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:gray_banner"
+        "recipes": "minecraft:gray_banner"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

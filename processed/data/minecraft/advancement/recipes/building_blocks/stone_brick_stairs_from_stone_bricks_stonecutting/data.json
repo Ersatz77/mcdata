@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:stone_brick_stairs_from_stone_bricks_stonecutting"
+        "recipes": "minecraft:stone_brick_stairs_from_stone_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -5,32 +5,28 @@
         {
           "children": [
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:entity_properties",
-                  "entity": "this",
-                  "predicate": {
-                    "minecraft:components": {
-                      "minecraft:mooshroom/variant": "red"
-                    }
+              "condition": {
+                "entity": "this",
+                "predicate": {
+                  "minecraft:components": {
+                    "minecraft:mooshroom/variant": "red"
                   }
-                }
-              ],
+                },
+                "type": "minecraft:entity_properties"
+              },
               "type": "minecraft:loot_table",
               "value": "minecraft:shearing/mooshroom/red"
             },
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:entity_properties",
-                  "entity": "this",
-                  "predicate": {
-                    "minecraft:components": {
-                      "minecraft:mooshroom/variant": "brown"
-                    }
+              "condition": {
+                "entity": "this",
+                "predicate": {
+                  "minecraft:components": {
+                    "minecraft:mooshroom/variant": "brown"
                   }
-                }
-              ],
+                },
+                "type": "minecraft:entity_properties"
+              },
               "type": "minecraft:loot_table",
               "value": "minecraft:shearing/mooshroom/brown"
             }

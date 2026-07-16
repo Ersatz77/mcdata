@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:birch_planks"
+        "recipes": "minecraft:birch_planks"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

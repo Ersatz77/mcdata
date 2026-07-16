@@ -1,13 +1,12 @@
 {
-  "given_item_modifiers": [
+  "given_item_modifier": [
     {
       "enchantments": {
         "minecraft:respiration": 1.0
       },
-      "function": "minecraft:set_enchantments"
+      "type": "minecraft:set_enchantments"
     },
     {
-      "function": "minecraft:filtered",
       "item_filter": {
         "items": "minecraft:chainmail_helmet",
         "predicates": {
@@ -19,8 +18,9 @@
         }
       },
       "on_fail": {
-        "function": "minecraft:discard"
-      }
+        "type": "minecraft:discard"
+      },
+      "type": "minecraft:filtered"
     }
   ],
   "gives": {
@@ -28,13 +28,13 @@
   },
   "max_uses": 3.0,
   "merchant_predicate": {
-    "condition": "minecraft:entity_properties",
     "entity": "this",
     "predicate": {
       "minecraft:predicates": {
         "minecraft:villager/variant": "minecraft:swamp"
       }
-    }
+    },
+    "type": "minecraft:entity_properties"
   },
   "reputation_discount": 0.05,
   "wants": {

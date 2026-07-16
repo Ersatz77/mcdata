@@ -3,31 +3,27 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:coal",
           "type": "minecraft:item",
           "weight": 10
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:gold_nugget",
           "type": "minecraft:item",
           "weight": 10
@@ -42,16 +38,14 @@
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:wheat",
           "type": "minecraft:item",
           "weight": 10
@@ -70,12 +64,10 @@
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:on_random_loot"
-            }
-          ],
+          "modifier": {
+            "options": "#minecraft:on_random_loot",
+            "type": "minecraft:enchant_randomly"
+          },
           "name": "minecraft:book",
           "type": "minecraft:item",
           "weight": 5
@@ -89,30 +81,29 @@
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:on_random_loot"
-            }
-          ],
+          "modifier": {
+            "options": "#minecraft:on_random_loot",
+            "type": "minecraft:enchant_randomly"
+          },
           "name": "minecraft:fishing_rod",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
+          "modifier": [
             {
               "decoration": "minecraft:red_x",
-              "function": "minecraft:exploration_map",
+              "destination": "#minecraft:on_treasure_maps",
               "skip_existing_chunks": false,
+              "type": "minecraft:exploration_map",
               "zoom": 1
             },
             {
-              "function": "minecraft:set_name",
               "name": {
                 "translate": "filled_map.buried_treasure"
               },
-              "target": "item_name"
+              "target": "item_name",
+              "type": "minecraft:set_name"
             }
           ],
           "name": "minecraft:map",
@@ -129,45 +120,37 @@
           "weight": 148
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:copper_nautilus_armor",
           "type": "minecraft:item",
           "weight": 20
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:iron_nautilus_armor",
           "type": "minecraft:item",
           "weight": 10
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:golden_nautilus_armor",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:diamond_nautilus_armor",
           "type": "minecraft:item",
           "weight": 2

@@ -2,22 +2,25 @@
   "criteria": {
     "make_a_sign_glow": {
       "conditions": {
-        "location": [
-          {
-            "condition": "minecraft:location_check",
-            "predicate": {
-              "block": {
-                "blocks": "#minecraft:all_signs"
-              }
+        "location": {
+          "terms": [
+            {
+              "predicate": {
+                "block": {
+                  "blocks": "#minecraft:all_signs"
+                }
+              },
+              "type": "minecraft:location_check"
+            },
+            {
+              "predicate": {
+                "items": "minecraft:glow_ink_sac"
+              },
+              "type": "minecraft:match_tool"
             }
-          },
-          {
-            "condition": "minecraft:match_tool",
-            "predicate": {
-              "items": "minecraft:glow_ink_sac"
-            }
-          }
-        ]
+          ],
+          "type": "minecraft:all_of"
+        }
       },
       "trigger": "minecraft:item_used_on_block"
     }

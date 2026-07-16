@@ -3,16 +3,19 @@
     {
       "entries": [
         {
-          "conditions": [
-            {
-              "condition": "minecraft:survives_explosion"
-            },
-            {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {}
-            }
-          ],
+          "condition": {
+            "terms": [
+              {
+                "type": "minecraft:survives_explosion"
+              },
+              {
+                "entity": "this",
+                "predicate": {},
+                "type": "minecraft:entity_properties"
+              }
+            ],
+            "type": "minecraft:all_of"
+          },
           "name": "minecraft:chorus_flower",
           "type": "minecraft:item"
         }

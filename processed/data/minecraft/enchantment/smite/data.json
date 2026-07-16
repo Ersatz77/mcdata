@@ -15,11 +15,11 @@
           }
         },
         "requirements": {
-          "condition": "minecraft:entity_properties",
           "entity": "this",
           "predicate": {
             "minecraft:entity_type": "#minecraft:sensitive_to_smite"
-          }
+          },
+          "type": "minecraft:entity_properties"
         }
       }
     ]

@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:purple_bundle"
+        "recipes": "minecraft:purple_bundle"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

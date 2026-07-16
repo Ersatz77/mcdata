@@ -1,15 +1,13 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "block": "minecraft:cave_vines",
-          "condition": "minecraft:block_state_property",
-          "properties": {
-            "berries": "true"
-          }
-        }
-      ],
+      "condition": {
+        "blocks": "minecraft:cave_vines",
+        "state": {
+          "berries": "true"
+        },
+        "type": "minecraft:match_block"
+      },
       "entries": [
         {
           "name": "minecraft:glow_berries",

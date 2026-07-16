@@ -1,15 +1,15 @@
 {
-  "argument1": {
-    "argument1": 4.0,
-    "argument2": {
-      "argument": {
-        "argument1": {
-          "argument1": "minecraft:overworld/depth",
-          "argument2": {
-            "argument": {
-              "argument1": "minecraft:overworld/jaggedness",
-              "argument2": {
-                "argument": {
+  "left": {
+    "left": 4.0,
+    "right": {
+      "input": {
+        "left": {
+          "left": "minecraft:overworld/depth",
+          "right": {
+            "input": {
+              "left": "minecraft:overworld/jaggedness",
+              "right": {
+                "input": {
                   "noise": "minecraft:jagged",
                   "type": "minecraft:noise",
                   "xz_scale": 1500.0,
@@ -23,13 +23,13 @@
           },
           "type": "minecraft:add"
         },
-        "argument2": "minecraft:overworld/factor",
+        "right": "minecraft:overworld/factor",
         "type": "minecraft:mul"
       },
       "type": "minecraft:quarter_negative"
     },
     "type": "minecraft:mul"
   },
-  "argument2": "minecraft:overworld/base_3d_noise",
+  "right": "minecraft:overworld/base_3d_noise",
   "type": "minecraft:add"
 }

@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:clock"
+        "recipes": "minecraft:clock"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

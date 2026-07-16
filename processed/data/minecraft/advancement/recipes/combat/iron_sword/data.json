@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:iron_sword"
+        "recipes": "minecraft:iron_sword"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

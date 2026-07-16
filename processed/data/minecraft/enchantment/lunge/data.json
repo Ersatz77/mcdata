@@ -52,51 +52,48 @@
           "type": "minecraft:all_of"
         },
         "requirements": {
-          "condition": "minecraft:all_of",
           "terms": [
             {
-              "condition": "minecraft:inverted",
               "term": {
-                "condition": "minecraft:entity_properties",
                 "entity": "this",
                 "predicate": {
                   "minecraft:vehicle": {}
-                }
-              }
+                },
+                "type": "minecraft:entity_properties"
+              },
+              "type": "minecraft:inverted"
             },
             {
-              "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
                 "minecraft:flags": {
                   "is_fall_flying": false
                 }
-              }
+              },
+              "type": "minecraft:entity_properties"
             },
             {
-              "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
                 "minecraft:flags": {
                   "is_in_water": false
                 }
-              }
+              },
+              "type": "minecraft:entity_properties"
             },
             {
-              "condition": "minecraft:any_of",
               "terms": [
                 {
-                  "condition": "minecraft:inverted",
                   "term": {
-                    "condition": "minecraft:entity_properties",
                     "entity": "this",
                     "predicate": {
                       "minecraft:type_specific/player": {}
-                    }
-                  }
+                    },
+                    "type": "minecraft:entity_properties"
+                  },
+                  "type": "minecraft:inverted"
                 },
                 {
-                  "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
                     "minecraft:type_specific/player": {
@@ -104,10 +101,10 @@
                         "creative"
                       ]
                     }
-                  }
+                  },
+                  "type": "minecraft:entity_properties"
                 },
                 {
-                  "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
                     "minecraft:type_specific/player": {
@@ -117,11 +114,14 @@
                         }
                       }
                     }
-                  }
+                  },
+                  "type": "minecraft:entity_properties"
                 }
-              ]
+              ],
+              "type": "minecraft:any_of"
             }
-          ]
+          ],
+          "type": "minecraft:all_of"
         }
       }
     ]

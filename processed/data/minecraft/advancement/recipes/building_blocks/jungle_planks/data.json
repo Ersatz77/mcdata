@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:jungle_planks"
+        "recipes": "minecraft:jungle_planks"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

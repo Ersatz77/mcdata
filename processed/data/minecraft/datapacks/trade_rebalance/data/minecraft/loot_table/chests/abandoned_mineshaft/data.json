@@ -17,12 +17,10 @@
           "weight": 30
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:on_random_loot"
-            }
-          ],
+          "modifier": {
+            "options": "#minecraft:on_random_loot",
+            "type": "minecraft:enchant_randomly"
+          },
           "name": "minecraft:book",
           "type": "minecraft:item",
           "weight": 10
@@ -42,166 +40,144 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": {
-                "max": 5.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 5.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:iron_ingot",
           "type": "minecraft:item",
           "weight": 10
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:gold_ingot",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 9.0,
-                "min": 4.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 9.0,
+              "min": 4.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:redstone",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 9.0,
-                "min": 4.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 9.0,
+              "min": 4.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:lapis_lazuli",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 2.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 2.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:diamond",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 8.0,
-                "min": 3.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 8.0,
+              "min": 3.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:coal",
           "type": "minecraft:item",
           "weight": 10
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:bread",
           "type": "minecraft:item",
           "weight": 15
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 6.0,
-                "min": 3.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 6.0,
+              "min": 3.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:glow_berries",
           "type": "minecraft:item",
           "weight": 15
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:melon_seeds",
           "type": "minecraft:item",
           "weight": 10
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:pumpkin_seeds",
           "type": "minecraft:item",
           "weight": 10
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:beetroot_seeds",
           "type": "minecraft:item",
           "weight": 10
@@ -216,89 +192,77 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": {
-                "max": 8.0,
-                "min": 4.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 8.0,
+              "min": 4.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:rail",
           "type": "minecraft:item",
           "weight": 20
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:powered_rail",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:detector_rail",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:activator_rail",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 16.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 16.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:torch",
           "type": "minecraft:item",
           "weight": 15
         },
         {
-          "conditions": [
-            {
-              "condition": "minecraft:location_check",
-              "predicate": {
-                "biomes": "minecraft:sulfur_caves"
-              }
-            }
-          ],
+          "condition": {
+            "predicate": {
+              "biomes": "minecraft:sulfur_caves"
+            },
+            "type": "minecraft:location_check"
+          },
           "name": "minecraft:music_disc_bounce",
           "type": "minecraft:item",
           "weight": 10
@@ -313,12 +277,10 @@
           "weight": 4
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "minecraft:efficiency"
-            }
-          ],
+          "modifier": {
+            "options": "minecraft:efficiency",
+            "type": "minecraft:enchant_randomly"
+          },
           "name": "minecraft:book",
           "type": "minecraft:item"
         }

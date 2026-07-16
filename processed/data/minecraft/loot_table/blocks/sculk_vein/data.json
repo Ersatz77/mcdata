@@ -3,104 +3,87 @@
     {
       "entries": [
         {
-          "conditions": [
-            {
-              "condition": "minecraft:reference",
-              "name": "minecraft:tool/can_silk_touch"
-            }
-          ],
-          "functions": [
+          "condition": "minecraft:tool/can_silk_touch",
+          "modifier": [
             {
               "add": true,
-              "conditions": [
-                {
-                  "block": "minecraft:sculk_vein",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "down": "true"
-                  }
-                }
-              ],
+              "condition": {
+                "blocks": "minecraft:sculk_vein",
+                "state": {
+                  "down": "true"
+                },
+                "type": "minecraft:match_block"
+              },
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "add": true,
-              "conditions": [
-                {
-                  "block": "minecraft:sculk_vein",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "up": "true"
-                  }
-                }
-              ],
+              "condition": {
+                "blocks": "minecraft:sculk_vein",
+                "state": {
+                  "up": "true"
+                },
+                "type": "minecraft:match_block"
+              },
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "add": true,
-              "conditions": [
-                {
-                  "block": "minecraft:sculk_vein",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "north": "true"
-                  }
-                }
-              ],
+              "condition": {
+                "blocks": "minecraft:sculk_vein",
+                "state": {
+                  "north": "true"
+                },
+                "type": "minecraft:match_block"
+              },
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "add": true,
-              "conditions": [
-                {
-                  "block": "minecraft:sculk_vein",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "south": "true"
-                  }
-                }
-              ],
+              "condition": {
+                "blocks": "minecraft:sculk_vein",
+                "state": {
+                  "south": "true"
+                },
+                "type": "minecraft:match_block"
+              },
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "add": true,
-              "conditions": [
-                {
-                  "block": "minecraft:sculk_vein",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "west": "true"
-                  }
-                }
-              ],
+              "condition": {
+                "blocks": "minecraft:sculk_vein",
+                "state": {
+                  "west": "true"
+                },
+                "type": "minecraft:match_block"
+              },
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "add": true,
-              "conditions": [
-                {
-                  "block": "minecraft:sculk_vein",
-                  "condition": "minecraft:block_state_property",
-                  "properties": {
-                    "east": "true"
-                  }
-                }
-              ],
+              "condition": {
+                "blocks": "minecraft:sculk_vein",
+                "state": {
+                  "east": "true"
+                },
+                "type": "minecraft:match_block"
+              },
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "add": true,
               "count": -1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
-              "function": "minecraft:explosion_decay"
+              "type": "minecraft:explosion_decay"
             }
           ],
           "name": "minecraft:sculk_vein",

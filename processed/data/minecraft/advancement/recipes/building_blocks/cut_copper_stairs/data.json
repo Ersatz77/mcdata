@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:cut_copper_stairs"
+        "recipes": "minecraft:cut_copper_stairs"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

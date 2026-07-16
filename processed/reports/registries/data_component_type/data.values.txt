@@ -10,6 +10,7 @@ minecraft:block_state
 minecraft:block_transformer
 minecraft:blocks_attacks
 minecraft:break_sound
+minecraft:brewing_fuel
 minecraft:bucket_entity_data
 minecraft:bundle_contents
 minecraft:can_break
@@ -24,9 +25,11 @@ minecraft:compostable
 minecraft:consumable
 minecraft:container
 minecraft:container_loot
+minecraft:cooking_fuel
 minecraft:cow/sound_variant
 minecraft:cow/variant
 minecraft:creative_slot_lock
+minecraft:cushion/color
 minecraft:custom_data
 minecraft:custom_model_data
 minecraft:custom_name
@@ -66,6 +69,7 @@ minecraft:map_post_processing
 minecraft:max_damage
 minecraft:max_stack_size
 minecraft:minimum_attack_charge
+minecraft:mob_visibility
 minecraft:mooshroom/variant
 minecraft:note_block_sound
 minecraft:ominous_bottle_amplifier
@@ -89,6 +93,8 @@ minecraft:repairable
 minecraft:salmon/size
 minecraft:sheep/color
 minecraft:shulker/color
+minecraft:sign_text_back
+minecraft:sign_text_front
 minecraft:stored_enchantments
 minecraft:sulfur_cube_content
 minecraft:suspicious_stew_effects
@@ -105,6 +111,8 @@ minecraft:use_cooldown
 minecraft:use_effects
 minecraft:use_remainder
 minecraft:villager/variant
+minecraft:villager_food
+minecraft:waxed
 minecraft:weapon
 minecraft:wolf/collar
 minecraft:wolf/sound_variant

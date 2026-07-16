@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:chiseled_cinnabar"
+        "recipes": "minecraft:chiseled_cinnabar"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -8,6 +8,7 @@ minecraft:bed_rule
 minecraft:boolean
 minecraft:float
 minecraft:integer
+minecraft:mob_spawn_settings
 minecraft:moon_phase
 minecraft:particle
 minecraft:rgb_color

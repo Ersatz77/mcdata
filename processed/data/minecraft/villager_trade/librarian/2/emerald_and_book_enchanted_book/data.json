@@ -3,15 +3,14 @@
     "id": "minecraft:book"
   },
   "double_trade_price_enchantments": "#minecraft:double_trade_price",
-  "given_item_modifiers": [
+  "given_item_modifier": [
     {
-      "function": "minecraft:enchant_randomly",
       "include_additional_cost_component": true,
       "only_compatible": false,
-      "options": "#minecraft:tradeable"
+      "options": "#minecraft:tradeable",
+      "type": "minecraft:enchant_randomly"
     },
     {
-      "function": "minecraft:filtered",
       "item_filter": {
         "items": "minecraft:enchanted_book",
         "predicates": {
@@ -21,8 +20,9 @@
         }
       },
       "on_fail": {
-        "function": "minecraft:discard"
-      }
+        "type": "minecraft:discard"
+      },
+      "type": "minecraft:filtered"
     }
   ],
   "gives": {

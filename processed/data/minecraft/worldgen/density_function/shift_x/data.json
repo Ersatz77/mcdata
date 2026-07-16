@@ -1,7 +1,7 @@
 {
-  "argument": {
-    "argument": {
-      "argument": "minecraft:offset",
+  "input": {
+    "input": {
+      "noise": "minecraft:offset",
       "type": "minecraft:shift_a"
     },
     "type": "minecraft:cache_2d"

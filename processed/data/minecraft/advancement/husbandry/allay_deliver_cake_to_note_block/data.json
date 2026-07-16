@@ -2,22 +2,25 @@
   "criteria": {
     "allay_deliver_cake_to_note_block": {
       "conditions": {
-        "location": [
-          {
-            "condition": "minecraft:location_check",
-            "predicate": {
-              "block": {
-                "blocks": "minecraft:note_block"
-              }
+        "location": {
+          "terms": [
+            {
+              "predicate": {
+                "block": {
+                  "blocks": "minecraft:note_block"
+                }
+              },
+              "type": "minecraft:location_check"
+            },
+            {
+              "predicate": {
+                "items": "minecraft:cake"
+              },
+              "type": "minecraft:match_tool"
             }
-          },
-          {
-            "condition": "minecraft:match_tool",
-            "predicate": {
-              "items": "minecraft:cake"
-            }
-          }
-        ]
+          ],
+          "type": "minecraft:all_of"
+        }
       },
       "trigger": "minecraft:allay_drop_item_on_block"
     }

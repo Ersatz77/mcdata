@@ -3,44 +3,40 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "conditions": [
+          "modifier": {
+            "condition": {
+              "terms": [
                 {
-                  "condition": "minecraft:any_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:entity_properties",
-                      "entity": "this",
-                      "predicate": {
-                        "minecraft:flags": {
-                          "is_on_fire": true
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:entity_properties",
-                      "entity": "direct_attacker",
-                      "predicate": {
-                        "minecraft:equipment": {
-                          "mainhand": {
-                            "predicates": {
-                              "minecraft:enchantments": [
-                                {
-                                  "enchantments": "#minecraft:smelts_loot"
-                                }
-                              ]
+                  "entity": "this",
+                  "predicate": {
+                    "minecraft:flags": {
+                      "is_on_fire": true
+                    }
+                  },
+                  "type": "minecraft:entity_properties"
+                },
+                {
+                  "entity": "direct_attacker",
+                  "predicate": {
+                    "minecraft:equipment": {
+                      "mainhand": {
+                        "predicates": {
+                          "minecraft:enchantments": [
+                            {
+                              "enchantments": "#minecraft:smelts_loot"
                             }
-                          }
+                          ]
                         }
                       }
                     }
-                  ]
+                  },
+                  "type": "minecraft:entity_properties"
                 }
               ],
-              "function": "minecraft:furnace_smelt"
-            }
-          ],
+              "type": "minecraft:any_of"
+            },
+            "type": "minecraft:furnace_smelt"
+          },
           "name": "minecraft:salmon",
           "type": "minecraft:item"
         }
@@ -48,12 +44,10 @@
       "rolls": 1.0
     },
     {
-      "conditions": [
-        {
-          "chance": 0.05,
-          "condition": "minecraft:random_chance"
-        }
-      ],
+      "condition": {
+        "chance": 0.05,
+        "type": "minecraft:random_chance"
+      },
       "entries": [
         {
           "name": "minecraft:bone_meal",

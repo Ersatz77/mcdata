@@ -1,0 +1,10 @@
+{
+  "left": -0.30000001192092896,
+  "right": {
+    "noise": "minecraft:ore_gap",
+    "type": "minecraft:noise",
+    "xz_scale": 1.0,
+    "y_scale": 1.0
+  },
+  "type": "minecraft:sub"
+}

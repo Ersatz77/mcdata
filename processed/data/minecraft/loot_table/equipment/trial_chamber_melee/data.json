@@ -17,26 +17,22 @@
           "weight": 4
         },
         {
-          "functions": [
-            {
-              "enchantments": {
-                "minecraft:sharpness": 1.0
-              },
-              "function": "minecraft:set_enchantments"
-            }
-          ],
+          "modifier": {
+            "enchantments": {
+              "minecraft:sharpness": 1.0
+            },
+            "type": "minecraft:set_enchantments"
+          },
           "name": "minecraft:iron_sword",
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "enchantments": {
-                "minecraft:knockback": 1.0
-              },
-              "function": "minecraft:set_enchantments"
-            }
-          ],
+          "modifier": {
+            "enchantments": {
+              "minecraft:knockback": 1.0
+            },
+            "type": "minecraft:set_enchantments"
+          },
           "name": "minecraft:iron_sword",
           "type": "minecraft:item"
         },

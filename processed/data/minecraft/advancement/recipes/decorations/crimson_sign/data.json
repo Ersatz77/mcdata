@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:crimson_sign"
+        "recipes": "minecraft:crimson_sign"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

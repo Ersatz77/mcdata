@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:bamboo_shelf"
+        "recipes": "minecraft:bamboo_shelf"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

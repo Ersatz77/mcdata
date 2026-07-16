@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:lectern"
+        "recipes": "minecraft:lectern"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

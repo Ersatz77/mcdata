@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:black_wool_stairs"
+        "recipes": "minecraft:black_wool_stairs"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

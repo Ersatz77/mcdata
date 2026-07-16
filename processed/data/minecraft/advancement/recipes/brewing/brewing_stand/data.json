@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:brewing_stand"
+        "recipes": "minecraft:brewing_stand"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

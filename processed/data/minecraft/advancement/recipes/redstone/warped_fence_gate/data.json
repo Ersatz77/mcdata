@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:warped_fence_gate"
+        "recipes": "minecraft:warped_fence_gate"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

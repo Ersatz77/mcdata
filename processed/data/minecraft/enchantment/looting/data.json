@@ -16,11 +16,11 @@
         },
         "enchanted": "attacker",
         "requirements": {
-          "condition": "minecraft:entity_properties",
           "entity": "attacker",
           "predicate": {
             "minecraft:entity_type": "minecraft:player"
-          }
+          },
+          "type": "minecraft:entity_properties"
         }
       }
     ]

@@ -3,14 +3,14 @@
     {
       "entries": [
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 2.0,
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -19,7 +19,7 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
+              "type": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:seagrass",
@@ -30,19 +30,17 @@
       "rolls": 1.0
     },
     {
-      "conditions": [
-        {
-          "condition": "minecraft:damage_source_properties",
-          "predicate": {
-            "tags": [
-              {
-                "expected": true,
-                "id": "minecraft:is_lightning"
-              }
-            ]
-          }
-        }
-      ],
+      "condition": {
+        "predicate": {
+          "tags": [
+            {
+              "expected": true,
+              "id": "#minecraft:is_lightning"
+            }
+          ]
+        },
+        "type": "minecraft:damage_source_properties"
+      },
       "entries": [
         {
           "name": "minecraft:bowl",

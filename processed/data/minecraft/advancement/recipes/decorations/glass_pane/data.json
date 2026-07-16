@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:glass_pane"
+        "recipes": "minecraft:glass_pane"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

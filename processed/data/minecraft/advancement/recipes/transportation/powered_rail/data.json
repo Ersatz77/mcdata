@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:powered_rail"
+        "recipes": "minecraft:powered_rail"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

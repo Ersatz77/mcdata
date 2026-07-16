@@ -2,22 +2,21 @@
   "additional_wants": {
     "id": "minecraft:compass"
   },
-  "given_item_modifiers": [
+  "given_item_modifier": [
     {
       "decoration": "minecraft:trial_chambers",
-      "destination": "minecraft:on_trial_chambers_maps",
-      "function": "minecraft:exploration_map",
-      "search_radius": 100
+      "destination": "#minecraft:on_trial_chambers_maps",
+      "search_radius": 100,
+      "type": "minecraft:exploration_map"
     },
     {
-      "function": "minecraft:set_name",
       "name": {
         "translate": "filled_map.trial_chambers"
       },
-      "target": "item_name"
+      "target": "item_name",
+      "type": "minecraft:set_name"
     },
     {
-      "function": "minecraft:filtered",
       "item_filter": {
         "items": "minecraft:filled_map",
         "predicates": {
@@ -25,8 +24,9 @@
         }
       },
       "on_fail": {
-        "function": "minecraft:discard"
-      }
+        "type": "minecraft:discard"
+      },
+      "type": "minecraft:filtered"
     }
   ],
   "gives": {

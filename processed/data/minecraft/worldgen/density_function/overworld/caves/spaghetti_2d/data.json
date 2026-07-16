@@ -1,12 +1,12 @@
 {
   "input": {
-    "argument1": {
-      "argument1": {
-        "argument": {
+    "left": {
+      "left": {
+        "input": {
           "functions": [
             {
-              "argument1": 0.5,
-              "argument2": {
+              "left": 0.5,
+              "right": {
                 "noise": "minecraft:spaghetti_2d",
                 "type": "minecraft:noise",
                 "xz_scale": 2.0,
@@ -15,8 +15,8 @@
               "type": "minecraft:mul"
             },
             {
-              "argument1": 0.75,
-              "argument2": {
+              "left": 0.75,
+              "right": {
                 "noise": "minecraft:spaghetti_2d",
                 "type": "minecraft:noise",
                 "xz_scale": 1.3333333333333333,
@@ -25,8 +25,8 @@
               "type": "minecraft:mul"
             },
             {
-              "argument1": 1.0,
-              "argument2": {
+              "left": 1.0,
+              "right": {
                 "noise": "minecraft:spaghetti_2d",
                 "type": "minecraft:noise",
                 "xz_scale": 1.0,
@@ -35,8 +35,8 @@
               "type": "minecraft:mul"
             },
             {
-              "argument1": 2.0,
-              "argument2": {
+              "left": 2.0,
+              "right": {
                 "noise": "minecraft:spaghetti_2d",
                 "type": "minecraft:noise",
                 "xz_scale": 0.5,
@@ -45,8 +45,8 @@
               "type": "minecraft:mul"
             },
             {
-              "argument1": 3.0,
-              "argument2": {
+              "left": 3.0,
+              "right": {
                 "noise": "minecraft:spaghetti_2d",
                 "type": "minecraft:noise",
                 "xz_scale": 0.3333333333333333,
@@ -71,35 +71,31 @@
         },
         "type": "minecraft:abs"
       },
-      "argument2": {
-        "argument1": 0.083,
-        "argument2": "minecraft:overworld/caves/spaghetti_2d_thickness_modulator",
+      "right": {
+        "left": 0.083,
+        "right": "minecraft:overworld/caves/spaghetti_2d_thickness_modulator",
         "type": "minecraft:mul"
       },
       "type": "minecraft:add"
     },
-    "argument2": {
-      "argument": {
-        "argument1": {
-          "argument": {
-            "argument1": {
-              "argument": {
-                "argument1": 0.0,
-                "argument2": {
-                  "argument1": 8.0,
-                  "argument2": {
-                    "noise": "minecraft:spaghetti_2d_elevation",
-                    "type": "minecraft:noise",
-                    "xz_scale": 1.0,
-                    "y_scale": 0.0
-                  },
-                  "type": "minecraft:mul"
+    "right": {
+      "input": {
+        "left": {
+          "input": {
+            "left": {
+              "input": {
+                "left": 8.0,
+                "right": {
+                  "noise": "minecraft:spaghetti_2d_elevation",
+                  "type": "minecraft:noise",
+                  "xz_scale": 1.0,
+                  "y_scale": 0.0
                 },
-                "type": "minecraft:add"
+                "type": "minecraft:mul"
               },
               "type": "minecraft:flat_cache"
             },
-            "argument2": {
+            "right": {
               "from_value": 8.0,
               "from_y": -64,
               "to_value": -40.0,
@@ -110,7 +106,7 @@
           },
           "type": "minecraft:abs"
         },
-        "argument2": "minecraft:overworld/caves/spaghetti_2d_thickness_modulator",
+        "right": "minecraft:overworld/caves/spaghetti_2d_thickness_modulator",
         "type": "minecraft:add"
       },
       "type": "minecraft:cube"

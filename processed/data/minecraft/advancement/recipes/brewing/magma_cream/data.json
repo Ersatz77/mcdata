@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:magma_cream"
+        "recipes": "minecraft:magma_cream"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

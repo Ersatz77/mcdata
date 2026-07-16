@@ -3,69 +3,63 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:cooked_chicken",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:bread",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:baked_potato",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
+          "modifier": [
             {
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
-              "function": "minecraft:set_potion",
-              "id": "minecraft:regeneration"
+              "id": "minecraft:regeneration",
+              "type": "minecraft:set_potion"
             }
           ],
           "name": "minecraft:potion",
           "type": "minecraft:item"
         },
         {
-          "functions": [
+          "modifier": [
             {
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
-              "function": "minecraft:set_potion",
-              "id": "minecraft:swiftness"
+              "id": "minecraft:swiftness",
+              "type": "minecraft:set_potion"
             }
           ],
           "name": "minecraft:potion",

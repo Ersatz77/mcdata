@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:bamboo_mosaic_stairs"
+        "recipes": "minecraft:bamboo_mosaic_stairs"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

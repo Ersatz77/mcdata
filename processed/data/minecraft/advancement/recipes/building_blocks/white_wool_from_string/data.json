@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:white_wool_from_string"
+        "recipes": "minecraft:white_wool_from_string"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

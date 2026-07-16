@@ -2,15 +2,13 @@
   "criteria": {
     "blowback": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:breeze"
-            }
-          }
-        ],
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:breeze"
+          },
+          "type": "minecraft:entity_properties"
+        },
         "killing_blow": {
           "direct_entity": {
             "minecraft:entity_type": "minecraft:breeze_wind_charge"
@@ -18,7 +16,7 @@
           "tags": [
             {
               "expected": true,
-              "id": "minecraft:is_projectile"
+              "id": "#minecraft:is_projectile"
             }
           ]
         }

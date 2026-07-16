@@ -1,0 +1,177 @@
+{
+  "features": [
+    {
+      "feature": {
+        "features": [
+          {
+            "data": {
+              "feature": {
+                "to_place": {
+                  "blocks": "#minecraft:corals",
+                  "type": "minecraft:random_block_provider"
+                },
+                "type": "minecraft:simple_block"
+              },
+              "placement": []
+            },
+            "weight": 20
+          },
+          {
+            "data": {
+              "feature": "minecraft:sea_pickle",
+              "placement": []
+            },
+            "weight": 3
+          },
+          {
+            "data": {
+              "feature": {
+                "type": "minecraft:no_op"
+              },
+              "placement": []
+            },
+            "weight": 57
+          }
+        ],
+        "type": "minecraft:weighted_random_selector"
+      },
+      "placement": [
+        {
+          "type": "minecraft:offset",
+          "x": 0,
+          "y": 1,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "feature": {
+        "to_place": {
+          "direction": "north",
+          "state": {
+            "blocks": "#minecraft:wall_corals",
+            "type": "minecraft:random_block_provider"
+          },
+          "type": "minecraft:rotated_block_provider"
+        },
+        "type": "minecraft:simple_block"
+      },
+      "placement": [
+        {
+          "chance": 0.2,
+          "type": "minecraft:random_chance"
+        },
+        {
+          "type": "minecraft:offset",
+          "x": 0,
+          "y": 0,
+          "z": -1
+        },
+        {
+          "predicate": {
+            "blocks": "minecraft:water",
+            "type": "minecraft:matching_blocks"
+          },
+          "type": "minecraft:block_predicate_filter"
+        }
+      ]
+    },
+    {
+      "feature": {
+        "to_place": {
+          "direction": "east",
+          "state": {
+            "blocks": "#minecraft:wall_corals",
+            "type": "minecraft:random_block_provider"
+          },
+          "type": "minecraft:rotated_block_provider"
+        },
+        "type": "minecraft:simple_block"
+      },
+      "placement": [
+        {
+          "chance": 0.2,
+          "type": "minecraft:random_chance"
+        },
+        {
+          "type": "minecraft:offset",
+          "x": 1,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "predicate": {
+            "blocks": "minecraft:water",
+            "type": "minecraft:matching_blocks"
+          },
+          "type": "minecraft:block_predicate_filter"
+        }
+      ]
+    },
+    {
+      "feature": {
+        "to_place": {
+          "direction": "south",
+          "state": {
+            "blocks": "#minecraft:wall_corals",
+            "type": "minecraft:random_block_provider"
+          },
+          "type": "minecraft:rotated_block_provider"
+        },
+        "type": "minecraft:simple_block"
+      },
+      "placement": [
+        {
+          "chance": 0.2,
+          "type": "minecraft:random_chance"
+        },
+        {
+          "type": "minecraft:offset",
+          "x": 0,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "predicate": {
+            "blocks": "minecraft:water",
+            "type": "minecraft:matching_blocks"
+          },
+          "type": "minecraft:block_predicate_filter"
+        }
+      ]
+    },
+    {
+      "feature": {
+        "to_place": {
+          "direction": "west",
+          "state": {
+            "blocks": "#minecraft:wall_corals",
+            "type": "minecraft:random_block_provider"
+          },
+          "type": "minecraft:rotated_block_provider"
+        },
+        "type": "minecraft:simple_block"
+      },
+      "placement": [
+        {
+          "chance": 0.2,
+          "type": "minecraft:random_chance"
+        },
+        {
+          "type": "minecraft:offset",
+          "x": -1,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "predicate": {
+            "blocks": "minecraft:water",
+            "type": "minecraft:matching_blocks"
+          },
+          "type": "minecraft:block_predicate_filter"
+        }
+      ]
+    }
+  ],
+  "type": "minecraft:overlay"
+}

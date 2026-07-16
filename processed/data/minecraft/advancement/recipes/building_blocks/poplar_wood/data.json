@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:poplar_wood"
+        "recipes": "minecraft:poplar_wood"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

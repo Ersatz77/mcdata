@@ -8,19 +8,19 @@
       {
         "effect": {},
         "requirements": {
-          "condition": "minecraft:damage_source_properties",
           "predicate": {
             "tags": [
               {
                 "expected": true,
-                "id": "minecraft:burn_from_stepping"
+                "id": "#minecraft:burn_from_stepping"
               },
               {
                 "expected": false,
-                "id": "minecraft:bypasses_invulnerability"
+                "id": "#minecraft:bypasses_invulnerability"
               }
             ]
-          }
+          },
+          "type": "minecraft:damage_source_properties"
         }
       }
     ],
@@ -81,28 +81,28 @@
           "type": "minecraft:replace_disk"
         },
         "requirements": {
-          "condition": "minecraft:all_of",
           "terms": [
             {
-              "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
                 "minecraft:flags": {
                   "is_on_ground": true
                 }
-              }
+              },
+              "type": "minecraft:entity_properties"
             },
             {
-              "condition": "minecraft:inverted",
               "term": {
-                "condition": "minecraft:entity_properties",
                 "entity": "this",
                 "predicate": {
                   "minecraft:vehicle": {}
-                }
-              }
+                },
+                "type": "minecraft:entity_properties"
+              },
+              "type": "minecraft:inverted"
             }
-          ]
+          ],
+          "type": "minecraft:all_of"
         }
       }
     ]

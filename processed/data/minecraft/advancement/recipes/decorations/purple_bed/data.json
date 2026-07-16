@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:purple_bed"
+        "recipes": "minecraft:purple_bed"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

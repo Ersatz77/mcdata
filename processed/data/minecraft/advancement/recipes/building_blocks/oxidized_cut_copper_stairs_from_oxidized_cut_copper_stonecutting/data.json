@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting"
+        "recipes": "minecraft:oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

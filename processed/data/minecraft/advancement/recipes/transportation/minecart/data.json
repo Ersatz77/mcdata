@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:minecart"
+        "recipes": "minecraft:minecart"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

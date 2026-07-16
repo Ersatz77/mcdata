@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:dye_green_carpet"
+        "recipes": "minecraft:dye_green_carpet"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -1,7 +1,6 @@
 {
-  "given_item_modifiers": [
+  "given_item_modifier": [
     {
-      "function": "minecraft:set_random_dyes",
       "number_of_dyes": {
         "summands": [
           1.0,
@@ -12,10 +11,10 @@
           }
         ],
         "type": "minecraft:sum"
-      }
+      },
+      "type": "minecraft:set_random_dyes"
     },
     {
-      "function": "minecraft:filtered",
       "item_filter": {
         "items": "minecraft:leather_boots",
         "predicates": {
@@ -23,8 +22,9 @@
         }
       },
       "on_fail": {
-        "function": "minecraft:discard"
-      }
+        "type": "minecraft:discard"
+      },
+      "type": "minecraft:filtered"
     }
   ],
   "gives": {

@@ -2,7 +2,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:yellow_cushion"
+        "recipes": "minecraft:yellow_cushion"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

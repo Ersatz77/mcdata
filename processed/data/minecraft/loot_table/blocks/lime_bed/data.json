@@ -1,22 +1,18 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ],
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
       "entries": [
         {
-          "conditions": [
-            {
-              "block": "minecraft:lime_bed",
-              "condition": "minecraft:block_state_property",
-              "properties": {
-                "part": "head"
-              }
-            }
-          ],
+          "condition": {
+            "blocks": "minecraft:lime_bed",
+            "state": {
+              "part": "head"
+            },
+            "type": "minecraft:match_block"
+          },
           "name": "minecraft:lime_bed",
           "type": "minecraft:item"
         }

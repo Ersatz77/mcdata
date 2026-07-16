@@ -22,7 +22,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:bowl"
+        "recipes": "minecraft:bowl"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

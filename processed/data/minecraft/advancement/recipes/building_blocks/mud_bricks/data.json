@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:mud_bricks"
+        "recipes": "minecraft:mud_bricks"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

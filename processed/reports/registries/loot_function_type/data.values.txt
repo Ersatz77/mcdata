@@ -14,7 +14,6 @@ minecraft:filtered
 minecraft:furnace_smelt
 minecraft:limit_count
 minecraft:modify_contents
-minecraft:reference
 minecraft:sequence
 minecraft:set_attributes
 minecraft:set_banner_pattern

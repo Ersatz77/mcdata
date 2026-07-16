@@ -2,25 +2,28 @@
   "criteria": {
     "under_lock_and_key": {
       "conditions": {
-        "location": [
-          {
-            "condition": "minecraft:location_check",
-            "predicate": {
-              "block": {
-                "blocks": "minecraft:vault",
-                "state": {
-                  "ominous": "false"
+        "location": {
+          "terms": [
+            {
+              "predicate": {
+                "block": {
+                  "blocks": "minecraft:vault",
+                  "state": {
+                    "ominous": "false"
+                  }
                 }
-              }
+              },
+              "type": "minecraft:location_check"
+            },
+            {
+              "predicate": {
+                "items": "minecraft:trial_key"
+              },
+              "type": "minecraft:match_tool"
             }
-          },
-          {
-            "condition": "minecraft:match_tool",
-            "predicate": {
-              "items": "minecraft:trial_key"
-            }
-          }
-        ]
+          ],
+          "type": "minecraft:all_of"
+        }
       },
       "trigger": "minecraft:item_used_on_block"
     }

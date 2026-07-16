@@ -5,33 +5,28 @@
         {
           "children": [
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:reference",
-                  "name": "minecraft:tool/can_silk_touch"
-                }
-              ],
+              "condition": "minecraft:tool/can_silk_touch",
               "name": "minecraft:red_mushroom_block",
               "type": "minecraft:item"
             },
             {
-              "functions": [
+              "modifier": [
                 {
                   "count": {
                     "max": 2.0,
                     "min": -6.0,
                     "type": "minecraft:uniform"
                   },
-                  "function": "minecraft:set_count"
+                  "type": "minecraft:set_count"
                 },
                 {
-                  "function": "minecraft:limit_count",
                   "limit": {
                     "min": 0.0
-                  }
+                  },
+                  "type": "minecraft:limit_count"
                 },
                 {
-                  "function": "minecraft:explosion_decay"
+                  "type": "minecraft:explosion_decay"
                 }
               ],
               "name": "minecraft:red_mushroom",

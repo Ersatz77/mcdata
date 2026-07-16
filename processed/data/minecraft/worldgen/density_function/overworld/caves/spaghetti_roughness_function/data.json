@@ -1,10 +1,10 @@
 {
-  "argument": {
-    "argument1": {
-      "argument1": -0.05,
-      "argument2": {
-        "argument1": -0.05,
-        "argument2": {
+  "input": {
+    "left": {
+      "left": -0.05,
+      "right": {
+        "left": -0.05,
+        "right": {
           "noise": "minecraft:spaghetti_roughness_modulator",
           "type": "minecraft:noise",
           "xz_scale": 1.0,
@@ -14,10 +14,10 @@
       },
       "type": "minecraft:add"
     },
-    "argument2": {
-      "argument1": -0.4,
-      "argument2": {
-        "argument": {
+    "right": {
+      "left": -0.4,
+      "right": {
+        "input": {
           "noise": "minecraft:spaghetti_roughness",
           "type": "minecraft:noise",
           "xz_scale": 1.0,

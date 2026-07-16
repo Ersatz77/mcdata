@@ -5,33 +5,26 @@
         {
           "children": [
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:reference",
-                  "name": "minecraft:tool/can_shear"
-                }
-              ],
+              "condition": "minecraft:tool/can_shear",
               "name": "minecraft:short_grass",
               "type": "minecraft:item"
             },
             {
-              "conditions": [
-                {
-                  "chance": 0.125,
-                  "condition": "minecraft:random_chance"
-                }
-              ],
-              "functions": [
+              "condition": {
+                "chance": 0.125,
+                "type": "minecraft:random_chance"
+              },
+              "modifier": [
                 {
                   "enchantment": "minecraft:fortune",
                   "formula": "minecraft:uniform_bonus_count",
-                  "function": "minecraft:apply_bonus",
                   "parameters": {
                     "bonusMultiplier": 2
-                  }
+                  },
+                  "type": "minecraft:apply_bonus"
                 },
                 {
-                  "function": "minecraft:explosion_decay"
+                  "type": "minecraft:explosion_decay"
                 }
               ],
               "name": "minecraft:wheat_seeds",

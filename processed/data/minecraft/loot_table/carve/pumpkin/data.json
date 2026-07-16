@@ -3,12 +3,10 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": 4.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 4.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:pumpkin_seeds",
           "type": "minecraft:item"
         }

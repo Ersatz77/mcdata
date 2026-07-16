@@ -1,22 +1,18 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ],
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
       "entries": [
         {
-          "conditions": [
-            {
-              "block": "minecraft:sunflower",
-              "condition": "minecraft:block_state_property",
-              "properties": {
-                "half": "lower"
-              }
-            }
-          ],
+          "condition": {
+            "blocks": "minecraft:sunflower",
+            "state": {
+              "half": "lower"
+            },
+            "type": "minecraft:match_block"
+          },
           "name": "minecraft:sunflower",
           "type": "minecraft:item"
         }

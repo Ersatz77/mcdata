@@ -1,7 +1,5 @@
 {
-  "spread_height": 4,
-  "spread_width": 8,
-  "state_provider": {
+  "to_place": {
     "entries": [
       {
         "data": {
@@ -30,5 +28,5 @@
     ],
     "type": "minecraft:weighted_state_provider"
   },
-  "type": "minecraft:nether_forest_vegetation"
+  "type": "minecraft:simple_block"
 }

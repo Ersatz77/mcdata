@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:coal"
+        "recipes": "minecraft:coal"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

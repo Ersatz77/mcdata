@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:purpur_stairs"
+        "recipes": "minecraft:purpur_stairs"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

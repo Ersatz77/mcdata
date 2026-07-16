@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:dye_red_cushion"
+        "recipes": "minecraft:dye_red_cushion"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

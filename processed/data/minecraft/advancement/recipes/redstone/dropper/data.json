@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:dropper"
+        "recipes": "minecraft:dropper"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

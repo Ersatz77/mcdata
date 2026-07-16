@@ -2,575 +2,493 @@
   "criteria": {
     "minecraft:blaze": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:blaze"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:blaze"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:bogged": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:bogged"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:bogged"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:breeze": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:breeze"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:breeze"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:camel_husk": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:camel_husk"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:camel_husk"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:cave_spider": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:cave_spider"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:cave_spider"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:creaking": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:creaking"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:creaking"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:creeper": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:creeper"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:creeper"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:drowned": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:drowned"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:drowned"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:elder_guardian": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:elder_guardian"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:elder_guardian"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:ender_dragon": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:ender_dragon"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:ender_dragon"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:enderman": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:enderman"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:enderman"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:endermite": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:endermite"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:endermite"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:evoker": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:evoker"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:evoker"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:ghast": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:ghast"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:ghast"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:guardian": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:guardian"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:guardian"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:hoglin": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:hoglin"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:hoglin"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:husk": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:husk"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:husk"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:magma_cube": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:magma_cube"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:magma_cube"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:parched": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:parched"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:parched"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:phantom": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:phantom"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:phantom"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:piglin": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:piglin"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:piglin"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:piglin_brute": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:piglin_brute"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:piglin_brute"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:pillager": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:pillager"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:pillager"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:ravager": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:ravager"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:ravager"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:shulker": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:shulker"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:shulker"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:silverfish": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:silverfish"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:silverfish"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:skeleton": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:skeleton"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:skeleton"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:slime": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:slime"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:slime"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:spider": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:spider"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:spider"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:stray": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:stray"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:stray"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:vex": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:vex"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:vex"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:vindicator": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:vindicator"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:vindicator"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:witch": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:witch"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:witch"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:wither": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:wither"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:wither"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:wither_skeleton": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:wither_skeleton"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:wither_skeleton"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:zoglin": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:zoglin"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:zoglin"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:zombie": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:zombie"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:zombie"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:zombie_horse": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:zombie_horse"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:zombie_horse"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:zombie_nautilus": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:zombie_nautilus"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:zombie_nautilus"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:zombie_villager": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:zombie_villager"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:zombie_villager"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     },
     "minecraft:zombified_piglin": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:zombified_piglin"
-            }
-          }
-        ]
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:zombified_piglin"
+          },
+          "type": "minecraft:entity_properties"
+        }
       },
       "trigger": "minecraft:player_killed_entity"
     }

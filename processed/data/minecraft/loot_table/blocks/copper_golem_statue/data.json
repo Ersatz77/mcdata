@@ -1,27 +1,25 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ],
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
       "entries": [
         {
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:copy_components",
               "include": [
                 "minecraft:custom_name"
               ],
-              "source": "block_entity"
+              "source": "block_entity",
+              "type": "minecraft:copy_components"
             },
             {
               "block": "minecraft:copper_golem_statue",
-              "function": "minecraft:copy_state",
               "properties": [
                 "copper_golem_pose"
-              ]
+              ],
+              "type": "minecraft:copy_state"
             }
           ],
           "name": "minecraft:copper_golem_statue",

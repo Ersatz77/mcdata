@@ -5,40 +5,35 @@
         {
           "children": [
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:any_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:reference",
-                      "name": "minecraft:tool/can_shear"
-                    },
-                    {
-                      "condition": "minecraft:reference",
-                      "name": "minecraft:tool/can_silk_touch"
-                    }
-                  ]
-                }
-              ],
+              "condition": {
+                "terms": [
+                  "minecraft:tool/can_shear",
+                  "minecraft:tool/can_silk_touch"
+                ],
+                "type": "minecraft:any_of"
+              },
               "name": "minecraft:birch_leaves",
               "type": "minecraft:item"
             },
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:survives_explosion"
-                },
-                {
-                  "chances": [
-                    0.05,
-                    0.0625,
-                    0.083333336,
-                    0.1
-                  ],
-                  "condition": "minecraft:table_bonus",
-                  "enchantment": "minecraft:fortune"
-                }
-              ],
+              "condition": {
+                "terms": [
+                  {
+                    "type": "minecraft:survives_explosion"
+                  },
+                  {
+                    "chances": [
+                      0.05,
+                      0.0625,
+                      0.083333336,
+                      0.1
+                    ],
+                    "enchantment": "minecraft:fortune",
+                    "type": "minecraft:table_bonus"
+                  }
+                ],
+                "type": "minecraft:all_of"
+              },
               "name": "minecraft:birch_sapling",
               "type": "minecraft:item"
             }
@@ -49,50 +44,40 @@
       "rolls": 1.0
     },
     {
-      "conditions": [
-        {
-          "condition": "minecraft:inverted",
-          "term": {
-            "condition": "minecraft:any_of",
-            "terms": [
-              {
-                "condition": "minecraft:reference",
-                "name": "minecraft:tool/can_shear"
-              },
-              {
-                "condition": "minecraft:reference",
-                "name": "minecraft:tool/can_silk_touch"
-              }
-            ]
-          }
-        }
-      ],
+      "condition": {
+        "term": {
+          "terms": [
+            "minecraft:tool/can_shear",
+            "minecraft:tool/can_silk_touch"
+          ],
+          "type": "minecraft:any_of"
+        },
+        "type": "minecraft:inverted"
+      },
       "entries": [
         {
-          "conditions": [
-            {
-              "chances": [
-                0.02,
-                0.022222223,
-                0.025,
-                0.033333335,
-                0.1
-              ],
-              "condition": "minecraft:table_bonus",
-              "enchantment": "minecraft:fortune"
-            }
-          ],
-          "functions": [
+          "condition": {
+            "chances": [
+              0.02,
+              0.022222223,
+              0.025,
+              0.033333335,
+              0.1
+            ],
+            "enchantment": "minecraft:fortune",
+            "type": "minecraft:table_bonus"
+          },
+          "modifier": [
             {
               "count": {
                 "max": 2.0,
                 "min": 1.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
-              "function": "minecraft:explosion_decay"
+              "type": "minecraft:explosion_decay"
             }
           ],
           "name": "minecraft:stick",

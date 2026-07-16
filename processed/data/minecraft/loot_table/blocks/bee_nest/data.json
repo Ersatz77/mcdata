@@ -1,28 +1,23 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:reference",
-          "name": "minecraft:tool/can_silk_touch"
-        }
-      ],
+      "condition": "minecraft:tool/can_silk_touch",
       "entries": [
         {
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:copy_components",
               "include": [
                 "minecraft:bees"
               ],
-              "source": "block_entity"
+              "source": "block_entity",
+              "type": "minecraft:copy_components"
             },
             {
               "block": "minecraft:bee_nest",
-              "function": "minecraft:copy_state",
               "properties": [
                 "honey_level"
-              ]
+              ],
+              "type": "minecraft:copy_state"
             }
           ],
           "name": "minecraft:bee_nest",

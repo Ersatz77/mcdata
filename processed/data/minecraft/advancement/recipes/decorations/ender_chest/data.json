@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:ender_chest"
+        "recipes": "minecraft:ender_chest"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

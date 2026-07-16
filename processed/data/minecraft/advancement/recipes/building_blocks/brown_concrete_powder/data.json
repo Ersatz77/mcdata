@@ -22,7 +22,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:brown_concrete_powder"
+        "recipes": "minecraft:brown_concrete_powder"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

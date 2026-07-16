@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:gray_cushion"
+        "recipes": "minecraft:gray_cushion"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

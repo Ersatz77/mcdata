@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:golden_pickaxe"
+        "recipes": "minecraft:golden_pickaxe"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

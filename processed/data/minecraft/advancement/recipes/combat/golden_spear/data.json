@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:golden_spear"
+        "recipes": "minecraft:golden_spear"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

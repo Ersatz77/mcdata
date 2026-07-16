@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:polished_andesite_stairs_from_andesite_stonecutting"
+        "recipes": "minecraft:polished_andesite_stairs_from_andesite_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -1,23 +1,21 @@
 {
   "pools": [
     {
-      "conditions": [
-        {
-          "condition": "minecraft:entity_properties",
-          "entity": "this",
-          "predicate": {
-            "minecraft:type_specific/raider": {
-              "is_captain": true
-            }
+      "condition": {
+        "entity": "this",
+        "predicate": {
+          "minecraft:type_specific/raider": {
+            "is_captain": true
           }
-        }
-      ],
+        },
+        "type": "minecraft:entity_properties"
+      },
       "entries": [
         {
-          "functions": [
+          "modifier": [
             {
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "amplifier": {
@@ -25,7 +23,7 @@
                 "min": 0.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_ominous_bottle_amplifier"
+              "type": "minecraft:set_ominous_bottle_amplifier"
             }
           ],
           "name": "minecraft:ominous_bottle",

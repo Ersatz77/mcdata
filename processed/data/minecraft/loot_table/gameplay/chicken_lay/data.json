@@ -5,47 +5,41 @@
         {
           "children": [
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:entity_properties",
-                  "entity": "this",
-                  "predicate": {
-                    "minecraft:components": {
-                      "minecraft:chicken/variant": "minecraft:temperate"
-                    }
+              "condition": {
+                "entity": "this",
+                "predicate": {
+                  "minecraft:components": {
+                    "minecraft:chicken/variant": "minecraft:temperate"
                   }
-                }
-              ],
+                },
+                "type": "minecraft:entity_properties"
+              },
               "name": "minecraft:egg",
               "type": "minecraft:item"
             },
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:entity_properties",
-                  "entity": "this",
-                  "predicate": {
-                    "minecraft:components": {
-                      "minecraft:chicken/variant": "minecraft:warm"
-                    }
+              "condition": {
+                "entity": "this",
+                "predicate": {
+                  "minecraft:components": {
+                    "minecraft:chicken/variant": "minecraft:warm"
                   }
-                }
-              ],
+                },
+                "type": "minecraft:entity_properties"
+              },
               "name": "minecraft:brown_egg",
               "type": "minecraft:item"
             },
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:entity_properties",
-                  "entity": "this",
-                  "predicate": {
-                    "minecraft:components": {
-                      "minecraft:chicken/variant": "minecraft:cold"
-                    }
+              "condition": {
+                "entity": "this",
+                "predicate": {
+                  "minecraft:components": {
+                    "minecraft:chicken/variant": "minecraft:cold"
                   }
-                }
-              ],
+                },
+                "type": "minecraft:entity_properties"
+              },
               "name": "minecraft:blue_egg",
               "type": "minecraft:item"
             }

@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:black_bundle"
+        "recipes": "minecraft:black_bundle"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

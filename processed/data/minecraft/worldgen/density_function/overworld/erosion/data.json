@@ -1,5 +1,5 @@
 {
-  "argument": {
+  "input": {
     "noise": "minecraft:erosion",
     "shift_x": "minecraft:shift_x",
     "shift_y": 0.0,

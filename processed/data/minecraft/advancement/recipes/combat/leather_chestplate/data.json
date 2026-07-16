@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:leather_chestplate"
+        "recipes": "minecraft:leather_chestplate"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

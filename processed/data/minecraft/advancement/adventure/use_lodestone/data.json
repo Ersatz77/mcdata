@@ -2,22 +2,25 @@
   "criteria": {
     "use_lodestone": {
       "conditions": {
-        "location": [
-          {
-            "condition": "minecraft:location_check",
-            "predicate": {
-              "block": {
-                "blocks": "minecraft:lodestone"
-              }
+        "location": {
+          "terms": [
+            {
+              "predicate": {
+                "block": {
+                  "blocks": "minecraft:lodestone"
+                }
+              },
+              "type": "minecraft:location_check"
+            },
+            {
+              "predicate": {
+                "items": "minecraft:compass"
+              },
+              "type": "minecraft:match_tool"
             }
-          },
-          {
-            "condition": "minecraft:match_tool",
-            "predicate": {
-              "items": "minecraft:compass"
-            }
-          }
-        ]
+          ],
+          "type": "minecraft:all_of"
+        }
       },
       "trigger": "minecraft:item_used_on_block"
     }

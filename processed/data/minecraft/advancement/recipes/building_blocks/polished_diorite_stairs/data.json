@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:polished_diorite_stairs"
+        "recipes": "minecraft:polished_diorite_stairs"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -22,7 +22,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:red_sandstone_slab"
+        "recipes": "minecraft:red_sandstone_slab"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

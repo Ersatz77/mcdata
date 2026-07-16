@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    "minecraft:smoker",
+    "minecraft:blast_furnace"
+  ],
+  "type": "minecraft:match_block"
+}

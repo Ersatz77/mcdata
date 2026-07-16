@@ -3,14 +3,14 @@
     {
       "entries": [
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 5.0,
                 "min": 2.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "count": {
@@ -19,7 +19,7 @@
                 "type": "minecraft:uniform"
               },
               "enchantment": "minecraft:looting",
-              "function": "minecraft:enchanted_count_increase"
+              "type": "minecraft:enchanted_count_increase"
             }
           ],
           "name": "minecraft:string",

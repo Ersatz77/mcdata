@@ -2,15 +2,13 @@
   "criteria": {
     "remove_wolf_armor": {
       "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:wolf"
-            }
-          }
-        ],
+        "entity": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:wolf"
+          },
+          "type": "minecraft:entity_properties"
+        },
         "item": {
           "items": "minecraft:wolf_armor"
         }

@@ -2,15 +2,13 @@
   "criteria": {
     "who_needs_rockets": {
       "conditions": {
-        "cause": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:entity_type": "minecraft:wind_charge"
-            }
-          }
-        ],
+        "cause": {
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:wind_charge"
+          },
+          "type": "minecraft:entity_properties"
+        },
         "distance": {
           "y": {
             "min": 7.0

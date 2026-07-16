@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:torch"
+        "recipes": "minecraft:torch"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

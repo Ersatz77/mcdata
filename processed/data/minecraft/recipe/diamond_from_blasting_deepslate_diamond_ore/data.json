@@ -1,4 +1,5 @@
 {
+  "cookingtime": 200,
   "experience": 1.0,
   "group": "diamond",
   "ingredient": "minecraft:deepslate_diamond_ore",

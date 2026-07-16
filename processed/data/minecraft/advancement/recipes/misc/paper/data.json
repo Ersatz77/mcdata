@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:paper"
+        "recipes": "minecraft:paper"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

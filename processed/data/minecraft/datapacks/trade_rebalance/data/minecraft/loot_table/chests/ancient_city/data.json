@@ -3,16 +3,14 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": {
-                "max": 2.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 2.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:enchanted_golden_apple",
           "type": "minecraft:item"
         },
@@ -21,36 +19,32 @@
           "type": "minecraft:item"
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:compass",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 2.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 2.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:sculk_catalyst",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
+          "modifier": [
             {
               "count": 1.0,
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
               "damage": {
@@ -58,16 +52,16 @@
                 "min": 0.8,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_damage"
+              "type": "minecraft:set_damage"
             },
             {
-              "function": "minecraft:enchant_with_levels",
               "levels": {
                 "max": 50.0,
                 "min": 30.0,
                 "type": "minecraft:uniform"
               },
-              "options": "#minecraft:on_random_loot"
+              "options": "#minecraft:on_random_loot",
+              "type": "minecraft:enchant_with_levels"
             }
           ],
           "name": "minecraft:diamond_hoe",
@@ -75,34 +69,28 @@
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:lead",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:diamond_horse_armor",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "count": 1.0,
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:saddle",
           "type": "minecraft:item",
           "weight": 2
@@ -118,181 +106,159 @@
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "max": 50.0,
-                "min": 30.0,
-                "type": "minecraft:uniform"
-              },
-              "options": "#minecraft:on_random_loot"
-            }
-          ],
+          "modifier": {
+            "levels": {
+              "max": 50.0,
+              "min": 30.0,
+              "type": "minecraft:uniform"
+            },
+            "options": "#minecraft:on_random_loot",
+            "type": "minecraft:enchant_with_levels"
+          },
           "name": "minecraft:diamond_leggings",
           "type": "minecraft:item",
           "weight": 2
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "minecraft:swift_sneak"
-            }
-          ],
+          "modifier": {
+            "options": "minecraft:swift_sneak",
+            "type": "minecraft:enchant_randomly"
+          },
           "name": "minecraft:book",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 10.0,
-                "min": 4.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 10.0,
+              "min": 4.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:sculk",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:sculk_sensor",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 4.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:candle",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 15.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 15.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:amethyst_shard",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:experience_bottle",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 15.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 15.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:glow_berries",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "max": 39.0,
-                "min": 20.0,
-                "type": "minecraft:uniform"
-              },
-              "options": "#minecraft:on_random_loot"
-            }
-          ],
+          "modifier": {
+            "levels": {
+              "max": 39.0,
+              "min": 20.0,
+              "type": "minecraft:uniform"
+            },
+            "options": "#minecraft:on_random_loot",
+            "type": "minecraft:enchant_with_levels"
+          },
           "name": "minecraft:iron_leggings",
           "type": "minecraft:item",
           "weight": 3
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:echo_shard",
           "type": "minecraft:item",
           "weight": 4
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 3.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 3.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:disc_fragment_5",
           "type": "minecraft:item",
           "weight": 4
         },
         {
-          "functions": [
+          "modifier": [
             {
               "count": {
                 "max": 3.0,
                 "min": 1.0,
                 "type": "minecraft:uniform"
               },
-              "function": "minecraft:set_count"
+              "type": "minecraft:set_count"
             },
             {
-              "function": "minecraft:set_potion",
-              "id": "minecraft:strong_regeneration"
+              "id": "minecraft:strong_regeneration",
+              "type": "minecraft:set_potion"
             }
           ],
           "name": "minecraft:potion",
@@ -300,72 +266,62 @@
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:on_random_loot"
-            }
-          ],
+          "modifier": {
+            "options": "#minecraft:on_random_loot",
+            "type": "minecraft:enchant_randomly"
+          },
           "name": "minecraft:book",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 10.0,
-                "min": 3.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 10.0,
+              "min": 3.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:book",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 15.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 15.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:bone",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 15.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 15.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:soul_torch",
           "type": "minecraft:item",
           "weight": 5
         },
         {
-          "functions": [
-            {
-              "count": {
-                "max": 15.0,
-                "min": 6.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
+          "modifier": {
+            "count": {
+              "max": 15.0,
+              "min": 6.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
           "name": "minecraft:coal",
           "type": "minecraft:item",
           "weight": 7
@@ -384,12 +340,10 @@
           "weight": 71
         },
         {
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly",
-              "options": "minecraft:mending"
-            }
-          ],
+          "modifier": {
+            "options": "minecraft:mending",
+            "type": "minecraft:enchant_randomly"
+          },
           "name": "minecraft:book",
           "type": "minecraft:item",
           "weight": 4

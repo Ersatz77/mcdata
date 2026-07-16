@@ -12,7 +12,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:polished_cinnabar"
+        "recipes": "minecraft:polished_cinnabar"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
