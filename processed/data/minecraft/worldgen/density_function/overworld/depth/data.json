@@ -1,10 +1,11 @@
 {
   "left": {
+    "axis": "y",
+    "from_coordinate": -64,
     "from_value": 1.5,
-    "from_y": -64,
+    "to_coordinate": 320,
     "to_value": -1.5,
-    "to_y": 320,
-    "type": "minecraft:y_clamped_gradient"
+    "type": "minecraft:gradient"
   },
   "right": "minecraft:overworld/offset",
   "type": "minecraft:add"

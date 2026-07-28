@@ -20287,7 +20287,7 @@
         "protocol_id": 20
       },
       "minecraft:add": {
-        "protocol_id": 32
+        "protocol_id": 35
       },
       "minecraft:beardifier": {
         "protocol_id": 2
@@ -20311,34 +20311,40 @@
         "protocol_id": 7
       },
       "minecraft:ceil": {
-        "protocol_id": 30
+        "protocol_id": 33
       },
       "minecraft:clamp": {
         "protocol_id": 19
       },
       "minecraft:constant": {
-        "protocol_id": 39
+        "protocol_id": 43
       },
       "minecraft:cube": {
         "protocol_id": 22
       },
-      "minecraft:div": {
-        "protocol_id": 35
+      "minecraft:distance_to_point": {
+        "protocol_id": 46
       },
-      "minecraft:end_islands": {
+      "minecraft:div": {
+        "protocol_id": 38
+      },
+      "minecraft:end_outer_islands": {
         "protocol_id": 12
       },
       "minecraft:find_top_surface": {
-        "protocol_id": 41
+        "protocol_id": 47
       },
       "minecraft:flat_cache": {
         "protocol_id": 5
       },
       "minecraft:floor": {
-        "protocol_id": 28
+        "protocol_id": 31
+      },
+      "minecraft:gradient": {
+        "protocol_id": 45
       },
       "minecraft:half_negative": {
-        "protocol_id": 23
+        "protocol_id": 24
       },
       "minecraft:interpolated": {
         "protocol_id": 4
@@ -20349,17 +20355,20 @@
       "minecraft:lerp": {
         "protocol_id": 10
       },
+      "minecraft:log": {
+        "protocol_id": 29
+      },
       "minecraft:max": {
-        "protocol_id": 37
+        "protocol_id": 40
       },
       "minecraft:min": {
-        "protocol_id": 36
+        "protocol_id": 39
       },
       "minecraft:mul": {
-        "protocol_id": 34
+        "protocol_id": 37
       },
       "minecraft:negate": {
-        "protocol_id": 26
+        "protocol_id": 27
       },
       "minecraft:noise": {
         "protocol_id": 11
@@ -20367,17 +20376,20 @@
       "minecraft:old_blended_noise": {
         "protocol_id": 3
       },
+      "minecraft:pow": {
+        "protocol_id": 41
+      },
       "minecraft:quarter_negative": {
-        "protocol_id": 24
+        "protocol_id": 25
       },
       "minecraft:range_choice": {
         "protocol_id": 14
       },
       "minecraft:reciprocal": {
-        "protocol_id": 25
+        "protocol_id": 26
       },
       "minecraft:round": {
-        "protocol_id": 29
+        "protocol_id": 32
       },
       "minecraft:shift": {
         "protocol_id": 18
@@ -20391,23 +20403,29 @@
       "minecraft:shifted_noise": {
         "protocol_id": 13
       },
+      "minecraft:sign": {
+        "protocol_id": 30
+      },
+      "minecraft:slice": {
+        "protocol_id": 44
+      },
       "minecraft:spline": {
-        "protocol_id": 38
+        "protocol_id": 42
+      },
+      "minecraft:sqrt": {
+        "protocol_id": 23
       },
       "minecraft:square": {
         "protocol_id": 21
       },
       "minecraft:squeeze": {
-        "protocol_id": 27
+        "protocol_id": 28
       },
       "minecraft:sub": {
-        "protocol_id": 33
+        "protocol_id": 36
       },
       "minecraft:truncate": {
-        "protocol_id": 31
-      },
-      "minecraft:y_clamped_gradient": {
-        "protocol_id": 40
+        "protocol_id": 34
       }
     },
     "protocol_id": 55

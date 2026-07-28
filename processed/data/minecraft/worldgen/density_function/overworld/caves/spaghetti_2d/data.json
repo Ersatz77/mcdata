@@ -96,11 +96,12 @@
               "type": "minecraft:flat_cache"
             },
             "right": {
+              "axis": "y",
+              "from_coordinate": -64,
               "from_value": 8.0,
-              "from_y": -64,
+              "to_coordinate": 320,
               "to_value": -40.0,
-              "to_y": 320,
-              "type": "minecraft:y_clamped_gradient"
+              "type": "minecraft:gradient"
             },
             "type": "minecraft:add"
           },

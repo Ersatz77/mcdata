@@ -19,7 +19,9 @@
   },
   "noise_router": {
     "continents": 0.0,
-    "depth": {
+    "depth": 0.0,
+    "erosion": 0.0,
+    "final_density": {
       "left": {
         "input": {
           "input": {
@@ -27,20 +29,22 @@
             "right": {
               "input": {
                 "alpha": {
+                  "axis": "y",
+                  "from_coordinate": -72,
                   "from_value": 0.0,
-                  "from_y": -72,
+                  "to_coordinate": -40,
                   "to_value": 1.0,
-                  "to_y": -40,
-                  "type": "minecraft:y_clamped_gradient"
+                  "type": "minecraft:gradient"
                 },
                 "first": 2.5,
                 "second": {
                   "alpha": {
+                    "axis": "y",
+                    "from_coordinate": 104,
                     "from_value": 1.0,
-                    "from_y": 104,
+                    "to_coordinate": 128,
                     "to_value": 0.0,
-                    "to_y": 128,
-                    "type": "minecraft:y_clamped_gradient"
+                    "type": "minecraft:gradient"
                   },
                   "first": 0.9375,
                   "second": "minecraft:nether/base_3d_noise",
@@ -61,8 +65,6 @@
       },
       "type": "minecraft:add"
     },
-    "erosion": 0.0,
-    "final_density": 0.0,
     "preliminary_surface_level": 0.0,
     "ridges": 0.0,
     "temperature": 0.0,
