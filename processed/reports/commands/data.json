@@ -12256,10 +12256,44 @@
         "targets": {
           "children": {
             "mainhand": {
+              "children": {
+                "animation": {
+                  "children": {
+                    "duration": {
+                      "executable": true,
+                      "parser": "minecraft:time",
+                      "properties": {
+                        "min": 1
+                      },
+                      "type": "argument"
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:swing_animation",
+                  "type": "argument"
+                }
+              },
               "executable": true,
               "type": "literal"
             },
             "offhand": {
+              "children": {
+                "animation": {
+                  "children": {
+                    "duration": {
+                      "executable": true,
+                      "parser": "minecraft:time",
+                      "properties": {
+                        "min": 1
+                      },
+                      "type": "argument"
+                    }
+                  },
+                  "executable": true,
+                  "parser": "minecraft:swing_animation",
+                  "type": "argument"
+                }
+              },
               "executable": true,
               "type": "literal"
             }

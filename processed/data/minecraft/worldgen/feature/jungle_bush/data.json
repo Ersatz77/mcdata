@@ -10,9 +10,7 @@
           "type": "minecraft:not"
         },
         "then": {
-          "state": {
-            "Name": "minecraft:dirt"
-          },
+          "state": "minecraft:dirt",
           "type": "minecraft:simple_state_provider"
         }
       }
@@ -27,14 +25,7 @@
     "type": "minecraft:bush_foliage_placer"
   },
   "foliage_provider": {
-    "state": {
-      "Name": "minecraft:oak_leaves",
-      "Properties": {
-        "distance": "7",
-        "persistent": "false",
-        "waterlogged": "false"
-      }
-    },
+    "state": "minecraft:oak_leaves",
     "type": "minecraft:simple_state_provider"
   },
   "ignore_vines": false,
@@ -50,12 +41,7 @@
     "type": "minecraft:straight_trunk_placer"
   },
   "trunk_provider": {
-    "state": {
-      "Name": "minecraft:jungle_log",
-      "Properties": {
-        "axis": "y"
-      }
-    },
+    "state": "minecraft:jungle_log",
     "type": "minecraft:simple_state_provider"
   },
   "type": "minecraft:tree"

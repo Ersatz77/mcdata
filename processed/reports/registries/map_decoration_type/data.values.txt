@@ -1,3 +1,5 @@
+minecraft:abandoned_camp
+minecraft:ancient_city
 minecraft:banner_black
 minecraft:banner_blue
 minecraft:banner_brown
@@ -15,10 +17,13 @@ minecraft:banner_red
 minecraft:banner_white
 minecraft:banner_yellow
 minecraft:blue_marker
+minecraft:desert_pyramid
 minecraft:frame
 minecraft:jungle_temple
 minecraft:mansion
+minecraft:mineshaft
 minecraft:monument
+minecraft:ocean_ruin_warm
 minecraft:player
 minecraft:player_off_limits
 minecraft:player_off_map

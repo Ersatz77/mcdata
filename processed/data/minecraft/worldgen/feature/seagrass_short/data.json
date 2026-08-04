@@ -4,12 +4,7 @@
       "data": {
         "feature": {
           "to_place": {
-            "state": {
-              "Name": "minecraft:tall_seagrass",
-              "Properties": {
-                "half": "lower"
-              }
-            },
+            "state": "minecraft:tall_seagrass",
             "type": "minecraft:simple_state_provider"
           },
           "type": "minecraft:simple_block"
@@ -35,9 +30,7 @@
       "data": {
         "feature": {
           "to_place": {
-            "state": {
-              "Name": "minecraft:seagrass"
-            },
+            "state": "minecraft:seagrass",
             "type": "minecraft:simple_state_provider"
           },
           "type": "minecraft:simple_block"

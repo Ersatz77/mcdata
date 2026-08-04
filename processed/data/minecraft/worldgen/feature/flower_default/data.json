@@ -2,15 +2,11 @@
   "to_place": {
     "entries": [
       {
-        "data": {
-          "Name": "minecraft:poppy"
-        },
+        "data": "minecraft:poppy",
         "weight": 2
       },
       {
-        "data": {
-          "Name": "minecraft:dandelion"
-        },
+        "data": "minecraft:dandelion",
         "weight": 1
       }
     ],

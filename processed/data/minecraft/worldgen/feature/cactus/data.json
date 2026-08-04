@@ -12,12 +12,7 @@
         "type": "minecraft:biased_to_bottom"
       },
       "provider": {
-        "state": {
-          "Name": "minecraft:cactus",
-          "Properties": {
-            "age": "0"
-          }
-        },
+        "state": "minecraft:cactus",
         "type": "minecraft:simple_state_provider"
       }
     },
@@ -36,9 +31,7 @@
         "type": "minecraft:weighted_list"
       },
       "provider": {
-        "state": {
-          "Name": "minecraft:cactus_flower"
-        },
+        "state": "minecraft:cactus_flower",
         "type": "minecraft:simple_state_provider"
       }
     }

@@ -42,7 +42,6 @@
     "minecraft:is_panicking",
     "minecraft:is_pregnant",
     "minecraft:is_sniffing",
-    "minecraft:is_tempted",
     "minecraft:item_pickup_cooldown_ticks",
     "minecraft:job_site",
     "minecraft:last_slept",

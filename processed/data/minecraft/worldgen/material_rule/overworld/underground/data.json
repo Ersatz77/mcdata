@@ -20,12 +20,7 @@
         "type": "minecraft:vertical_gradient"
       },
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:deepslate",
-          "Properties": {
-            "axis": "y"
-          }
-        },
+        "result_state": "minecraft:deepslate",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"

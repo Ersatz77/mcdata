@@ -1,5 +1,6 @@
 {
   "components": {
+    "minecraft:attack_animation": {},
     "minecraft:attribute_modifiers": [
       {
         "amount": 8.0,
@@ -27,26 +28,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_oak_wood",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_oak_wood",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oak_log",
@@ -54,26 +41,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_oak_log",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_oak_log",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:dark_oak_wood",
@@ -81,26 +54,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_dark_oak_wood",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_dark_oak_wood",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:dark_oak_log",
@@ -108,26 +67,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_dark_oak_log",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_dark_oak_log",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:pale_oak_wood",
@@ -135,26 +80,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_pale_oak_wood",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_pale_oak_wood",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:pale_oak_log",
@@ -162,26 +93,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_pale_oak_log",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_pale_oak_log",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:poplar_wood",
@@ -189,26 +106,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_poplar_wood",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_poplar_wood",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:poplar_log",
@@ -216,26 +119,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_poplar_log",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_poplar_log",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:acacia_wood",
@@ -243,26 +132,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_acacia_wood",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_acacia_wood",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:acacia_log",
@@ -270,26 +145,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_acacia_log",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_acacia_log",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:cherry_wood",
@@ -297,26 +158,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_cherry_wood",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_cherry_wood",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:cherry_log",
@@ -324,26 +171,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_cherry_log",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_cherry_log",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:birch_wood",
@@ -351,26 +184,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_birch_wood",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_birch_wood",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:birch_log",
@@ -378,26 +197,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_birch_log",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_birch_log",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:jungle_wood",
@@ -405,26 +210,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_jungle_wood",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_jungle_wood",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:jungle_log",
@@ -432,26 +223,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_jungle_log",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_jungle_log",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:spruce_wood",
@@ -459,26 +236,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_spruce_wood",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_spruce_wood",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:spruce_log",
@@ -486,26 +249,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_spruce_log",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_spruce_log",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:warped_stem",
@@ -513,26 +262,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_warped_stem",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_warped_stem",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:warped_hyphae",
@@ -540,26 +275,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_warped_hyphae",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_warped_hyphae",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:crimson_stem",
@@ -567,26 +288,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_crimson_stem",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_crimson_stem",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:crimson_hyphae",
@@ -594,26 +301,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_crimson_hyphae",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_crimson_hyphae",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:mangrove_wood",
@@ -621,26 +314,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_mangrove_wood",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_mangrove_wood",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:mangrove_log",
@@ -648,26 +327,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_mangrove_log",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_mangrove_log",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "sound": "minecraft:item.axe.strip"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:bamboo_block",
@@ -675,12 +340,7 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:stripped_bamboo_block",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
+                  "state": "minecraft:stripped_bamboo_block",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
@@ -702,24 +362,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_block"
-                  },
+                  "state": "minecraft:copper_block",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:weathered_copper",
@@ -727,24 +375,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper"
-                  },
+                  "state": "minecraft:exposed_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oxidized_copper",
@@ -752,24 +388,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper"
-                  },
+                  "state": "minecraft:weathered_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:exposed_cut_copper",
@@ -777,24 +401,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:cut_copper"
-                  },
+                  "state": "minecraft:cut_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:weathered_cut_copper",
@@ -802,24 +414,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_cut_copper"
-                  },
+                  "state": "minecraft:exposed_cut_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oxidized_cut_copper",
@@ -827,24 +427,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_cut_copper"
-                  },
+                  "state": "minecraft:weathered_cut_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:exposed_chiseled_copper",
@@ -852,24 +440,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:chiseled_copper"
-                  },
+                  "state": "minecraft:chiseled_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:weathered_chiseled_copper",
@@ -877,24 +453,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_chiseled_copper"
-                  },
+                  "state": "minecraft:exposed_chiseled_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oxidized_chiseled_copper",
@@ -902,24 +466,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_chiseled_copper"
-                  },
+                  "state": "minecraft:weathered_chiseled_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:exposed_cut_copper_slab",
@@ -927,28 +479,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:cut_copper_slab",
-                    "Properties": {
-                      "type": "bottom",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:cut_copper_slab",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:weathered_cut_copper_slab",
@@ -956,28 +492,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_cut_copper_slab",
-                    "Properties": {
-                      "type": "bottom",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_cut_copper_slab",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oxidized_cut_copper_slab",
@@ -985,28 +505,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_cut_copper_slab",
-                    "Properties": {
-                      "type": "bottom",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_cut_copper_slab",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:exposed_cut_copper_stairs",
@@ -1014,30 +518,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:cut_copper_stairs",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "shape": "straight",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:cut_copper_stairs",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:weathered_cut_copper_stairs",
@@ -1045,30 +531,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_cut_copper_stairs",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "shape": "straight",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_cut_copper_stairs",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oxidized_cut_copper_stairs",
@@ -1076,129 +544,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_cut_copper_stairs",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "shape": "straight",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_cut_copper_stairs",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:exposed_copper_door",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:copper_door",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "lower",
-                      "hinge": "left",
-                      "open": "false",
-                      "powered": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:weathered_copper_door",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_door",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "lower",
-                      "hinge": "left",
-                      "open": "false",
-                      "powered": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:oxidized_copper_door",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_door",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "lower",
-                      "hinge": "left",
-                      "open": "false",
-                      "powered": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:exposed_copper_trapdoor",
@@ -1206,31 +557,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_trapdoor",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "open": "false",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_trapdoor",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:weathered_copper_trapdoor",
@@ -1238,31 +570,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_trapdoor",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "open": "false",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_trapdoor",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oxidized_copper_trapdoor",
@@ -1270,31 +583,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_trapdoor",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "open": "false",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_trapdoor",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:exposed_copper_bars",
@@ -1302,31 +596,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_bars",
-                    "Properties": {
-                      "east": "false",
-                      "north": "false",
-                      "south": "false",
-                      "waterlogged": "false",
-                      "west": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_bars",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:weathered_copper_bars",
@@ -1334,31 +609,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_bars",
-                    "Properties": {
-                      "east": "false",
-                      "north": "false",
-                      "south": "false",
-                      "waterlogged": "false",
-                      "west": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_bars",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oxidized_copper_bars",
@@ -1366,31 +622,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_bars",
-                    "Properties": {
-                      "east": "false",
-                      "north": "false",
-                      "south": "false",
-                      "waterlogged": "false",
-                      "west": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_bars",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:exposed_copper_grate",
@@ -1398,27 +635,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_grate",
-                    "Properties": {
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_grate",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:weathered_copper_grate",
@@ -1426,27 +648,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_grate",
-                    "Properties": {
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_grate",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oxidized_copper_grate",
@@ -1454,27 +661,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_grate",
-                    "Properties": {
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_grate",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:exposed_copper_bulb",
@@ -1482,28 +674,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_bulb",
-                    "Properties": {
-                      "lit": "false",
-                      "powered": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_bulb",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:weathered_copper_bulb",
@@ -1511,28 +687,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_bulb",
-                    "Properties": {
-                      "lit": "false",
-                      "powered": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_bulb",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oxidized_copper_bulb",
@@ -1540,28 +700,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_bulb",
-                    "Properties": {
-                      "lit": "false",
-                      "powered": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_bulb",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:exposed_copper_lantern",
@@ -1569,28 +713,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_lantern",
-                    "Properties": {
-                      "hanging": "false",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_lantern",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:weathered_copper_lantern",
@@ -1598,28 +726,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_lantern",
-                    "Properties": {
-                      "hanging": "false",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_lantern",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oxidized_copper_lantern",
@@ -1627,13 +739,124 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_lantern",
-                    "Properties": {
-                      "hanging": "false",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_lantern",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:exposed_copper_golem_statue",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:copper_golem_statue",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:weathered_copper_golem_statue",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:exposed_copper_golem_statue",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:oxidized_copper_golem_statue",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:weathered_copper_golem_statue",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:exposed_lightning_rod",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:lightning_rod",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:weathered_lightning_rod",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:exposed_lightning_rod",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:oxidized_lightning_rod",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:weathered_lightning_rod",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:exposed_copper_chain",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:copper_chain",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:weathered_copper_chain",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:exposed_copper_chain",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:oxidized_copper_chain",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:weathered_copper_chain",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
@@ -1656,31 +879,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_chest",
-                    "Properties": {
-                      "facing": "north",
-                      "type": "single",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_chest",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape",
-        "transform_type": "copper_chest",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:weathered_copper_chest",
@@ -1688,31 +892,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_chest",
-                    "Properties": {
-                      "facing": "north",
-                      "type": "single",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_chest",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape",
-        "transform_type": "copper_chest",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:oxidized_copper_chest",
@@ -1720,14 +905,7 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_chest",
-                    "Properties": {
-                      "facing": "north",
-                      "type": "single",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_chest",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
@@ -1747,79 +925,38 @@
           "rules": [
             {
               "if_true": {
-                "blocks": "minecraft:exposed_copper_golem_statue",
+                "blocks": "minecraft:exposed_copper_door",
                 "type": "minecraft:matching_blocks"
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_golem_statue",
-                    "Properties": {
-                      "copper_golem_pose": "standing",
-                      "facing": "north",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_door",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
-                "blocks": "minecraft:weathered_copper_golem_statue",
+                "blocks": "minecraft:weathered_copper_door",
                 "type": "minecraft:matching_blocks"
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_golem_statue",
-                    "Properties": {
-                      "copper_golem_pose": "standing",
-                      "facing": "north",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_door",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
-                "blocks": "minecraft:oxidized_copper_golem_statue",
+                "blocks": "minecraft:oxidized_copper_door",
                 "type": "minecraft:matching_blocks"
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_golem_statue",
-                    "Properties": {
-                      "copper_golem_pose": "standing",
-                      "facing": "north",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_door",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
@@ -1830,184 +967,8 @@
         },
         "item_damage_per_use": 1,
         "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:exposed_lightning_rod",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:lightning_rod",
-                    "Properties": {
-                      "facing": "up",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:weathered_lightning_rod",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_lightning_rod",
-                    "Properties": {
-                      "facing": "up",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:oxidized_lightning_rod",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_lightning_rod",
-                    "Properties": {
-                      "facing": "up",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:exposed_copper_chain",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:copper_chain",
-                    "Properties": {
-                      "axis": "y",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:weathered_copper_chain",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_chain",
-                    "Properties": {
-                      "axis": "y",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:oxidized_copper_chain",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_chain",
-                    "Properties": {
-                      "axis": "y",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "scrape",
-        "sound": "minecraft:item.axe.scrape"
+        "sound": "minecraft:item.axe.scrape",
+        "update_from_neighbors": false
       },
       {
         "block_state_provider": {
@@ -2019,24 +980,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_block"
-                  },
+                  "state": "minecraft:copper_block",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_exposed_copper",
@@ -2044,24 +993,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper"
-                  },
+                  "state": "minecraft:exposed_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_weathered_copper",
@@ -2069,24 +1006,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper"
-                  },
+                  "state": "minecraft:weathered_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_oxidized_copper",
@@ -2094,24 +1019,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_copper"
-                  },
+                  "state": "minecraft:oxidized_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_cut_copper",
@@ -2119,24 +1032,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:cut_copper"
-                  },
+                  "state": "minecraft:cut_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_exposed_cut_copper",
@@ -2144,24 +1045,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_cut_copper"
-                  },
+                  "state": "minecraft:exposed_cut_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_weathered_cut_copper",
@@ -2169,24 +1058,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_cut_copper"
-                  },
+                  "state": "minecraft:weathered_cut_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_oxidized_cut_copper",
@@ -2194,24 +1071,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_cut_copper"
-                  },
+                  "state": "minecraft:oxidized_cut_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_cut_copper_slab",
@@ -2219,28 +1084,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:cut_copper_slab",
-                    "Properties": {
-                      "type": "bottom",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:cut_copper_slab",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_exposed_cut_copper_slab",
@@ -2248,28 +1097,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_cut_copper_slab",
-                    "Properties": {
-                      "type": "bottom",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_cut_copper_slab",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_weathered_cut_copper_slab",
@@ -2277,28 +1110,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_cut_copper_slab",
-                    "Properties": {
-                      "type": "bottom",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_cut_copper_slab",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_oxidized_cut_copper_slab",
@@ -2306,28 +1123,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_cut_copper_slab",
-                    "Properties": {
-                      "type": "bottom",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:oxidized_cut_copper_slab",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_cut_copper_stairs",
@@ -2335,30 +1136,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:cut_copper_stairs",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "shape": "straight",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:cut_copper_stairs",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_exposed_cut_copper_stairs",
@@ -2366,30 +1149,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_cut_copper_stairs",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "shape": "straight",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_cut_copper_stairs",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_weathered_cut_copper_stairs",
@@ -2397,30 +1162,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_cut_copper_stairs",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "shape": "straight",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_cut_copper_stairs",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_oxidized_cut_copper_stairs",
@@ -2428,30 +1175,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_cut_copper_stairs",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "shape": "straight",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:oxidized_cut_copper_stairs",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_chiseled_copper",
@@ -2459,24 +1188,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:chiseled_copper"
-                  },
+                  "state": "minecraft:chiseled_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_exposed_chiseled_copper",
@@ -2484,24 +1201,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_chiseled_copper"
-                  },
+                  "state": "minecraft:exposed_chiseled_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_weathered_chiseled_copper",
@@ -2509,24 +1214,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_chiseled_copper"
-                  },
+                  "state": "minecraft:weathered_chiseled_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_oxidized_chiseled_copper",
@@ -2534,156 +1227,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_chiseled_copper"
-                  },
+                  "state": "minecraft:oxidized_chiseled_copper",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_copper_door",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:copper_door",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "lower",
-                      "hinge": "left",
-                      "open": "false",
-                      "powered": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_exposed_copper_door",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_door",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "lower",
-                      "hinge": "left",
-                      "open": "false",
-                      "powered": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_weathered_copper_door",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_door",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "lower",
-                      "hinge": "left",
-                      "open": "false",
-                      "powered": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_oxidized_copper_door",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_copper_door",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "lower",
-                      "hinge": "left",
-                      "open": "false",
-                      "powered": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_copper_trapdoor",
@@ -2691,31 +1240,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_trapdoor",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "open": "false",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_trapdoor",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_exposed_copper_trapdoor",
@@ -2723,31 +1253,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_trapdoor",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "open": "false",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_trapdoor",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_weathered_copper_trapdoor",
@@ -2755,31 +1266,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_trapdoor",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "open": "false",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_trapdoor",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_oxidized_copper_trapdoor",
@@ -2787,31 +1279,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_copper_trapdoor",
-                    "Properties": {
-                      "facing": "north",
-                      "half": "bottom",
-                      "open": "false",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:oxidized_copper_trapdoor",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_copper_bars",
@@ -2819,31 +1292,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_bars",
-                    "Properties": {
-                      "east": "false",
-                      "north": "false",
-                      "south": "false",
-                      "waterlogged": "false",
-                      "west": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_bars",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_exposed_copper_bars",
@@ -2851,31 +1305,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_bars",
-                    "Properties": {
-                      "east": "false",
-                      "north": "false",
-                      "south": "false",
-                      "waterlogged": "false",
-                      "west": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_bars",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_weathered_copper_bars",
@@ -2883,31 +1318,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_bars",
-                    "Properties": {
-                      "east": "false",
-                      "north": "false",
-                      "south": "false",
-                      "waterlogged": "false",
-                      "west": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_bars",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_oxidized_copper_bars",
@@ -2915,31 +1331,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_copper_bars",
-                    "Properties": {
-                      "east": "false",
-                      "north": "false",
-                      "south": "false",
-                      "waterlogged": "false",
-                      "west": "false"
-                    }
-                  },
+                  "state": "minecraft:oxidized_copper_bars",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_copper_grate",
@@ -2947,27 +1344,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_grate",
-                    "Properties": {
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_grate",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_exposed_copper_grate",
@@ -2975,27 +1357,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_grate",
-                    "Properties": {
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_grate",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_weathered_copper_grate",
@@ -3003,27 +1370,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_grate",
-                    "Properties": {
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_grate",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_oxidized_copper_grate",
@@ -3031,27 +1383,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_copper_grate",
-                    "Properties": {
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:oxidized_copper_grate",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_copper_bulb",
@@ -3059,28 +1396,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_bulb",
-                    "Properties": {
-                      "lit": "false",
-                      "powered": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_bulb",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_exposed_copper_bulb",
@@ -3088,28 +1409,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_bulb",
-                    "Properties": {
-                      "lit": "false",
-                      "powered": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_bulb",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_weathered_copper_bulb",
@@ -3117,28 +1422,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_bulb",
-                    "Properties": {
-                      "lit": "false",
-                      "powered": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_bulb",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_oxidized_copper_bulb",
@@ -3146,13 +1435,215 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_copper_bulb",
-                    "Properties": {
-                      "lit": "false",
-                      "powered": "false"
-                    }
-                  },
+                  "state": "minecraft:oxidized_copper_bulb",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_copper_golem_statue",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:copper_golem_statue",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_exposed_copper_golem_statue",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:exposed_copper_golem_statue",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_weathered_copper_golem_statue",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:weathered_copper_golem_statue",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_oxidized_copper_golem_statue",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:oxidized_copper_golem_statue",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_lightning_rod",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:lightning_rod",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_exposed_lightning_rod",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:exposed_lightning_rod",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_weathered_lightning_rod",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:weathered_lightning_rod",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_oxidized_lightning_rod",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:oxidized_lightning_rod",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_copper_lantern",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:copper_lantern",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_exposed_copper_lantern",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:exposed_copper_lantern",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_weathered_copper_lantern",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:weathered_copper_lantern",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_oxidized_copper_lantern",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:oxidized_copper_lantern",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_copper_chain",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:copper_chain",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_exposed_copper_chain",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:exposed_copper_chain",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_weathered_copper_chain",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:weathered_copper_chain",
+                  "type": "minecraft:simple_state_provider"
+                },
+                "type": "minecraft:copy_properties_provider"
+              }
+            },
+            {
+              "if_true": {
+                "blocks": "minecraft:waxed_oxidized_copper_chain",
+                "type": "minecraft:matching_blocks"
+              },
+              "then": {
+                "source": {
+                  "state": "minecraft:oxidized_copper_chain",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
@@ -3175,31 +1666,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_chest",
-                    "Properties": {
-                      "facing": "north",
-                      "type": "single",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_chest",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off",
-        "transform_type": "copper_chest",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_exposed_copper_chest",
@@ -3207,31 +1679,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_chest",
-                    "Properties": {
-                      "facing": "north",
-                      "type": "single",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_chest",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off",
-        "transform_type": "copper_chest",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_weathered_copper_chest",
@@ -3239,31 +1692,12 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_chest",
-                    "Properties": {
-                      "facing": "north",
-                      "type": "single",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_chest",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off",
-        "transform_type": "copper_chest",
-        "update_from_neighbors": false
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
                 "blocks": "minecraft:waxed_oxidized_copper_chest",
@@ -3271,14 +1705,7 @@
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_copper_chest",
-                    "Properties": {
-                      "facing": "north",
-                      "type": "single",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:oxidized_copper_chest",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
@@ -3298,109 +1725,51 @@
           "rules": [
             {
               "if_true": {
-                "blocks": "minecraft:waxed_copper_golem_statue",
+                "blocks": "minecraft:waxed_copper_door",
                 "type": "minecraft:matching_blocks"
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:copper_golem_statue",
-                    "Properties": {
-                      "copper_golem_pose": "standing",
-                      "facing": "north",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:copper_door",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
-                "blocks": "minecraft:waxed_exposed_copper_golem_statue",
+                "blocks": "minecraft:waxed_exposed_copper_door",
                 "type": "minecraft:matching_blocks"
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_golem_statue",
-                    "Properties": {
-                      "copper_golem_pose": "standing",
-                      "facing": "north",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:exposed_copper_door",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
-                "blocks": "minecraft:waxed_weathered_copper_golem_statue",
+                "blocks": "minecraft:waxed_weathered_copper_door",
                 "type": "minecraft:matching_blocks"
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_golem_statue",
-                    "Properties": {
-                      "copper_golem_pose": "standing",
-                      "facing": "north",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:weathered_copper_door",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
               }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
+            },
             {
               "if_true": {
-                "blocks": "minecraft:waxed_oxidized_copper_golem_statue",
+                "blocks": "minecraft:waxed_oxidized_copper_door",
                 "type": "minecraft:matching_blocks"
               },
               "then": {
                 "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_copper_golem_statue",
-                    "Properties": {
-                      "copper_golem_pose": "standing",
-                      "facing": "north",
-                      "waterlogged": "false"
-                    }
-                  },
+                  "state": "minecraft:oxidized_copper_door",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:copy_properties_provider"
@@ -3411,359 +1780,8 @@
         },
         "item_damage_per_use": 1,
         "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_lightning_rod",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:lightning_rod",
-                    "Properties": {
-                      "facing": "up",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_exposed_lightning_rod",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_lightning_rod",
-                    "Properties": {
-                      "facing": "up",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_weathered_lightning_rod",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_lightning_rod",
-                    "Properties": {
-                      "facing": "up",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_oxidized_lightning_rod",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_lightning_rod",
-                    "Properties": {
-                      "facing": "up",
-                      "powered": "false",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_copper_lantern",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:copper_lantern",
-                    "Properties": {
-                      "hanging": "false",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_exposed_copper_lantern",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_lantern",
-                    "Properties": {
-                      "hanging": "false",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_weathered_copper_lantern",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_lantern",
-                    "Properties": {
-                      "hanging": "false",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_oxidized_copper_lantern",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_copper_lantern",
-                    "Properties": {
-                      "hanging": "false",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_copper_chain",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:copper_chain",
-                    "Properties": {
-                      "axis": "y",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_exposed_copper_chain",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:exposed_copper_chain",
-                    "Properties": {
-                      "axis": "y",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_weathered_copper_chain",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:weathered_copper_chain",
-                    "Properties": {
-                      "axis": "y",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
-      },
-      {
-        "block_state_provider": {
-          "rules": [
-            {
-              "if_true": {
-                "blocks": "minecraft:waxed_oxidized_copper_chain",
-                "type": "minecraft:matching_blocks"
-              },
-              "then": {
-                "source": {
-                  "state": {
-                    "Name": "minecraft:oxidized_copper_chain",
-                    "Properties": {
-                      "axis": "y",
-                      "waterlogged": "false"
-                    }
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "type": "minecraft:copy_properties_provider"
-              }
-            }
-          ],
-          "type": "minecraft:rule_based_state_provider"
-        },
-        "item_damage_per_use": 1,
-        "particle": "wax_off",
-        "sound": "minecraft:item.axe.wax_off"
+        "sound": "minecraft:item.axe.wax_off",
+        "update_from_neighbors": false
       }
     ],
     "minecraft:break_sound": "minecraft:entity.item.break",
@@ -3772,6 +1790,7 @@
       "value": 10
     },
     "minecraft:enchantments": {},
+    "minecraft:interact_animation": {},
     "minecraft:item_model": "minecraft:diamond_axe",
     "minecraft:item_name": {
       "translate": "item.minecraft.diamond_axe"
@@ -3784,7 +1803,6 @@
     "minecraft:repairable": {
       "items": "#minecraft:diamond_tool_materials"
     },
-    "minecraft:swing_animation": {},
     "minecraft:tool": {
       "rules": [
         {

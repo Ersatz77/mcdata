@@ -4,8 +4,7 @@
       "axis": "y",
       "coordinate": 0,
       "input": {
-        "left": 0.0078125,
-        "right": {
+        "left": {
           "left": {
             "input": {
               "left": 100.0,
@@ -27,6 +26,7 @@
           "right": 8.0,
           "type": "minecraft:sub"
         },
+        "right": 0.0078125,
         "type": "minecraft:mul"
       },
       "type": "minecraft:slice"

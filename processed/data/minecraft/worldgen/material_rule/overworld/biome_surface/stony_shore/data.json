@@ -11,9 +11,7 @@
       "type": "minecraft:condition"
     },
     {
-      "result_state": {
-        "Name": "minecraft:stone"
-      },
+      "result_state": "minecraft:stone",
       "type": "minecraft:block"
     }
   ],

@@ -10,9 +10,7 @@
     "type": "minecraft:vertical_gradient"
   },
   "then_run": {
-    "result_state": {
-      "Name": "minecraft:bedrock"
-    },
+    "result_state": "minecraft:bedrock",
     "type": "minecraft:block"
   },
   "type": "minecraft:condition"

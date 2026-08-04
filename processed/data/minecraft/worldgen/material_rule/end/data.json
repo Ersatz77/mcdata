@@ -1,6 +1,4 @@
 {
-  "result_state": {
-    "Name": "minecraft:end_stone"
-  },
+  "result_state": "minecraft:end_stone",
   "type": "minecraft:block"
 }

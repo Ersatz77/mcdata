@@ -1,8 +1,8 @@
 {
   "to_place": {
     "state": {
-      "Name": "minecraft:sweet_berry_bush",
-      "Properties": {
+      "id": "minecraft:sweet_berry_bush",
+      "properties": {
         "age": "3"
       }
     },

@@ -12,9 +12,7 @@
         "type": "minecraft:y_above"
       },
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:netherrack"
-        },
+        "result_state": "minecraft:netherrack",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"
@@ -29,12 +27,7 @@
           {
             "if_true": "minecraft:under_ceiling",
             "then_run": {
-              "result_state": {
-                "Name": "minecraft:basalt",
-                "Properties": {
-                  "axis": "y"
-                }
-              },
+              "result_state": "minecraft:basalt",
               "type": "minecraft:block"
             },
             "type": "minecraft:condition"
@@ -72,9 +65,7 @@
                         "type": "minecraft:not"
                       },
                       "then_run": {
-                        "result_state": {
-                          "Name": "minecraft:gravel"
-                        },
+                        "result_state": "minecraft:gravel",
                         "type": "minecraft:block"
                       },
                       "type": "minecraft:condition"
@@ -91,20 +82,13 @@
                     "type": "minecraft:noise_threshold"
                   },
                   "then_run": {
-                    "result_state": {
-                      "Name": "minecraft:basalt",
-                      "Properties": {
-                        "axis": "y"
-                      }
-                    },
+                    "result_state": "minecraft:basalt",
                     "type": "minecraft:block"
                   },
                   "type": "minecraft:condition"
                 },
                 {
-                  "result_state": {
-                    "Name": "minecraft:blackstone"
-                  },
+                  "result_state": "minecraft:blackstone",
                   "type": "minecraft:block"
                 }
               ],
@@ -136,17 +120,13 @@
                     "type": "minecraft:noise_threshold"
                   },
                   "then_run": {
-                    "result_state": {
-                      "Name": "minecraft:soul_sand"
-                    },
+                    "result_state": "minecraft:soul_sand",
                     "type": "minecraft:block"
                   },
                   "type": "minecraft:condition"
                 },
                 {
-                  "result_state": {
-                    "Name": "minecraft:soul_soil"
-                  },
+                  "result_state": "minecraft:soul_soil",
                   "type": "minecraft:block"
                 }
               ],
@@ -187,9 +167,7 @@
                         "type": "minecraft:not"
                       },
                       "then_run": {
-                        "result_state": {
-                          "Name": "minecraft:gravel"
-                        },
+                        "result_state": "minecraft:gravel",
                         "type": "minecraft:block"
                       },
                       "type": "minecraft:condition"
@@ -206,17 +184,13 @@
                     "type": "minecraft:noise_threshold"
                   },
                   "then_run": {
-                    "result_state": {
-                      "Name": "minecraft:soul_sand"
-                    },
+                    "result_state": "minecraft:soul_sand",
                     "type": "minecraft:block"
                   },
                   "type": "minecraft:condition"
                 },
                 {
-                  "result_state": {
-                    "Name": "minecraft:soul_soil"
-                  },
+                  "result_state": "minecraft:soul_soil",
                   "type": "minecraft:block"
                 }
               ],
@@ -250,12 +224,7 @@
                 "type": "minecraft:hole"
               },
               "then_run": {
-                "result_state": {
-                  "Name": "minecraft:lava",
-                  "Properties": {
-                    "level": "0"
-                  }
-                },
+                "result_state": "minecraft:lava",
                 "type": "minecraft:block"
               },
               "type": "minecraft:condition"
@@ -296,17 +265,13 @@
                         "type": "minecraft:noise_threshold"
                       },
                       "then_run": {
-                        "result_state": {
-                          "Name": "minecraft:warped_wart_block"
-                        },
+                        "result_state": "minecraft:warped_wart_block",
                         "type": "minecraft:block"
                       },
                       "type": "minecraft:condition"
                     },
                     {
-                      "result_state": {
-                        "Name": "minecraft:warped_nylium"
-                      },
+                      "result_state": "minecraft:warped_nylium",
                       "type": "minecraft:block"
                     }
                   ],
@@ -352,17 +317,13 @@
                         "type": "minecraft:noise_threshold"
                       },
                       "then_run": {
-                        "result_state": {
-                          "Name": "minecraft:nether_wart_block"
-                        },
+                        "result_state": "minecraft:nether_wart_block",
                         "type": "minecraft:block"
                       },
                       "type": "minecraft:condition"
                     },
                     {
-                      "result_state": {
-                        "Name": "minecraft:crimson_nylium"
-                      },
+                      "result_state": "minecraft:crimson_nylium",
                       "type": "minecraft:block"
                     }
                   ],
@@ -426,9 +387,7 @@
                           "type": "minecraft:not"
                         },
                         "then_run": {
-                          "result_state": {
-                            "Name": "minecraft:soul_sand"
-                          },
+                          "result_state": "minecraft:soul_sand",
                           "type": "minecraft:block"
                         },
                         "type": "minecraft:condition"
@@ -438,9 +397,7 @@
                     "type": "minecraft:condition"
                   },
                   {
-                    "result_state": {
-                      "Name": "minecraft:netherrack"
-                    },
+                    "result_state": "minecraft:netherrack",
                     "type": "minecraft:block"
                   }
                 ],
@@ -492,9 +449,7 @@
                           "type": "minecraft:y_above"
                         },
                         "then_run": {
-                          "result_state": {
-                            "Name": "minecraft:gravel"
-                          },
+                          "result_state": "minecraft:gravel",
                           "type": "minecraft:block"
                         },
                         "type": "minecraft:condition"
@@ -507,9 +462,7 @@
                           "type": "minecraft:not"
                         },
                         "then_run": {
-                          "result_state": {
-                            "Name": "minecraft:gravel"
-                          },
+                          "result_state": "minecraft:gravel",
                           "type": "minecraft:block"
                         },
                         "type": "minecraft:condition"
@@ -531,9 +484,7 @@
       "type": "minecraft:condition"
     },
     {
-      "result_state": {
-        "Name": "minecraft:netherrack"
-      },
+      "result_state": "minecraft:netherrack",
       "type": "minecraft:block"
     }
   ],

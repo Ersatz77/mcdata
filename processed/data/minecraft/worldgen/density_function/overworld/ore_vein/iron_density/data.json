@@ -15,14 +15,12 @@
             "input": "minecraft:overworld/ore_vein/toggle",
             "type": "minecraft:negate"
           },
-          "right": 0.4000000059604645,
+          "right": 0.4,
           "type": "minecraft:sub"
         },
         "right": {
-          "left": -0.2,
-          "right": {
-            "left": 0.01,
-            "right": {
+          "left": {
+            "left": {
               "input": {
                 "input": {
                   "left": {
@@ -43,8 +41,10 @@
               "min": 0.0,
               "type": "minecraft:clamp"
             },
+            "right": 0.01,
             "type": "minecraft:mul"
           },
+          "right": -0.2,
           "type": "minecraft:add"
         },
         "type": "minecraft:add"
@@ -52,7 +52,7 @@
       "max_exclusive": 1000000.0,
       "min_inclusive": 0.0,
       "type": "minecraft:range_choice",
-      "when_in_range": 0.699999988079071,
+      "when_in_range": 0.7,
       "when_out_of_range": -1.0
     },
     "when_out_of_range": -1.0

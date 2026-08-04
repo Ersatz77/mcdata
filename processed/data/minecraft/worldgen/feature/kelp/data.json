@@ -26,9 +26,7 @@
         "type": "minecraft:uniform"
       },
       "provider": {
-        "state": {
-          "Name": "minecraft:kelp_plant"
-        },
+        "state": "minecraft:kelp_plant",
         "type": "minecraft:simple_state_provider"
       }
     },
@@ -37,12 +35,7 @@
       "provider": {
         "property": "age",
         "source": {
-          "state": {
-            "Name": "minecraft:kelp",
-            "Properties": {
-              "age": "0"
-            }
-          },
+          "state": "minecraft:kelp",
           "type": "minecraft:simple_state_provider"
         },
         "type": "minecraft:randomized_int_state_provider",

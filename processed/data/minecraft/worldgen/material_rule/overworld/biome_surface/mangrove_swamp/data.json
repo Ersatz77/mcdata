@@ -1,6 +1,4 @@
 {
-  "result_state": {
-    "Name": "minecraft:mud"
-  },
+  "result_state": "minecraft:mud",
   "type": "minecraft:block"
 }

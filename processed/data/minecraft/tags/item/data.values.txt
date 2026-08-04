@@ -28,6 +28,7 @@ minecraft:cherry_logs
 minecraft:chest_armor
 minecraft:chest_boats
 minecraft:chicken_food
+minecraft:clonable_maps
 minecraft:cluster_max_harvestables
 minecraft:coal_ores
 minecraft:coals
@@ -35,6 +36,8 @@ minecraft:compasses
 minecraft:completes_find_tree_tutorial
 minecraft:concrete
 minecraft:concrete_powders
+minecraft:concrete_slabs
+minecraft:concrete_stairs
 minecraft:copper
 minecraft:copper_chests
 minecraft:copper_golem_statues
@@ -80,6 +83,7 @@ minecraft:enchantable/sweeping
 minecraft:enchantable/trident
 minecraft:enchantable/vanishing
 minecraft:enchantable/weapon
+minecraft:extendable_maps
 minecraft:fence_gates
 minecraft:fences
 minecraft:fishes

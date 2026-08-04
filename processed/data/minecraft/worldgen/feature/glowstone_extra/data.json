@@ -2,9 +2,7 @@
   "accepted_neighbors": "minecraft:glowstone",
   "attempts": 1500,
   "block": {
-    "state": {
-      "Name": "minecraft:glowstone"
-    },
+    "state": "minecraft:glowstone",
     "type": "minecraft:simple_state_provider"
   },
   "can_replace": {

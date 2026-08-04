@@ -3,8 +3,7 @@
     "left": {
       "input": {
         "input": {
-          "left": 0.64,
-          "right": {
+          "left": {
             "input": {
               "alpha": {
                 "axis": "y",
@@ -33,8 +32,8 @@
                   "when_in_range": {
                     "left": "minecraft:overworld/sloped_cheese",
                     "right": {
-                      "left": 5.0,
-                      "right": "minecraft:overworld/caves/entrances",
+                      "left": "minecraft:overworld/caves/entrances",
+                      "right": 5.0,
                       "type": "minecraft:mul"
                     },
                     "type": "minecraft:min"
@@ -44,8 +43,7 @@
                       "left": {
                         "left": {
                           "left": {
-                            "left": 4.0,
-                            "right": {
+                            "left": {
                               "input": {
                                 "noise": "minecraft:cave_layer",
                                 "type": "minecraft:noise",
@@ -54,18 +52,19 @@
                               },
                               "type": "minecraft:square"
                             },
+                            "right": 4.0,
                             "type": "minecraft:mul"
                           },
                           "right": {
                             "left": {
                               "input": {
-                                "left": 0.27,
-                                "right": {
+                                "left": {
                                   "noise": "minecraft:cave_cheese",
                                   "type": "minecraft:noise",
                                   "xz_scale": 1.0,
                                   "y_scale": 0.6666666666666666
                                 },
+                                "right": 0.27,
                                 "type": "minecraft:add"
                               },
                               "max": 1.0,
@@ -74,12 +73,12 @@
                             },
                             "right": {
                               "input": {
-                                "left": 1.5,
-                                "right": {
-                                  "left": -0.64,
-                                  "right": "minecraft:overworld/sloped_cheese",
+                                "left": {
+                                  "left": "minecraft:overworld/sloped_cheese",
+                                  "right": -0.64,
                                   "type": "minecraft:mul"
                                 },
+                                "right": 1.5,
                                 "type": "minecraft:add"
                               },
                               "max": 0.5,
@@ -117,6 +116,7 @@
             },
             "type": "minecraft:blend_density"
           },
+          "right": 0.64,
           "type": "minecraft:mul"
         },
         "type": "minecraft:interpolated"

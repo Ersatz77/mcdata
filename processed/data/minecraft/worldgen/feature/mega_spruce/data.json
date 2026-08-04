@@ -10,9 +10,7 @@
           "type": "minecraft:not"
         },
         "then": {
-          "state": {
-            "Name": "minecraft:dirt"
-          },
+          "state": "minecraft:dirt",
           "type": "minecraft:simple_state_provider"
         }
       }
@@ -29,12 +27,7 @@
               "type": "minecraft:matching_block_tag"
             },
             "then": {
-              "state": {
-                "Name": "minecraft:podzol",
-                "Properties": {
-                  "snowy": "false"
-                }
-              },
+              "state": "minecraft:podzol",
               "type": "minecraft:simple_state_provider"
             }
           }
@@ -55,14 +48,7 @@
     "type": "minecraft:mega_pine_foliage_placer"
   },
   "foliage_provider": {
-    "state": {
-      "Name": "minecraft:spruce_leaves",
-      "Properties": {
-        "distance": "7",
-        "persistent": "false",
-        "waterlogged": "false"
-      }
-    },
+    "state": "minecraft:spruce_leaves",
     "type": "minecraft:simple_state_provider"
   },
   "ignore_vines": false,
@@ -78,12 +64,7 @@
     "type": "minecraft:giant_trunk_placer"
   },
   "trunk_provider": {
-    "state": {
-      "Name": "minecraft:spruce_log",
-      "Properties": {
-        "axis": "y"
-      }
-    },
+    "state": "minecraft:spruce_log",
     "type": "minecraft:simple_state_provider"
   },
   "type": "minecraft:tree"

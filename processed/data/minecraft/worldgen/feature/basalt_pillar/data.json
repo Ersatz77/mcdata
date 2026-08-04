@@ -3,12 +3,7 @@
     {
       "feature": {
         "block": {
-          "state": {
-            "Name": "minecraft:basalt",
-            "Properties": {
-              "axis": "y"
-            }
-          },
+          "state": "minecraft:basalt",
           "type": "minecraft:simple_state_provider"
         },
         "can_replace": {
@@ -36,12 +31,7 @@
                           "type": "minecraft:not"
                         },
                         "then": {
-                          "state": {
-                            "Name": "minecraft:basalt",
-                            "Properties": {
-                              "axis": "y"
-                            }
-                          },
+                          "state": "minecraft:basalt",
                           "type": "minecraft:simple_state_provider"
                         }
                       }
@@ -68,12 +58,7 @@
               {
                 "feature": {
                   "to_place": {
-                    "state": {
-                      "Name": "minecraft:basalt",
-                      "Properties": {
-                        "axis": "y"
-                      }
-                    },
+                    "state": "minecraft:basalt",
                     "type": "minecraft:simple_state_provider"
                   },
                   "type": "minecraft:simple_block"
@@ -94,12 +79,7 @@
               {
                 "feature": {
                   "to_place": {
-                    "state": {
-                      "Name": "minecraft:basalt",
-                      "Properties": {
-                        "axis": "y"
-                      }
-                    },
+                    "state": "minecraft:basalt",
                     "type": "minecraft:simple_state_provider"
                   },
                   "type": "minecraft:simple_block"
@@ -120,12 +100,7 @@
               {
                 "feature": {
                   "to_place": {
-                    "state": {
-                      "Name": "minecraft:basalt",
-                      "Properties": {
-                        "axis": "y"
-                      }
-                    },
+                    "state": "minecraft:basalt",
                     "type": "minecraft:simple_state_provider"
                   },
                   "type": "minecraft:simple_block"
@@ -146,12 +121,7 @@
               {
                 "feature": {
                   "to_place": {
-                    "state": {
-                      "Name": "minecraft:basalt",
-                      "Properties": {
-                        "axis": "y"
-                      }
-                    },
+                    "state": "minecraft:basalt",
                     "type": "minecraft:simple_state_provider"
                   },
                   "type": "minecraft:simple_block"
@@ -182,12 +152,7 @@
     {
       "feature": {
         "block": {
-          "state": {
-            "Name": "minecraft:basalt",
-            "Properties": {
-              "axis": "y"
-            }
-          },
+          "state": "minecraft:basalt",
           "type": "minecraft:simple_state_provider"
         },
         "can_replace": {
@@ -210,12 +175,7 @@
     {
       "feature": {
         "block": {
-          "state": {
-            "Name": "minecraft:basalt",
-            "Properties": {
-              "axis": "y"
-            }
-          },
+          "state": "minecraft:basalt",
           "type": "minecraft:simple_state_provider"
         },
         "can_replace": {
@@ -238,12 +198,7 @@
     {
       "feature": {
         "block": {
-          "state": {
-            "Name": "minecraft:basalt",
-            "Properties": {
-              "axis": "y"
-            }
-          },
+          "state": "minecraft:basalt",
           "type": "minecraft:simple_state_provider"
         },
         "can_replace": {
@@ -266,12 +221,7 @@
     {
       "feature": {
         "block": {
-          "state": {
-            "Name": "minecraft:basalt",
-            "Properties": {
-              "axis": "y"
-            }
-          },
+          "state": "minecraft:basalt",
           "type": "minecraft:simple_state_provider"
         },
         "can_replace": {

@@ -1,22 +1,21 @@
 {
   "input": {
     "left": {
-      "left": -0.05,
-      "right": {
-        "left": -0.05,
-        "right": {
+      "left": {
+        "left": {
           "noise": "minecraft:spaghetti_roughness_modulator",
           "type": "minecraft:noise",
           "xz_scale": 1.0,
           "y_scale": 1.0
         },
+        "right": -0.05,
         "type": "minecraft:mul"
       },
+      "right": -0.05,
       "type": "minecraft:add"
     },
     "right": {
-      "left": -0.4,
-      "right": {
+      "left": {
         "input": {
           "noise": "minecraft:spaghetti_roughness",
           "type": "minecraft:noise",
@@ -25,6 +24,7 @@
         },
         "type": "minecraft:abs"
       },
+      "right": -0.4,
       "type": "minecraft:add"
     },
     "type": "minecraft:mul"

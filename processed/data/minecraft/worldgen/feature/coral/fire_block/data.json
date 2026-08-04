@@ -3,9 +3,7 @@
     {
       "feature": {
         "to_place": {
-          "state": {
-            "Name": "minecraft:fire_coral_block"
-          },
+          "state": "minecraft:fire_coral_block",
           "type": "minecraft:simple_state_provider"
         },
         "type": "minecraft:simple_block"

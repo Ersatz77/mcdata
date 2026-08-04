@@ -88,6 +88,8 @@ minecraft:black_candle_cake
 minecraft:black_carpet
 minecraft:black_concrete
 minecraft:black_concrete_powder
+minecraft:black_concrete_slab
+minecraft:black_concrete_stairs
 minecraft:black_glazed_terracotta
 minecraft:black_shulker_box
 minecraft:black_stained_glass
@@ -109,6 +111,8 @@ minecraft:blue_candle_cake
 minecraft:blue_carpet
 minecraft:blue_concrete
 minecraft:blue_concrete_powder
+minecraft:blue_concrete_slab
+minecraft:blue_concrete_stairs
 minecraft:blue_glazed_terracotta
 minecraft:blue_ice
 minecraft:blue_orchid
@@ -138,6 +142,8 @@ minecraft:brown_candle_cake
 minecraft:brown_carpet
 minecraft:brown_concrete
 minecraft:brown_concrete_powder
+minecraft:brown_concrete_slab
+minecraft:brown_concrete_stairs
 minecraft:brown_glazed_terracotta
 minecraft:brown_mushroom
 minecraft:brown_mushroom_block
@@ -293,6 +299,8 @@ minecraft:cyan_candle_cake
 minecraft:cyan_carpet
 minecraft:cyan_concrete
 minecraft:cyan_concrete_powder
+minecraft:cyan_concrete_slab
+minecraft:cyan_concrete_stairs
 minecraft:cyan_glazed_terracotta
 minecraft:cyan_shulker_box
 minecraft:cyan_stained_glass
@@ -446,6 +454,8 @@ minecraft:gray_candle_cake
 minecraft:gray_carpet
 minecraft:gray_concrete
 minecraft:gray_concrete_powder
+minecraft:gray_concrete_slab
+minecraft:gray_concrete_stairs
 minecraft:gray_glazed_terracotta
 minecraft:gray_shulker_box
 minecraft:gray_stained_glass
@@ -462,6 +472,8 @@ minecraft:green_candle_cake
 minecraft:green_carpet
 minecraft:green_concrete
 minecraft:green_concrete_powder
+minecraft:green_concrete_slab
+minecraft:green_concrete_stairs
 minecraft:green_glazed_terracotta
 minecraft:green_shulker_box
 minecraft:green_stained_glass
@@ -539,6 +551,8 @@ minecraft:light_blue_candle_cake
 minecraft:light_blue_carpet
 minecraft:light_blue_concrete
 minecraft:light_blue_concrete_powder
+minecraft:light_blue_concrete_slab
+minecraft:light_blue_concrete_stairs
 minecraft:light_blue_glazed_terracotta
 minecraft:light_blue_shulker_box
 minecraft:light_blue_stained_glass
@@ -555,6 +569,8 @@ minecraft:light_gray_candle_cake
 minecraft:light_gray_carpet
 minecraft:light_gray_concrete
 minecraft:light_gray_concrete_powder
+minecraft:light_gray_concrete_slab
+minecraft:light_gray_concrete_stairs
 minecraft:light_gray_glazed_terracotta
 minecraft:light_gray_shulker_box
 minecraft:light_gray_stained_glass
@@ -576,6 +592,8 @@ minecraft:lime_candle_cake
 minecraft:lime_carpet
 minecraft:lime_concrete
 minecraft:lime_concrete_powder
+minecraft:lime_concrete_slab
+minecraft:lime_concrete_stairs
 minecraft:lime_glazed_terracotta
 minecraft:lime_shulker_box
 minecraft:lime_stained_glass
@@ -594,6 +612,8 @@ minecraft:magenta_candle_cake
 minecraft:magenta_carpet
 minecraft:magenta_concrete
 minecraft:magenta_concrete_powder
+minecraft:magenta_concrete_slab
+minecraft:magenta_concrete_stairs
 minecraft:magenta_glazed_terracotta
 minecraft:magenta_shulker_box
 minecraft:magenta_stained_glass
@@ -688,6 +708,8 @@ minecraft:orange_candle_cake
 minecraft:orange_carpet
 minecraft:orange_concrete
 minecraft:orange_concrete_powder
+minecraft:orange_concrete_slab
+minecraft:orange_concrete_stairs
 minecraft:orange_glazed_terracotta
 minecraft:orange_poplar_leaves
 minecraft:orange_shulker_box
@@ -750,6 +772,8 @@ minecraft:pink_candle_cake
 minecraft:pink_carpet
 minecraft:pink_concrete
 minecraft:pink_concrete_powder
+minecraft:pink_concrete_slab
+minecraft:pink_concrete_stairs
 minecraft:pink_glazed_terracotta
 minecraft:pink_petals
 minecraft:pink_shulker_box
@@ -883,6 +907,8 @@ minecraft:purple_candle_cake
 minecraft:purple_carpet
 minecraft:purple_concrete
 minecraft:purple_concrete_powder
+minecraft:purple_concrete_slab
+minecraft:purple_concrete_stairs
 minecraft:purple_glazed_terracotta
 minecraft:purple_shulker_box
 minecraft:purple_stained_glass
@@ -912,6 +938,8 @@ minecraft:red_candle_cake
 minecraft:red_carpet
 minecraft:red_concrete
 minecraft:red_concrete_powder
+minecraft:red_concrete_slab
+minecraft:red_concrete_stairs
 minecraft:red_glazed_terracotta
 minecraft:red_mushroom
 minecraft:red_mushroom_block
@@ -1219,6 +1247,8 @@ minecraft:white_candle_cake
 minecraft:white_carpet
 minecraft:white_concrete
 minecraft:white_concrete_powder
+minecraft:white_concrete_slab
+minecraft:white_concrete_stairs
 minecraft:white_glazed_terracotta
 minecraft:white_shulker_box
 minecraft:white_stained_glass
@@ -1240,6 +1270,8 @@ minecraft:yellow_candle_cake
 minecraft:yellow_carpet
 minecraft:yellow_concrete
 minecraft:yellow_concrete_powder
+minecraft:yellow_concrete_slab
+minecraft:yellow_concrete_stairs
 minecraft:yellow_glazed_terracotta
 minecraft:yellow_poplar_leaves
 minecraft:yellow_shulker_box

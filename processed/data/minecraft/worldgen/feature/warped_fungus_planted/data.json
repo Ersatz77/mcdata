@@ -1,10 +1,6 @@
 {
-  "decor_state": {
-    "Name": "minecraft:shroomlight"
-  },
-  "hat_state": {
-    "Name": "minecraft:warped_wart_block"
-  },
+  "decor_state": "minecraft:shroomlight",
+  "hat_state": "minecraft:warped_wart_block",
   "planted": true,
   "replaceable_blocks": {
     "blocks": [
@@ -70,14 +66,7 @@
     ],
     "type": "minecraft:matching_blocks"
   },
-  "stem_state": {
-    "Name": "minecraft:warped_stem",
-    "Properties": {
-      "axis": "y"
-    }
-  },
+  "stem_state": "minecraft:warped_stem",
   "type": "minecraft:huge_fungus",
-  "valid_base_block": {
-    "Name": "minecraft:warped_nylium"
-  }
+  "valid_base_block": "minecraft:warped_nylium"
 }

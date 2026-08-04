@@ -5,9 +5,7 @@
         "type": "minecraft:steep"
       },
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:packed_ice"
-        },
+        "result_state": "minecraft:packed_ice",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"
@@ -20,9 +18,7 @@
         "type": "minecraft:noise_threshold"
       },
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:packed_ice"
-        },
+        "result_state": "minecraft:packed_ice",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"
@@ -35,9 +31,7 @@
         "type": "minecraft:noise_threshold"
       },
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:ice"
-        },
+        "result_state": "minecraft:ice",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"
@@ -45,9 +39,7 @@
     {
       "if_true": "minecraft:not_underwater",
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:snow_block"
-        },
+        "result_state": "minecraft:snow_block",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"

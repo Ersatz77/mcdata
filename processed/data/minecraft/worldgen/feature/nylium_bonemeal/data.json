@@ -7,21 +7,15 @@
             "to_place": {
               "entries": [
                 {
-                  "data": {
-                    "Name": "minecraft:crimson_roots"
-                  },
+                  "data": "minecraft:crimson_roots",
                   "weight": 87
                 },
                 {
-                  "data": {
-                    "Name": "minecraft:crimson_fungus"
-                  },
+                  "data": "minecraft:crimson_fungus",
                   "weight": 11
                 },
                 {
-                  "data": {
-                    "Name": "minecraft:warped_fungus"
-                  },
+                  "data": "minecraft:warped_fungus",
                   "weight": 1
                 }
               ],
@@ -89,27 +83,19 @@
               "to_place": {
                 "entries": [
                   {
-                    "data": {
-                      "Name": "minecraft:warped_roots"
-                    },
+                    "data": "minecraft:warped_roots",
                     "weight": 85
                   },
                   {
-                    "data": {
-                      "Name": "minecraft:crimson_roots"
-                    },
+                    "data": "minecraft:crimson_roots",
                     "weight": 1
                   },
                   {
-                    "data": {
-                      "Name": "minecraft:warped_fungus"
-                    },
+                    "data": "minecraft:warped_fungus",
                     "weight": 13
                   },
                   {
-                    "data": {
-                      "Name": "minecraft:crimson_fungus"
-                    },
+                    "data": "minecraft:crimson_fungus",
                     "weight": 1
                   }
                 ],
@@ -155,9 +141,7 @@
           {
             "feature": {
               "to_place": {
-                "state": {
-                  "Name": "minecraft:nether_sprouts"
-                },
+                "state": "minecraft:nether_sprouts",
                 "type": "minecraft:simple_state_provider"
               },
               "type": "minecraft:simple_block"
@@ -236,9 +220,7 @@
                             "type": "minecraft:weighted_list"
                           },
                           "provider": {
-                            "state": {
-                              "Name": "minecraft:twisting_vines_plant"
-                            },
+                            "state": "minecraft:twisting_vines_plant",
                             "type": "minecraft:simple_state_provider"
                           }
                         },
@@ -247,12 +229,7 @@
                           "provider": {
                             "property": "age",
                             "source": {
-                              "state": {
-                                "Name": "minecraft:twisting_vines",
-                                "Properties": {
-                                  "age": "0"
-                                }
-                              },
+                              "state": "minecraft:twisting_vines",
                               "type": "minecraft:simple_state_provider"
                             },
                             "type": "minecraft:randomized_int_state_provider",

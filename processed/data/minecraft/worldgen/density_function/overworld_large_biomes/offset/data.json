@@ -8,7 +8,7 @@
         "type": "minecraft:blend_offset"
       },
       "second": {
-        "left": -0.5037500262260437,
+        "left": -0.50375,
         "right": {
           "spline": {
             "coordinate": "minecraft:overworld_large_biomes/continents",

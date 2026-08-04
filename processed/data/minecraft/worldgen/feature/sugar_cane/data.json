@@ -12,12 +12,7 @@
         "type": "minecraft:biased_to_bottom"
       },
       "provider": {
-        "state": {
-          "Name": "minecraft:sugar_cane",
-          "Properties": {
-            "age": "0"
-          }
-        },
+        "state": "minecraft:sugar_cane",
         "type": "minecraft:simple_state_provider"
       }
     }

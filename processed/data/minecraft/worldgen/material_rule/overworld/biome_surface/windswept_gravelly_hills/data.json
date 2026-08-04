@@ -18,9 +18,7 @@
         "type": "minecraft:noise_threshold"
       },
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:stone"
-        },
+        "result_state": "minecraft:stone",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"

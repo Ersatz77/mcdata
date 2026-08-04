@@ -1,19 +1,19 @@
 {
-  "left": -3.0,
-  "right": {
-    "left": -0.3333333333333333,
-    "right": {
+  "left": {
+    "left": {
       "input": {
-        "left": -0.6666666666666666,
-        "right": {
+        "left": {
           "input": "minecraft:overworld/ridges",
           "type": "minecraft:abs"
         },
+        "right": -0.6666667,
         "type": "minecraft:add"
       },
       "type": "minecraft:abs"
     },
+    "right": -0.33333334,
     "type": "minecraft:add"
   },
+  "right": -3.0,
   "type": "minecraft:mul"
 }

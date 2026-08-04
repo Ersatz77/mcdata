@@ -1,13 +1,6 @@
 {
-  "default_block": {
-    "Name": "minecraft:stone"
-  },
-  "default_fluid": {
-    "Name": "minecraft:water",
-    "Properties": {
-      "level": "0"
-    }
-  },
+  "default_block": "minecraft:stone",
+  "default_fluid": "minecraft:water",
   "disable_mob_generation": false,
   "legacy_random_source": true,
   "material_rule": "minecraft:overworld_floating_islands",
@@ -25,8 +18,7 @@
       "left": {
         "input": {
           "input": {
-            "left": 0.64,
-            "right": {
+            "left": {
               "input": {
                 "alpha": {
                   "axis": "y",
@@ -54,6 +46,7 @@
               },
               "type": "minecraft:blend_density"
             },
+            "right": 0.64,
             "type": "minecraft:mul"
           },
           "type": "minecraft:interpolated"

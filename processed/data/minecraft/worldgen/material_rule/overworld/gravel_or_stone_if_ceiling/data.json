@@ -3,17 +3,13 @@
     {
       "if_true": "minecraft:on_ceiling",
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:stone"
-        },
+        "result_state": "minecraft:stone",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"
     },
     {
-      "result_state": {
-        "Name": "minecraft:gravel"
-      },
+      "result_state": "minecraft:gravel",
       "type": "minecraft:block"
     }
   ],

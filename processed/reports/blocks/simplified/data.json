@@ -1736,6 +1736,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:black_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:black_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:black_glazed_terracotta": {
     "default": {
       "facing": "north"
@@ -2071,6 +2119,54 @@
   "minecraft:blue_concrete_powder": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:blue_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:blue_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:blue_glazed_terracotta": {
     "default": {
@@ -2478,6 +2574,54 @@
   "minecraft:brown_concrete_powder": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:brown_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:brown_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:brown_glazed_terracotta": {
     "default": {
@@ -4983,6 +5127,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:cyan_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:cyan_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:cyan_glazed_terracotta": {
     "default": {
       "facing": "north"
@@ -7305,6 +7497,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:gray_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:gray_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:gray_glazed_terracotta": {
     "default": {
       "facing": "north"
@@ -7530,6 +7770,54 @@
   "minecraft:green_concrete_powder": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:green_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:green_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:green_glazed_terracotta": {
     "default": {
@@ -8755,6 +9043,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:light_blue_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:light_blue_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:light_blue_glazed_terracotta": {
     "default": {
       "facing": "north"
@@ -8980,6 +9316,54 @@
   "minecraft:light_gray_concrete_powder": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:light_gray_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:light_gray_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:light_gray_glazed_terracotta": {
     "default": {
@@ -9276,6 +9660,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:lime_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:lime_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:lime_glazed_terracotta": {
     "default": {
       "facing": "north"
@@ -9518,6 +9950,54 @@
   "minecraft:magenta_concrete_powder": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:magenta_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:magenta_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:magenta_glazed_terracotta": {
     "default": {
@@ -11274,6 +11754,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:orange_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:orange_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:orange_glazed_terracotta": {
     "default": {
       "facing": "north"
@@ -12374,6 +12902,54 @@
   "minecraft:pink_concrete_powder": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:pink_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:pink_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:pink_glazed_terracotta": {
     "default": {
@@ -14313,6 +14889,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:purple_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:purple_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:purple_glazed_terracotta": {
     "default": {
       "facing": "north"
@@ -14706,6 +15330,54 @@
   "minecraft:red_concrete_powder": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:red_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:red_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:red_glazed_terracotta": {
     "default": {
@@ -20001,6 +20673,54 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:white_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:white_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:white_glazed_terracotta": {
     "default": {
       "facing": "north"
@@ -20302,6 +21022,54 @@
   "minecraft:yellow_concrete_powder": {
     "default": {},
     "properties": {}
+  },
+  "minecraft:yellow_concrete_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:yellow_concrete_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   },
   "minecraft:yellow_glazed_terracotta": {
     "default": {

@@ -1,6 +1,7 @@
 {
   "values": [
     "minecraft:additional_trade_cost",
+    "minecraft:attack_animation",
     "minecraft:attack_range",
     "minecraft:attribute_modifiers",
     "minecraft:axolotl/variant",
@@ -56,6 +57,7 @@
     "minecraft:horse/variant",
     "minecraft:instrument",
     "minecraft:intangible_projectile",
+    "minecraft:interact_animation",
     "minecraft:item_model",
     "minecraft:item_name",
     "minecraft:jukebox_playable",
@@ -64,7 +66,6 @@
     "minecraft:lock",
     "minecraft:lodestone_tracker",
     "minecraft:lore",
-    "minecraft:map_color",
     "minecraft:map_decorations",
     "minecraft:map_id",
     "minecraft:map_post_processing",
@@ -100,7 +101,6 @@
     "minecraft:stored_enchantments",
     "minecraft:sulfur_cube_content",
     "minecraft:suspicious_stew_effects",
-    "minecraft:swing_animation",
     "minecraft:tool",
     "minecraft:tooltip_display",
     "minecraft:tooltip_style",

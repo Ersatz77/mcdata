@@ -1,8 +1,6 @@
 {
   "below_trunk_provider": {
-    "state": {
-      "Name": "minecraft:rooted_dirt"
-    },
+    "state": "minecraft:rooted_dirt",
     "type": "minecraft:simple_state_provider"
   },
   "decorators": [],
@@ -16,25 +14,11 @@
   "foliage_provider": {
     "entries": [
       {
-        "data": {
-          "Name": "minecraft:azalea_leaves",
-          "Properties": {
-            "distance": "7",
-            "persistent": "false",
-            "waterlogged": "false"
-          }
-        },
+        "data": "minecraft:azalea_leaves",
         "weight": 3
       },
       {
-        "data": {
-          "Name": "minecraft:flowering_azalea_leaves",
-          "Properties": {
-            "distance": "7",
-            "persistent": "false",
-            "waterlogged": "false"
-          }
-        },
+        "data": "minecraft:flowering_azalea_leaves",
         "weight": 1
       }
     ],
@@ -57,12 +41,7 @@
     "type": "minecraft:bending_trunk_placer"
   },
   "trunk_provider": {
-    "state": {
-      "Name": "minecraft:oak_log",
-      "Properties": {
-        "axis": "y"
-      }
-    },
+    "state": "minecraft:oak_log",
     "type": "minecraft:simple_state_provider"
   },
   "type": "minecraft:tree"

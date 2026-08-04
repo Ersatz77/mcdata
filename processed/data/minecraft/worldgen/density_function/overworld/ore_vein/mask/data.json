@@ -1,12 +1,12 @@
 {
   "input": {
     "input": "minecraft:overworld/ore_vein/toggle",
-    "max_exclusive": 0.4000000059604645,
-    "min_inclusive": -0.4000000059604645,
+    "max_exclusive": 0.4,
+    "min_inclusive": -0.4,
     "type": "minecraft:range_choice",
     "when_in_range": -1.0,
     "when_out_of_range": {
-      "left": 0.07999999821186066,
+      "left": 0.08,
       "right": {
         "left": {
           "input": {

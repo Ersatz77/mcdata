@@ -10,9 +10,7 @@
           "type": "minecraft:not"
         },
         "then": {
-          "state": {
-            "Name": "minecraft:dirt"
-          },
+          "state": "minecraft:dirt",
           "type": "minecraft:simple_state_provider"
         }
       }
@@ -32,14 +30,7 @@
     "type": "minecraft:blob_foliage_placer"
   },
   "foliage_provider": {
-    "state": {
-      "Name": "minecraft:birch_leaves",
-      "Properties": {
-        "distance": "7",
-        "persistent": "false",
-        "waterlogged": "false"
-      }
-    },
+    "state": "minecraft:birch_leaves",
     "type": "minecraft:simple_state_provider"
   },
   "ignore_vines": true,
@@ -53,12 +44,7 @@
     "type": "minecraft:straight_trunk_placer"
   },
   "trunk_provider": {
-    "state": {
-      "Name": "minecraft:birch_log",
-      "Properties": {
-        "axis": "y"
-      }
-    },
+    "state": "minecraft:birch_log",
     "type": "minecraft:simple_state_provider"
   },
   "type": "minecraft:tree"

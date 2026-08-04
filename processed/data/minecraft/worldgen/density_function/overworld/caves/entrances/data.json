@@ -2,13 +2,13 @@
   "input": {
     "left": {
       "left": {
-        "left": 0.37,
-        "right": {
+        "left": {
           "noise": "minecraft:cave_entrance",
           "type": "minecraft:noise",
           "xz_scale": 0.75,
           "y_scale": 0.5
         },
+        "right": 0.37,
         "type": "minecraft:add"
       },
       "right": {
@@ -30,43 +30,43 @@
               "input": {
                 "functions": [
                   {
-                    "left": 0.75,
-                    "right": {
+                    "left": {
                       "noise": "minecraft:spaghetti_3d_1",
                       "type": "minecraft:noise",
                       "xz_scale": 1.3333333333333333,
                       "y_scale": 1.3333333333333333
                     },
+                    "right": 0.75,
                     "type": "minecraft:mul"
                   },
                   {
-                    "left": 1.0,
-                    "right": {
+                    "left": {
                       "noise": "minecraft:spaghetti_3d_1",
                       "type": "minecraft:noise",
                       "xz_scale": 1.0,
                       "y_scale": 1.0
                     },
+                    "right": 1.0,
                     "type": "minecraft:mul"
                   },
                   {
-                    "left": 1.5,
-                    "right": {
+                    "left": {
                       "noise": "minecraft:spaghetti_3d_1",
                       "type": "minecraft:noise",
                       "xz_scale": 0.6666666666666666,
                       "y_scale": 0.6666666666666666
                     },
+                    "right": 1.5,
                     "type": "minecraft:mul"
                   },
                   {
-                    "left": 2.0,
-                    "right": {
+                    "left": {
                       "noise": "minecraft:spaghetti_3d_1",
                       "type": "minecraft:noise",
                       "xz_scale": 0.5,
                       "y_scale": 0.5
                     },
+                    "right": 2.0,
                     "type": "minecraft:mul"
                   }
                 ],
@@ -92,43 +92,43 @@
               "input": {
                 "functions": [
                   {
-                    "left": 0.75,
-                    "right": {
+                    "left": {
                       "noise": "minecraft:spaghetti_3d_2",
                       "type": "minecraft:noise",
                       "xz_scale": 1.3333333333333333,
                       "y_scale": 1.3333333333333333
                     },
+                    "right": 0.75,
                     "type": "minecraft:mul"
                   },
                   {
-                    "left": 1.0,
-                    "right": {
+                    "left": {
                       "noise": "minecraft:spaghetti_3d_2",
                       "type": "minecraft:noise",
                       "xz_scale": 1.0,
                       "y_scale": 1.0
                     },
+                    "right": 1.0,
                     "type": "minecraft:mul"
                   },
                   {
-                    "left": 1.5,
-                    "right": {
+                    "left": {
                       "noise": "minecraft:spaghetti_3d_2",
                       "type": "minecraft:noise",
                       "xz_scale": 0.6666666666666666,
                       "y_scale": 0.6666666666666666
                     },
+                    "right": 1.5,
                     "type": "minecraft:mul"
                   },
                   {
-                    "left": 2.0,
-                    "right": {
+                    "left": {
                       "noise": "minecraft:spaghetti_3d_2",
                       "type": "minecraft:noise",
                       "xz_scale": 0.5,
                       "y_scale": 0.5
                     },
+                    "right": 2.0,
                     "type": "minecraft:mul"
                   }
                 ],
@@ -153,17 +153,17 @@
             "type": "minecraft:max"
           },
           "right": {
-            "left": -0.0765,
-            "right": {
-              "left": -0.011499999999999996,
-              "right": {
+            "left": {
+              "left": {
                 "noise": "minecraft:spaghetti_3d_thickness",
                 "type": "minecraft:noise",
                 "xz_scale": 1.0,
                 "y_scale": 1.0
               },
+              "right": -0.011500001,
               "type": "minecraft:mul"
             },
+            "right": -0.0765,
             "type": "minecraft:add"
           },
           "type": "minecraft:add"

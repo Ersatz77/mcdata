@@ -32,9 +32,7 @@
         "type": "minecraft:weighted_list"
       },
       "provider": {
-        "state": {
-          "Name": "minecraft:twisting_vines_plant"
-        },
+        "state": "minecraft:twisting_vines_plant",
         "type": "minecraft:simple_state_provider"
       }
     },
@@ -43,12 +41,7 @@
       "provider": {
         "property": "age",
         "source": {
-          "state": {
-            "Name": "minecraft:twisting_vines",
-            "Properties": {
-              "age": "0"
-            }
-          },
+          "state": "minecraft:twisting_vines",
           "type": "minecraft:simple_state_provider"
         },
         "type": "minecraft:randomized_int_state_provider",

@@ -10,9 +10,7 @@
           "type": "minecraft:not"
         },
         "then": {
-          "state": {
-            "Name": "minecraft:dirt"
-          },
+          "state": "minecraft:dirt",
           "type": "minecraft:simple_state_provider"
         }
       }
@@ -26,14 +24,7 @@
     "type": "minecraft:acacia_foliage_placer"
   },
   "foliage_provider": {
-    "state": {
-      "Name": "minecraft:acacia_leaves",
-      "Properties": {
-        "distance": "7",
-        "persistent": "false",
-        "waterlogged": "false"
-      }
-    },
+    "state": "minecraft:acacia_leaves",
     "type": "minecraft:simple_state_provider"
   },
   "ignore_vines": true,
@@ -48,12 +39,7 @@
     "type": "minecraft:forking_trunk_placer"
   },
   "trunk_provider": {
-    "state": {
-      "Name": "minecraft:acacia_log",
-      "Properties": {
-        "axis": "y"
-      }
-    },
+    "state": "minecraft:acacia_log",
     "type": "minecraft:simple_state_provider"
   },
   "type": "minecraft:tree"

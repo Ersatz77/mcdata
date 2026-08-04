@@ -3,12 +3,7 @@
   "placement": [
     {
       "predicate": {
-        "state": {
-          "Name": "minecraft:poplar_sapling",
-          "Properties": {
-            "stage": "0"
-          }
-        },
+        "state": "minecraft:poplar_sapling",
         "type": "minecraft:would_survive"
       },
       "type": "minecraft:block_predicate_filter"

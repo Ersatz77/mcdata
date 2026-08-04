@@ -5,8 +5,8 @@
   },
   "cap_provider": {
     "state": {
-      "Name": "minecraft:red_mushroom_block",
-      "Properties": {
+      "id": "minecraft:red_mushroom_block",
+      "properties": {
         "down": "false",
         "east": "true",
         "north": "true",
@@ -19,8 +19,8 @@
   },
   "stem_provider": {
     "state": {
-      "Name": "minecraft:mushroom_stem",
-      "Properties": {
+      "id": "minecraft:mushroom_stem",
+      "properties": {
         "down": "false",
         "east": "true",
         "north": "true",

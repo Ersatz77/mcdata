@@ -6,9 +6,7 @@
     "type": "minecraft:uniform"
   },
   "state_provider": {
-    "state": {
-      "Name": "minecraft:clay"
-    },
+    "state": "minecraft:clay",
     "type": "minecraft:simple_state_provider"
   },
   "target": {

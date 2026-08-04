@@ -83,14 +83,18 @@
               "zoom": 1
             },
             {
-              "name": {
-                "translate": "filled_map.buried_treasure"
+              "item_filter": {
+                "predicates": {
+                  "minecraft:map_id": {}
+                }
               },
-              "target": "item_name",
-              "type": "minecraft:set_name"
+              "on_fail": {
+                "type": "minecraft:discard"
+              },
+              "type": "minecraft:filtered"
             }
           ],
-          "name": "minecraft:map",
+          "name": "minecraft:buried_treasure_map",
           "type": "minecraft:item",
           "weight": 5
         }

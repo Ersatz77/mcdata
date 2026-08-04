@@ -2,9 +2,7 @@
   "sequence": [
     "minecraft:overworld/sulfur_cave_bands",
     {
-      "result_state": {
-        "Name": "minecraft:stone"
-      },
+      "result_state": "minecraft:stone",
       "type": "minecraft:block"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "state": {
-    "Name": "minecraft:lava",
-    "Properties": {
+    "id": "minecraft:lava",
+    "properties": {
       "falling": "true"
     }
   },

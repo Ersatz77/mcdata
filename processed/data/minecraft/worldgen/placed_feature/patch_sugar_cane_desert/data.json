@@ -44,12 +44,7 @@
             "type": "minecraft:matching_block_tag"
           },
           {
-            "state": {
-              "Name": "minecraft:sugar_cane",
-              "Properties": {
-                "age": "0"
-              }
-            },
+            "state": "minecraft:sugar_cane",
             "type": "minecraft:would_survive"
           },
           {

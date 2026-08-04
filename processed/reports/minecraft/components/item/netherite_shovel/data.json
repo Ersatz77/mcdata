@@ -1,5 +1,6 @@
 {
   "components": {
+    "minecraft:attack_animation": {},
     "minecraft:attribute_modifiers": [
       {
         "amount": 5.5,
@@ -40,9 +41,7 @@
                 "type": "minecraft:all_of"
               },
               "then": {
-                "state": {
-                  "Name": "minecraft:dirt_path"
-                },
+                "state": "minecraft:dirt_path",
                 "type": "minecraft:simple_state_provider"
               }
             }
@@ -65,6 +64,7 @@
       "value": 15
     },
     "minecraft:enchantments": {},
+    "minecraft:interact_animation": {},
     "minecraft:item_model": "minecraft:netherite_shovel",
     "minecraft:item_name": {
       "translate": "item.minecraft.netherite_shovel"
@@ -77,7 +77,6 @@
     "minecraft:repairable": {
       "items": "#minecraft:netherite_tool_materials"
     },
-    "minecraft:swing_animation": {},
     "minecraft:tool": {
       "rules": [
         {

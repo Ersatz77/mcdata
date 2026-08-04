@@ -1,8 +1,6 @@
 {
   "barrier": {
-    "state": {
-      "Name": "minecraft:stone"
-    },
+    "state": "minecraft:stone",
     "type": "minecraft:simple_state_provider"
   },
   "can_place_feature": {
@@ -23,12 +21,7 @@
     "type": "minecraft:not"
   },
   "fluid": {
-    "state": {
-      "Name": "minecraft:lava",
-      "Properties": {
-        "level": "0"
-      }
-    },
+    "state": "minecraft:lava",
     "type": "minecraft:simple_state_provider"
   },
   "type": "minecraft:lake"

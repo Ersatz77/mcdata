@@ -9,9 +9,7 @@
         "type": "minecraft:noise_threshold"
       },
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:cinnabar"
-        },
+        "result_state": "minecraft:cinnabar",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"
@@ -25,9 +23,7 @@
         "type": "minecraft:noise_threshold"
       },
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:sulfur"
-        },
+        "result_state": "minecraft:sulfur",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"
@@ -41,9 +37,7 @@
         "type": "minecraft:noise_threshold"
       },
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:cinnabar"
-        },
+        "result_state": "minecraft:cinnabar",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"

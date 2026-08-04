@@ -72,14 +72,6 @@
         },
         {
           "modifier": {
-            "count": 1.0,
-            "type": "minecraft:set_count"
-          },
-          "name": "minecraft:fishing_rod",
-          "type": "minecraft:item"
-        },
-        {
-          "modifier": {
             "count": {
               "max": 3.0,
               "min": 1.0,
@@ -100,14 +92,6 @@
             "type": "minecraft:set_count"
           },
           "name": "minecraft:leather",
-          "type": "minecraft:item"
-        },
-        {
-          "modifier": {
-            "count": 1.0,
-            "type": "minecraft:set_count"
-          },
-          "name": "minecraft:bundle",
           "type": "minecraft:item"
         },
         {
@@ -160,10 +144,26 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": {
+              "max": 2.0,
+              "min": 1.0,
+              "type": "minecraft:uniform"
+            },
             "type": "minecraft:set_count"
           },
-          "name": "minecraft:wooden_axe",
+          "name": "minecraft:white_cushion",
+          "type": "minecraft:item"
+        },
+        {
+          "modifier": {
+            "count": {
+              "max": 4.0,
+              "min": 2.0,
+              "type": "minecraft:uniform"
+            },
+            "type": "minecraft:set_count"
+          },
+          "name": "minecraft:straw_bed",
           "type": "minecraft:item"
         }
       ],
@@ -172,6 +172,35 @@
         "min": 4.0,
         "type": "minecraft:uniform"
       }
+    },
+    {
+      "entries": [
+        {
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
+          "name": "minecraft:bundle",
+          "type": "minecraft:item"
+        },
+        {
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
+          "name": "minecraft:wooden_axe",
+          "type": "minecraft:item"
+        },
+        {
+          "modifier": {
+            "count": 1.0,
+            "type": "minecraft:set_count"
+          },
+          "name": "minecraft:fishing_rod",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
     }
   ],
   "random_sequence": "minecraft:barrels/abandoned_camp_barrel",

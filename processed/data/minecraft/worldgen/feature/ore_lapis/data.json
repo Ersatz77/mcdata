@@ -3,9 +3,7 @@
   "size": 7,
   "targets": [
     {
-      "state": {
-        "Name": "minecraft:lapis_ore"
-      },
+      "state": "minecraft:lapis_ore",
       "target": {
         "predicate_type": "minecraft:any_of",
         "rules": [
@@ -43,9 +41,7 @@
       }
     },
     {
-      "state": {
-        "Name": "minecraft:deepslate_lapis_ore"
-      },
+      "state": "minecraft:deepslate_lapis_ore",
       "target": {
         "predicate_type": "minecraft:any_of",
         "rules": [

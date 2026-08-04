@@ -7,9 +7,7 @@
             {
               "feature": {
                 "to_place": {
-                  "state": {
-                    "Name": "minecraft:tuff"
-                  },
+                  "state": "minecraft:tuff",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:simple_block"
@@ -109,9 +107,7 @@
             {
               "feature": {
                 "to_place": {
-                  "state": {
-                    "Name": "minecraft:tuff"
-                  },
+                  "state": "minecraft:tuff",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:simple_block"
@@ -205,9 +201,7 @@
             {
               "feature": {
                 "to_place": {
-                  "state": {
-                    "Name": "minecraft:tuff"
-                  },
+                  "state": "minecraft:tuff",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:simple_block"
@@ -295,9 +289,7 @@
             {
               "feature": {
                 "to_place": {
-                  "state": {
-                    "Name": "minecraft:tuff"
-                  },
+                  "state": "minecraft:tuff",
                   "type": "minecraft:simple_state_provider"
                 },
                 "type": "minecraft:simple_block"

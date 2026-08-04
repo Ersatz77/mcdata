@@ -17,12 +17,7 @@
           {
             "feature": {
               "to_place": {
-                "state": {
-                  "Name": "minecraft:sculk_catalyst",
-                  "Properties": {
-                    "bloom": "false"
-                  }
-                },
+                "state": "minecraft:sculk_catalyst",
                 "type": "minecraft:simple_state_provider"
               },
               "type": "minecraft:simple_block"
@@ -50,8 +45,8 @@
             "feature": {
               "to_place": {
                 "state": {
-                  "Name": "minecraft:sculk_shrieker",
-                  "Properties": {
+                  "id": "minecraft:sculk_shrieker",
+                  "properties": {
                     "can_summon": "true",
                     "shrieking": "false",
                     "waterlogged": "false"

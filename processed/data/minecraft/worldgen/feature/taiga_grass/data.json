@@ -2,15 +2,11 @@
   "to_place": {
     "entries": [
       {
-        "data": {
-          "Name": "minecraft:short_grass"
-        },
+        "data": "minecraft:short_grass",
         "weight": 1
       },
       {
-        "data": {
-          "Name": "minecraft:fern"
-        },
+        "data": "minecraft:fern",
         "weight": 4
       }
     ],

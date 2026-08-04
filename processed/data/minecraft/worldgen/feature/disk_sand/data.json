@@ -7,9 +7,7 @@
   },
   "state_provider": {
     "fallback": {
-      "state": {
-        "Name": "minecraft:sand"
-      },
+      "state": "minecraft:sand",
       "type": "minecraft:simple_state_provider"
     },
     "rules": [
@@ -24,9 +22,7 @@
           "type": "minecraft:matching_blocks"
         },
         "then": {
-          "state": {
-            "Name": "minecraft:sandstone"
-          },
+          "state": "minecraft:sandstone",
           "type": "minecraft:simple_state_provider"
         }
       }

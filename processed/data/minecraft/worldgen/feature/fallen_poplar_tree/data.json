@@ -2,9 +2,7 @@
   "log_decorators": [
     {
       "block_provider": {
-        "state": {
-          "Name": "minecraft:brown_mushroom"
-        },
+        "state": "minecraft:brown_mushroom",
         "type": "minecraft:simple_state_provider"
       },
       "directions": [
@@ -25,12 +23,7 @@
   },
   "stump_decorators": [],
   "trunk_provider": {
-    "state": {
-      "Name": "minecraft:poplar_log",
-      "Properties": {
-        "axis": "y"
-      }
-    },
+    "state": "minecraft:poplar_log",
     "type": "minecraft:simple_state_provider"
   },
   "type": "minecraft:fallen_tree"

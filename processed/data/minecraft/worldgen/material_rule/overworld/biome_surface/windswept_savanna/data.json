@@ -8,9 +8,7 @@
         "type": "minecraft:noise_threshold"
       },
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:stone"
-        },
+        "result_state": "minecraft:stone",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"
@@ -23,9 +21,7 @@
         "type": "minecraft:noise_threshold"
       },
       "then_run": {
-        "result_state": {
-          "Name": "minecraft:coarse_dirt"
-        },
+        "result_state": "minecraft:coarse_dirt",
         "type": "minecraft:block"
       },
       "type": "minecraft:condition"

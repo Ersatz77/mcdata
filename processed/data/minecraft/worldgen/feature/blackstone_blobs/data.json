@@ -4,11 +4,7 @@
     "min_inclusive": 3,
     "type": "minecraft:uniform"
   },
-  "state": {
-    "Name": "minecraft:blackstone"
-  },
-  "target": {
-    "Name": "minecraft:netherrack"
-  },
+  "state": "minecraft:blackstone",
+  "target": "minecraft:netherrack",
   "type": "minecraft:netherrack_replace_blobs"
 }

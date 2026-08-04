@@ -4,15 +4,11 @@
       "block_provider": {
         "entries": [
           {
-            "data": {
-              "Name": "minecraft:red_mushroom"
-            },
+            "data": "minecraft:red_mushroom",
             "weight": 2
           },
           {
-            "data": {
-              "Name": "minecraft:brown_mushroom"
-            },
+            "data": "minecraft:brown_mushroom",
             "weight": 1
           }
         ],
@@ -36,12 +32,7 @@
     }
   ],
   "trunk_provider": {
-    "state": {
-      "Name": "minecraft:jungle_log",
-      "Properties": {
-        "axis": "y"
-      }
-    },
+    "state": "minecraft:jungle_log",
     "type": "minecraft:simple_state_provider"
   },
   "type": "minecraft:fallen_tree"

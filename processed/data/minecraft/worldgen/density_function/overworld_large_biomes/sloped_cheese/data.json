@@ -1,8 +1,7 @@
 {
   "input": {
     "left": {
-      "left": 4.0,
-      "right": {
+      "left": {
         "input": {
           "left": {
             "left": "minecraft:overworld_large_biomes/depth",
@@ -29,6 +28,7 @@
         },
         "type": "minecraft:quarter_negative"
       },
+      "right": 4.0,
       "type": "minecraft:mul"
     },
     "right": "minecraft:overworld/base_3d_noise",

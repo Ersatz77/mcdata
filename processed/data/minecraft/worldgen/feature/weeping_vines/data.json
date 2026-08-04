@@ -8,9 +8,7 @@
         ],
         "attempts": 200,
         "block": {
-          "state": {
-            "Name": "minecraft:nether_wart_block"
-          },
+          "state": "minecraft:nether_wart_block",
           "type": "minecraft:simple_state_provider"
         },
         "can_replace": {
@@ -68,9 +66,7 @@
               "type": "minecraft:weighted_list"
             },
             "provider": {
-              "state": {
-                "Name": "minecraft:weeping_vines_plant"
-              },
+              "state": "minecraft:weeping_vines_plant",
               "type": "minecraft:simple_state_provider"
             }
           },
@@ -79,12 +75,7 @@
             "provider": {
               "property": "age",
               "source": {
-                "state": {
-                  "Name": "minecraft:weeping_vines",
-                  "Properties": {
-                    "age": "0"
-                  }
-                },
+                "state": "minecraft:weeping_vines",
                 "type": "minecraft:simple_state_provider"
               },
               "type": "minecraft:randomized_int_state_provider",

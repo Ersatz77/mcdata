@@ -10,9 +10,7 @@
           "type": "minecraft:not"
         },
         "then": {
-          "state": {
-            "Name": "minecraft:dirt"
-          },
+          "state": "minecraft:dirt",
           "type": "minecraft:simple_state_provider"
         }
       }
@@ -57,14 +55,7 @@
     "type": "minecraft:poplar_foliage_placer"
   },
   "foliage_provider": {
-    "state": {
-      "Name": "minecraft:yellow_poplar_leaves",
-      "Properties": {
-        "distance": "7",
-        "persistent": "false",
-        "waterlogged": "false"
-      }
-    },
+    "state": "minecraft:yellow_poplar_leaves",
     "type": "minecraft:simple_state_provider"
   },
   "ignore_vines": true,
@@ -85,12 +76,7 @@
     "type": "minecraft:poplar_trunk_placer"
   },
   "trunk_provider": {
-    "state": {
-      "Name": "minecraft:poplar_log",
-      "Properties": {
-        "axis": "y"
-      }
-    },
+    "state": "minecraft:poplar_log",
     "type": "minecraft:simple_state_provider"
   },
   "type": "minecraft:tree"

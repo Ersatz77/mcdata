@@ -11,9 +11,7 @@
   "hanging_root_placement_attempts": 1,
   "hanging_root_radius": 1,
   "hanging_root_state_provider": {
-    "state": {
-      "Name": "minecraft:sulfur"
-    },
+    "state": "minecraft:sulfur",
     "type": "minecraft:simple_state_provider"
   },
   "hanging_roots_vertical_span": 1,
@@ -25,9 +23,7 @@
   "root_radius": 3,
   "root_replaceable": "#minecraft:azalea_root_replaceable",
   "root_state_provider": {
-    "state": {
-      "Name": "minecraft:sulfur"
-    },
+    "state": "minecraft:sulfur",
     "type": "minecraft:simple_state_provider"
   },
   "type": "minecraft:root_system"

@@ -28,9 +28,7 @@
                       "type": "minecraft:noise_threshold"
                     },
                     "then_run": {
-                      "result_state": {
-                        "Name": "minecraft:coarse_dirt"
-                      },
+                      "result_state": "minecraft:coarse_dirt",
                       "type": "minecraft:block"
                     },
                     "type": "minecraft:condition"
@@ -43,9 +41,7 @@
                       "type": "minecraft:noise_threshold"
                     },
                     "then_run": {
-                      "result_state": {
-                        "Name": "minecraft:coarse_dirt"
-                      },
+                      "result_state": "minecraft:coarse_dirt",
                       "type": "minecraft:block"
                     },
                     "type": "minecraft:condition"
@@ -58,9 +54,7 @@
                       "type": "minecraft:noise_threshold"
                     },
                     "then_run": {
-                      "result_state": {
-                        "Name": "minecraft:coarse_dirt"
-                      },
+                      "result_state": "minecraft:coarse_dirt",
                       "type": "minecraft:block"
                     },
                     "type": "minecraft:condition"
@@ -107,12 +101,7 @@
                     "type": "minecraft:noise_threshold"
                   },
                   "then_run": {
-                    "result_state": {
-                      "Name": "minecraft:water",
-                      "Properties": {
-                        "level": "0"
-                      }
-                    },
+                    "result_state": "minecraft:water",
                     "type": "minecraft:block"
                   },
                   "type": "minecraft:condition"
@@ -157,12 +146,7 @@
                     "type": "minecraft:noise_threshold"
                   },
                   "then_run": {
-                    "result_state": {
-                      "Name": "minecraft:water",
-                      "Properties": {
-                        "level": "0"
-                      }
-                    },
+                    "result_state": "minecraft:water",
                     "type": "minecraft:block"
                   },
                   "type": "minecraft:condition"
@@ -203,9 +187,7 @@
                     "type": "minecraft:y_above"
                   },
                   "then_run": {
-                    "result_state": {
-                      "Name": "minecraft:orange_terracotta"
-                    },
+                    "result_state": "minecraft:orange_terracotta",
                     "type": "minecraft:block"
                   },
                   "type": "minecraft:condition"
@@ -229,9 +211,7 @@
                           "type": "minecraft:noise_threshold"
                         },
                         "then_run": {
-                          "result_state": {
-                            "Name": "minecraft:terracotta"
-                          },
+                          "result_state": "minecraft:terracotta",
                           "type": "minecraft:block"
                         },
                         "type": "minecraft:condition"
@@ -244,9 +224,7 @@
                           "type": "minecraft:noise_threshold"
                         },
                         "then_run": {
-                          "result_state": {
-                            "Name": "minecraft:terracotta"
-                          },
+                          "result_state": "minecraft:terracotta",
                           "type": "minecraft:block"
                         },
                         "type": "minecraft:condition"
@@ -259,9 +237,7 @@
                           "type": "minecraft:noise_threshold"
                         },
                         "then_run": {
-                          "result_state": {
-                            "Name": "minecraft:terracotta"
-                          },
+                          "result_state": "minecraft:terracotta",
                           "type": "minecraft:block"
                         },
                         "type": "minecraft:condition"
@@ -281,17 +257,13 @@
                       {
                         "if_true": "minecraft:on_ceiling",
                         "then_run": {
-                          "result_state": {
-                            "Name": "minecraft:red_sandstone"
-                          },
+                          "result_state": "minecraft:red_sandstone",
                           "type": "minecraft:block"
                         },
                         "type": "minecraft:condition"
                       },
                       {
-                        "result_state": {
-                          "Name": "minecraft:red_sand"
-                        },
+                        "result_state": "minecraft:red_sand",
                         "type": "minecraft:block"
                       }
                     ],
@@ -307,9 +279,7 @@
                     "type": "minecraft:not"
                   },
                   "then_run": {
-                    "result_state": {
-                      "Name": "minecraft:orange_terracotta"
-                    },
+                    "result_state": "minecraft:orange_terracotta",
                     "type": "minecraft:block"
                   },
                   "type": "minecraft:condition"
@@ -317,9 +287,7 @@
                 {
                   "if_true": "minecraft:not_under_deep_water",
                   "then_run": {
-                    "result_state": {
-                      "Name": "minecraft:white_terracotta"
-                    },
+                    "result_state": "minecraft:white_terracotta",
                     "type": "minecraft:block"
                   },
                   "type": "minecraft:condition"
@@ -363,9 +331,7 @@
                       "type": "minecraft:not"
                     },
                     "then_run": {
-                      "result_state": {
-                        "Name": "minecraft:orange_terracotta"
-                      },
+                      "result_state": "minecraft:orange_terracotta",
                       "type": "minecraft:block"
                     },
                     "type": "minecraft:condition"
@@ -385,9 +351,7 @@
             "then_run": {
               "if_true": "minecraft:not_under_deep_water",
               "then_run": {
-                "result_state": {
-                  "Name": "minecraft:white_terracotta"
-                },
+                "result_state": "minecraft:white_terracotta",
                 "type": "minecraft:block"
               },
               "type": "minecraft:condition"
@@ -418,9 +382,7 @@
                   "type": "minecraft:hole"
                 },
                 "then_run": {
-                  "result_state": {
-                    "Name": "minecraft:air"
-                  },
+                  "result_state": "minecraft:air",
                   "type": "minecraft:block"
                 },
                 "type": "minecraft:condition"
@@ -454,12 +416,7 @@
                   "type": "minecraft:hole"
                 },
                 "then_run": {
-                  "result_state": {
-                    "Name": "minecraft:water",
-                    "Properties": {
-                      "level": "0"
-                    }
-                  },
+                  "result_state": "minecraft:water",
                   "type": "minecraft:block"
                 },
                 "type": "minecraft:condition"
@@ -485,9 +442,7 @@
             "then_run": {
               "if_true": "minecraft:deep_under_floor",
               "then_run": {
-                "result_state": {
-                  "Name": "minecraft:sandstone"
-                },
+                "result_state": "minecraft:sandstone",
                 "type": "minecraft:block"
               },
               "type": "minecraft:condition"
@@ -502,9 +457,7 @@
             "then_run": {
               "if_true": "minecraft:very_deep_under_floor",
               "then_run": {
-                "result_state": {
-                  "Name": "minecraft:sandstone"
-                },
+                "result_state": "minecraft:sandstone",
                 "type": "minecraft:block"
               },
               "type": "minecraft:condition"
@@ -529,9 +482,7 @@
               "type": "minecraft:biome"
             },
             "then_run": {
-              "result_state": {
-                "Name": "minecraft:stone"
-              },
+              "result_state": "minecraft:stone",
               "type": "minecraft:block"
             },
             "type": "minecraft:condition"
