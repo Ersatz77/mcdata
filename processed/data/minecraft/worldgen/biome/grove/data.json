@@ -8,98 +8,101 @@
       }
     },
     "minecraft:gameplay/natural_mob_spawns": {
-      "spawn_costs": {},
-      "spawns_by_category": {
-        "ambient": [
-          {
-            "count": 8,
-            "type": "minecraft:bat",
-            "weight": 10
-          }
-        ],
-        "creature": [
-          {
-            "count": 1,
-            "type": "minecraft:wolf",
-            "weight": 1
-          },
-          {
-            "count": {
-              "max_inclusive": 3,
-              "min_inclusive": 2,
-              "type": "minecraft:uniform"
+      "argument": {
+        "spawn_costs": {},
+        "spawns_by_category": {
+          "ambient": [
+            {
+              "count": 8,
+              "type": "minecraft:bat",
+              "weight": 10
+            }
+          ],
+          "creature": [
+            {
+              "count": 1,
+              "type": "minecraft:wolf",
+              "weight": 1
             },
-            "type": "minecraft:rabbit",
-            "weight": 8
-          },
-          {
-            "count": {
-              "max_inclusive": 4,
-              "min_inclusive": 2,
-              "type": "minecraft:uniform"
+            {
+              "count": {
+                "max_inclusive": 3,
+                "min_inclusive": 2,
+                "type": "minecraft:uniform"
+              },
+              "type": "minecraft:rabbit",
+              "weight": 8
             },
-            "type": "minecraft:fox",
-            "weight": 4
-          }
-        ],
-        "monster": [
-          {
-            "count": 4,
-            "type": "minecraft:spider",
-            "weight": 100
-          },
-          {
-            "count": 4,
-            "type": "minecraft:zombie",
-            "weight": 95
-          },
-          {
-            "count": 1,
-            "type": "minecraft:zombie_villager",
-            "weight": 5
-          },
-          {
-            "count": 4,
-            "type": "minecraft:skeleton",
-            "weight": 100
-          },
-          {
-            "count": 4,
-            "type": "minecraft:creeper",
-            "weight": 100
-          },
-          {
-            "count": 4,
-            "type": "minecraft:slime",
-            "weight": 100
-          },
-          {
-            "count": {
-              "max_inclusive": 4,
-              "min_inclusive": 1,
-              "type": "minecraft:uniform"
+            {
+              "count": {
+                "max_inclusive": 4,
+                "min_inclusive": 2,
+                "type": "minecraft:uniform"
+              },
+              "type": "minecraft:fox",
+              "weight": 4
+            }
+          ],
+          "monster": [
+            {
+              "count": 4,
+              "type": "minecraft:spider",
+              "weight": 100
             },
-            "type": "minecraft:enderman",
-            "weight": 10
-          },
-          {
-            "count": 1,
-            "type": "minecraft:witch",
-            "weight": 5
-          }
-        ],
-        "underground_water_creature": [
-          {
-            "count": {
-              "max_inclusive": 6,
-              "min_inclusive": 4,
-              "type": "minecraft:uniform"
+            {
+              "count": 4,
+              "type": "minecraft:zombie",
+              "weight": 95
             },
-            "type": "minecraft:glow_squid",
-            "weight": 10
-          }
-        ]
-      }
+            {
+              "count": 1,
+              "type": "minecraft:zombie_villager",
+              "weight": 5
+            },
+            {
+              "count": 4,
+              "type": "minecraft:skeleton",
+              "weight": 100
+            },
+            {
+              "count": 4,
+              "type": "minecraft:creeper",
+              "weight": 100
+            },
+            {
+              "count": 4,
+              "type": "minecraft:slime",
+              "weight": 100
+            },
+            {
+              "count": {
+                "max_inclusive": 4,
+                "min_inclusive": 1,
+                "type": "minecraft:uniform"
+              },
+              "type": "minecraft:enderman",
+              "weight": 10
+            },
+            {
+              "count": 1,
+              "type": "minecraft:witch",
+              "weight": 5
+            }
+          ],
+          "underground_water_creature": [
+            {
+              "count": {
+                "max_inclusive": 6,
+                "min_inclusive": 4,
+                "type": "minecraft:uniform"
+              },
+              "type": "minecraft:glow_squid",
+              "weight": 10
+            }
+          ]
+        }
+      },
+      "modifier": "overlay"
     },
     "minecraft:visual/sky_color": "#81a0ff"
   },

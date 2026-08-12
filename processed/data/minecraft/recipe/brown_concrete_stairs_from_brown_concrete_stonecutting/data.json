@@ -1,0 +1,7 @@
+{
+  "ingredient": "minecraft:brown_concrete",
+  "result": {
+    "id": "minecraft:brown_concrete_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

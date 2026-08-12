@@ -1,0 +1,8 @@
+{
+  "ingredient": "minecraft:white_concrete",
+  "result": {
+    "count": 2,
+    "id": "minecraft:white_concrete_slab"
+  },
+  "type": "minecraft:stonecutting"
+}

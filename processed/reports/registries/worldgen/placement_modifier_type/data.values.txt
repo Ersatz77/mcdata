@@ -12,6 +12,7 @@ minecraft:noise_based_count
 minecraft:noise_threshold_count
 minecraft:offset
 minecraft:random_chance
+minecraft:randomly_selected
 minecraft:rarity_filter
 minecraft:surface_relative_threshold_filter
 minecraft:surface_water_depth_filter

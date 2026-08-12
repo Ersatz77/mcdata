@@ -1,4 +1,4 @@
-minecraft:abandoned_campsite_map
+minecraft:abandoned_camp_map
 minecraft:acacia_boat
 minecraft:acacia_button
 minecraft:acacia_chest_boat
@@ -24,7 +24,6 @@ minecraft:allium
 minecraft:amethyst_block
 minecraft:amethyst_cluster
 minecraft:amethyst_shard
-minecraft:ancient_city_map
 minecraft:ancient_debris
 minecraft:andesite
 minecraft:andesite_slab
@@ -202,6 +201,8 @@ minecraft:bubble_coral_fan
 minecraft:bucket
 minecraft:budding_amethyst
 minecraft:bundle
+minecraft:buried_ancient_city_map
+minecraft:buried_mineshaft_map
 minecraft:buried_treasure_map
 minecraft:burn_pottery_sherd
 minecraft:bush
@@ -872,7 +873,6 @@ minecraft:melon_slice
 minecraft:milk_bucket
 minecraft:minecart
 minecraft:miner_pottery_sherd
-minecraft:mineshaft_map
 minecraft:mojang_banner_pattern
 minecraft:mooshroom_spawn_egg
 minecraft:moss_block

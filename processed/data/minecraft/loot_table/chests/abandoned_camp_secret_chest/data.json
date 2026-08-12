@@ -180,7 +180,7 @@
               "type": "minecraft:filtered"
             }
           ],
-          "name": "minecraft:ancient_city_map",
+          "name": "minecraft:buried_ancient_city_map",
           "type": "minecraft:item"
         },
         {
@@ -224,7 +224,7 @@
               "type": "minecraft:filtered"
             }
           ],
-          "name": "minecraft:mineshaft_map",
+          "name": "minecraft:buried_mineshaft_map",
           "type": "minecraft:item"
         },
         {

@@ -12,4 +12,5 @@ minecraft:replaceable
 minecraft:solid
 minecraft:true
 minecraft:unobstructed
+minecraft:volume_match
 minecraft:would_survive
