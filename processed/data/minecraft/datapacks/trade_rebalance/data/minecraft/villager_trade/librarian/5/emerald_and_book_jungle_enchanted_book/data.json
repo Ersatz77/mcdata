@@ -43,7 +43,7 @@
   "reputation_discount": 0.2,
   "wants": {
     "count": {
-      "summands": [
+      "operands": [
         8.0,
         {
           "max": 25.0,

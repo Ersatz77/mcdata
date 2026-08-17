@@ -2,7 +2,7 @@
   "given_item_modifier": [
     {
       "number_of_dyes": {
-        "summands": [
+        "operands": [
           1.0,
           {
             "n": 2.0,

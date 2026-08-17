@@ -12260,23 +12260,35 @@
   },
   "minecraft:loot_number_provider_type": {
     "entries": {
+      "minecraft:average": {
+        "protocol_id": 9
+      },
       "minecraft:binomial": {
         "protocol_id": 2
       },
       "minecraft:conditional": {
-        "protocol_id": 8
+        "protocol_id": 12
       },
       "minecraft:constant": {
         "protocol_id": 0
       },
       "minecraft:enchantment_level": {
-        "protocol_id": 6
-      },
-      "minecraft:environment_attribute": {
         "protocol_id": 10
       },
+      "minecraft:environment_attribute": {
+        "protocol_id": 14
+      },
+      "minecraft:maximum": {
+        "protocol_id": 8
+      },
+      "minecraft:minimum": {
+        "protocol_id": 7
+      },
       "minecraft:number_dispatcher": {
-        "protocol_id": 9
+        "protocol_id": 13
+      },
+      "minecraft:product": {
+        "protocol_id": 6
       },
       "minecraft:score": {
         "protocol_id": 3
@@ -12291,7 +12303,7 @@
         "protocol_id": 1
       },
       "minecraft:weighted_list": {
-        "protocol_id": 7
+        "protocol_id": 11
       }
     },
     "protocol_id": 32
