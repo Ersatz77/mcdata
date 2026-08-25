@@ -1,5 +1,7 @@
 {
   "input": {
+    "cell_size_xz": 4,
+    "cell_size_y": 8,
     "input": {
       "input": "minecraft:y",
       "max_exclusive": 321.0,
@@ -21,6 +23,8 @@
   "when_in_range": 64.0,
   "when_out_of_range": {
     "left": {
+      "cell_size_xz": 4,
+      "cell_size_y": 8,
       "input": {
         "input": "minecraft:y",
         "max_exclusive": 321.0,
@@ -48,6 +52,8 @@
       "left": {
         "left": {
           "input": {
+            "cell_size_xz": 4,
+            "cell_size_y": 8,
             "input": {
               "input": "minecraft:y",
               "max_exclusive": 321.0,
@@ -67,6 +73,8 @@
         },
         "right": {
           "input": {
+            "cell_size_xz": 4,
+            "cell_size_y": 8,
             "input": {
               "input": "minecraft:y",
               "max_exclusive": 321.0,

@@ -54,6 +54,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:block_transformer": {
+      "elements": true,
+      "stable": false,
+      "tags": true
+    },
     "minecraft:cat_sound_variant": {
       "elements": true,
       "stable": false,

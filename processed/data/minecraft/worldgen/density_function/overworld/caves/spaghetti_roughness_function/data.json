@@ -29,5 +29,5 @@
     },
     "type": "minecraft:mul"
   },
-  "type": "minecraft:cache_once"
+  "type": "minecraft:cache"
 }

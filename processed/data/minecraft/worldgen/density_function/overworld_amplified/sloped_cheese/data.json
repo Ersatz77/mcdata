@@ -19,7 +19,7 @@
                 },
                 "type": "minecraft:mul"
               },
-              "type": "minecraft:flat_cache"
+              "type": "minecraft:cache"
             },
             "type": "minecraft:add"
           },
@@ -34,5 +34,5 @@
     "right": "minecraft:overworld/base_3d_noise",
     "type": "minecraft:add"
   },
-  "type": "minecraft:cache_once"
+  "type": "minecraft:cache"
 }

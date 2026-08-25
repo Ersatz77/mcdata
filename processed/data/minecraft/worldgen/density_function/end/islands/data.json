@@ -36,5 +36,5 @@
     },
     "type": "minecraft:max"
   },
-  "type": "minecraft:cache_2d"
+  "type": "minecraft:cache"
 }

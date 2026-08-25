@@ -77,7 +77,7 @@
                     "xz_scale": 2.0,
                     "y_scale": 1.0
                   },
-                  "type": "minecraft:cache_once"
+                  "type": "minecraft:cache"
                 },
                 "thresholds": [
                   -0.5,
@@ -139,7 +139,7 @@
                     "xz_scale": 2.0,
                     "y_scale": 1.0
                   },
-                  "type": "minecraft:cache_once"
+                  "type": "minecraft:cache"
                 },
                 "thresholds": [
                   -0.5,
@@ -176,5 +176,5 @@
     },
     "type": "minecraft:min"
   },
-  "type": "minecraft:cache_once"
+  "type": "minecraft:cache"
 }

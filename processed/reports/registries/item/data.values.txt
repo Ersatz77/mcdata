@@ -204,6 +204,7 @@ minecraft:bundle
 minecraft:buried_ancient_city_map
 minecraft:buried_mineshaft_map
 minecraft:buried_treasure_map
+minecraft:buried_trial_chambers_map
 minecraft:burn_pottery_sherd
 minecraft:bush
 minecraft:cactus
@@ -717,7 +718,6 @@ minecraft:jungle_boat
 minecraft:jungle_button
 minecraft:jungle_chest_boat
 minecraft:jungle_door
-minecraft:jungle_explorer_map
 minecraft:jungle_fence
 minecraft:jungle_fence_gate
 minecraft:jungle_hanging_sign
@@ -725,6 +725,7 @@ minecraft:jungle_leaves
 minecraft:jungle_log
 minecraft:jungle_planks
 minecraft:jungle_pressure_plate
+minecraft:jungle_pyramid_map
 minecraft:jungle_sapling
 minecraft:jungle_shelf
 minecraft:jungle_sign
@@ -972,7 +973,7 @@ minecraft:oak_trapdoor
 minecraft:oak_wood
 minecraft:observer
 minecraft:obsidian
-minecraft:ocean_explorer_map
+minecraft:ocean_monument_map
 minecraft:ocelot_spawn_egg
 minecraft:ochre_froglight
 minecraft:ominous_bottle
@@ -1431,7 +1432,7 @@ minecraft:sunflower
 minecraft:suspicious_gravel
 minecraft:suspicious_sand
 minecraft:suspicious_stew
-minecraft:swamp_explorer_map
+minecraft:swamp_hut_map
 minecraft:sweet_berries
 minecraft:tadpole_bucket
 minecraft:tadpole_spawn_egg
@@ -1453,7 +1454,6 @@ minecraft:torchflower_seeds
 minecraft:totem_of_undying
 minecraft:trader_llama_spawn_egg
 minecraft:trapped_chest
-minecraft:trial_explorer_map
 minecraft:trial_key
 minecraft:trial_spawner
 minecraft:trident
@@ -1625,7 +1625,7 @@ minecraft:wooden_pickaxe
 minecraft:wooden_shovel
 minecraft:wooden_spear
 minecraft:wooden_sword
-minecraft:woodland_explorer_map
+minecraft:woodland_mansion_map
 minecraft:writable_book
 minecraft:written_book
 minecraft:yellow_banner

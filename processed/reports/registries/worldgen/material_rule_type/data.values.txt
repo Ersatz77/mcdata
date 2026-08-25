@@ -1,4 +1,5 @@
 minecraft:bandlands
 minecraft:block
 minecraft:condition
+minecraft:ore_vein
 minecraft:sequence

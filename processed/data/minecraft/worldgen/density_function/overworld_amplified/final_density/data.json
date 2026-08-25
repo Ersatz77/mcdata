@@ -2,6 +2,8 @@
   "left": {
     "left": {
       "input": {
+        "cell_size_xz": 4,
+        "cell_size_y": 8,
         "input": {
           "left": {
             "input": {

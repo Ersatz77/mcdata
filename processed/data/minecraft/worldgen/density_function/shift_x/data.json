@@ -1,10 +1,7 @@
 {
   "input": {
-    "input": {
-      "noise": "minecraft:offset",
-      "type": "minecraft:shift_a"
-    },
-    "type": "minecraft:cache_2d"
+    "noise": "minecraft:offset",
+    "type": "minecraft:shift_a"
   },
-  "type": "minecraft:flat_cache"
+  "type": "minecraft:cache"
 }

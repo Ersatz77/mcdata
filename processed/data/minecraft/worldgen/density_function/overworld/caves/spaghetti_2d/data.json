@@ -93,7 +93,7 @@
                 "right": 8.0,
                 "type": "minecraft:mul"
               },
-              "type": "minecraft:flat_cache"
+              "type": "minecraft:cache"
             },
             "right": {
               "axis": "y",

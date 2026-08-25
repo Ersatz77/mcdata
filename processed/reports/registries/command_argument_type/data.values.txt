@@ -33,6 +33,7 @@ minecraft:message
 minecraft:nbt_compound_tag
 minecraft:nbt_path
 minecraft:nbt_tag
+minecraft:number_provider
 minecraft:objective
 minecraft:objective_criteria
 minecraft:operation

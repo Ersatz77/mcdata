@@ -1,6 +1,10 @@
 {
   "values": [
+    "minecraft:axolotl_tries_to_find",
     "minecraft:bubble_column_can_occupy",
+    "minecraft:dolphin_tries_to_find",
+    "minecraft:entity_floatable",
+    "minecraft:frog_tries_to_find_land_near",
     "minecraft:lava",
     "minecraft:supports_frogspawn",
     "minecraft:supports_lily_pad",

@@ -1,4 +1,55 @@
 {
+  "debug_functions": [
+    {
+      "function": {
+        "left": {
+          "input": {
+            "cell_size_xz": 8,
+            "cell_size_y": 4,
+            "input": {
+              "left": {
+                "input": {
+                  "alpha": {
+                    "axis": "y",
+                    "from_coordinate": 4,
+                    "from_value": 0.0,
+                    "to_coordinate": 32,
+                    "to_value": 1.0,
+                    "type": "minecraft:gradient"
+                  },
+                  "first": -0.234375,
+                  "second": {
+                    "alpha": {
+                      "axis": "y",
+                      "from_coordinate": 184,
+                      "from_value": 1.0,
+                      "to_coordinate": 440,
+                      "to_value": 0.0,
+                      "type": "minecraft:gradient"
+                    },
+                    "first": -23.4375,
+                    "second": "minecraft:end/base_3d_noise",
+                    "type": "minecraft:lerp"
+                  },
+                  "type": "minecraft:lerp"
+                },
+                "type": "minecraft:blend_density"
+              },
+              "right": 0.64,
+              "type": "minecraft:mul"
+            },
+            "type": "minecraft:interpolated"
+          },
+          "type": "minecraft:squeeze"
+        },
+        "right": {
+          "type": "minecraft:beardifier"
+        },
+        "type": "minecraft:add"
+      },
+      "label": "N"
+    }
+  ],
   "default_block": "minecraft:stone",
   "default_fluid": "minecraft:water",
   "disable_mob_generation": false,
@@ -6,17 +57,18 @@
   "material_rule": "minecraft:overworld_floating_islands",
   "noise": {
     "height": 256,
-    "min_y": 0,
-    "size_horizontal": 2,
-    "size_vertical": 1
+    "min_y": 0
   },
   "noise_router": {
+    "chunk_surface_level": 0.0,
     "continents": 0.0,
     "depth": 0.0,
     "erosion": 0.0,
     "final_density": {
       "left": {
         "input": {
+          "cell_size_xz": 8,
+          "cell_size_y": 4,
           "input": {
             "left": {
               "input": {
@@ -58,7 +110,6 @@
       },
       "type": "minecraft:add"
     },
-    "preliminary_surface_level": 0.0,
     "ridges": 0.0,
     "temperature": 0.0,
     "vegetation": 0.0

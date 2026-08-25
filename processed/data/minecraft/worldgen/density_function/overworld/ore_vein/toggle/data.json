@@ -1,16 +1,21 @@
 {
   "input": {
-    "input": "minecraft:y",
-    "max_exclusive": 57.0,
-    "min_inclusive": -64.0,
-    "type": "minecraft:range_choice",
-    "when_in_range": {
-      "noise": "minecraft:ore_veininess",
-      "type": "minecraft:noise",
-      "xz_scale": 1.5,
-      "y_scale": 1.5
+    "cell_size_xz": 4,
+    "cell_size_y": 8,
+    "input": {
+      "input": "minecraft:y",
+      "max_exclusive": 57.0,
+      "min_inclusive": -64.0,
+      "type": "minecraft:range_choice",
+      "when_in_range": {
+        "noise": "minecraft:ore_veininess",
+        "type": "minecraft:noise",
+        "xz_scale": 1.5,
+        "y_scale": 1.5
+      },
+      "when_out_of_range": 0.0
     },
-    "when_out_of_range": 0.0
+    "type": "minecraft:interpolated"
   },
-  "type": "minecraft:interpolated"
+  "type": "minecraft:cache"
 }

@@ -4,9 +4,7 @@ minecraft:beardifier
 minecraft:blend_alpha
 minecraft:blend_density
 minecraft:blend_offset
-minecraft:cache_2d
-minecraft:cache_all_in_cell
-minecraft:cache_once
+minecraft:cache
 minecraft:ceil
 minecraft:clamp
 minecraft:constant
@@ -15,7 +13,6 @@ minecraft:distance_to_point
 minecraft:div
 minecraft:end_outer_islands
 minecraft:find_top_surface
-minecraft:flat_cache
 minecraft:floor
 minecraft:gradient
 minecraft:half_negative
@@ -37,7 +34,6 @@ minecraft:round
 minecraft:shift
 minecraft:shift_a
 minecraft:shift_b
-minecraft:shifted_noise
 minecraft:sign
 minecraft:slice
 minecraft:spline

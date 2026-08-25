@@ -35,16 +35,10 @@
                       "to_value": -1.5,
                       "type": "minecraft:gradient"
                     },
-                    "right": {
-                      "input": "minecraft:overworld/offset",
-                      "type": "minecraft:cache_2d"
-                    },
+                    "right": "minecraft:overworld/offset",
                     "type": "minecraft:add"
                   },
-                  "right": {
-                    "input": "minecraft:overworld/factor",
-                    "type": "minecraft:cache_2d"
-                  },
+                  "right": "minecraft:overworld/factor",
                   "type": "minecraft:mul"
                 },
                 "type": "minecraft:quarter_negative"
@@ -74,16 +68,10 @@
         "left": {
           "left": {
             "left": 0.2734375,
-            "right": {
-              "input": "minecraft:overworld/factor",
-              "type": "minecraft:cache_2d"
-            },
+            "right": "minecraft:overworld/factor",
             "type": "minecraft:div"
           },
-          "right": {
-            "input": "minecraft:overworld/offset",
-            "type": "minecraft:cache_2d"
-          },
+          "right": "minecraft:overworld/offset",
           "type": "minecraft:sub"
         },
         "right": -128.0,

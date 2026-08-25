@@ -63,6 +63,7 @@ minecraft:concrete
 minecraft:concrete_powders
 minecraft:concrete_slabs
 minecraft:concrete_stairs
+minecraft:conduit_effect_block
 minecraft:convertible_to_mud
 minecraft:copper
 minecraft:copper_chests
@@ -162,6 +163,7 @@ minecraft:mud
 minecraft:needs_diamond_tool
 minecraft:needs_iron_tool
 minecraft:needs_stone_tool
+minecraft:nether_portal_frame
 minecraft:nylium
 minecraft:oak_logs
 minecraft:occludes_vibration_signals

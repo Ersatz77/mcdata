@@ -187,7 +187,7 @@
           "modifier": [
             {
               "decoration": "minecraft:trial_chambers",
-              "destination": "#minecraft:on_trial_chambers_maps",
+              "destination": "#minecraft:on_buried_trial_chambers_maps",
               "type": "minecraft:exploration_map"
             },
             {
@@ -202,7 +202,7 @@
               "type": "minecraft:filtered"
             }
           ],
-          "name": "minecraft:trial_explorer_map",
+          "name": "minecraft:buried_trial_chambers_map",
           "type": "minecraft:item"
         },
         {
@@ -253,7 +253,7 @@
           "modifier": [
             {
               "decoration": "minecraft:jungle_temple",
-              "destination": "#minecraft:on_jungle_explorer_maps",
+              "destination": "#minecraft:on_jungle_pyramid_maps",
               "type": "minecraft:exploration_map"
             },
             {
@@ -268,7 +268,7 @@
               "type": "minecraft:filtered"
             }
           ],
-          "name": "minecraft:jungle_explorer_map",
+          "name": "minecraft:jungle_pyramid_map",
           "type": "minecraft:item"
         },
         {
@@ -296,7 +296,7 @@
         {
           "modifier": [
             {
-              "destination": "#minecraft:on_woodland_explorer_maps",
+              "destination": "#minecraft:on_woodland_mansion_maps",
               "type": "minecraft:exploration_map"
             },
             {
@@ -311,7 +311,7 @@
               "type": "minecraft:filtered"
             }
           ],
-          "name": "minecraft:woodland_explorer_map",
+          "name": "minecraft:woodland_mansion_map",
           "type": "minecraft:item"
         }
       ],

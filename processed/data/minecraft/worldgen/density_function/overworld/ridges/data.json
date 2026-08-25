@@ -2,11 +2,10 @@
   "input": {
     "noise": "minecraft:ridge",
     "shift_x": "minecraft:shift_x",
-    "shift_y": 0.0,
     "shift_z": "minecraft:shift_z",
-    "type": "minecraft:shifted_noise",
+    "type": "minecraft:noise",
     "xz_scale": 0.25,
     "y_scale": 0.0
   },
-  "type": "minecraft:flat_cache"
+  "type": "minecraft:cache"
 }

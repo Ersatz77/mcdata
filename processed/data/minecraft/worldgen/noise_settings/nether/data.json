@@ -1,4 +1,73 @@
 {
+  "debug_functions": [
+    {
+      "function": {
+        "left": {
+          "input": {
+            "cell_size_xz": 4,
+            "cell_size_y": 8,
+            "input": {
+              "left": {
+                "input": {
+                  "alpha": {
+                    "axis": "y",
+                    "from_coordinate": -8,
+                    "from_value": 0.0,
+                    "to_coordinate": 24,
+                    "to_value": 1.0,
+                    "type": "minecraft:gradient"
+                  },
+                  "first": 2.5,
+                  "second": {
+                    "alpha": {
+                      "axis": "y",
+                      "from_coordinate": 104,
+                      "from_value": 1.0,
+                      "to_coordinate": 128,
+                      "to_value": 0.0,
+                      "type": "minecraft:gradient"
+                    },
+                    "first": 0.9375,
+                    "second": "minecraft:nether/base_3d_noise",
+                    "type": "minecraft:lerp"
+                  },
+                  "type": "minecraft:lerp"
+                },
+                "type": "minecraft:blend_density"
+              },
+              "right": 0.64,
+              "type": "minecraft:mul"
+            },
+            "type": "minecraft:interpolated"
+          },
+          "type": "minecraft:squeeze"
+        },
+        "right": {
+          "type": "minecraft:beardifier"
+        },
+        "type": "minecraft:add"
+      },
+      "label": "N"
+    },
+    {
+      "function": {
+        "noise": "minecraft:nether/temperature",
+        "type": "minecraft:noise",
+        "xz_scale": 0.25,
+        "y_scale": 0.0
+      },
+      "label": "T"
+    },
+    {
+      "function": {
+        "noise": "minecraft:nether/vegetation",
+        "type": "minecraft:noise",
+        "xz_scale": 0.25,
+        "y_scale": 0.0
+      },
+      "label": "V"
+    }
+  ],
   "default_block": "minecraft:netherrack",
   "default_fluid": "minecraft:lava",
   "disable_mob_generation": false,
@@ -6,17 +75,18 @@
   "material_rule": "minecraft:nether",
   "noise": {
     "height": 128,
-    "min_y": 0,
-    "size_horizontal": 1,
-    "size_vertical": 2
+    "min_y": 0
   },
   "noise_router": {
+    "chunk_surface_level": 0.0,
     "continents": 0.0,
     "depth": 0.0,
     "erosion": 0.0,
     "final_density": {
       "left": {
         "input": {
+          "cell_size_xz": 4,
+          "cell_size_y": 8,
           "input": {
             "left": {
               "input": {
@@ -58,23 +128,16 @@
       },
       "type": "minecraft:add"
     },
-    "preliminary_surface_level": 0.0,
     "ridges": 0.0,
     "temperature": {
       "noise": "minecraft:nether/temperature",
-      "shift_x": 0.0,
-      "shift_y": 0.0,
-      "shift_z": 0.0,
-      "type": "minecraft:shifted_noise",
+      "type": "minecraft:noise",
       "xz_scale": 0.25,
       "y_scale": 0.0
     },
     "vegetation": {
       "noise": "minecraft:nether/vegetation",
-      "shift_x": 0.0,
-      "shift_y": 0.0,
-      "shift_z": 0.0,
-      "type": "minecraft:shifted_noise",
+      "type": "minecraft:noise",
       "xz_scale": 0.25,
       "y_scale": 0.0
     }
