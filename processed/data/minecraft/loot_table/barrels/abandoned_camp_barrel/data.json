@@ -5,8 +5,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -17,8 +17,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 2.0,
+              "max": 4,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -29,8 +29,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -41,8 +41,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -53,8 +53,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 2.0,
+              "max": 4,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -64,7 +64,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:cobweb",
@@ -73,8 +73,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -85,8 +85,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -97,8 +97,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 1.0,
+              "max": 4,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -109,8 +109,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -121,8 +121,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 1.0,
+              "max": 4,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -133,8 +133,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -145,8 +145,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -157,8 +157,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 2.0,
+              "max": 4,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -168,8 +168,8 @@
         }
       ],
       "rolls": {
-        "max": 8.0,
-        "min": 4.0,
+        "max": 8,
+        "min": 4,
         "type": "minecraft:uniform"
       }
     },
@@ -177,7 +177,7 @@
       "entries": [
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:bundle",
@@ -185,7 +185,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:wooden_axe",
@@ -193,14 +193,14 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:fishing_rod",
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:barrels/abandoned_camp_barrel",

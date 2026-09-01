@@ -8,7 +8,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/gray_stained_glass_pane",

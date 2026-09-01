@@ -1,12 +1,9 @@
 {
   "to_place": {
-    "state": {
-      "id": "minecraft:sweet_berry_bush",
-      "properties": {
-        "age": "3"
-      }
-    },
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:sweet_berry_bush",
+    "properties": {
+      "age": "3"
+    }
   },
   "type": "minecraft:simple_block"
 }

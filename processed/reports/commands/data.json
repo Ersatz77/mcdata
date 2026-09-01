@@ -1229,21 +1229,32 @@
           "children": {
             "computePos": {
               "children": {
-                "provider": {
+                "float": {
                   "children": {
-                    "integer": {
+                    "provider": {
+                      "children": {
+                        "scale": {
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "type": "argument"
+                        }
+                      },
                       "executable": true,
-                      "type": "literal"
-                    },
-                    "scale": {
-                      "executable": true,
-                      "parser": "brigadier:float",
+                      "parser": "minecraft:context_float_provider",
                       "type": "argument"
                     }
                   },
-                  "executable": true,
-                  "parser": "minecraft:number_provider",
-                  "type": "argument"
+                  "type": "literal"
+                },
+                "integer": {
+                  "children": {
+                    "provider": {
+                      "executable": true,
+                      "parser": "minecraft:context_int_provider",
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
                 }
               },
               "parser": "minecraft:block_pos",
@@ -1254,21 +1265,32 @@
         },
         "default": {
           "children": {
-            "provider": {
+            "float": {
               "children": {
-                "integer": {
+                "provider": {
+                  "children": {
+                    "scale": {
+                      "executable": true,
+                      "parser": "brigadier:float",
+                      "type": "argument"
+                    }
+                  },
                   "executable": true,
-                  "type": "literal"
-                },
-                "scale": {
-                  "executable": true,
-                  "parser": "brigadier:float",
+                  "parser": "minecraft:context_float_provider",
                   "type": "argument"
                 }
               },
-              "executable": true,
-              "parser": "minecraft:number_provider",
-              "type": "argument"
+              "type": "literal"
+            },
+            "integer": {
+              "children": {
+                "provider": {
+                  "executable": true,
+                  "parser": "minecraft:context_int_provider",
+                  "type": "argument"
+                }
+              },
+              "type": "literal"
             }
           },
           "type": "literal"
@@ -1277,21 +1299,32 @@
           "children": {
             "computeTarget": {
               "children": {
-                "provider": {
+                "float": {
                   "children": {
-                    "integer": {
+                    "provider": {
+                      "children": {
+                        "scale": {
+                          "executable": true,
+                          "parser": "brigadier:float",
+                          "type": "argument"
+                        }
+                      },
                       "executable": true,
-                      "type": "literal"
-                    },
-                    "scale": {
-                      "executable": true,
-                      "parser": "brigadier:float",
+                      "parser": "minecraft:context_float_provider",
                       "type": "argument"
                     }
                   },
-                  "executable": true,
-                  "parser": "minecraft:number_provider",
-                  "type": "argument"
+                  "type": "literal"
+                },
+                "integer": {
+                  "children": {
+                    "provider": {
+                      "executable": true,
+                      "parser": "minecraft:context_int_provider",
+                      "type": "argument"
+                    }
+                  },
+                  "type": "literal"
                 }
               },
               "parser": "minecraft:entity",
@@ -1552,16 +1585,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -1572,16 +1614,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -1590,16 +1641,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",
@@ -1800,16 +1860,25 @@
                                       "children": {
                                         "computePos": {
                                           "children": {
-                                            "provider": {
+                                            "float": {
                                               "children": {
-                                                "integer": {
+                                                "provider": {
                                                   "executable": true,
-                                                  "type": "literal"
+                                                  "parser": "minecraft:context_float_provider",
+                                                  "type": "argument"
                                                 }
                                               },
-                                              "executable": true,
-                                              "parser": "minecraft:number_provider",
-                                              "type": "argument"
+                                              "type": "literal"
+                                            },
+                                            "integer": {
+                                              "children": {
+                                                "provider": {
+                                                  "executable": true,
+                                                  "parser": "minecraft:context_int_provider",
+                                                  "type": "argument"
+                                                }
+                                              },
+                                              "type": "literal"
                                             }
                                           },
                                           "parser": "minecraft:block_pos",
@@ -1820,16 +1889,25 @@
                                     },
                                     "default": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "type": "literal"
@@ -1838,16 +1916,25 @@
                                       "children": {
                                         "computeTarget": {
                                           "children": {
-                                            "provider": {
+                                            "float": {
                                               "children": {
-                                                "integer": {
+                                                "provider": {
                                                   "executable": true,
-                                                  "type": "literal"
+                                                  "parser": "minecraft:context_float_provider",
+                                                  "type": "argument"
                                                 }
                                               },
-                                              "executable": true,
-                                              "parser": "minecraft:number_provider",
-                                              "type": "argument"
+                                              "type": "literal"
+                                            },
+                                            "integer": {
+                                              "children": {
+                                                "provider": {
+                                                  "executable": true,
+                                                  "parser": "minecraft:context_int_provider",
+                                                  "type": "argument"
+                                                }
+                                              },
+                                              "type": "literal"
                                             }
                                           },
                                           "parser": "minecraft:entity",
@@ -2050,16 +2137,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -2070,16 +2166,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -2088,16 +2193,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",
@@ -2296,16 +2410,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -2316,16 +2439,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -2334,16 +2466,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",
@@ -2542,16 +2683,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -2562,16 +2712,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -2580,16 +2739,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",
@@ -2805,16 +2973,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -2825,16 +3002,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -2843,16 +3029,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",
@@ -3053,16 +3248,25 @@
                                       "children": {
                                         "computePos": {
                                           "children": {
-                                            "provider": {
+                                            "float": {
                                               "children": {
-                                                "integer": {
+                                                "provider": {
                                                   "executable": true,
-                                                  "type": "literal"
+                                                  "parser": "minecraft:context_float_provider",
+                                                  "type": "argument"
                                                 }
                                               },
-                                              "executable": true,
-                                              "parser": "minecraft:number_provider",
-                                              "type": "argument"
+                                              "type": "literal"
+                                            },
+                                            "integer": {
+                                              "children": {
+                                                "provider": {
+                                                  "executable": true,
+                                                  "parser": "minecraft:context_int_provider",
+                                                  "type": "argument"
+                                                }
+                                              },
+                                              "type": "literal"
                                             }
                                           },
                                           "parser": "minecraft:block_pos",
@@ -3073,16 +3277,25 @@
                                     },
                                     "default": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "type": "literal"
@@ -3091,16 +3304,25 @@
                                       "children": {
                                         "computeTarget": {
                                           "children": {
-                                            "provider": {
+                                            "float": {
                                               "children": {
-                                                "integer": {
+                                                "provider": {
                                                   "executable": true,
-                                                  "type": "literal"
+                                                  "parser": "minecraft:context_float_provider",
+                                                  "type": "argument"
                                                 }
                                               },
-                                              "executable": true,
-                                              "parser": "minecraft:number_provider",
-                                              "type": "argument"
+                                              "type": "literal"
+                                            },
+                                            "integer": {
+                                              "children": {
+                                                "provider": {
+                                                  "executable": true,
+                                                  "parser": "minecraft:context_int_provider",
+                                                  "type": "argument"
+                                                }
+                                              },
+                                              "type": "literal"
                                             }
                                           },
                                           "parser": "minecraft:entity",
@@ -3303,16 +3525,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -3323,16 +3554,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -3341,16 +3581,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",
@@ -3549,16 +3798,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -3569,16 +3827,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -3587,16 +3854,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",
@@ -3795,16 +4071,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -3815,16 +4100,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -3833,16 +4127,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",
@@ -4062,16 +4365,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -4082,16 +4394,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -4100,16 +4421,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",
@@ -4310,16 +4640,25 @@
                                       "children": {
                                         "computePos": {
                                           "children": {
-                                            "provider": {
+                                            "float": {
                                               "children": {
-                                                "integer": {
+                                                "provider": {
                                                   "executable": true,
-                                                  "type": "literal"
+                                                  "parser": "minecraft:context_float_provider",
+                                                  "type": "argument"
                                                 }
                                               },
-                                              "executable": true,
-                                              "parser": "minecraft:number_provider",
-                                              "type": "argument"
+                                              "type": "literal"
+                                            },
+                                            "integer": {
+                                              "children": {
+                                                "provider": {
+                                                  "executable": true,
+                                                  "parser": "minecraft:context_int_provider",
+                                                  "type": "argument"
+                                                }
+                                              },
+                                              "type": "literal"
                                             }
                                           },
                                           "parser": "minecraft:block_pos",
@@ -4330,16 +4669,25 @@
                                     },
                                     "default": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "type": "literal"
@@ -4348,16 +4696,25 @@
                                       "children": {
                                         "computeTarget": {
                                           "children": {
-                                            "provider": {
+                                            "float": {
                                               "children": {
-                                                "integer": {
+                                                "provider": {
                                                   "executable": true,
-                                                  "type": "literal"
+                                                  "parser": "minecraft:context_float_provider",
+                                                  "type": "argument"
                                                 }
                                               },
-                                              "executable": true,
-                                              "parser": "minecraft:number_provider",
-                                              "type": "argument"
+                                              "type": "literal"
+                                            },
+                                            "integer": {
+                                              "children": {
+                                                "provider": {
+                                                  "executable": true,
+                                                  "parser": "minecraft:context_int_provider",
+                                                  "type": "argument"
+                                                }
+                                              },
+                                              "type": "literal"
                                             }
                                           },
                                           "parser": "minecraft:entity",
@@ -4560,16 +4917,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -4580,16 +4946,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -4598,16 +4973,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",
@@ -4806,16 +5190,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -4826,16 +5219,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -4844,16 +5246,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",
@@ -5052,16 +5463,25 @@
                                   "children": {
                                     "computePos": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:block_pos",
@@ -5072,16 +5492,25 @@
                                 },
                                 "default": {
                                   "children": {
-                                    "provider": {
+                                    "float": {
                                       "children": {
-                                        "integer": {
+                                        "provider": {
                                           "executable": true,
-                                          "type": "literal"
+                                          "parser": "minecraft:context_float_provider",
+                                          "type": "argument"
                                         }
                                       },
-                                      "executable": true,
-                                      "parser": "minecraft:number_provider",
-                                      "type": "argument"
+                                      "type": "literal"
+                                    },
+                                    "integer": {
+                                      "children": {
+                                        "provider": {
+                                          "executable": true,
+                                          "parser": "minecraft:context_int_provider",
+                                          "type": "argument"
+                                        }
+                                      },
+                                      "type": "literal"
                                     }
                                   },
                                   "type": "literal"
@@ -5090,16 +5519,25 @@
                                   "children": {
                                     "computeTarget": {
                                       "children": {
-                                        "provider": {
+                                        "float": {
                                           "children": {
-                                            "integer": {
+                                            "provider": {
                                               "executable": true,
-                                              "type": "literal"
+                                              "parser": "minecraft:context_float_provider",
+                                              "type": "argument"
                                             }
                                           },
-                                          "executable": true,
-                                          "parser": "minecraft:number_provider",
-                                          "type": "argument"
+                                          "type": "literal"
+                                        },
+                                        "integer": {
+                                          "children": {
+                                            "provider": {
+                                              "executable": true,
+                                              "parser": "minecraft:context_int_provider",
+                                              "type": "argument"
+                                            }
+                                          },
+                                          "type": "literal"
                                         }
                                       },
                                       "parser": "minecraft:entity",

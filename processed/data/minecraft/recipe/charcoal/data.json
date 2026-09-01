@@ -1,4 +1,5 @@
 {
+  "cookingtime": 200,
   "experience": 0.15,
   "ingredient": "#minecraft:logs_that_burn",
   "result": {

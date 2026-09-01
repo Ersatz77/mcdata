@@ -29,48 +29,48 @@
             "effects": [
               {
                 "duration": {
-                  "max": 10.0,
-                  "min": 7.0,
+                  "max": 10,
+                  "min": 7,
                   "type": "minecraft:uniform"
                 },
                 "type": "minecraft:night_vision"
               },
               {
                 "duration": {
-                  "max": 10.0,
-                  "min": 7.0,
+                  "max": 10,
+                  "min": 7,
                   "type": "minecraft:uniform"
                 },
                 "type": "minecraft:jump_boost"
               },
               {
                 "duration": {
-                  "max": 8.0,
-                  "min": 6.0,
+                  "max": 8,
+                  "min": 6,
                   "type": "minecraft:uniform"
                 },
                 "type": "minecraft:weakness"
               },
               {
                 "duration": {
-                  "max": 7.0,
-                  "min": 5.0,
+                  "max": 7,
+                  "min": 5,
                   "type": "minecraft:uniform"
                 },
                 "type": "minecraft:blindness"
               },
               {
                 "duration": {
-                  "max": 20.0,
-                  "min": 10.0,
+                  "max": 20,
+                  "min": 10,
                   "type": "minecraft:uniform"
                 },
                 "type": "minecraft:poison"
               },
               {
                 "duration": {
-                  "max": 10.0,
-                  "min": 7.0,
+                  "max": 10,
+                  "min": 7,
                   "type": "minecraft:uniform"
                 },
                 "type": "minecraft:saturation"
@@ -82,7 +82,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:archaeology/desert_well",

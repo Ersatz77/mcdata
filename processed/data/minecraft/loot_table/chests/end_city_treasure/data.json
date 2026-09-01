@@ -5,8 +5,8 @@
         {
           "modifier": {
             "count": {
-              "max": 7.0,
-              "min": 2.0,
+              "max": 7,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -18,8 +18,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 4.0,
+              "max": 8,
+              "min": 4,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -31,8 +31,8 @@
         {
           "modifier": {
             "count": {
-              "max": 7.0,
-              "min": 2.0,
+              "max": 7,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -44,8 +44,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 2.0,
+              "max": 6,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -57,8 +57,8 @@
         {
           "modifier": {
             "count": {
-              "max": 10.0,
-              "min": 1.0,
+              "max": 10,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -91,8 +91,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -105,8 +105,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -119,8 +119,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -133,8 +133,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -147,8 +147,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -161,8 +161,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -175,8 +175,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -189,8 +189,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -203,8 +203,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -217,8 +217,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -231,8 +231,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -245,8 +245,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -259,8 +259,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -273,8 +273,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -287,8 +287,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -300,8 +300,8 @@
         }
       ],
       "rolls": {
-        "max": 6.0,
-        "min": 2.0,
+        "max": 6,
+        "min": 2,
         "type": "minecraft:uniform"
       }
     },
@@ -316,7 +316,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:chests/end_city_treasure",

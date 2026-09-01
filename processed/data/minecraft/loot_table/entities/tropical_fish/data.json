@@ -4,14 +4,14 @@
       "entries": [
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:tropical_fish",
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "condition": {
@@ -24,7 +24,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:entities/tropical_fish",

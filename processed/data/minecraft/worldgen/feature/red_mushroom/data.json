@@ -1,7 +1,6 @@
 {
   "to_place": {
-    "state": "minecraft:red_mushroom",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:red_mushroom"
   },
   "type": "minecraft:simple_block"
 }

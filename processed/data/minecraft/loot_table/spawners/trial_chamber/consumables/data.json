@@ -4,7 +4,7 @@
       "entries": [
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:cooked_chicken",
@@ -14,8 +14,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -27,8 +27,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -40,7 +40,7 @@
         {
           "modifier": [
             {
-              "count": 1.0,
+              "count": 1,
               "type": "minecraft:set_count"
             },
             {
@@ -54,7 +54,7 @@
         {
           "modifier": [
             {
-              "count": 1.0,
+              "count": 1,
               "type": "minecraft:set_count"
             },
             {
@@ -66,7 +66,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:spawners/trial_chamber/consumables",

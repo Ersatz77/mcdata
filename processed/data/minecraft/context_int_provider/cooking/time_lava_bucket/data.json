@@ -1,0 +1,10 @@
+{
+  "left": 20000,
+  "right": {
+    "condition": "minecraft:block/fast_cooking",
+    "on_false": "minecraft:cooking/normal_burn_time_reduction_factor",
+    "on_true": "minecraft:cooking/fast_burn_time_reduction_factor",
+    "type": "minecraft:conditional"
+  },
+  "type": "minecraft:div"
+}

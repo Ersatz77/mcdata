@@ -1,7 +1,9 @@
 {
   "to_place": {
-    "state": "minecraft:sunflower",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:sunflower",
+    "properties": {
+      "half": "lower"
+    }
   },
   "type": "minecraft:simple_block"
 }

@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "if_true": {
+        "tag": "minecraft:beneath_tree_podzol_replaceable",
+        "type": "minecraft:matching_block_tag"
+      },
+      "then": {
+        "id": "minecraft:podzol",
+        "properties": {
+          "snowy": "false"
+        }
+      }
+    }
+  ],
+  "type": "minecraft:rule_based"
+}

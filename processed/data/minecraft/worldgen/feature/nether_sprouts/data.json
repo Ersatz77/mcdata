@@ -1,7 +1,6 @@
 {
   "to_place": {
-    "state": "minecraft:nether_sprouts",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:nether_sprouts"
   },
   "type": "minecraft:simple_block"
 }

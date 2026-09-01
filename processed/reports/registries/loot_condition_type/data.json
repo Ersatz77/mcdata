@@ -7,6 +7,8 @@
     "minecraft:entity_properties",
     "minecraft:entity_scores",
     "minecraft:environment_attribute_check",
+    "minecraft:float_value_check",
+    "minecraft:int_value_check",
     "minecraft:inverted",
     "minecraft:killed_by_player",
     "minecraft:location_check",
@@ -17,7 +19,6 @@
     "minecraft:survives_explosion",
     "minecraft:table_bonus",
     "minecraft:time_check",
-    "minecraft:value_check",
     "minecraft:weather_check"
   ]
 }

@@ -25,9 +25,9 @@
                       },
                       {
                         "enchantments": {
-                          "minecraft:fire_protection": 4.0,
-                          "minecraft:projectile_protection": 4.0,
-                          "minecraft:protection": 4.0
+                          "minecraft:fire_protection": 4,
+                          "minecraft:projectile_protection": 4,
+                          "minecraft:protection": 4
                         },
                         "type": "minecraft:set_enchantments"
                       }
@@ -36,7 +36,7 @@
                     "type": "minecraft:item"
                   }
                 ],
-                "rolls": 1.0
+                "rolls": 1
               },
               {
                 "condition": {
@@ -57,9 +57,9 @@
                       },
                       {
                         "enchantments": {
-                          "minecraft:fire_protection": 4.0,
-                          "minecraft:projectile_protection": 4.0,
-                          "minecraft:protection": 4.0
+                          "minecraft:fire_protection": 4,
+                          "minecraft:projectile_protection": 4,
+                          "minecraft:protection": 4
                         },
                         "type": "minecraft:set_enchantments"
                       }
@@ -68,7 +68,7 @@
                     "type": "minecraft:item"
                   }
                 ],
-                "rolls": 1.0
+                "rolls": 1
               }
             ]
           },
@@ -97,9 +97,9 @@
                       },
                       {
                         "enchantments": {
-                          "minecraft:fire_protection": 4.0,
-                          "minecraft:projectile_protection": 4.0,
-                          "minecraft:protection": 4.0
+                          "minecraft:fire_protection": 4,
+                          "minecraft:projectile_protection": 4,
+                          "minecraft:protection": 4
                         },
                         "type": "minecraft:set_enchantments"
                       }
@@ -108,7 +108,7 @@
                     "type": "minecraft:item"
                   }
                 ],
-                "rolls": 1.0
+                "rolls": 1
               },
               {
                 "condition": {
@@ -129,9 +129,9 @@
                       },
                       {
                         "enchantments": {
-                          "minecraft:fire_protection": 4.0,
-                          "minecraft:projectile_protection": 4.0,
-                          "minecraft:protection": 4.0
+                          "minecraft:fire_protection": 4,
+                          "minecraft:projectile_protection": 4,
+                          "minecraft:protection": 4
                         },
                         "type": "minecraft:set_enchantments"
                       }
@@ -140,7 +140,7 @@
                     "type": "minecraft:item"
                   }
                 ],
-                "rolls": 1.0
+                "rolls": 1
               }
             ]
           },
@@ -169,9 +169,9 @@
                       },
                       {
                         "enchantments": {
-                          "minecraft:fire_protection": 4.0,
-                          "minecraft:projectile_protection": 4.0,
-                          "minecraft:protection": 4.0
+                          "minecraft:fire_protection": 4,
+                          "minecraft:projectile_protection": 4,
+                          "minecraft:protection": 4
                         },
                         "type": "minecraft:set_enchantments"
                       }
@@ -180,7 +180,7 @@
                     "type": "minecraft:item"
                   }
                 ],
-                "rolls": 1.0
+                "rolls": 1
               },
               {
                 "condition": {
@@ -201,9 +201,9 @@
                       },
                       {
                         "enchantments": {
-                          "minecraft:fire_protection": 4.0,
-                          "minecraft:projectile_protection": 4.0,
-                          "minecraft:protection": 4.0
+                          "minecraft:fire_protection": 4,
+                          "minecraft:projectile_protection": 4,
+                          "minecraft:protection": 4
                         },
                         "type": "minecraft:set_enchantments"
                       }
@@ -212,13 +212,13 @@
                     "type": "minecraft:item"
                   }
                 ],
-                "rolls": 1.0
+                "rolls": 1
               }
             ]
           }
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:equipment/trial_chamber",

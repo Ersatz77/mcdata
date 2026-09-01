@@ -33,8 +33,8 @@
           "modifier": [
             {
               "count": {
-                "max": 1.0,
-                "min": -2.0,
+                "max": 1,
+                "min": -2,
                 "type": "minecraft:uniform"
               },
               "type": "minecraft:set_count"
@@ -65,7 +65,7 @@
             "type": "minecraft:damage_source_properties"
           },
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:pearlescent_froglight",
@@ -84,7 +84,7 @@
             "type": "minecraft:damage_source_properties"
           },
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:verdant_froglight",
@@ -103,14 +103,14 @@
             "type": "minecraft:damage_source_properties"
           },
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:ochre_froglight",
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:entities/magma_cube",

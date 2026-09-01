@@ -4,7 +4,7 @@
       "entries": [
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:netherite_ingot",
@@ -13,7 +13,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:ancient_debris",
@@ -22,7 +22,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:netherite_scrap",
@@ -31,7 +31,7 @@
         },
         {
           "modifier": {
-            "count": 2.0,
+            "count": 2,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:ancient_debris",
@@ -185,8 +185,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 2.0,
+              "max": 6,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -197,7 +197,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:enchanted_golden_apple",
@@ -205,15 +205,15 @@
           "weight": 2
         }
       ],
-      "rolls": 3.0
+      "rolls": 3
     },
     {
       "entries": [
         {
           "modifier": {
             "count": {
-              "max": 25.0,
-              "min": 12.0,
+              "max": 25,
+              "min": 12,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -224,8 +224,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 2.0,
+              "max": 5,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -236,8 +236,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 2.0,
+              "max": 5,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -248,8 +248,8 @@
         {
           "modifier": {
             "count": {
-              "max": 9.0,
-              "min": 3.0,
+              "max": 9,
+              "min": 3,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -260,8 +260,8 @@
         {
           "modifier": {
             "count": {
-              "max": 9.0,
-              "min": 3.0,
+              "max": 9,
+              "min": 3,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -272,8 +272,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 3.0,
+              "max": 5,
+              "min": 3,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -284,8 +284,8 @@
         {
           "modifier": {
             "count": {
-              "max": 23.0,
-              "min": 8.0,
+              "max": 23,
+              "min": 8,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -296,8 +296,8 @@
         {
           "modifier": {
             "count": {
-              "max": 15.0,
-              "min": 5.0,
+              "max": 15,
+              "min": 5,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -308,8 +308,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 3.0,
+              "max": 8,
+              "min": 3,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -319,8 +319,8 @@
         }
       ],
       "rolls": {
-        "max": 4.0,
-        "min": 3.0,
+        "max": 4,
+        "min": 3,
         "type": "minecraft:uniform"
       }
     },
@@ -335,7 +335,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
@@ -344,7 +344,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:chests/bastion_treasure",

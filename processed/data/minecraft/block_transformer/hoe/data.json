@@ -22,8 +22,10 @@
             "type": "minecraft:all_of"
           },
           "then": {
-            "state": "minecraft:farmland",
-            "type": "minecraft:simple_state_provider"
+            "id": "minecraft:farmland",
+            "properties": {
+              "moisture": "0"
+            }
           }
         },
         {
@@ -46,12 +48,11 @@
             "type": "minecraft:all_of"
           },
           "then": {
-            "state": "minecraft:dirt",
-            "type": "minecraft:simple_state_provider"
+            "id": "minecraft:dirt"
           }
         }
       ],
-      "type": "minecraft:rule_based_state_provider"
+      "type": "minecraft:rule_based"
     },
     "disallowed_faces": [
       "down"
@@ -68,12 +69,11 @@
             "type": "minecraft:matching_blocks"
           },
           "then": {
-            "state": "minecraft:dirt",
-            "type": "minecraft:simple_state_provider"
+            "id": "minecraft:dirt"
           }
         }
       ],
-      "type": "minecraft:rule_based_state_provider"
+      "type": "minecraft:rule_based"
     },
     "drop_strategy": "clicked_face",
     "item_damage_per_use": 1,

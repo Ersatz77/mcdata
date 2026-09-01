@@ -1,7 +1,9 @@
 {
   "to_place": {
-    "state": "minecraft:large_fern",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:large_fern",
+    "properties": {
+      "half": "lower"
+    }
   },
   "type": "minecraft:simple_block"
 }

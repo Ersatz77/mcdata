@@ -4,7 +4,7 @@
       "entries": [
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:water_bucket",
@@ -14,8 +14,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 4.0,
+              "max": 8,
+              "min": 4,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -27,8 +27,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 4.0,
+              "max": 8,
+              "min": 4,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -40,8 +40,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 4.0,
+              "max": 8,
+              "min": 4,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -53,8 +53,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 4.0,
+              "max": 8,
+              "min": 4,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -71,8 +71,8 @@
             },
             {
               "count": {
-                "max": 5.0,
-                "min": 2.0,
+                "max": 5,
+                "min": 2,
                 "type": "minecraft:uniform"
               },
               "type": "minecraft:set_count"
@@ -89,8 +89,8 @@
             },
             {
               "count": {
-                "max": 5.0,
-                "min": 2.0,
+                "max": 5,
+                "min": 2,
                 "type": "minecraft:uniform"
               },
               "type": "minecraft:set_count"
@@ -107,8 +107,8 @@
             },
             {
               "count": {
-                "max": 5.0,
-                "min": 2.0,
+                "max": 5,
+                "min": 2,
                 "type": "minecraft:uniform"
               },
               "type": "minecraft:set_count"
@@ -125,8 +125,8 @@
             },
             {
               "count": {
-                "max": 5.0,
-                "min": 2.0,
+                "max": 5,
+                "min": 2,
                 "type": "minecraft:uniform"
               },
               "type": "minecraft:set_count"
@@ -143,8 +143,8 @@
             },
             {
               "count": {
-                "max": 5.0,
-                "min": 2.0,
+                "max": 5,
+                "min": 2,
                 "type": "minecraft:uniform"
               },
               "type": "minecraft:set_count"
@@ -161,8 +161,8 @@
             },
             {
               "count": {
-                "max": 5.0,
-                "min": 2.0,
+                "max": 5,
+                "min": 2,
                 "type": "minecraft:uniform"
               },
               "type": "minecraft:set_count"
@@ -179,8 +179,8 @@
             },
             {
               "count": {
-                "max": 5.0,
-                "min": 2.0,
+                "max": 5,
+                "min": 2,
                 "type": "minecraft:uniform"
               },
               "type": "minecraft:set_count"
@@ -190,7 +190,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:dispensers/trial_chambers/chamber",

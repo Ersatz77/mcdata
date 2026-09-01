@@ -5,8 +5,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 1.0,
+              "max": 4,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -37,8 +37,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 2.0,
+              "max": 3,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -49,8 +49,8 @@
         }
       ],
       "rolls": {
-        "max": 8.0,
-        "min": 2.0,
+        "max": 8,
+        "min": 2,
         "type": "minecraft:uniform"
       }
     },
@@ -99,7 +99,7 @@
           "weight": 5
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
@@ -109,7 +109,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:copper_nautilus_armor",
@@ -118,7 +118,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:iron_nautilus_armor",
@@ -127,7 +127,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:golden_nautilus_armor",
@@ -136,7 +136,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:diamond_nautilus_armor",
@@ -144,7 +144,7 @@
           "weight": 2
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:chests/underwater_ruin_small",

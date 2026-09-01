@@ -13,8 +13,8 @@
               "modifier": [
                 {
                   "count": {
-                    "max": 6.0,
-                    "min": 2.0,
+                    "max": 6,
+                    "min": 2,
                     "type": "minecraft:uniform"
                   },
                   "type": "minecraft:set_count"
@@ -35,7 +35,7 @@
           "type": "minecraft:alternatives"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/nether_gold_ore",

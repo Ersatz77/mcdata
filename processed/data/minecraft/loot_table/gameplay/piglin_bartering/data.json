@@ -50,8 +50,8 @@
         {
           "modifier": {
             "count": {
-              "max": 36.0,
-              "min": 10.0,
+              "max": 36,
+              "min": 10,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -63,8 +63,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 2.0,
+              "max": 4,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -75,7 +75,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:dried_ghast",
@@ -85,8 +85,8 @@
         {
           "modifier": {
             "count": {
-              "max": 9.0,
-              "min": 3.0,
+              "max": 9,
+              "min": 3,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -98,8 +98,8 @@
         {
           "modifier": {
             "count": {
-              "max": 12.0,
-              "min": 5.0,
+              "max": 12,
+              "min": 5,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -116,8 +116,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -134,8 +134,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 2.0,
+              "max": 4,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -147,8 +147,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 2.0,
+              "max": 8,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -160,8 +160,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 2.0,
+              "max": 8,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -173,8 +173,8 @@
         {
           "modifier": {
             "count": {
-              "max": 12.0,
-              "min": 6.0,
+              "max": 12,
+              "min": 6,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -186,8 +186,8 @@
         {
           "modifier": {
             "count": {
-              "max": 16.0,
-              "min": 8.0,
+              "max": 16,
+              "min": 8,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -199,8 +199,8 @@
         {
           "modifier": {
             "count": {
-              "max": 16.0,
-              "min": 8.0,
+              "max": 16,
+              "min": 8,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -210,7 +210,7 @@
           "weight": 40
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:gameplay/piglin_bartering",

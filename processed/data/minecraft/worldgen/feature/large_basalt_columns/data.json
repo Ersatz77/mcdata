@@ -4,8 +4,10 @@
       "data": {
         "feature": {
           "block": {
-            "state": "minecraft:basalt",
-            "type": "minecraft:simple_state_provider"
+            "id": "minecraft:basalt",
+            "properties": {
+              "axis": "y"
+            }
           },
           "can_replace": {
             "predicates": [
@@ -61,8 +63,10 @@
       "data": {
         "feature": {
           "block": {
-            "state": "minecraft:basalt",
-            "type": "minecraft:simple_state_provider"
+            "id": "minecraft:basalt",
+            "properties": {
+              "axis": "y"
+            }
           },
           "can_replace": {
             "predicates": [

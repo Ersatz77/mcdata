@@ -22,7 +22,7 @@
     "minecraft:advancement": {
       "elements": true,
       "stable": true,
-      "tags": false
+      "tags": true
     },
     "minecraft:attribute": {
       "elements": false,
@@ -95,6 +95,26 @@
       "tags": true
     },
     "minecraft:consume_effect_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:context_float_provider": {
+      "elements": true,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:context_float_provider_type": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:context_int_provider": {
+      "elements": true,
+      "stable": true,
+      "tags": true
+    },
+    "minecraft:context_int_provider_type": {
       "elements": false,
       "stable": true,
       "tags": true
@@ -309,11 +329,6 @@
       "stable": true,
       "tags": true
     },
-    "minecraft:loot_number_provider_type": {
-      "elements": false,
-      "stable": true,
-      "tags": true
-    },
     "minecraft:loot_pool_entry_type": {
       "elements": false,
       "stable": true,
@@ -351,11 +366,6 @@
     },
     "minecraft:number_format_type": {
       "elements": false,
-      "stable": true,
-      "tags": true
-    },
-    "minecraft:number_provider": {
-      "elements": true,
       "stable": true,
       "tags": true
     },
@@ -422,7 +432,7 @@
     "minecraft:recipe": {
       "elements": true,
       "stable": true,
-      "tags": false
+      "tags": true
     },
     "minecraft:recipe_book_category": {
       "elements": false,
@@ -592,6 +602,11 @@
     "minecraft:worldgen/biome_source": {
       "elements": false,
       "stable": true,
+      "tags": true
+    },
+    "minecraft:worldgen/block_state_provider": {
+      "elements": true,
+      "stable": false,
       "tags": true
     },
     "minecraft:worldgen/block_state_provider_type": {

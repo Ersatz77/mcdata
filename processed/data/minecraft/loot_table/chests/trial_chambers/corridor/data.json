@@ -5,7 +5,7 @@
         {
           "modifier": [
             {
-              "count": 1.0,
+              "count": 1,
               "type": "minecraft:set_count"
             },
             {
@@ -27,8 +27,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 2.0,
+              "max": 8,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -39,7 +39,7 @@
         {
           "modifier": [
             {
-              "count": 1.0,
+              "count": 1,
               "type": "minecraft:set_count"
             },
             {
@@ -58,7 +58,7 @@
         {
           "modifier": [
             {
-              "count": 1.0,
+              "count": 1,
               "type": "minecraft:set_count"
             },
             {
@@ -77,8 +77,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -90,8 +90,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 1.0,
+              "max": 4,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -103,8 +103,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 3.0,
+              "max": 6,
+              "min": 3,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -116,8 +116,8 @@
         {
           "modifier": {
             "count": {
-              "max": 10.0,
-              "min": 2.0,
+              "max": 10,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -129,8 +129,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 3.0,
+              "max": 6,
+              "min": 3,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -142,8 +142,8 @@
         {
           "modifier": {
             "count": {
-              "max": 20.0,
-              "min": 8.0,
+              "max": 20,
+              "min": 8,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -154,8 +154,8 @@
         }
       ],
       "rolls": {
-        "max": 3.0,
-        "min": 1.0,
+        "max": 3,
+        "min": 1,
         "type": "minecraft:uniform"
       }
     }

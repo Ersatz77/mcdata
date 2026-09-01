@@ -1,8 +1,7 @@
 {
   "schedule_tick": true,
   "to_place": {
-    "state": "minecraft:closed_eyeblossom",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:closed_eyeblossom"
   },
   "type": "minecraft:simple_block"
 }

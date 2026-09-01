@@ -12,7 +12,7 @@
           "weight": 3
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
@@ -26,15 +26,15 @@
           "weight": 3
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -46,8 +46,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -59,8 +59,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -70,15 +70,15 @@
           "weight": 3
         }
       ],
-      "rolls": 3.0
+      "rolls": 3
     },
     {
       "entries": [
         {
           "modifier": {
             "count": {
-              "max": 12.0,
-              "min": 1.0,
+              "max": 12,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -90,8 +90,8 @@
         {
           "modifier": {
             "count": {
-              "max": 12.0,
-              "min": 1.0,
+              "max": 12,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -103,8 +103,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -116,8 +116,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -129,8 +129,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -142,8 +142,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -155,8 +155,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -168,8 +168,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -181,8 +181,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -192,7 +192,7 @@
           "weight": 3
         }
       ],
-      "rolls": 4.0
+      "rolls": 4
     }
   ],
   "random_sequence": "minecraft:chests/spawn_bonus_chest",

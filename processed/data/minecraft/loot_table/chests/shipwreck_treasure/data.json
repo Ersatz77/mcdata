@@ -5,8 +5,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 1.0,
+              "max": 5,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -18,8 +18,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 1.0,
+              "max": 5,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -31,8 +31,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 1.0,
+              "max": 5,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -53,8 +53,8 @@
         }
       ],
       "rolls": {
-        "max": 6.0,
-        "min": 3.0,
+        "max": 6,
+        "min": 3,
         "type": "minecraft:uniform"
       }
     },
@@ -63,8 +63,8 @@
         {
           "modifier": {
             "count": {
-              "max": 10.0,
-              "min": 1.0,
+              "max": 10,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -76,8 +76,8 @@
         {
           "modifier": {
             "count": {
-              "max": 10.0,
-              "min": 1.0,
+              "max": 10,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -89,8 +89,8 @@
         {
           "modifier": {
             "count": {
-              "max": 10.0,
-              "min": 1.0,
+              "max": 10,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -101,8 +101,8 @@
         }
       ],
       "rolls": {
-        "max": 5.0,
-        "min": 2.0,
+        "max": 5,
+        "min": 2,
         "type": "minecraft:uniform"
       }
     },
@@ -114,14 +114,14 @@
         },
         {
           "modifier": {
-            "count": 2.0,
+            "count": 2,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:coast_armor_trim_smithing_template",
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
@@ -131,7 +131,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:copper_nautilus_armor",
@@ -140,7 +140,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:iron_nautilus_armor",
@@ -149,7 +149,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:golden_nautilus_armor",
@@ -158,7 +158,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:diamond_nautilus_armor",
@@ -166,7 +166,7 @@
           "weight": 2
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:chests/shipwreck_treasure",

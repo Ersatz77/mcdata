@@ -4,14 +4,14 @@
       "entries": [
         {
           "modifier": {
-            "count": 4.0,
+            "count": 4,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:pumpkin_seeds",
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:carve/pumpkin",

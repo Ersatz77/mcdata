@@ -10,7 +10,7 @@
         "weight": 4
       }
     ],
-    "type": "minecraft:weighted_state_provider"
+    "type": "minecraft:weighted"
   },
   "type": "minecraft:simple_block"
 }

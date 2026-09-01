@@ -1,7 +1,6 @@
 {
   "to_place": {
-    "state": "minecraft:blue_orchid",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:blue_orchid"
   },
   "type": "minecraft:simple_block"
 }

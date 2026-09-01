@@ -1,22 +1,5 @@
 {
-  "below_trunk_provider": {
-    "rules": [
-      {
-        "if_true": {
-          "predicate": {
-            "tag": "minecraft:cannot_replace_below_tree_trunk",
-            "type": "minecraft:matching_block_tag"
-          },
-          "type": "minecraft:not"
-        },
-        "then": {
-          "state": "minecraft:dirt",
-          "type": "minecraft:simple_state_provider"
-        }
-      }
-    ],
-    "type": "minecraft:rule_based_state_provider"
-  },
+  "below_trunk_provider": "minecraft:soil_beneath_tree",
   "decorators": [
     {
       "probability": 0.4,
@@ -55,8 +38,12 @@
     "type": "minecraft:poplar_foliage_placer"
   },
   "foliage_provider": {
-    "state": "minecraft:yellow_poplar_leaves",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:yellow_poplar_leaves",
+    "properties": {
+      "distance": "7",
+      "persistent": "false",
+      "waterlogged": "false"
+    }
   },
   "ignore_vines": true,
   "minimum_size": {
@@ -76,8 +63,10 @@
     "type": "minecraft:poplar_trunk_placer"
   },
   "trunk_provider": {
-    "state": "minecraft:poplar_log",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:poplar_log",
+    "properties": {
+      "axis": "y"
+    }
   },
   "type": "minecraft:tree"
 }

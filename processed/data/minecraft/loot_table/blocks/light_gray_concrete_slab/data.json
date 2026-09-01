@@ -12,7 +12,7 @@
                 },
                 "type": "minecraft:match_block"
               },
-              "count": 2.0,
+              "count": 2,
               "type": "minecraft:set_count"
             },
             {
@@ -23,7 +23,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/light_gray_concrete_slab",

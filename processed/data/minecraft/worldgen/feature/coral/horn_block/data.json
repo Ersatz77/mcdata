@@ -3,8 +3,7 @@
     {
       "feature": {
         "to_place": {
-          "state": "minecraft:horn_coral_block",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:horn_coral_block"
         },
         "type": "minecraft:simple_block"
       },

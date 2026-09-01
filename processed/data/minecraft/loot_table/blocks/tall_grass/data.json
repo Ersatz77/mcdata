@@ -31,7 +31,7 @@
             {
               "condition": "minecraft:tool/can_shear",
               "modifier": {
-                "count": 2.0,
+                "count": 2,
                 "type": "minecraft:set_count"
               },
               "name": "minecraft:short_grass",
@@ -57,7 +57,7 @@
           "type": "minecraft:alternatives"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "condition": {
@@ -90,7 +90,7 @@
             {
               "condition": "minecraft:tool/can_shear",
               "modifier": {
-                "count": 2.0,
+                "count": 2,
                 "type": "minecraft:set_count"
               },
               "name": "minecraft:short_grass",
@@ -116,7 +116,7 @@
           "type": "minecraft:alternatives"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/tall_grass",

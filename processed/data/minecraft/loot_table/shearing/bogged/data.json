@@ -4,7 +4,7 @@
       "entries": [
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:brown_mushroom",
@@ -12,14 +12,14 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:red_mushroom",
           "type": "minecraft:item"
         }
       ],
-      "rolls": 2.0
+      "rolls": 2
     }
   ],
   "random_sequence": "minecraft:shearing/bogged",

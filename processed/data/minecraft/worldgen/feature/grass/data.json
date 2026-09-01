@@ -1,7 +1,6 @@
 {
   "to_place": {
-    "state": "minecraft:short_grass",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:short_grass"
   },
   "type": "minecraft:simple_block"
 }

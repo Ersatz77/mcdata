@@ -3,8 +3,7 @@
     {
       "feature": {
         "to_place": {
-          "state": "minecraft:brain_coral_block",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:brain_coral_block"
         },
         "type": "minecraft:simple_block"
       },

@@ -5,8 +5,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -20,7 +20,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:compass",
@@ -30,8 +30,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -43,7 +43,7 @@
         {
           "modifier": [
             {
-              "count": 1.0,
+              "count": 1,
               "type": "minecraft:set_count"
             },
             {
@@ -56,8 +56,8 @@
             },
             {
               "levels": {
-                "max": 50.0,
-                "min": 30.0,
+                "max": 50,
+                "min": 30,
                 "type": "minecraft:uniform"
               },
               "options": "#minecraft:on_random_loot",
@@ -70,7 +70,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:lead",
@@ -79,7 +79,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:diamond_horse_armor",
@@ -89,8 +89,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 1.0,
+              "max": 5,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -112,8 +112,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 50.0,
-              "min": 30.0,
+              "max": 50,
+              "min": 30,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -135,8 +135,8 @@
         {
           "modifier": {
             "count": {
-              "max": 10.0,
-              "min": 4.0,
+              "max": 10,
+              "min": 4,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -148,8 +148,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -161,8 +161,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 1.0,
+              "max": 4,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -174,8 +174,8 @@
         {
           "modifier": {
             "count": {
-              "max": 15.0,
-              "min": 1.0,
+              "max": 15,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -187,8 +187,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -200,8 +200,8 @@
         {
           "modifier": {
             "count": {
-              "max": 15.0,
-              "min": 1.0,
+              "max": 15,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -213,8 +213,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 39.0,
-              "min": 20.0,
+              "max": 39,
+              "min": 20,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -227,8 +227,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -240,8 +240,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -254,8 +254,8 @@
           "modifier": [
             {
               "count": {
-                "max": 3.0,
-                "min": 1.0,
+                "max": 3,
+                "min": 1,
                 "type": "minecraft:uniform"
               },
               "type": "minecraft:set_count"
@@ -281,8 +281,8 @@
         {
           "modifier": {
             "count": {
-              "max": 10.0,
-              "min": 3.0,
+              "max": 10,
+              "min": 3,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -294,8 +294,8 @@
         {
           "modifier": {
             "count": {
-              "max": 15.0,
-              "min": 1.0,
+              "max": 15,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -307,8 +307,8 @@
         {
           "modifier": {
             "count": {
-              "max": 15.0,
-              "min": 1.0,
+              "max": 15,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -320,8 +320,8 @@
         {
           "modifier": {
             "count": {
-              "max": 15.0,
-              "min": 6.0,
+              "max": 15,
+              "min": 6,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -332,8 +332,8 @@
         }
       ],
       "rolls": {
-        "max": 10.0,
-        "min": 5.0,
+        "max": 10,
+        "min": 5,
         "type": "minecraft:uniform"
       }
     },
@@ -353,7 +353,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:chests/ancient_city",

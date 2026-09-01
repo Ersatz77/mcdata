@@ -5,8 +5,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 0.0,
+              "max": 2,
+              "min": 0,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -15,15 +15,15 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 3.0,
+              "max": 5,
+              "min": 3,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -32,7 +32,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:entities/iron_golem",

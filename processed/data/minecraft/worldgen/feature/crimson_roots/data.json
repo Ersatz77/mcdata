@@ -1,7 +1,6 @@
 {
   "to_place": {
-    "state": "minecraft:crimson_roots",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:crimson_roots"
   },
   "type": "minecraft:simple_block"
 }

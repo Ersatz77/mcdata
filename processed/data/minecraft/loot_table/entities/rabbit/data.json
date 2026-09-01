@@ -6,8 +6,8 @@
           "modifier": [
             {
               "count": {
-                "max": 1.0,
-                "min": 0.0,
+                "max": 1,
+                "min": 0,
                 "type": "minecraft:uniform"
               },
               "type": "minecraft:set_count"
@@ -26,14 +26,14 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
         {
           "modifier": [
             {
-              "count": 1.0,
+              "count": 1,
               "type": "minecraft:set_count"
             },
             {
@@ -84,7 +84,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "condition": {
@@ -111,7 +111,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:entities/rabbit",

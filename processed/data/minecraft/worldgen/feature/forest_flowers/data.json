@@ -3,8 +3,10 @@
     {
       "feature": {
         "to_place": {
-          "state": "minecraft:lilac",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:lilac",
+          "properties": {
+            "half": "lower"
+          }
         },
         "type": "minecraft:simple_block"
       },
@@ -46,8 +48,10 @@
     {
       "feature": {
         "to_place": {
-          "state": "minecraft:rose_bush",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:rose_bush",
+          "properties": {
+            "half": "lower"
+          }
         },
         "type": "minecraft:simple_block"
       },
@@ -89,8 +93,10 @@
     {
       "feature": {
         "to_place": {
-          "state": "minecraft:peony",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:peony",
+          "properties": {
+            "half": "lower"
+          }
         },
         "type": "minecraft:simple_block"
       },
@@ -132,8 +138,7 @@
     {
       "feature": {
         "to_place": {
-          "state": "minecraft:lily_of_the_valley",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:lily_of_the_valley"
         },
         "type": "minecraft:simple_block"
       },

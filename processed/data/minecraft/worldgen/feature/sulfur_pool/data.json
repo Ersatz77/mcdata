@@ -3,8 +3,7 @@
     {
       "feature": {
         "barrier": {
-          "state": "minecraft:sulfur",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:sulfur"
         },
         "can_place_feature": {
           "predicate": {
@@ -28,8 +27,10 @@
           "type": "minecraft:not"
         },
         "fluid": {
-          "state": "minecraft:water",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:water",
+          "properties": {
+            "level": "0"
+          }
         },
         "type": "minecraft:lake"
       },
@@ -38,13 +39,10 @@
     {
       "feature": {
         "to_place": {
-          "state": {
-            "id": "minecraft:potent_sulfur",
-            "properties": {
-              "potent_sulfur_state": "wet"
-            }
-          },
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:potent_sulfur",
+          "properties": {
+            "potent_sulfur_state": "wet"
+          }
         },
         "type": "minecraft:simple_block"
       },

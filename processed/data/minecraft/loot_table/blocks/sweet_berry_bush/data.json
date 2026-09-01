@@ -20,8 +20,8 @@
       "modifier": [
         {
           "count": {
-            "max": 3.0,
-            "min": 2.0,
+            "max": 3,
+            "min": 2,
             "type": "minecraft:uniform"
           },
           "type": "minecraft:set_count"
@@ -35,7 +35,7 @@
           "type": "minecraft:apply_bonus"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "condition": {
@@ -54,8 +54,8 @@
       "modifier": [
         {
           "count": {
-            "max": 2.0,
-            "min": 1.0,
+            "max": 2,
+            "min": 1,
             "type": "minecraft:uniform"
           },
           "type": "minecraft:set_count"
@@ -69,7 +69,7 @@
           "type": "minecraft:apply_bonus"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/sweet_berry_bush",

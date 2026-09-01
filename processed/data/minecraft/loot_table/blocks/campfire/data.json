@@ -14,7 +14,7 @@
                 "type": "minecraft:survives_explosion"
               },
               "modifier": {
-                "count": 2.0,
+                "count": 2,
                 "type": "minecraft:set_count"
               },
               "name": "minecraft:charcoal",
@@ -24,7 +24,7 @@
           "type": "minecraft:alternatives"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/campfire",

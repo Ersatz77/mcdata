@@ -1,7 +1,6 @@
 {
   "to_place": {
-    "state": "minecraft:soul_fire",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:soul_fire"
   },
   "type": "minecraft:simple_block"
 }

@@ -8,8 +8,7 @@
         ],
         "attempts": 200,
         "block": {
-          "state": "minecraft:nether_wart_block",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:nether_wart_block"
         },
         "can_replace": {
           "tag": "minecraft:air",
@@ -66,8 +65,7 @@
               "type": "minecraft:weighted_list"
             },
             "provider": {
-              "state": "minecraft:weeping_vines_plant",
-              "type": "minecraft:simple_state_provider"
+              "id": "minecraft:weeping_vines_plant"
             }
           },
           {
@@ -75,10 +73,12 @@
             "provider": {
               "property": "age",
               "source": {
-                "state": "minecraft:weeping_vines",
-                "type": "minecraft:simple_state_provider"
+                "id": "minecraft:weeping_vines",
+                "properties": {
+                  "age": "0"
+                }
               },
-              "type": "minecraft:randomized_int_state_provider",
+              "type": "minecraft:randomized_int",
               "values": {
                 "max_inclusive": 25,
                 "min_inclusive": 17,

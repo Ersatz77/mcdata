@@ -3,8 +3,7 @@
     {
       "feature": {
         "to_place": {
-          "state": "minecraft:bubble_coral_block",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:bubble_coral_block"
         },
         "type": "minecraft:simple_block"
       },

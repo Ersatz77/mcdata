@@ -5,7 +5,7 @@
         {
           "modifier": [
             {
-              "count": 1.0,
+              "count": 1,
               "type": "minecraft:set_count"
             },
             {
@@ -19,7 +19,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:diamond_shovel",
@@ -47,7 +47,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:ancient_debris",
@@ -56,7 +56,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:netherite_scrap",
@@ -66,8 +66,8 @@
         {
           "modifier": {
             "count": {
-              "max": 22.0,
-              "min": 10.0,
+              "max": 22,
+              "min": 10,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -78,7 +78,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:piglin_banner_pattern",
@@ -87,7 +87,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:music_disc_pigstep",
@@ -97,8 +97,8 @@
         {
           "modifier": {
             "count": {
-              "max": 17.0,
-              "min": 6.0,
+              "max": 17,
+              "min": 6,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -109,7 +109,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:golden_apple",
@@ -126,7 +126,7 @@
           "weight": 10
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
@@ -141,7 +141,7 @@
               "type": "minecraft:set_damage"
             },
             {
-              "count": 1.0,
+              "count": 1,
               "type": "minecraft:set_count"
             },
             {
@@ -155,7 +155,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:iron_block",
@@ -165,7 +165,7 @@
         {
           "modifier": [
             {
-              "count": 1.0,
+              "count": 1,
               "type": "minecraft:set_count"
             },
             {
@@ -179,7 +179,7 @@
         {
           "modifier": [
             {
-              "count": 1.0,
+              "count": 1,
               "type": "minecraft:set_count"
             },
             {
@@ -192,7 +192,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:gold_block",
@@ -201,7 +201,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:crossbow",
@@ -210,8 +210,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 1.0,
+              "max": 6,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -223,8 +223,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 1.0,
+              "max": 6,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -235,7 +235,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:golden_sword",
@@ -243,7 +243,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:golden_chestplate",
@@ -251,7 +251,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:golden_helmet",
@@ -259,7 +259,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:golden_leggings",
@@ -267,7 +267,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:golden_boots",
@@ -276,8 +276,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 1.0,
+              "max": 5,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -287,15 +287,15 @@
           "weight": 2
         }
       ],
-      "rolls": 2.0
+      "rolls": 2
     },
     {
       "entries": [
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 1.0,
+              "max": 5,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -307,8 +307,8 @@
         {
           "modifier": {
             "count": {
-              "max": 10.0,
-              "min": 2.0,
+              "max": 10,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -319,8 +319,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 2.0,
+              "max": 6,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -332,8 +332,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 3.0,
+              "max": 6,
+              "min": 3,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -344,8 +344,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 2.0,
+              "max": 8,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -356,8 +356,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 4.0,
+              "max": 6,
+              "min": 4,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -368,8 +368,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 2.0,
+              "max": 8,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -380,8 +380,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 4.0,
+              "max": 6,
+              "min": 4,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -392,8 +392,8 @@
         {
           "modifier": {
             "count": {
-              "max": 17.0,
-              "min": 5.0,
+              "max": 17,
+              "min": 5,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -404,7 +404,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:cooked_porkchop",
@@ -412,8 +412,8 @@
         }
       ],
       "rolls": {
-        "max": 4.0,
-        "min": 3.0,
+        "max": 4,
+        "min": 3,
         "type": "minecraft:uniform"
       }
     },
@@ -428,7 +428,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
@@ -441,7 +441,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:chests/bastion_other",

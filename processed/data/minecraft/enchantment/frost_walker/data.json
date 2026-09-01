@@ -28,8 +28,10 @@
       {
         "effect": {
           "block_state": {
-            "state": "minecraft:frosted_ice",
-            "type": "minecraft:simple_state_provider"
+            "id": "minecraft:frosted_ice",
+            "properties": {
+              "age": "0"
+            }
           },
           "height": 1.0,
           "offset": [

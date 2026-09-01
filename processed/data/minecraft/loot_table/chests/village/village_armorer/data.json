@@ -5,8 +5,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -18,8 +18,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 1.0,
+              "max": 4,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -38,8 +38,8 @@
         }
       ],
       "rolls": {
-        "max": 5.0,
-        "min": 1.0,
+        "max": 5,
+        "min": 1,
         "type": "minecraft:uniform"
       }
     }

@@ -1,4 +1,5 @@
 {
+  "cookingtime": 200,
   "experience": 1.0,
   "group": "gold_ingot",
   "ingredient": "minecraft:nether_gold_ore",

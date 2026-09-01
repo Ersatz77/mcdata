@@ -13,8 +13,8 @@
               "modifier": [
                 {
                   "count": {
-                    "max": 7.0,
-                    "min": 3.0,
+                    "max": 7,
+                    "min": 3,
                     "type": "minecraft:uniform"
                   },
                   "type": "minecraft:set_count"
@@ -29,7 +29,7 @@
                 },
                 {
                   "limit": {
-                    "max": 9.0
+                    "max": 9
                   },
                   "type": "minecraft:limit_count"
                 },
@@ -44,7 +44,7 @@
           "type": "minecraft:alternatives"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/melon",

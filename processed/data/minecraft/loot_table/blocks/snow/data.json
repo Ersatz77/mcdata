@@ -20,7 +20,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 1.0,
+                    "count": 1,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snowball",
@@ -35,7 +35,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 2.0,
+                    "count": 2,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snowball",
@@ -50,7 +50,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 3.0,
+                    "count": 3,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snowball",
@@ -65,7 +65,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 4.0,
+                    "count": 4,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snowball",
@@ -80,7 +80,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 5.0,
+                    "count": 5,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snowball",
@@ -95,7 +95,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 6.0,
+                    "count": 6,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snowball",
@@ -110,7 +110,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 7.0,
+                    "count": 7,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snowball",
@@ -125,7 +125,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 8.0,
+                    "count": 8,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snowball",
@@ -149,7 +149,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 1.0,
+                    "count": 1,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snow",
@@ -164,7 +164,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 2.0,
+                    "count": 2,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snow",
@@ -179,7 +179,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 3.0,
+                    "count": 3,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snow",
@@ -194,7 +194,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 4.0,
+                    "count": 4,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snow",
@@ -209,7 +209,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 5.0,
+                    "count": 5,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snow",
@@ -224,7 +224,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 6.0,
+                    "count": 6,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snow",
@@ -239,7 +239,7 @@
                     "type": "minecraft:match_block"
                   },
                   "modifier": {
-                    "count": 7.0,
+                    "count": 7,
                     "type": "minecraft:set_count"
                   },
                   "name": "minecraft:snow",
@@ -256,7 +256,7 @@
           "type": "minecraft:alternatives"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/snow",

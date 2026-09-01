@@ -4,7 +4,7 @@
       "entries": [
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:trial_key",
@@ -13,8 +13,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 2.0,
+              "max": 5,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -25,7 +25,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:wooden_axe",
@@ -35,8 +35,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 2.0,
+              "max": 8,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -48,8 +48,8 @@
         {
           "modifier": {
             "count": {
-              "max": 10.0,
-              "min": 5.0,
+              "max": 10,
+              "min": 5,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -60,8 +60,8 @@
         }
       ],
       "rolls": {
-        "max": 3.0,
-        "min": 2.0,
+        "max": 3,
+        "min": 2,
         "type": "minecraft:uniform"
       }
     }

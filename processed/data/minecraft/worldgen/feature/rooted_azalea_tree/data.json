@@ -34,8 +34,10 @@
   "hanging_root_placement_attempts": 20,
   "hanging_root_radius": 3,
   "hanging_root_state_provider": {
-    "state": "minecraft:hanging_roots",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:hanging_roots",
+    "properties": {
+      "waterlogged": "false"
+    }
   },
   "hanging_roots_vertical_span": 2,
   "level_test_distance": 0,
@@ -46,8 +48,7 @@
   "root_radius": 3,
   "root_replaceable": "#minecraft:azalea_root_replaceable",
   "root_state_provider": {
-    "state": "minecraft:rooted_dirt",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:rooted_dirt"
   },
   "type": "minecraft:root_system"
 }

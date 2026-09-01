@@ -3,8 +3,10 @@
     {
       "feature": {
         "block": {
-          "state": "minecraft:basalt",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:basalt",
+          "properties": {
+            "axis": "y"
+          }
         },
         "can_replace": {
           "tag": "minecraft:air",
@@ -31,12 +33,14 @@
                           "type": "minecraft:not"
                         },
                         "then": {
-                          "state": "minecraft:basalt",
-                          "type": "minecraft:simple_state_provider"
+                          "id": "minecraft:basalt",
+                          "properties": {
+                            "axis": "y"
+                          }
                         }
                       }
                     ],
-                    "type": "minecraft:rule_based_state_provider"
+                    "type": "minecraft:rule_based"
                   },
                   "max_projection_height": 3,
                   "project_through": {
@@ -58,8 +62,10 @@
               {
                 "feature": {
                   "to_place": {
-                    "state": "minecraft:basalt",
-                    "type": "minecraft:simple_state_provider"
+                    "id": "minecraft:basalt",
+                    "properties": {
+                      "axis": "y"
+                    }
                   },
                   "type": "minecraft:simple_block"
                 },
@@ -79,8 +85,10 @@
               {
                 "feature": {
                   "to_place": {
-                    "state": "minecraft:basalt",
-                    "type": "minecraft:simple_state_provider"
+                    "id": "minecraft:basalt",
+                    "properties": {
+                      "axis": "y"
+                    }
                   },
                   "type": "minecraft:simple_block"
                 },
@@ -100,8 +108,10 @@
               {
                 "feature": {
                   "to_place": {
-                    "state": "minecraft:basalt",
-                    "type": "minecraft:simple_state_provider"
+                    "id": "minecraft:basalt",
+                    "properties": {
+                      "axis": "y"
+                    }
                   },
                   "type": "minecraft:simple_block"
                 },
@@ -121,8 +131,10 @@
               {
                 "feature": {
                   "to_place": {
-                    "state": "minecraft:basalt",
-                    "type": "minecraft:simple_state_provider"
+                    "id": "minecraft:basalt",
+                    "properties": {
+                      "axis": "y"
+                    }
                   },
                   "type": "minecraft:simple_block"
                 },
@@ -152,8 +164,10 @@
     {
       "feature": {
         "block": {
-          "state": "minecraft:basalt",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:basalt",
+          "properties": {
+            "axis": "y"
+          }
         },
         "can_replace": {
           "tag": "minecraft:air",
@@ -175,8 +189,10 @@
     {
       "feature": {
         "block": {
-          "state": "minecraft:basalt",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:basalt",
+          "properties": {
+            "axis": "y"
+          }
         },
         "can_replace": {
           "tag": "minecraft:air",
@@ -198,8 +214,10 @@
     {
       "feature": {
         "block": {
-          "state": "minecraft:basalt",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:basalt",
+          "properties": {
+            "axis": "y"
+          }
         },
         "can_replace": {
           "tag": "minecraft:air",
@@ -221,8 +239,10 @@
     {
       "feature": {
         "block": {
-          "state": "minecraft:basalt",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:basalt",
+          "properties": {
+            "axis": "y"
+          }
         },
         "can_replace": {
           "tag": "minecraft:air",

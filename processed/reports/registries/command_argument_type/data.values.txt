@@ -10,6 +10,8 @@ minecraft:block_predicate
 minecraft:block_state
 minecraft:column_pos
 minecraft:component
+minecraft:context_float_provider
+minecraft:context_int_provider
 minecraft:dialog
 minecraft:dimension
 minecraft:entity
@@ -33,7 +35,6 @@ minecraft:message
 minecraft:nbt_compound_tag
 minecraft:nbt_path
 minecraft:nbt_tag
-minecraft:number_provider
 minecraft:objective
 minecraft:objective_criteria
 minecraft:operation

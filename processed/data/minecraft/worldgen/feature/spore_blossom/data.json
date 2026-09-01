@@ -1,7 +1,6 @@
 {
   "to_place": {
-    "state": "minecraft:spore_blossom",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:spore_blossom"
   },
   "type": "minecraft:simple_block"
 }

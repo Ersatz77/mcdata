@@ -6,8 +6,7 @@
     "type": "minecraft:uniform"
   },
   "state_provider": {
-    "state": "minecraft:packed_ice",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:packed_ice"
   },
   "target": {
     "blocks": [

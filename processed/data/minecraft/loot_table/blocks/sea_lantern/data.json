@@ -13,8 +13,8 @@
               "modifier": [
                 {
                   "count": {
-                    "max": 3.0,
-                    "min": 2.0,
+                    "max": 3,
+                    "min": 2,
                     "type": "minecraft:uniform"
                   },
                   "type": "minecraft:set_count"
@@ -29,8 +29,8 @@
                 },
                 {
                   "limit": {
-                    "max": 5.0,
-                    "min": 1.0
+                    "max": 5,
+                    "min": 1
                   },
                   "type": "minecraft:limit_count"
                 },
@@ -45,7 +45,7 @@
           "type": "minecraft:alternatives"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/sea_lantern",

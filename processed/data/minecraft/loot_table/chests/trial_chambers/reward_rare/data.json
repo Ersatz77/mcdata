@@ -5,8 +5,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 2.0,
+              "max": 4,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -31,8 +31,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 15.0,
-              "min": 5.0,
+              "max": 15,
+              "min": 5,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -45,8 +45,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 20.0,
-              "min": 5.0,
+              "max": 20,
+              "min": 5,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -59,8 +59,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 10.0,
-              "min": 0.0,
+              "max": 10,
+              "min": 0,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -73,8 +73,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 10.0,
-              "min": 0.0,
+              "max": 10,
+              "min": 0,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -87,8 +87,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -131,8 +131,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 15.0,
-              "min": 5.0,
+              "max": 15,
+              "min": 5,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -144,8 +144,8 @@
         {
           "modifier": {
             "levels": {
-              "max": 15.0,
-              "min": 5.0,
+              "max": 15,
+              "min": 5,
               "type": "minecraft:uniform"
             },
             "options": "#minecraft:on_random_loot",
@@ -155,7 +155,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:chests/trial_chambers/reward_rare",

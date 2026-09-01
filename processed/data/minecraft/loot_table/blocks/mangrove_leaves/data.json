@@ -30,8 +30,8 @@
               "modifier": [
                 {
                   "count": {
-                    "max": 2.0,
-                    "min": 1.0,
+                    "max": 2,
+                    "min": 1,
                     "type": "minecraft:uniform"
                   },
                   "type": "minecraft:set_count"
@@ -47,7 +47,7 @@
           "type": "minecraft:alternatives"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/mangrove_leaves",

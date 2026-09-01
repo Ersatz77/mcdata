@@ -22,12 +22,11 @@
             "type": "minecraft:all_of"
           },
           "then": {
-            "state": "minecraft:dirt_path",
-            "type": "minecraft:simple_state_provider"
+            "id": "minecraft:dirt_path"
           }
         }
       ],
-      "type": "minecraft:rule_based_state_provider"
+      "type": "minecraft:rule_based"
     },
     "disallowed_faces": [
       "down"

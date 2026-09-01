@@ -8,16 +8,16 @@
               "effects": [
                 {
                   "duration": {
-                    "max": 10.0,
-                    "min": 7.0,
+                    "max": 10,
+                    "min": 7,
                     "type": "minecraft:uniform"
                   },
                   "type": "minecraft:night_vision"
                 },
                 {
                   "duration": {
-                    "max": 7.0,
-                    "min": 5.0,
+                    "max": 7,
+                    "min": 5,
                     "type": "minecraft:uniform"
                   },
                   "type": "minecraft:blindness"
@@ -27,8 +27,8 @@
             },
             {
               "count": {
-                "max": 6.0,
-                "min": 2.0,
+                "max": 6,
+                "min": 2,
                 "type": "minecraft:uniform"
               },
               "type": "minecraft:set_count"
@@ -40,8 +40,8 @@
         {
           "modifier": {
             "count": {
-              "max": 10.0,
-              "min": 1.0,
+              "max": 10,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -52,8 +52,8 @@
         {
           "modifier": {
             "count": {
-              "max": 10.0,
-              "min": 1.0,
+              "max": 10,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -64,8 +64,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 2.0,
+              "max": 6,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -77,8 +77,8 @@
         {
           "modifier": {
             "count": {
-              "max": 6.0,
-              "min": 2.0,
+              "max": 6,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -89,8 +89,8 @@
         }
       ],
       "rolls": {
-        "max": 10.0,
-        "min": 4.0,
+        "max": 10,
+        "min": 4,
         "type": "minecraft:uniform"
       }
     }

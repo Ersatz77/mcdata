@@ -5,7 +5,7 @@
         {
           "modifier": {
             "count": {
-              "n": 3.0,
+              "n": 3,
               "p": 0.53333336,
               "type": "minecraft:binomial"
             },
@@ -18,7 +18,7 @@
       "modifier": {
         "type": "minecraft:explosion_decay"
       },
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:blocks/attached_melon_stem",

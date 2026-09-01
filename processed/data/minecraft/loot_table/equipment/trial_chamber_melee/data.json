@@ -7,7 +7,7 @@
           "value": "minecraft:equipment/trial_chamber"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
@@ -19,7 +19,7 @@
         {
           "modifier": {
             "enchantments": {
-              "minecraft:sharpness": 1.0
+              "minecraft:sharpness": 1
             },
             "type": "minecraft:set_enchantments"
           },
@@ -29,7 +29,7 @@
         {
           "modifier": {
             "enchantments": {
-              "minecraft:knockback": 1.0
+              "minecraft:knockback": 1
             },
             "type": "minecraft:set_enchantments"
           },
@@ -41,7 +41,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:equipment/trial_chamber_melee",

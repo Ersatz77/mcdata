@@ -1,7 +1,6 @@
 {
   "to_place": {
-    "state": "minecraft:lily_pad",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:lily_pad"
   },
   "type": "minecraft:simple_block"
 }

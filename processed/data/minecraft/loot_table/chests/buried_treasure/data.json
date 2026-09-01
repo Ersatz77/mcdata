@@ -7,15 +7,15 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 1.0,
+              "max": 4,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -27,8 +27,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 1.0,
+              "max": 4,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -40,8 +40,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -52,8 +52,8 @@
         }
       ],
       "rolls": {
-        "max": 8.0,
-        "min": 5.0,
+        "max": 8,
+        "min": 5,
         "type": "minecraft:uniform"
       }
     },
@@ -62,8 +62,8 @@
         {
           "modifier": {
             "count": {
-              "max": 8.0,
-              "min": 4.0,
+              "max": 8,
+              "min": 4,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -75,8 +75,8 @@
         {
           "modifier": {
             "count": {
-              "max": 2.0,
-              "min": 1.0,
+              "max": 2,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -88,8 +88,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 1.0,
+              "max": 5,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -100,8 +100,8 @@
         }
       ],
       "rolls": {
-        "max": 3.0,
-        "min": 1.0,
+        "max": 3,
+        "min": 1,
         "type": "minecraft:uniform"
       }
     },
@@ -121,8 +121,8 @@
         }
       ],
       "rolls": {
-        "max": 1.0,
-        "min": 0.0,
+        "max": 1,
+        "min": 0,
         "type": "minecraft:uniform"
       }
     },
@@ -131,8 +131,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 2.0,
+              "max": 4,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -143,8 +143,8 @@
         {
           "modifier": {
             "count": {
-              "max": 4.0,
-              "min": 2.0,
+              "max": 4,
+              "min": 2,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -153,7 +153,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 2.0
+      "rolls": 2
     },
     {
       "entries": [
@@ -167,8 +167,8 @@
         "type": "minecraft:set_potion"
       },
       "rolls": {
-        "max": 2.0,
-        "min": 0.0,
+        "max": 2,
+        "min": 0,
         "type": "minecraft:uniform"
       }
     },
@@ -180,7 +180,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:copper_nautilus_armor",
@@ -189,7 +189,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:iron_nautilus_armor",
@@ -198,7 +198,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:golden_nautilus_armor",
@@ -207,7 +207,7 @@
         },
         {
           "modifier": {
-            "count": 1.0,
+            "count": 1,
             "type": "minecraft:set_count"
           },
           "name": "minecraft:diamond_nautilus_armor",
@@ -215,7 +215,7 @@
           "weight": 2
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:chests/buried_treasure",

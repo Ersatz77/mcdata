@@ -7,8 +7,7 @@
   },
   "state_provider": {
     "fallback": {
-      "state": "minecraft:sand",
-      "type": "minecraft:simple_state_provider"
+      "id": "minecraft:sand"
     },
     "rules": [
       {
@@ -22,12 +21,11 @@
           "type": "minecraft:matching_blocks"
         },
         "then": {
-          "state": "minecraft:sandstone",
-          "type": "minecraft:simple_state_provider"
+          "id": "minecraft:sandstone"
         }
       }
     ],
-    "type": "minecraft:rule_based_state_provider"
+    "type": "minecraft:rule_based"
   },
   "target": {
     "blocks": [

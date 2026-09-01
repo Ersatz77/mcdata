@@ -1,7 +1,6 @@
 {
   "to_place": {
-    "state": "minecraft:pumpkin",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:pumpkin"
   },
   "type": "minecraft:simple_block"
 }

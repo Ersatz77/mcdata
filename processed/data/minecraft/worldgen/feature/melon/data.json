@@ -1,7 +1,6 @@
 {
   "to_place": {
-    "state": "minecraft:melon",
-    "type": "minecraft:simple_state_provider"
+    "id": "minecraft:melon"
   },
   "type": "minecraft:simple_block"
 }

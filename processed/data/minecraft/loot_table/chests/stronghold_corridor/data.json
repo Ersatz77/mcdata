@@ -10,8 +10,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -23,8 +23,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 1.0,
+              "max": 5,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -36,8 +36,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -49,8 +49,8 @@
         {
           "modifier": {
             "count": {
-              "max": 9.0,
-              "min": 4.0,
+              "max": 9,
+              "min": 4,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -62,8 +62,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -75,8 +75,8 @@
         {
           "modifier": {
             "count": {
-              "max": 3.0,
-              "min": 1.0,
+              "max": 3,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -122,8 +122,8 @@
         {
           "modifier": {
             "count": {
-              "max": 5.0,
-              "min": 1.0,
+              "max": 5,
+              "min": 1,
               "type": "minecraft:uniform"
             },
             "type": "minecraft:set_count"
@@ -153,7 +153,7 @@
         },
         {
           "modifier": {
-            "levels": 30.0,
+            "levels": 30,
             "options": "#minecraft:on_random_loot",
             "type": "minecraft:enchant_with_levels"
           },
@@ -162,8 +162,8 @@
         }
       ],
       "rolls": {
-        "max": 3.0,
-        "min": 2.0,
+        "max": 3,
+        "min": 2,
         "type": "minecraft:uniform"
       }
     },
@@ -178,7 +178,7 @@
           "type": "minecraft:item"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:chests/stronghold_corridor",
