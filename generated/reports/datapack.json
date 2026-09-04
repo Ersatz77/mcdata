@@ -119,6 +119,11 @@
       "stable": true,
       "tags": true
     },
+    "minecraft:context_key_set": {
+      "elements": false,
+      "stable": true,
+      "tags": true
+    },
     "minecraft:cow_sound_variant": {
       "elements": true,
       "stable": false,

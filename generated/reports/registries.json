@@ -4736,6 +4736,104 @@
     },
     "protocol_id": 33
   },
+  "minecraft:context_key_set": {
+    "entries": {
+      "minecraft:advancement_entity": {
+        "protocol_id": 18
+      },
+      "minecraft:advancement_location": {
+        "protocol_id": 19
+      },
+      "minecraft:advancement_reward": {
+        "protocol_id": 17
+      },
+      "minecraft:archaeology": {
+        "protocol_id": 13
+      },
+      "minecraft:barter": {
+        "protocol_id": 15
+      },
+      "minecraft:block": {
+        "protocol_id": 21
+      },
+      "minecraft:block_interact": {
+        "protocol_id": 24
+      },
+      "minecraft:block_use": {
+        "protocol_id": 20
+      },
+      "minecraft:chest": {
+        "protocol_id": 2
+      },
+      "minecraft:command": {
+        "protocol_id": 3
+      },
+      "minecraft:command_compute_default": {
+        "protocol_id": 5
+      },
+      "minecraft:command_compute_entity": {
+        "protocol_id": 7
+      },
+      "minecraft:command_compute_position": {
+        "protocol_id": 6
+      },
+      "minecraft:command_slot_source": {
+        "protocol_id": 4
+      },
+      "minecraft:container_process": {
+        "protocol_id": 25
+      },
+      "minecraft:empty": {
+        "protocol_id": 0
+      },
+      "minecraft:enchanted_damage": {
+        "protocol_id": 26
+      },
+      "minecraft:enchanted_entity": {
+        "protocol_id": 29
+      },
+      "minecraft:enchanted_item": {
+        "protocol_id": 27
+      },
+      "minecraft:enchanted_location": {
+        "protocol_id": 28
+      },
+      "minecraft:entity": {
+        "protocol_id": 11
+      },
+      "minecraft:entity_interact": {
+        "protocol_id": 23
+      },
+      "minecraft:equipment": {
+        "protocol_id": 12
+      },
+      "minecraft:fishing": {
+        "protocol_id": 10
+      },
+      "minecraft:generic": {
+        "protocol_id": 1
+      },
+      "minecraft:gift": {
+        "protocol_id": 14
+      },
+      "minecraft:hit_block": {
+        "protocol_id": 30
+      },
+      "minecraft:selector": {
+        "protocol_id": 8
+      },
+      "minecraft:shearing": {
+        "protocol_id": 22
+      },
+      "minecraft:vault": {
+        "protocol_id": 16
+      },
+      "minecraft:villager_trade": {
+        "protocol_id": 9
+      }
+    },
+    "protocol_id": 93
+  },
   "minecraft:creative_mode_tab": {
     "entries": {
       "minecraft:building_blocks": {
@@ -20288,7 +20386,7 @@
         "protocol_id": 0
       }
     },
-    "protocol_id": 93
+    "protocol_id": 94
   },
   "minecraft:test_instance_type": {
     "entries": {
