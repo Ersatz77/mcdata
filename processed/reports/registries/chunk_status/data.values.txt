@@ -4,6 +4,7 @@ minecraft:features
 minecraft:full
 minecraft:initialize_light
 minecraft:light
+minecraft:noise_biomes
 minecraft:spawn
 minecraft:structure_references
 minecraft:structure_starts

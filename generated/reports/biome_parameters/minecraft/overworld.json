@@ -204947,7 +204947,7 @@
         ],
         "humidity": [
           -1.0,
-          1.0
+          0.7
         ],
         "offset": 0.0,
         "temperature": [
@@ -205007,7 +205007,7 @@
         ],
         "humidity": [
           -1.0,
-          1.0
+          0.7
         ],
         "offset": 0.0,
         "temperature": [

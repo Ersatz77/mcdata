@@ -4330,25 +4330,28 @@
     "default": "minecraft:empty",
     "entries": {
       "minecraft:biomes": {
-        "protocol_id": 3
+        "protocol_id": 4
       },
       "minecraft:empty": {
         "protocol_id": 0
       },
       "minecraft:features": {
-        "protocol_id": 5
-      },
-      "minecraft:full": {
-        "protocol_id": 9
-      },
-      "minecraft:initialize_light": {
         "protocol_id": 6
       },
-      "minecraft:light": {
+      "minecraft:full": {
+        "protocol_id": 10
+      },
+      "minecraft:initialize_light": {
         "protocol_id": 7
       },
-      "minecraft:spawn": {
+      "minecraft:light": {
         "protocol_id": 8
+      },
+      "minecraft:noise_biomes": {
+        "protocol_id": 3
+      },
+      "minecraft:spawn": {
+        "protocol_id": 9
       },
       "minecraft:structure_references": {
         "protocol_id": 2
@@ -4357,7 +4360,7 @@
         "protocol_id": 1
       },
       "minecraft:terrain": {
-        "protocol_id": 4
+        "protocol_id": 5
       }
     },
     "protocol_id": 12

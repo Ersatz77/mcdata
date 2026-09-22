@@ -14406,6 +14406,10 @@
                           },
                           "executable": true,
                           "parser": "brigadier:integer",
+                          "properties": {
+                            "max": 3,
+                            "min": 0
+                          },
                           "type": "argument"
                         }
                       },
@@ -14469,6 +14473,10 @@
                       },
                       "executable": true,
                       "parser": "brigadier:integer",
+                      "properties": {
+                        "max": 3,
+                        "min": 0
+                      },
                       "type": "argument"
                     }
                   },
@@ -14500,6 +14508,10 @@
                           },
                           "executable": true,
                           "parser": "brigadier:integer",
+                          "properties": {
+                            "max": 3,
+                            "min": 0
+                          },
                           "type": "argument"
                         }
                       },

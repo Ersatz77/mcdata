@@ -100,13 +100,13 @@
           "include_interior": false,
           "type": "minecraft:cuboid",
           "xz_size": {
-            "max_inclusive": 5,
-            "min_inclusive": 3,
+            "max_inclusive": 6,
+            "min_inclusive": 4,
             "type": "minecraft:uniform"
           },
           "y_size": {
-            "max_inclusive": 5,
-            "min_inclusive": 3,
+            "max_inclusive": 6,
+            "min_inclusive": 4,
             "type": "minecraft:uniform"
           }
         },
@@ -246,13 +246,13 @@
           "include_interior": false,
           "type": "minecraft:cuboid",
           "xz_size": {
-            "max_inclusive": 5,
-            "min_inclusive": 3,
+            "max_inclusive": 6,
+            "min_inclusive": 4,
             "type": "minecraft:uniform"
           },
           "y_size": {
-            "max_inclusive": 5,
-            "min_inclusive": 3,
+            "max_inclusive": 6,
+            "min_inclusive": 4,
             "type": "minecraft:uniform"
           }
         },
@@ -392,13 +392,13 @@
           "include_interior": false,
           "type": "minecraft:cuboid",
           "xz_size": {
-            "max_inclusive": 5,
-            "min_inclusive": 3,
+            "max_inclusive": 6,
+            "min_inclusive": 4,
             "type": "minecraft:uniform"
           },
           "y_size": {
-            "max_inclusive": 5,
-            "min_inclusive": 3,
+            "max_inclusive": 6,
+            "min_inclusive": 4,
             "type": "minecraft:uniform"
           }
         },
@@ -538,13 +538,13 @@
           "include_interior": false,
           "type": "minecraft:cuboid",
           "xz_size": {
-            "max_inclusive": 5,
-            "min_inclusive": 3,
+            "max_inclusive": 6,
+            "min_inclusive": 4,
             "type": "minecraft:uniform"
           },
           "y_size": {
-            "max_inclusive": 5,
-            "min_inclusive": 3,
+            "max_inclusive": 6,
+            "min_inclusive": 4,
             "type": "minecraft:uniform"
           }
         },
@@ -684,13 +684,13 @@
           "include_interior": false,
           "type": "minecraft:cuboid",
           "xz_size": {
-            "max_inclusive": 5,
-            "min_inclusive": 3,
+            "max_inclusive": 6,
+            "min_inclusive": 4,
             "type": "minecraft:uniform"
           },
           "y_size": {
-            "max_inclusive": 5,
-            "min_inclusive": 3,
+            "max_inclusive": 6,
+            "min_inclusive": 4,
             "type": "minecraft:uniform"
           }
         },

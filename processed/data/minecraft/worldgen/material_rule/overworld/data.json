@@ -10,7 +10,11 @@
       "then_run": "minecraft:overworld/surface",
       "type": "minecraft:condition"
     },
-    "minecraft:overworld/underground"
+    "minecraft:overworld/underground",
+    {
+      "result_state": "minecraft:stone",
+      "type": "minecraft:block"
+    }
   ],
   "type": "minecraft:sequence"
 }
