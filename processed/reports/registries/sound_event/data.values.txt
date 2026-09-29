@@ -1788,6 +1788,7 @@ minecraft:entity.zombie_nautilus.death_land
 minecraft:entity.zombie_nautilus.eat
 minecraft:entity.zombie_nautilus.hurt
 minecraft:entity.zombie_nautilus.hurt_land
+minecraft:entity.zombie_nautilus.riding
 minecraft:entity.zombie_nautilus.swim
 minecraft:entity.zombie_villager.ambient
 minecraft:entity.zombie_villager.converted

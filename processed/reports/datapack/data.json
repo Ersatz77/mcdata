@@ -464,7 +464,7 @@
       "stable": true,
       "tags": true
     },
-    "minecraft:rule_test": {
+    "minecraft:rule_test_type": {
       "elements": false,
       "stable": true,
       "tags": true

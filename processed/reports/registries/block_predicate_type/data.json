@@ -2,6 +2,7 @@
   "values": [
     "minecraft:all_of",
     "minecraft:any_of",
+    "minecraft:below_heightmap",
     "minecraft:has_sturdy_face",
     "minecraft:height_range",
     "minecraft:inside_world_bounds",
