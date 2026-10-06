@@ -52,6 +52,7 @@ minecraft:firework
 minecraft:fishing
 minecraft:flame
 minecraft:flash
+minecraft:freezing
 minecraft:geyser
 minecraft:geyser_base
 minecraft:geyser_plume
@@ -68,7 +69,6 @@ minecraft:instant_effect
 minecraft:item
 minecraft:item_cobweb
 minecraft:item_slime
-minecraft:item_snowball
 minecraft:landing_honey
 minecraft:landing_lava
 minecraft:landing_obsidian_tear

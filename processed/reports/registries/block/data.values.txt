@@ -496,6 +496,8 @@ minecraft:horn_coral_block
 minecraft:horn_coral_fan
 minecraft:horn_coral_wall_fan
 minecraft:ice
+minecraft:ice_crystal
+minecraft:icicle
 minecraft:infested_chiseled_stone_bricks
 minecraft:infested_cobblestone
 minecraft:infested_cracked_stone_bricks

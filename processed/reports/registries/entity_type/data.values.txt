@@ -56,6 +56,7 @@ minecraft:firework_rocket
 minecraft:fishing_bobber
 minecraft:fox
 minecraft:frog
+minecraft:frostbite
 minecraft:furnace_minecart
 minecraft:ghast
 minecraft:giant
@@ -68,6 +69,7 @@ minecraft:hoglin
 minecraft:hopper_minecart
 minecraft:horse
 minecraft:husk
+minecraft:ice_ball
 minecraft:illusioner
 minecraft:interaction
 minecraft:iron_golem

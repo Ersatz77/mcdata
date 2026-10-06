@@ -1,0 +1,62 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "modifier": [
+            {
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "minecraft:uniform"
+              },
+              "type": "minecraft:set_count"
+            },
+            {
+              "count": {
+                "max": 1.0,
+                "min": 0.0,
+                "type": "minecraft:uniform"
+              },
+              "enchantment": "minecraft:looting",
+              "type": "minecraft:enchanted_count_increase"
+            }
+          ],
+          "name": "minecraft:rotten_flesh",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "modifier": [
+            {
+              "count": {
+                "max": 3,
+                "min": 0,
+                "type": "minecraft:uniform"
+              },
+              "type": "minecraft:set_count"
+            },
+            {
+              "count": {
+                "max": 1.0,
+                "min": 0.0,
+                "type": "minecraft:uniform"
+              },
+              "enchantment": "minecraft:looting",
+              "type": "minecraft:enchanted_count_increase"
+            }
+          ],
+          "name": "minecraft:ice_ball",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "minecraft:entities/frostbite",
+  "type": "minecraft:entity"
+}

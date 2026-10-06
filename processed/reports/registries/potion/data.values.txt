@@ -1,11 +1,13 @@
 minecraft:awkward
 minecraft:fire_resistance
+minecraft:freezing
 minecraft:harming
 minecraft:healing
 minecraft:infested
 minecraft:invisibility
 minecraft:leaping
 minecraft:long_fire_resistance
+minecraft:long_freezing
 minecraft:long_invisibility
 minecraft:long_leaping
 minecraft:long_night_vision

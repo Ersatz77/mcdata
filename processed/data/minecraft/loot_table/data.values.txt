@@ -463,6 +463,8 @@ minecraft:blocks/horn_coral
 minecraft:blocks/horn_coral_block
 minecraft:blocks/horn_coral_fan
 minecraft:blocks/ice
+minecraft:blocks/ice_crystal
+minecraft:blocks/icicle
 minecraft:blocks/infested_chiseled_stone_bricks
 minecraft:blocks/infested_cobblestone
 minecraft:blocks/infested_cracked_stone_bricks
@@ -1304,6 +1306,7 @@ minecraft:entities/endermite
 minecraft:entities/evoker
 minecraft:entities/fox
 minecraft:entities/frog
+minecraft:entities/frostbite
 minecraft:entities/ghast
 minecraft:entities/giant
 minecraft:entities/glow_squid

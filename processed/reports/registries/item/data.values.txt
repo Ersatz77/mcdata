@@ -569,6 +569,7 @@ minecraft:fox_spawn_egg
 minecraft:friend_pottery_sherd
 minecraft:frog_spawn_egg
 minecraft:frogspawn
+minecraft:frostbite_spawn_egg
 minecraft:furnace
 minecraft:furnace_minecart
 minecraft:ghast_spawn_egg
@@ -681,6 +682,9 @@ minecraft:host_armor_trim_smithing_template
 minecraft:howl_pottery_sherd
 minecraft:husk_spawn_egg
 minecraft:ice
+minecraft:ice_ball
+minecraft:ice_crystal
+minecraft:icicle
 minecraft:infested_chiseled_stone_bricks
 minecraft:infested_cobblestone
 minecraft:infested_cracked_stone_bricks

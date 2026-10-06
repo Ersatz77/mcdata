@@ -42,6 +42,11 @@
           "monster": [
             {
               "count": 4,
+              "type": "minecraft:frostbite",
+              "weight": 10
+            },
+            {
+              "count": 4,
               "type": "minecraft:spider",
               "weight": 100
             },
@@ -128,7 +133,6 @@
     [],
     [
       "minecraft:ore_dirt",
-      "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",
       "minecraft:ore_granite_lower",
       "minecraft:ore_diorite_upper",

@@ -1,0 +1,9 @@
+{
+  "to_place": {
+    "id": "minecraft:snow",
+    "properties": {
+      "layers": "1"
+    }
+  },
+  "type": "minecraft:simple_block"
+}

@@ -122,6 +122,7 @@ minecraft:hoglin_repellents
 minecraft:huge_brown_mushroom_can_place_on
 minecraft:huge_red_mushroom_can_place_on
 minecraft:ice
+minecraft:ice_cave_ore_replaceables
 minecraft:ice_melts_when_destroyed_above
 minecraft:ice_spike_replaceable
 minecraft:impermeable
@@ -141,6 +142,7 @@ minecraft:iron_ores
 minecraft:jungle_logs
 minecraft:lanterns
 minecraft:lapis_ores
+minecraft:large_icicle_replaceable
 minecraft:lava_pool_stone_cannot_replace
 minecraft:leaves
 minecraft:lightning_rods
@@ -151,6 +153,7 @@ minecraft:maintains_farmland
 minecraft:mangrove_logs
 minecraft:mangrove_logs_can_grow_through
 minecraft:mangrove_roots_can_grow_through
+minecraft:melts_icicle_above
 minecraft:mineable/axe
 minecraft:mineable/hoe
 minecraft:mineable/pickaxe
@@ -172,6 +175,15 @@ minecraft:overrides_mushroom_light_requirement
 minecraft:overworld_natural_logs
 minecraft:pale_oak_logs
 minecraft:parrots_spawnable_on
+minecraft:pathfinding/avoid_in_air
+minecraft:pathfinding/damage_cautious
+minecraft:pathfinding/damaging
+minecraft:pathfinding/drop_down
+minecraft:pathfinding/leaves
+minecraft:pathfinding/open
+minecraft:pathfinding/powder_snow
+minecraft:pathfinding/rails
+minecraft:pathfinding/sticky
 minecraft:piglin_repellents
 minecraft:planks
 minecraft:polar_bear_immune_to

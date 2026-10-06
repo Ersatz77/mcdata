@@ -1,4 +1,5 @@
 {
+  "base_block": "minecraft:dripstone_block",
   "column_radius": {
     "max_inclusive": 16,
     "min_inclusive": 3,
@@ -28,7 +29,7 @@
     "min_inclusive": 0.4,
     "type": "minecraft:uniform"
   },
-  "type": "minecraft:large_dripstone",
+  "type": "minecraft:large_speleothem",
   "wind_speed": {
     "max_exclusive": 0.3,
     "min_inclusive": 0.0,

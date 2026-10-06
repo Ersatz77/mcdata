@@ -52,8 +52,22 @@
             "type": "minecraft:matching_block_tag"
           },
           {
-            "heightmap": "MOTION_BLOCKING",
-            "type": "minecraft:below_heightmap"
+            "predicates": [
+              {
+                "heightmap": "MOTION_BLOCKING",
+                "type": "minecraft:below_heightmap"
+              },
+              {
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ],
+                "tag": "minecraft:overrides_mushroom_light_requirement",
+                "type": "minecraft:matching_block_tag"
+              }
+            ],
+            "type": "minecraft:any_of"
           }
         ],
         "type": "minecraft:all_of"

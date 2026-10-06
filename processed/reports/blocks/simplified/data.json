@@ -8104,6 +8104,55 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:ice_crystal": {
+    "default": {
+      "facing": "up",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "east",
+        "south",
+        "west",
+        "up",
+        "down"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:icicle": {
+    "default": {
+      "attached": "false",
+      "thickness": "tip",
+      "vertical_direction": "up",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "attached": [
+        "true",
+        "false"
+      ],
+      "thickness": [
+        "tip_merge",
+        "tip",
+        "frustum",
+        "middle",
+        "base"
+      ],
+      "vertical_direction": [
+        "up",
+        "down"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
   "minecraft:infested_chiseled_stone_bricks": {
     "default": {},
     "properties": {}
