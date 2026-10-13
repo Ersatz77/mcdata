@@ -50,10 +50,7 @@
           {
             "predicates": [
               {
-                "fluids": [
-                  "minecraft:water",
-                  "minecraft:flowing_water"
-                ],
+                "fluids": "minecraft:water",
                 "offset": [
                   1,
                   -1,
@@ -62,10 +59,7 @@
                 "type": "minecraft:matching_fluids"
               },
               {
-                "fluids": [
-                  "minecraft:water",
-                  "minecraft:flowing_water"
-                ],
+                "fluids": "minecraft:water",
                 "offset": [
                   -1,
                   -1,
@@ -74,10 +68,7 @@
                 "type": "minecraft:matching_fluids"
               },
               {
-                "fluids": [
-                  "minecraft:water",
-                  "minecraft:flowing_water"
-                ],
+                "fluids": "minecraft:water",
                 "offset": [
                   0,
                   -1,
@@ -86,10 +77,7 @@
                 "type": "minecraft:matching_fluids"
               },
               {
-                "fluids": [
-                  "minecraft:water",
-                  "minecraft:flowing_water"
-                ],
+                "fluids": "minecraft:water",
                 "offset": [
                   0,
                   -1,

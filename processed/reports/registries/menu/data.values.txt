@@ -16,6 +16,7 @@ minecraft:generic_9x5
 minecraft:generic_9x6
 minecraft:grindstone
 minecraft:hopper
+minecraft:jukebox
 minecraft:lectern
 minecraft:loom
 minecraft:merchant

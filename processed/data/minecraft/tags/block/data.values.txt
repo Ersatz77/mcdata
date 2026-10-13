@@ -97,6 +97,7 @@ minecraft:enchantment_power_transmitter
 minecraft:enderman_does_not_teleport_to
 minecraft:enderman_holdable
 minecraft:entities_can_teleport_to
+minecraft:face_occluding_ice_blocks
 minecraft:fall_damage_resetting
 minecraft:features_cannot_replace
 minecraft:fence_gates
@@ -123,6 +124,7 @@ minecraft:huge_brown_mushroom_can_place_on
 minecraft:huge_red_mushroom_can_place_on
 minecraft:ice
 minecraft:ice_cave_ore_replaceables
+minecraft:ice_crevasse_replaceables
 minecraft:ice_melts_when_destroyed_above
 minecraft:ice_spike_replaceable
 minecraft:impermeable
@@ -139,6 +141,7 @@ minecraft:infiniburn_overworld
 minecraft:inside_step_sound_blocks
 minecraft:invalid_spawn_inside
 minecraft:iron_ores
+minecraft:jukebox_containers
 minecraft:jungle_logs
 minecraft:lanterns
 minecraft:lapis_ores

@@ -29,6 +29,9 @@
                   1,
                   0
                 ],
+                "state": {
+                  "source": "true"
+                },
                 "type": "minecraft:matching_fluids"
               }
             ],

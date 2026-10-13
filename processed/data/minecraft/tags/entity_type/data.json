@@ -22,6 +22,7 @@
     "minecraft:cannot_be_pushed_onto_boats",
     "minecraft:deflects_projectiles",
     "minecraft:dismounts_underwater",
+    "minecraft:does_not_break_brittle_ice",
     "minecraft:fall_damage_immune",
     "minecraft:followable_friendly_mobs",
     "minecraft:freeze_hurts_extra_types",

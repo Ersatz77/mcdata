@@ -2481,6 +2481,19 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:brittle_ice": {
+    "default": {
+      "age": "0"
+    },
+    "properties": {
+      "age": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  },
   "minecraft:brown_banner": {
     "default": {
       "rotation": "8"
@@ -8347,10 +8360,15 @@
   },
   "minecraft:jukebox": {
     "default": {
-      "has_record": "false"
+      "has_record": "false",
+      "playlist_mode": "false"
     },
     "properties": {
       "has_record": [
+        "true",
+        "false"
+      ],
+      "playlist_mode": [
         "true",
         "false"
       ]

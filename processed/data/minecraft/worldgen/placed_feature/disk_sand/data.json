@@ -15,6 +15,9 @@
     {
       "predicate": {
         "fluids": "minecraft:water",
+        "state": {
+          "source": "true"
+        },
         "type": "minecraft:matching_fluids"
       },
       "type": "minecraft:block_predicate_filter"

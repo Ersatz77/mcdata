@@ -114,6 +114,7 @@ minecraft:horse_tempt_items
 minecraft:ignored_by_piglin_babies
 minecraft:iron_ores
 minecraft:iron_tool_materials
+minecraft:jukebox_containers
 minecraft:jungle_logs
 minecraft:knocks_back_players_even_with_zero_damage
 minecraft:lanterns
