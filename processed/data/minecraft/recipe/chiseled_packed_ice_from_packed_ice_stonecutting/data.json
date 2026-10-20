@@ -1,0 +1,7 @@
+{
+  "ingredient": "minecraft:packed_ice",
+  "result": {
+    "id": "minecraft:chiseled_packed_ice"
+  },
+  "type": "minecraft:stonecutting"
+}

@@ -3638,6 +3638,10 @@
     "default": {},
     "properties": {}
   },
+  "minecraft:chiseled_packed_ice": {
+    "default": {},
+    "properties": {}
+  },
   "minecraft:chiseled_polished_blackstone": {
     "default": {},
     "properties": {}
@@ -12327,6 +12331,98 @@
     }
   },
   "minecraft:packed_ice": {
+    "default": {},
+    "properties": {}
+  },
+  "minecraft:packed_ice_brick_slab": {
+    "default": {
+      "type": "bottom",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:packed_ice_brick_stairs": {
+    "default": {
+      "facing": "north",
+      "half": "bottom",
+      "shape": "straight",
+      "waterlogged": "false"
+    },
+    "properties": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
+  },
+  "minecraft:packed_ice_brick_wall": {
+    "default": {
+      "east": "none",
+      "north": "none",
+      "south": "none",
+      "up": "true",
+      "waterlogged": "false",
+      "west": "none"
+    },
+    "properties": {
+      "east": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "north": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "south": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "up": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "none",
+        "low",
+        "tall"
+      ]
+    }
+  },
+  "minecraft:packed_ice_bricks": {
     "default": {},
     "properties": {}
   },

@@ -1,7 +1,5 @@
 {
   "input": {
-    "cell_size_xz": 4,
-    "cell_size_y": 8,
     "input": {
       "input": "minecraft:y",
       "max_exclusive": 57.0,
@@ -15,7 +13,19 @@
       },
       "when_out_of_range": 0.0
     },
-    "type": "minecraft:interpolated"
+    "type": "minecraft:upscale",
+    "x": {
+      "cell_size": 4,
+      "mode": "interpolate_linear"
+    },
+    "y": {
+      "cell_size": 8,
+      "mode": "interpolate_linear"
+    },
+    "z": {
+      "cell_size": 4,
+      "mode": "interpolate_linear"
+    }
   },
   "type": "minecraft:cache"
 }

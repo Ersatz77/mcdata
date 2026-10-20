@@ -16,7 +16,6 @@ minecraft:find_top_surface
 minecraft:floor
 minecraft:gradient
 minecraft:half_negative
-minecraft:interpolated
 minecraft:interval_select
 minecraft:lerp
 minecraft:log
@@ -42,3 +41,4 @@ minecraft:square
 minecraft:squeeze
 minecraft:sub
 minecraft:truncate
+minecraft:upscale

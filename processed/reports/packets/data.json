@@ -107,23 +107,26 @@
   },
   "login": {
     "clientbound": {
+      "minecraft:apply_options": {
+        "protocol_id": 6
+      },
       "minecraft:cookie_request": {
         "protocol_id": 5
       },
       "minecraft:custom_query": {
         "protocol_id": 4
       },
-      "minecraft:hello": {
+      "minecraft:key": {
         "protocol_id": 1
-      },
-      "minecraft:login_compression": {
-        "protocol_id": 3
       },
       "minecraft:login_disconnect": {
         "protocol_id": 0
       },
       "minecraft:login_finished": {
         "protocol_id": 2
+      },
+      "minecraft:setup_compression": {
+        "protocol_id": 3
       }
     },
     "serverbound": {
@@ -141,6 +144,9 @@
       },
       "minecraft:login_acknowledged": {
         "protocol_id": 3
+      },
+      "minecraft:options_applied": {
+        "protocol_id": 5
       }
     }
   },

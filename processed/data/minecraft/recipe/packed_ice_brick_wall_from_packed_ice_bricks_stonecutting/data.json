@@ -1,0 +1,7 @@
+{
+  "ingredient": "minecraft:packed_ice_bricks",
+  "result": {
+    "id": "minecraft:packed_ice_brick_wall"
+  },
+  "type": "minecraft:stonecutting"
+}

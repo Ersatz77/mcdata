@@ -27,7 +27,8 @@
           ],
           "type": "minecraft:apply_effects"
         }
-      ]
+      ],
+      "sound": "minecraft:entity.generic.eat"
     },
     "minecraft:enchantments": {},
     "minecraft:food": {

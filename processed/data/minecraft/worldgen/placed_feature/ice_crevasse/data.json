@@ -2,7 +2,7 @@
   "feature": "minecraft:ice_crevasse",
   "placement": [
     {
-      "count": 8,
+      "count": 16,
       "type": "minecraft:count"
     },
     {
@@ -26,7 +26,7 @@
         "type": "minecraft:matching_block_tag"
       },
       "direction_of_search": "down",
-      "max_steps": 32,
+      "max_steps": 8,
       "target_condition": {
         "tag": "minecraft:ice_crevasse_replaceables",
         "type": "minecraft:matching_block_tag"

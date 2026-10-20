@@ -192,6 +192,7 @@ minecraft:blocks/chiseled_cinnabar
 minecraft:blocks/chiseled_copper
 minecraft:blocks/chiseled_deepslate
 minecraft:blocks/chiseled_nether_bricks
+minecraft:blocks/chiseled_packed_ice
 minecraft:blocks/chiseled_polished_blackstone
 minecraft:blocks/chiseled_quartz_block
 minecraft:blocks/chiseled_red_sandstone
@@ -693,6 +694,10 @@ minecraft:blocks/oxidized_cut_copper_slab
 minecraft:blocks/oxidized_cut_copper_stairs
 minecraft:blocks/oxidized_lightning_rod
 minecraft:blocks/packed_ice
+minecraft:blocks/packed_ice_brick_slab
+minecraft:blocks/packed_ice_brick_stairs
+minecraft:blocks/packed_ice_brick_wall
+minecraft:blocks/packed_ice_bricks
 minecraft:blocks/packed_mud
 minecraft:blocks/pale_hanging_moss
 minecraft:blocks/pale_moss_block

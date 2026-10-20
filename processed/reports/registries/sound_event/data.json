@@ -400,6 +400,7 @@
     "minecraft:block.honey_block.place",
     "minecraft:block.honey_block.slide",
     "minecraft:block.honey_block.step",
+    "minecraft:block.ice.ambient",
     "minecraft:block.ice.break",
     "minecraft:block.ice.fall",
     "minecraft:block.ice.hit",

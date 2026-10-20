@@ -1,0 +1,31 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "modifier": [
+            {
+              "condition": {
+                "blocks": "minecraft:packed_ice_brick_slab",
+                "state": {
+                  "type": "double"
+                },
+                "type": "minecraft:match_block"
+              },
+              "count": 2,
+              "type": "minecraft:set_count"
+            },
+            {
+              "type": "minecraft:explosion_decay"
+            }
+          ],
+          "name": "minecraft:packed_ice_brick_slab",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "minecraft:blocks/packed_ice_brick_slab",
+  "type": "minecraft:block"
+}
