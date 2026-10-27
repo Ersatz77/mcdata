@@ -404,6 +404,7 @@ minecraft:block.ice.fall
 minecraft:block.ice.hit
 minecraft:block.ice.place
 minecraft:block.ice.step
+minecraft:block.ice_crystal.ambient
 minecraft:block.ice_crystal.break
 minecraft:block.ice_crystal.fall
 minecraft:block.ice_crystal.hit

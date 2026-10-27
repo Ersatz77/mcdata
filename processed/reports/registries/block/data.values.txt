@@ -1030,6 +1030,10 @@ minecraft:smooth_stone_slab
 minecraft:sniffer_egg
 minecraft:snow
 minecraft:snow_block
+minecraft:snow_brick_slab
+minecraft:snow_brick_stairs
+minecraft:snow_brick_wall
+minecraft:snow_bricks
 minecraft:soul_campfire
 minecraft:soul_fire
 minecraft:soul_lantern

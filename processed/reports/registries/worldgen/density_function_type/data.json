@@ -13,6 +13,7 @@
     "minecraft:cube",
     "minecraft:distance_to_point",
     "minecraft:div",
+    "minecraft:domain_warp",
     "minecraft:end_outer_islands",
     "minecraft:find_top_surface",
     "minecraft:floor",
