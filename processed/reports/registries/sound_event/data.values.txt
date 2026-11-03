@@ -200,6 +200,11 @@ minecraft:block.chiseled_bookshelf.pickup
 minecraft:block.chiseled_bookshelf.pickup.enchanted
 minecraft:block.chiseled_bookshelf.place
 minecraft:block.chiseled_bookshelf.step
+minecraft:block.chiseled_soulshale.break
+minecraft:block.chiseled_soulshale.fall
+minecraft:block.chiseled_soulshale.hit
+minecraft:block.chiseled_soulshale.place
+minecraft:block.chiseled_soulshale.step
 minecraft:block.chorus_flower.death
 minecraft:block.chorus_flower.grow
 minecraft:block.cinnabar.break
@@ -1424,6 +1429,7 @@ minecraft:entity.parrot.imitate.elder_guardian
 minecraft:entity.parrot.imitate.ender_dragon
 minecraft:entity.parrot.imitate.endermite
 minecraft:entity.parrot.imitate.evoker
+minecraft:entity.parrot.imitate.frostbite
 minecraft:entity.parrot.imitate.ghast
 minecraft:entity.parrot.imitate.guardian
 minecraft:entity.parrot.imitate.hoglin
@@ -2013,6 +2019,7 @@ minecraft:music_disc.chirp
 minecraft:music_disc.creator
 minecraft:music_disc.creator_music_box
 minecraft:music_disc.far
+minecraft:music_disc.flurry
 minecraft:music_disc.lava_chicken
 minecraft:music_disc.mall
 minecraft:music_disc.mellohi

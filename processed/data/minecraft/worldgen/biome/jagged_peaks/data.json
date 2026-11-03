@@ -38,6 +38,11 @@
             },
             {
               "count": 4,
+              "type": "minecraft:stray",
+              "weight": 95
+            },
+            {
+              "count": 4,
               "type": "minecraft:spider",
               "weight": 100
             },

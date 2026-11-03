@@ -82,6 +82,11 @@
               "count": 4,
               "type": "minecraft:frostbite",
               "weight": 25
+            },
+            {
+              "count": 4,
+              "type": "minecraft:stray",
+              "weight": 95
             }
           ],
           "underground_water_creature": [

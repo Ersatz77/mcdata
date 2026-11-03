@@ -159,6 +159,10 @@ minecraft:blocks/cactus
 minecraft:blocks/cactus_flower
 minecraft:blocks/cake
 minecraft:blocks/calcite
+minecraft:blocks/calcite_pillar
+minecraft:blocks/calcite_slab
+minecraft:blocks/calcite_stairs
+minecraft:blocks/calcite_wall
 minecraft:blocks/calibrated_sculk_sensor
 minecraft:blocks/campfire
 minecraft:blocks/candle
@@ -198,6 +202,7 @@ minecraft:blocks/chiseled_quartz_block
 minecraft:blocks/chiseled_red_sandstone
 minecraft:blocks/chiseled_resin_bricks
 minecraft:blocks/chiseled_sandstone
+minecraft:blocks/chiseled_soulshale
 minecraft:blocks/chiseled_stone_bricks
 minecraft:blocks/chiseled_sulfur
 minecraft:blocks/chiseled_tuff
@@ -761,6 +766,14 @@ minecraft:blocks/polished_blackstone_pressure_plate
 minecraft:blocks/polished_blackstone_slab
 minecraft:blocks/polished_blackstone_stairs
 minecraft:blocks/polished_blackstone_wall
+minecraft:blocks/polished_calcite
+minecraft:blocks/polished_calcite_brick_slab
+minecraft:blocks/polished_calcite_brick_stairs
+minecraft:blocks/polished_calcite_brick_wall
+minecraft:blocks/polished_calcite_bricks
+minecraft:blocks/polished_calcite_slab
+minecraft:blocks/polished_calcite_stairs
+minecraft:blocks/polished_calcite_wall
 minecraft:blocks/polished_cinnabar
 minecraft:blocks/polished_cinnabar_slab
 minecraft:blocks/polished_cinnabar_stairs

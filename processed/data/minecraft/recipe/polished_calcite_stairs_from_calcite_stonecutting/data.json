@@ -1,0 +1,7 @@
+{
+  "ingredient": "minecraft:calcite",
+  "result": {
+    "id": "minecraft:polished_calcite_stairs"
+  },
+  "type": "minecraft:stonecutting"
+}

@@ -83,6 +83,19 @@
         }
       ],
       "rolls": 1
+    },
+    {
+      "condition": {
+        "chance": 0.3,
+        "type": "minecraft:random_chance"
+      },
+      "entries": [
+        {
+          "name": "minecraft:music_disc_flurry",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:chests/igloo_chest",

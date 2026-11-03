@@ -1,0 +1,7 @@
+{
+  "ingredient": "minecraft:calcite",
+  "result": {
+    "id": "minecraft:calcite_pillar"
+  },
+  "type": "minecraft:stonecutting"
+}

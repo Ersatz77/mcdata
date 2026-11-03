@@ -225,6 +225,11 @@
           "weight": 3
         },
         {
+          "name": "minecraft:chiseled_soulshale",
+          "type": "minecraft:item",
+          "weight": 3
+        },
+        {
           "modifier": {
             "count": {
               "max": 3,
