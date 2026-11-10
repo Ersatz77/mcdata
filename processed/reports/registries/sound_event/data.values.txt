@@ -1228,6 +1228,7 @@ minecraft:entity.frostbite.converted_to_zombie
 minecraft:entity.frostbite.death
 minecraft:entity.frostbite.hurt
 minecraft:entity.frostbite.step
+minecraft:entity.frostbite.throw
 minecraft:entity.generic.big_fall
 minecraft:entity.generic.burn
 minecraft:entity.generic.death

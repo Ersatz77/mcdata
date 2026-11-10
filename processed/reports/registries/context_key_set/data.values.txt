@@ -7,10 +7,11 @@ minecraft:block
 minecraft:block_interact
 minecraft:block_use
 minecraft:chest
-minecraft:command
 minecraft:command_compute_default
 minecraft:command_compute_entity
 minecraft:command_compute_position
+minecraft:command_modifier
+minecraft:command_predicate
 minecraft:command_slot_source
 minecraft:container_process
 minecraft:empty
